@@ -1,10 +1,6 @@
 # International Economic Issues <img align="right" height="45" src="UO.png">
 
-Welcome to EC 380: International Economic Issues (Fall 2022 & Winter 2022) at the University of Oregon.
+Welcome to EC 380: International Economic Issues (Fall 2024) at the University of Oregon.
 
-- Instructor: [Philip Economides](https://philip-economides.com/)
-- [Syllabus](https://raw.githack.com/peconomi/EC380_International/main/syllabus/EC380_syllabus_int_econ.pdf)
-
-The purpose of this course is to examine international economic issues using the economic tools developed in EC 201 and 202. This course is broken into two parts. The first part of the course focuses on international trade and has three primary goals. The first goal is to become familiar with the primary economic models that explain why countries trade with one another. Theories based off of technological differences, resource differences, and competitiveness differences are discussed and compared to the observed patterns of trade. The second goal is to analyze the effects of international trade on specific groups within a country as well as the country as a whole. Particular attention is given to the result that, although countries as a whole tend to benefit from international trade, some groups within a country should be expected to lose from trade. The third goal is to discuss what government policies can be used to effect patterns of international trade and how these impact special interests within a country as well as the country as a whole. Examples of these policies include tariffs, quotas, and free trade agreements.
-
-The second part of the course turns from trade in goods to trade in financial instruments (international finance). Here too there are three primary goals. First, students learn how international financial markets are structured and how currencies relate to one another through foreign exchange markets. From this foundation, the second goal is to develop an understanding over how countries' individual macroeconomic policies such as inflation impact other countries through these exchange rate markets. The third goal of the course is to discuss how government policies can insulate a country from international risks such as currency crises. Policies discussed included f
+- Instructor: [Jose Rojas-Fallas](https://jose-rojas-fallas.quarto.pub/jose-rojas-fallas/)
+- [Syllabus]()
