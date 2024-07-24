@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "International Economic Issues Workbook",
+    "section": "",
+    "text": "Course Objectives\nThis is a companion book I’ve written for my EC 380 International Trade course. EC 380 is an introductory course to international economics undergraduates. Ideally, by the end of the course we will have:\nActivity based on https://economicsnetwork.ac.uk/showcase/sloman_game"
+  },
+  {
+    "objectID": "index.html#subsection-1a",
+    "href": "index.html#subsection-1a",
+    "title": "International Economic Issues Workbook",
+    "section": "Subsection 1A",
+    "text": "Subsection 1A"
+  },
+  {
+    "objectID": "index.html#subsection-2a",
+    "href": "index.html#subsection-2a",
+    "title": "International Economic Issues Workbook",
+    "section": "Subsection 2A",
+    "text": "Subsection 2A"
+  },
+  {
+    "objectID": "index.html#subsection-1b",
+    "href": "index.html#subsection-1b",
+    "title": "International Economic Issues Workbook",
+    "section": "Subsection 1B",
+    "text": "Subsection 1B"
+  },
+  {
+    "objectID": "index.html#subsection-2b",
+    "href": "index.html#subsection-2b",
+    "title": "International Economic Issues Workbook",
+    "section": "Subsection 2B",
+    "text": "Subsection 2B"
+  },
+  {
+    "objectID": "index.html#subsection-3b",
+    "href": "index.html#subsection-3b",
+    "title": "International Economic Issues Workbook",
+    "section": "Subsection 3B",
+    "text": "Subsection 3B"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  First Things First",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]

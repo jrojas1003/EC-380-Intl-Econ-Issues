@@ -1,0 +1,25 @@
+# Course Objectives {.unnumbered}
+
+This is a companion book I've written for my EC 380 International Trade course.
+EC 380 is an introductory course to international economics undergraduates. 
+Ideally, by the end of the course we will have:
+
+- List 1
+- List 2
+- List 3
+
+# Section A
+
+Activity based on <https://economicsnetwork.ac.uk/showcase/sloman_game>
+
+## Subsection 1A
+
+## Subsection 2A
+
+# Section B
+
+## Subsection 1B
+
+## Subsection 2B
+
+## Subsection 3B
