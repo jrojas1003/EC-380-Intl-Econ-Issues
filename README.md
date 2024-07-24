@@ -4,3 +4,4 @@ Welcome to EC 380: International Economic Issues (Fall 2024) at the University o
 
 - Instructor: [Jose Rojas-Fallas](https://jose-rojas-fallas.quarto.pub/jose-rojas-fallas/)
 - [Syllabus]()
+- [Workbook](https://jose-rojas-fallas.quarto.pub/international-econ-workbook/)
