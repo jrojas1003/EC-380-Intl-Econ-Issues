@@ -4,62 +4,20 @@
     "href": "index.html",
     "title": "International Economic Issues Workbook",
     "section": "",
-    "text": "Course Objectives\nThis is a companion book I’ve written for my EC 380 International Trade course. EC 380 is an introductory course to international economics undergraduates. Ideally, by the end of the course we will have:\nActivity based on https://economicsnetwork.ac.uk/showcase/sloman_game"
+    "text": "Course Objectives\nThis is a companion book I’ve written for my EC 380 International Trade course. EC 380 is an introductory course to international economics undergraduates. I do not expect us to become experts in the field in just 10 weeks.\nThe goal is to give you enough knowledge that you can spot the bullshit when you read the news, listen to a podcast, or talk with someone. The goal is to make you comfortable with talking about the complexity of international economics.\nIdeally, by the end of the course you will have:\n\nUnderstood what comparative advantage means for international trade\nUnderstood why countries specialize and trade\nUnderstood why trade is generally good, and understand how it can be bad\n\n\n\nInternational Market Game\nWhat better way to learn than to play a game?\nThroughout the term we will create our own international economy. The objective is to experience what markets do and how different agents make decisions. The theory will teach us what should happen, but theory is just theory.\nWe will test theory and learn by doing.\nActivity based on https://economicsnetwork.ac.uk/showcase/sloman_game"
   },
   {
-    "objectID": "index.html#subsection-1a",
-    "href": "index.html#subsection-1a",
-    "title": "International Economic Issues Workbook",
-    "section": "Subsection 1A",
-    "text": "Subsection 1A"
+    "objectID": "game/organization.html#rules",
+    "href": "game/organization.html#rules",
+    "title": "Game Structure",
+    "section": "Rules",
+    "text": "Rules"
   },
   {
-    "objectID": "index.html#subsection-2a",
-    "href": "index.html#subsection-2a",
-    "title": "International Economic Issues Workbook",
-    "section": "Subsection 2A",
-    "text": "Subsection 2A"
-  },
-  {
-    "objectID": "index.html#subsection-1b",
-    "href": "index.html#subsection-1b",
-    "title": "International Economic Issues Workbook",
-    "section": "Subsection 1B",
-    "text": "Subsection 1B"
-  },
-  {
-    "objectID": "index.html#subsection-2b",
-    "href": "index.html#subsection-2b",
-    "title": "International Economic Issues Workbook",
-    "section": "Subsection 2B",
-    "text": "Subsection 2B"
-  },
-  {
-    "objectID": "index.html#subsection-3b",
-    "href": "index.html#subsection-3b",
-    "title": "International Economic Issues Workbook",
-    "section": "Subsection 3B",
-    "text": "Subsection 3B"
-  },
-  {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  First Things First",
-    "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "objectID": "game/organization.html#groups",
+    "href": "game/organization.html#groups",
+    "title": "Game Structure",
+    "section": "Groups",
+    "text": "Groups\n\n\n\nCountry 1\nCountry 2\nCountry 3\nCountry 4\nCountry 5\n\n\n\n\nStudent 1\nStudent 8\nStudent 15\nStudent 22\nStudent 29\n\n\nStudent 2\nStudent 9\nStudent 16\nStudent 23\nStudent 30\n\n\nStudent 3\nStudent 10\nStudent 17\nStudent 24\nStudent 31\n\n\nStudent 4\nStudent 11\nStudent 18\nStudent 25\nStudent 32\n\n\nStudent 5\nStudent 12\nStudent 19\nStudent 26\nStudent 33\n\n\nStudent 6\nStudent 13\nStudent 20\nStudent 27\nStudent 34\n\n\nStudent 7\nStudent 14\nStudent 21\nStudent 28\nStudent 35\n\n\n\n\n\n\nCountry 6\nCountry 7\nCountry 8\nCountry 9\nCountry 10\n\n\n\n\nStudent 1\nStudent 8\nStudent 15\nStudent 22\nStudent 29\n\n\nStudent 2\nStudent 9\nStudent 16\nStudent 23\nStudent 30\n\n\nStudent 3\nStudent 10\nStudent 17\nStudent 24\nStudent 31\n\n\nStudent 4\nStudent 11\nStudent 18\nStudent 25\nStudent 32\n\n\nStudent 5\nStudent 12\nStudent 19\nStudent 26\nStudent 33\n\n\nStudent 6\nStudent 13\nStudent 20\nStudent 27\nStudent 34\n\n\nStudent 7\nStudent 14\nStudent 21\nStudent 28\nStudent 35"
   }
 ]

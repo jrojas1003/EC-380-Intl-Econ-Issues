@@ -8,8 +8,21 @@ book:
   date: "7/19/2024"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - part: game/organization.qmd
+      chapters:
+        - game/round-1.qmd
+        - game/round-2.qmd
+        - game/round-3.qmd
+        - game/round-4.qmd
+        - game/round-5.qmd
+#    - Gerber/CH1/ch1-summary.qmd
+#    - Gerber/CH3/ch3-summary.qmd
+#    - Gerber/CH4/ch4-summary.qmd
+#    - Gerber/CH6/ch6-summary.qmd
+#    - Gerber/CH8/ch8-summary.qmd
+#    - Gerber/CH10/ch10-summary.qmd
+#    - Gerber/CH12/ch12-summary.qmd
+#   - Gerber/CH15/ch15-summary.qmd
     - references.qmd
 
 bibliography: references.bib
