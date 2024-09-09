@@ -1,3 +1,30 @@
 ---
 name: syllabus
 ---
+
+## Class Information 
+
+- [**Schedule:**]{.hi} Monday & Wednesday in McKenzie 125
+
+- [**Office Hours:**]{.hi} Wednesdays from 10:00 am to 12:00 pm 
+
+**Lectures**
+
+- How will they run
+
+- What to expect from lectures
+
+---
+
+## In-Class Activity
+
+Every other week on Wednesdays we will be creating our own world market
+
+- The class will be split into countries (groups of 7) 
+
+- Each time the economy will have different rules that affect how you do things
+
+- The goal is to give you an interactive component rather than just lectures, homeworks and exams
+
+[**Note:** This is the first time I do this so there might be some hiccups. The activity itself is fairly simple but sometimes I find myself thinking what are you actually learning here]{.note .small}
+
