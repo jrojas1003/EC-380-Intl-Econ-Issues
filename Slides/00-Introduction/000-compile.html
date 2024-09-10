@@ -8,7 +8,7 @@
 <link href="000-compile_files/libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="000-compile_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="000-compile_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.294">
+  <meta name="generator" content="quarto-1.3.361">
 
   <meta name="author" content="Jose Rojas-Fallas">
   <meta name="dcterms.date" content="2024-01-01">
@@ -157,8 +157,7 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    padding-bottom: 0.5rem;
-    margin-bottom: 0;
+    margin-bottom: 0.5rem;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -590,6 +589,68 @@ Jose Rojas-Fallas
 <p><img data-src="images/hummels-ocean-freight-costs.png" height="250"></p>
 </figure>
 </div>
+</section>
+<section id="economics-can-be-very-complex" class="slide level2">
+<h2>Economics Can Be Very Complex</h2>
+<ul>
+<li><p>Explicit trade barriers have fallen over time, coinciding with the growth of trade relative to economic activity</p></li>
+<li><p>Hidden barriers are the next hurdle. Much of the current literature suggests is far more impactful than existing tariff rates</p>
+<ul>
+<li>Current trade theory and literature focuss on <span class="hi-red">heterogenous agent models</span>, which was orignally created to explain why not every firm functions as an exporter</li>
+</ul></li>
+<li><p>We <span class="h">will not</span> be diving that deep into international trade. Our primary goal is to get a good understanding of how/why it works and understanding basic dynamics.</p></li>
+</ul>
+<aside class="notes">
+<ul>
+<li>Hidden barriers can be subsidies, labor clauses in FTAs, quality requirements, etc.</li>
+</ul>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="overview-of-trade-theory" class="slide level2">
+<h2>Overview of Trade Theory</h2>
+<p><span class="hi-red">Why does trade occur?</span> This is our main question.</p>
+<p>There are two strands within the field of international trade:</p>
+<div class="fragment">
+<p><span class="h">I. Neoclassical Models of Trade (‘Old Theories’)</span>:</p>
+<div class="fragment">
+<ul>
+<li>Ricardian Model <span class="math inline">\(\Rightarrow\)</span> Technology differences spur trade</li>
+<li>Hecksher-Ohlin Model <span class="math inline">\(\Rightarrow\)</span> Resource differences spur trade</li>
+</ul>
+</div>
+<p><span class="h">II. ‘New’ Trade Theory</span>:</p>
+<div class="fragment">
+<ul>
+<li>Krugman Model <span class="math inline">\(\Rightarrow\)</span> Demand/Want of variety spurs trade</li>
+<li>Melits Model <span class="math inline">\(\Rightarrow\)</span> Heterogenous firms drive trade</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="next-steps" class="slide level2">
+<h2>Next Steps</h2>
+<p>We will begin to look at the theory, starting with the <span class="hi">Ricardo Model</span>. It involves:</p>
+<ul>
+<li>Single factor of production (labor)</li>
+<li>Two countries (home,foreign)</li>
+<li>Technology differences across countries</li>
+</ul>
+<p>It will be key to note the models attributes as they will all have some key differences. Each model will also have predictable outcomes.</p>
+<p><span class="hi-red align-center">For Next Class</span></p>
+<ul>
+<li>Read Ch.1: Introduction to the World Economy</li>
+<li>Krugman (1993) “What do Undergrads Need to Know About Trade”</li>
+</ul>
 <div class="footer footer-default">
 <p>EC380, Lecture 00 | Introduction and Overview</p>
 </div>
@@ -620,6 +681,7 @@ Jose Rojas-Fallas
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': true,
+'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -880,9 +942,10 @@ Jose Rojas-Fallas
         // clear code selection
         e.clearSelection();
       });
-      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      function tippyHover(el, contentFn) {
         const config = {
           allowHTML: true,
+          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -892,17 +955,8 @@ Jose Rojas-Fallas
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start',
+          placement: 'bottom-start'
         };
-        if (contentFn) {
-          config.content = contentFn;
-        }
-        if (onTriggerFn) {
-          config.onTrigger = onTriggerFn;
-        }
-        if (onUntriggerFn) {
-          config.onUntrigger = onUntriggerFn;
-        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 

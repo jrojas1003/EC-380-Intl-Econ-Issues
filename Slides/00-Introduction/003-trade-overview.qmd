@@ -186,3 +186,63 @@ Some examples are:
 ![](images/hummels-air-transport-costs.png){fig-align="center" height="250"}
 
 ![](images/hummels-ocean-freight-costs.png){fig-align="center" height="250"}
+
+---
+
+## Economics Can Be Very Complex 
+
+- Explicit trade barriers have fallen over time, coinciding with the growth of trade relative to economic activity
+
+- Hidden barriers are the next hurdle. Much of the current literature suggests is far more impactful than existing tariff rates
+
+    - Current trade theory and literature focuss on [heterogenous agent models]{.hi-red}, which was orignally created to explain why not every firm functions as an exporter
+
+- We [will not]{.h} be diving that deep into international trade. 
+Our primary goal is to get a good understanding of how/why it works and understanding basic dynamics.
+
+::: {.notes}
+- Hidden barriers can be subsidies, labor clauses in FTAs, quality requirements, etc.
+:::
+
+---
+
+## Overview of Trade Theory
+
+[Why does trade occur?]{.hi-red} This is our main question. 
+
+There are two strands within the field of international trade:
+
+. . .
+
+[I. Neoclassical Models of Trade ('Old Theories')]{.h}:
+
+::: {.fragment}
+- Ricardian Model $\Rightarrow$ Technology differences spur trade
+- Hecksher-Ohlin Model $\Rightarrow$ Resource differences spur trade 
+:::
+
+[II. 'New' Trade Theory]{.h}:
+
+::: {.fragment}
+- Krugman Model $\Rightarrow$ Demand/Want of variety spurs trade
+- Melits Model $\Rightarrow$ Heterogenous firms drive trade
+:::
+
+---
+
+## Next Steps
+
+We will begin to look at the theory, starting with the [Ricardo Model]{.hi}. 
+It involves:
+
+- Single factor of production (labor)
+- Two countries (home,foreign)
+- Technology differences across countries
+
+It will be key to note the models attributes as they will all have some key differences. 
+Each model will also have predictable outcomes.
+
+[For Next Class]{.hi-red .align-center} 
+
+- Read Ch.1: Introduction to the World Economy
+- Krugman (1993) "What do Undergrads Need to Know About Trade"
