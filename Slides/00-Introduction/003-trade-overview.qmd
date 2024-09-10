@@ -1,0 +1,188 @@
+---
+name: trade overview
+---
+
+## International Integration (Good & Bad)
+
+Generally, we think of integration of nations to bring many benefits
+
+- Innovation in products/services
+
+- More affordable goods
+
+- Flow of investments toward scarce resource nations
+
+But this process can also make [nations vulnerable to foreign economic problems]{.h}
+
+. . .
+
+- The Great Recession was a US Housing and Banking crisis 
+
+- The 1970s oil price shocks 
+
+- The Covid Pandemic 
+
+::: {.notes}
+- that leaked to the world
+- led to many Latin American countries having account deficits due to foreign debt accumulation
+- meant that exporting nations were not able to produce at the same pace which slowed down all economies through trade flow linkages
+:::
+
+---
+
+## Trade Integration
+
+Let's define it
+
+[Trade Integration]{.hi} can be roughly measured through 4 criteria:
+
+::: {.incremental}
+- Trade Flows
+- Capital Flows
+- People/Labor Flows
+- Similarity of prices in different markets
+:::
+
+---
+
+## World Trade Movement
+
+:::: {.columns}
+
+::: {.column width="60%"}
+[Trade Growth Has Outpaced GDP Growth]{.align-center .h}
+
+![](images/krugman-world-trade-growth.png){fig-align="center" width="500"}
+:::
+
+::: {.column width="40%"}
+
+<br><br><br><br>
+
+[Trade to GDP Ratio]{.align-center .h}
+
+\begin{align*}
+    \dfrac{(\text{Exports} + \text{Imports})}{GDP}
+\end{align*}
+:::
+
+::::
+
+---
+
+## Trade & Country Size
+
+![](images/krugman-country-size-trade-time-series.png){fig-align="center"}
+
+---
+
+## In Trade Size Can Matter
+
+![](images/krugman-country-size-matters.png){fig-align="center"}
+
+---
+
+## Importance of Trade Varies by Country
+
+![](images/hubbard-trade-importance.png){fig-align="center"}
+
+---
+
+## Trade Overview
+
+- Trade is important to nations and increasingly so
+- Flows of Trade (Imports/Exports) represent a large proportion of nations GDP
+- Trade openness varies by country size
+
+. . .
+
+Questions come to mind:
+
+- Why do countries trade so much? 
+- What do they gain from trading?
+- How does trade impact other aspects of the economy (labor market, geopolitics, etc)?
+
+---
+
+## What Goods do Countries Trade?
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Costa Rica]{.hi .align-center}
+
+::: {.fragment}
+![](images/OEC-CostaRica-export-goods.png){fig-align="center"}
+:::
+
+:::
+
+::: {.column width="50%"}
+[United States]{.hi .align-center}
+
+::: {.fragment}
+![](images/OEC-US-export-goods.png){fig-align="center"}
+:::
+
+:::
+
+::::
+
+---
+
+## How Did They End Up There?
+
+Countries [specialize]{.h} and export core products
+
+- Trading goods that they are ["best"]{.h} at producing results in [gains from trade]{.hi-green}
+
+- [Specialization]{.h} comes from where each country has a [Comparative Advantage]{.h}
+
+. . .
+
+What factors, other than the fundamentals, influence specialization?
+
+::: {.incremental}
+- Foreign Direct Investment (FDI)
+
+- Knowledge Sharing/Diffusion
+
+- Cross-border Migration Shocks 
+
+- And much more
+:::
+
+---
+
+## Why Does Trade Continue to Grow?
+
+[Trade is not frictionless. There are costs to trading with other nations]{.h .note}
+
+Trade growth can be largely attributed to reduced trade barriers over time
+
+This is called [trade liberalization]{.hi} 
+
+. . .
+
+Some examples are:
+
+::: {.incremental}
+
+- Costs of shipping/transport are lower
+
+- Tariff rate reductions
+
+- Preferential Trade Agreements
+
+- Relaxing non-tariff measures (quotas)
+:::
+
+## Reduced Tariff Rates
+
+![](images/worldbank-tariff-rate-trends.png){fig-align="center"}
+
+## Lower Transport Costs
+
+![](images/hummels-air-transport-costs.png){fig-align="center" height="250"}
+
+![](images/hummels-ocean-freight-costs.png){fig-align="center" height="250"}

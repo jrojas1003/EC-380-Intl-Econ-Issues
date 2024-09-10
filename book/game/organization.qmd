@@ -1,0 +1,32 @@
+---
+title: "Game Structure"
+---
+
+## Rules
+
+- 
+
+## Groups
+
+| Country 1  | Country 2  | Country 3  | Country 4  | Country 5  |
+|------------|------------|------------|------------|------------|
+| Student 1 | Student 8 | Student 15| Student 22| Student 29|
+| Student 2 | Student 9 | Student 16| Student 23| Student 30|
+| Student 3 | Student 10| Student 17| Student 24| Student 31|
+| Student 4 | Student 11| Student 18| Student 25| Student 32|
+| Student 5 | Student 12| Student 19| Student 26| Student 33|
+| Student 6 | Student 13| Student 20| Student 27| Student 34|
+| Student 7 | Student 14| Student 21| Student 28| Student 35|
+
+
+| Country 6  | Country 7  | Country 8  | Country 9  | Country 10  |
+|------------|------------|------------|------------|------------|
+| Student 1 | Student 8 | Student 15| Student 22| Student 29|
+| Student 2 | Student 9 | Student 16| Student 23| Student 30|
+| Student 3 | Student 10| Student 17| Student 24| Student 31|
+| Student 4 | Student 11| Student 18| Student 25| Student 32|
+| Student 5 | Student 12| Student 19| Student 26| Student 33|
+| Student 6 | Student 13| Student 20| Student 27| Student 34|
+| Student 7 | Student 14| Student 21| Student 28| Student 35|
+
+ 
