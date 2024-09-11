@@ -8,7 +8,7 @@
 <link href="010-compile_files/libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="010-compile_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="010-compile_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.3.361">
+  <meta name="generator" content="quarto-1.4.294">
 
   <meta name="author" content="Jose Rojas-Fallas">
   <meta name="dcterms.date" content="2024-01-01">
@@ -157,7 +157,8 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -432,9 +433,91 @@ Roughly 56% from China alone. Next noticeable sources are Germany, Switzerland, 
 </section>
 <section id="autarky" class="slide level2">
 <h2>Autarky</h2>
+<p><span class="h">Definition:</span> The complete absence of foreign trade; total self-sufficiency of a national economy</p>
+<p>To understand how trade affects national welfare, we have to understand how they do on their own</p>
+<p>We can do this by looking at the <span class="hi-blue">Production Possibilities Curve (PPC)</span></p>
+<ul>
+<li>These show the trade-offs when a country chooses their production combination of two goods</li>
+<li>It is closely related to the opportunity cost of the good on the <span class="hi">horizontal axis</span></li>
+</ul>
 </section>
-<section id="ricardo-model" class="slide level2">
-<h2>Ricardo Model</h2>
+<section id="production-possibilities-curves-ppc" class="slide level2">
+<h2>Production Possibilities Curves (PPC)</h2>
+<p>For the moment, we will be dealing with PPCs that look like straight lines because <span class="hii">we assume that the trade-off between two goods does not change</span></p>
+<ul>
+<li><span class="h">This follows from an assumption we make on labor:</span> Labor is homogeneous and no group of workers is more skilled than another group</li>
+</ul>
+<div class="fragment">
+<p>How are they related to opportunity costs?</p>
+<ul>
+<li><p><span class="hi-orange">Opportunity costs are the best forgone alternative</span>: In order to produce 1 unit of good X, the country has to give up some amount of good Y.</p>
+<ul>
+<li>Because this is a “rate of change”, we say that the <span class="hi-orange">slope of the PPC</span> is the <span class="hi-orange">Opportunity Cost of good X</span></li>
+</ul></li>
+</ul>
+</div>
+</section>
+<section id="production-possibilities-curves-ppc-1" class="slide level2">
+<h2>Production Possibilities Curves (PPC)</h2>
+<p><span class="h align-center">Country’s PPC Between X &amp; Y</span></p>
+
+<img data-src="images/PPC-01.png" class="r-stretch quarto-figure-center"></section>
+<section id="production-possibilities-curves-ppc-2" class="slide level2">
+<h2>Production Possibilities Curves (PPC)</h2>
+<div class="columns">
+<div class="column" style="width:60%;">
+<p><span class="h align-center">Country’s Bundle Choices Between X &amp; Y</span></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/PPC-02.png"></p>
+</figure>
+</div>
+</div><div class="column" style="width:40%;">
+<div class="fragment">
+<ul>
+<li><span class="h">Point A:</span> Producing at an inefficient and wasteful level</li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li><span class="h">Point B:</span> Efficient point of production where maximum level of output is obtained</li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li><span class="h">Point C:</span> Infeasible. The country does not have the resources to produce at this level</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="how-does-a-country-optimally-choose" class="slide level2">
+<h2>How Does a Country Optimally Choose?</h2>
+<div class="columns">
+<div class="column" style="width:60%;">
+<div class="quarto-figure quarto-figure-left">
+<figure>
+<p><img data-src="images/PPC-03.png"></p>
+</figure>
+</div>
+</div><div class="column" style="width:40%;">
+<div class="fragment small">
+<p>Choice depends on the country’s demand for the two goods</p>
+<p>We call these <span class="h">Indifference Curves</span></p>
+<ul>
+<li><p>Each curve shows the consumption bundles of goods that the economy can consume and be equally satisfied</p></li>
+<li><p>The consumers are <span class="h">indifferent</span> in its own preference across the bundles on a particular indifference curve</p></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="indifference-curves" class="slide level2">
+<h2>Indifference Curves</h2>
+
+<img data-src="images/PPC-04.png" class="r-stretch quarto-figure-center"></section>
+<section id="back-to-the-ricardo-model" class="slide level2">
+<h2>Back to the Ricardo Model</h2>
 <p>Starting with the <span class="hi-red">Ricardo Model</span>, we look at it’s primary components:</p>
 <div>
 <ul>
@@ -443,9 +526,125 @@ Roughly 56% from China alone. Next noticeable sources are Germany, Switzerland, 
 <li class="fragment">Technology differences across countries</li>
 </ul>
 </div>
+<div class="fragment">
+<p><span class="align-center">We will use our own example</span></p>
+<div class="columns">
+<div class="column" style="width:60%;">
+<ul>
+<li>Factor of production: <span class="h">Labor (L)</span></li>
+<li>Two Countries: <span class="hi-red">Home</span> and <span class="hi-teal">Foreign</span></li>
+<li>Two Goods: <span class="hi">Coffee and Tea</span></li>
+</ul>
+</div><div class="column small" style="width:40%;">
+<div class="fragment">
+<ul>
+<li>Suppose that in this case, the <span class="hi-red">Home Country</span> exports <span class="hi-teal">coffee</span> and imports <span class="hi-teal">tea</span></li>
+<li><span class="hi-orange">What would this imply about which good each country has comparative advantage in?</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
 </section>
-<section class="slide level2">
+<section id="ricardo-model-assumptions" class="slide level2">
+<h2>Ricardo Model Assumptions</h2>
 
+<img data-src="images/gerber-model-assumptions.png" class="r-stretch quarto-figure-center"></section>
+<section id="introducing-some-key-variables---marginal-product-of-labor" class="slide level2">
+<h2>Introducing some Key Variables - Marginal Product of Labor</h2>
+<p><span class="h">Marginal Product of Labor (MPL):</span> Represents the <span class="hi-green">additional units of a good produced</span>, given a <span class="hi-green">one unit increase in the number of workers assigned</span> to a particular task</p>
+<div class="fragment">
+<p>The MPL for the <span class="hi-red">Home Country</span> for each good is written as <span class="math inline">\(\text{MPL}_{c}^{H}\)</span> and <span class="math inline">\(\text{MPL}_{t}^{H}\)</span>, for <span class="hi">coffee</span> and <span class="hi">tea</span> respectively.</p>
+<p>We can assign numbers to each such that:</p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[
+    \text{MPL}_{c}^{H} = 9 \;\;\;\; \&amp; \;\;\;\; \text{MPL}_{t}^{H} = 7
+\]</span></p>
+<p>Let’s also say that the country has a full labor force <span class="math inline">\(\bar{L} = 10\)</span></p>
+<p>We will add the <span class="hi-teal">Foreign Country</span> later</p>
+</div>
+</section>
+<section id="home-ppf" class="slide level2">
+<h2>Home PPF</h2>
+<p>We can plot the <span class="hi-red">Home PPF</span> by finding the intercepts for each good. We can do this by multiplying the marginal product of labor by the workforce size</p>
+<p><span class="math display">\[
+    \text{MPL}_{\text{good}}^{\text{country}} * \bar{L}
+\]</span></p>
+<div class="columns">
+<div class="column" style="width:60%;">
+<p>The <span class="hi-red">Home Country</span> produces</p>
+<p><span class="math display">\[\begin{align*}
+    Q_{\text{coffee}}^{H} &amp;= 9 * 10 = 90 \\ \\
+    Q_{\text{tea}}^{H} &amp;= 7 * 10 = 70
+\end{align*}\]</span></p>
+</div><div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Home-PPF-01.png" height="350"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="home-ppf-1" class="slide level2">
+<h2>Home PPF</h2>
+<p><span class="h note">Assume:</span> PPF is a straight line due to the constant <span class="h">MPLs</span></p>
+<p><span class="h note">Slope of PPF:</span> Equal to the marginal rate of substitution between goods (<span class="hi">Coffee &amp; Tea</span>)</p>
+<p><span class="math display">\[
+    \text{Slope of PPF}^{H} = -\dfrac{\text{MPL}_{t}}{\text{MPL}_{c}} = -\dfrac{7}{9}
+\]</span></p>
+<p>This is also the <span class="hi-orange">Opportunity Cost</span> of <span class="hi">coffee</span>. So we can say that if we want one more unit of <span class="hi">coffee</span> we must trade off <span class="hi">tea</span> at a rate of <span class="math inline">\(-\dfrac{7}{9}\)</span></p>
+<p>Equivalently, <span class="math inline">\(\dfrac{7}{9}\)</span> units of tea (let’s think bags) is the <span class="hi-orange">opportunity cost</span> of obtaining 1 more unit of <span class="hi">coffee</span></p>
+</section>
+<section id="home-prices" class="slide level2">
+<h2>Home Prices</h2>
+<p>We can determine prices in the country from this information as well. We assume to be under <span class="hi">Perfect Competition</span> which means that all goods are sold at cost.</p>
+<p><span class="h align-center">Prices</span></p>
+<p>These are in terms relative to both goods and <span class="h">measured in units</span>:</p>
+<p><span class="math display">\[
+    P_{c}^{H} = \dfrac{\text{MPL}_{t}}{\text{MPL}_{c}} = \dfrac{7}{9} \;\;\;\;\; \&amp; \;\;\;\;\; P_{t}^{H} = \dfrac{\text{MPL}_{c}}{\text{MPL}_{t}} = \dfrac{9}{7}
+\]</span></p>
+</section>
+<section id="home-wages" class="slide level2">
+<h2>Home Wages</h2>
+<p>We use the <span class="hi">Perfect Competition</span> assumptions to also determine wages</p>
+<p><span class="h align-center">Wages</span></p>
+<p>Workers are paid the equivalent of their MPL times the price of that additional unit they produce:</p>
+<p><span class="math display">\[\begin{align*}
+    \text{wages}_{\text{coffee}} &amp;= \text{P}_{\text{coffee}} * \text{MPL}_{\text{coffee}} \\ \\
+    \text{wages}_{\text{tea}} &amp;= \text{P}_{\text{tea}} * \text{MPL}_{\text{tea}}
+\end{align*}\]</span></p>
+</section>
+<section id="home-wages-across-industries" class="slide level2">
+<h2>Home Wages Across Industries</h2>
+<p>Additionally, because we assume that labor moves freely between industries, we can assume that wages are equalized across industries</p>
+<p><span class="math display">\[
+    \text{wages}_{\text{coffee}} = \text{P}_{\text{coffee}} * \text{MPL}_{\text{coffee}} = \text{P}_{\text{tea}} * \text{MPL}_{\text{tea}} = \text{wages}_{\text{tea}}
+\]</span></p>
+<div class="fragment">
+<p><br></p>
+<p>We can rearrange this such that the price ratio is equal to the MPL ratio</p>
+<p><span class="math display">\[
+    \dfrac{\text{P}_{\text{coffee}}}{\text{P}_{\text{tea}}} = \dfrac{\text{MPL}_{\text{tea}}}{\text{MPL}_{\text{coffee}}}
+\]</span></p>
+</div>
+</section>
+<section id="foreign-ppf-prices-and-wages" class="slide level2">
+<h2>Foreign PPF, Prices, and Wages</h2>
+<p>We can find the <span class="hi-teal">Foreign Country</span> results as well</p>
+<p>Find them for yourself and we will pick it up next class. Let:</p>
+<p><span class="math display">\[
+    \text{MPL}_{c}^{F} = 10 \;\;\;\;\; \&amp; \;\;\;\;\; \text{MPL}_{t}^{F} = 12 \;\;\;\;\; \&amp; \;\;\;\;\; \bar{L} = 10
+\]</span></p>
+<p><span class="align-center h note big">Tasks</span></p>
+<ul>
+<li>Graph the <span class="hi-teal">Foreign Country PPF</span></li>
+<li>Slope of <span class="math inline">\(\text{PPF}\)</span></li>
+<li><span class="hi-orange">Opportunity Cost</span> of <span class="hi">coffee</span> and <span class="hi">tea</span></li>
+<li>Prices for both goods</li>
+<li>Who has the comparative advantage in producing <span class="hi">coffee</span> and why?</li>
+</ul>
 </section></section>
 <section id="international-market-equilibrium" class="title-slide slide level1 inverse note center">
 <h1>International Market Equilibrium</h1>
@@ -479,7 +678,6 @@ Roughly 56% from China alone. Next noticeable sources are Germany, Switzerland, 
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': true,
-'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -740,10 +938,9 @@ Roughly 56% from China alone. Next noticeable sources are Germany, Switzerland, 
         // clear code selection
         e.clearSelection();
       });
-      function tippyHover(el, contentFn) {
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
-          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -753,8 +950,17 @@ Roughly 56% from China alone. Next noticeable sources are Germany, Switzerland, 
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start'
+          placement: 'bottom-start',
         };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 
