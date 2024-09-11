@@ -1,0 +1,113 @@
+---
+name: why trade
+---
+
+## Quick Recap
+
+[Why does trade occur?]{.hi-red} This is our main question. 
+
+There are two strands within the field of international trade:
+
+[I. Neoclassical Models of Trade ('Old Theories')]{.h}:
+
+- [Ricardian Model $\Rightarrow$ Technology differences spur trade]{.hi-red}
+- [Hecksher-Ohlin Model $\Rightarrow$ Resource differences spur trade]{.hi-grey} 
+
+[II. 'New' Trade Theory]{.h}:
+
+- [Krugman Model $\Rightarrow$ Demand/Want of variety spurs trade]{.hi-grey} 
+- [Melits Model $\Rightarrow$ Heterogenous firms drive trade]{.hi-grey} 
+
+---
+
+## US Imports Snapshot
+
+In 2022, the US imported $316M in Toothbrushes.  
+Roughly 56% from China alone. 
+Next noticeable sources are Germany, Switzerland, and India.
+
+. . .
+
+<br>
+The US represents the largest economy in the world. 
+But it still [resorts to import of goods]{.hii} at a level that far exceeds what it exports.
+
+. . .
+
+<br>
+As an example, while 99% of shipping containers that enter the Los Angeles port are fully loaded with goods, [70% of containers leaving the port are empty]{.hi-red}!
+
+---
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Imports]{.align-center .h}
+
+![](images/OEC-US-2022-imports.png)
+:::
+
+::: {.column width="50%"}
+[Exports]{.align-center .h}
+
+![](images/OEC-US-2022-exports.png)
+:::
+
+::::
+
+---
+
+## Reasons for Trade
+
+With all the manufacturing capacity of the US, why not make toothbrushes at home and consume them domestically?
+
+::: {.incremental}
+- Technology differences in each country?
+- Total resources available differ by country?
+- Production cost differences?
+- Proximity to countries with more productive labor forces?
+:::
+
+. . .
+
+For now, let's consider the [opportunity cost]{.hi-orange} of doing so. 
+[The Ricardian Perspective]{.h} says that the US devotes domestic labor that would otherwise be used to produce these toothbrushes to [comparatively]{.hi-orange} more productive tasks.
+
+--- 
+
+## Comparative Advantage
+
+During the 16th and 17th century, the study of economics was in its infancy.
+Misguided beliefs in public policy were widely held across nations.
+
+> [Mercantalism:]{.hi} A stockpile of gold and silver was considered an appropriate barometer for the state of the domestic economy
+>
+> [Imports]{.hi} $\Rightarrow$ Less gold
+>
+> [Exports]{.hi} $\Rightarrow$ More gold
+>
+> Tariffs are set high to prevent trade deficits'
+
+[Ricardo]{.h} would demonstrate that under [balanced free trade (no tariffs)]{.hi}, trade then [benefits every country]{.h}
+
+---
+
+## Ricardo's Logic
+
+If every country exports the goods in which they have the [comparative advantage]{.hi-red} in, then every country benefits from trade
+
+Let's view at an example
+
+::: {.incremental}
+- Two countries: Portugal and England
+- Two goods: Wine and Cloth
+- Portugal has the [absolute advantage]{.hi-red} in production of both goods
+- England is particularly bad at making wine, which makes it [relatively good]{.hi-green} at producing cloth
+:::
+
+. . .
+
+England has the [comparative advantage]{.hi-orange} in cloth. Portugal has the [comparative advantage]{.hi-orange} in wine. 
+
+[Ricardo]{.h} says that [both]{.h} are better off trading than under [autarky]{.hi-bb}
+

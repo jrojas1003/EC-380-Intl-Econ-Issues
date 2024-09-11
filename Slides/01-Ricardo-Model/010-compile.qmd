@@ -15,4 +15,14 @@ title-slide-attributes:
   data-background-position: left
 ---
 
-# Trade {.inverse .note}
+# Why Trade? {.inverse .note}
+
+{{< include 011-why-trade.qmd >}}
+
+# Autarky vs Trade {.inverse .note}
+
+{{< include 012-autarky-vs-trade.qmd >}}
+
+# International Market Equilibrium {.inverse .note}
+
+{{< include 013-international-market-eq.qmd >}}

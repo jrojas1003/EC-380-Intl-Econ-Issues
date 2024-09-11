@@ -1,0 +1,20 @@
+---
+name: autarky vs trade
+---
+
+## Autarky
+
+
+---
+
+## Ricardo Model
+
+Starting with the [Ricardo Model]{.hi-red}, we look at it's primary components:
+
+::: {.incremental}
+- Single Factor of Production (Labor)
+- Two-Country Model (Home and Foreign)
+- Technology differences across countries
+:::
+
+---
