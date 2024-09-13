@@ -1,0 +1,32 @@
+---
+name: international market equilibrium 
+---
+
+## Why Would Foreign Trade?
+
+[Foreign]{.hi-teal} is outright better at producing [Coffee & Tea]{.hi} than [Home]{.hi-red}.
+How could they benefit from trading with the inferior country?
+
+. . .
+
+If [Foreign]{.hi-teal} doesn't trade, they are bound by their own production possibilities. 
+With trade, they can exceed their own production capacities, [even when they hold an Absolute Advantage]{.h}
+
+The same logic can be applied to [Home]{.hi-red}. 
+They will be able to exceed domestic production capacity by trading.
+
+---
+
+## Benefits from Trading - Home
+
+[Home]{.hi-red .align-center}
+
+![](images/Home-Trade-01.png){fig-align="center"}
+
+---
+
+## Benefits from Trading - Foreign 
+
+[Foreign]{.hi-teal .align-center}
+
+![](images/Foreign-Trade-01.png){fig-align="center"}
