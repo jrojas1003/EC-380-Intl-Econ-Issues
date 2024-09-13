@@ -204,9 +204,9 @@ $$
     \text{Slope of PPF}^{H} = -\dfrac{\text{MPL}_{t}}{\text{MPL}_{c}} = -\dfrac{7}{9}
 $$
 
-This is also the [Opportunity Cost]{.hi-orange} of [coffee]{.hi}. So we can say that if we want one more unit of [coffee]{.hi} we must trade off [tea]{.hi} at a rate of $-\dfrac{7}{9}$
+This is also the [Opportunity Cost]{.hi-orange} of [coffee]{.hi}. So we can say that if we want one more unit of [coffee]{.hi} we must trade off [tea]{.hi} at a rate of $\dfrac{7}{9}$
 
-Equivalently, $\dfrac{7}{9}$ units of tea (let's think bags) is the [opportunity cost]{.hi-orange} of obtaining 1 more unit of [coffee]{.hi}
+Equivalently, the [opportunity cost]{.hi-orange} of [tea]{.hi} would be $\dfrac{9}{7}$ units of [coffee]{.hi}
 
 ---
 
@@ -256,6 +256,8 @@ $$
     \dfrac{\text{P}_{\text{coffee}}}{\text{P}_{\text{tea}}} = \dfrac{\text{MPL}_{\text{tea}}}{\text{MPL}_{\text{coffee}}}
 $$
 
+Relative price of coffee is equal to the [Opportunity Cost]{.hi-orange} of coffee at the [autarky/no-trade equilibrium]{.hi-red}
+
 ---
 
 ## Foreign PPF, Prices, and Wages
@@ -274,4 +276,65 @@ $$
 - Slope of $\text{PPF}$
 - [Opportunity Cost]{.hi-orange} of [coffee]{.hi} and [tea]{.hi} 
 - Prices for both goods
-- Who has the comparative advantage in producing [coffee]{.hi} and why?
+
+- Read Ch.3.1 to Ch.3.3
+
+---
+
+## Foreign Country 
+
+[Foreign PPF]{.h .note .align-center}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/Foreign-PPF-01.png){fig-align="center"}
+:::
+
+::: {.column width="40%"}
+[Opportunity Costs]{.h .align-center}
+
+- Coffee: $\dfrac{12}{10}$ $\;\;$ & $\;\;$ Tea: $\dfrac{10}{12}$
+
+[Prices]{.h .align-center}
+
+- Coffee: $\dfrac{12}{10}$ $\;\;$ & $\;\;$ Tea: $\dfrac{10}{12}$ 
+:::
+
+::::
+
+---
+
+## Who has the Advantage?
+
+Now we have two countries, we can begin to compare their [Marginal Productivities of Labor]{.hi}
+
+- A nation has the [Absolute Advantage in a good]{.h} if they produce more per labor input
+
+- A nation has the [Comparative Advantage]{.hi} if the [Opportunity Cost]{.hi-orange} of producing a good is lower than that of the other country
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+\begin{array}{|c|c|c|}
+\hline
+ & \text{Coffee} & \text{Tea} \\
+\hline
+\text{Home} & 9 & 7 \\
+\hline
+\text{Foreign} & 10 & 12 \\
+\hline
+\end{array}
+
+:::
+
+::: {.column width="50%"}
+::: {.fragment}
+- [Absolute Advantage:]{.h} [Foreign]{.hi} in both
+
+- [Comparative Advantage:]{.h} [Home]{.hi-red} in Coffee | [Foreign]{.hi-teal} in Tea
+:::
+:::
+
+::::
