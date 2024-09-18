@@ -1,0 +1,340 @@
+---
+name: autarky vs trade
+---
+
+## Autarky
+
+[Definition:]{.h} The complete absence of foreign trade; total self-sufficiency of a national economy
+
+To understand how trade affects national welfare, we have to understand how they do on their own
+
+We can do this by looking at the [Production Possibilities Curve (PPC)]{.hi-blue}
+
+- These show the trade-offs when a country chooses their production combination of two goods
+- It is closely related to the opportunity cost of the good on the [horizontal axis]{.hi}
+
+---
+
+## Production Possibilities Curves (PPC)
+
+For the moment, we will be dealing with PPCs that look like straight lines because [we assume that the trade-off between two goods does not change]{.hii}
+
+- [This follows from an assumption we make on labor:]{.h} Labor is homogeneous and no group of workers is more skilled than another group
+
+. . .
+
+How are they related to opportunity costs?
+
+- [Opportunity costs are the best forgone alternative]{.hi-orange}: In order to produce 1 unit of good X, the country has to give up some amount of good Y. 
+
+    - Because this is a "rate of change", we say that the [slope of the PPC]{.hi-orange} is the [Opportunity Cost of good X]{.hi-orange} 
+
+---
+
+## Production Possibilities Curves (PPC)
+
+[Country's PPC Between X & Y]{.h .align-center}
+
+![](images/PPC-01.png){fig-align="center"}
+
+---
+
+## Production Possibilities Curves (PPC)
+
+:::: {.columns}
+
+::: {.column width="60%"}
+[Country's Bundle Choices Between X & Y]{.h .align-center}
+
+![](images/PPC-02.png){fig-align="center"}
+:::
+
+::: {.column width="40%"}
+
+::: {.fragment}
+- [Point A:]{.h} 
+Producing at an inefficient and wasteful level
+::: 
+
+::: {.fragment}
+- [Point B:]{.h} 
+Efficient point of production where maximum level of output is obtained
+::: 
+
+::: {.fragment}
+- [Point C:]{.h} 
+Infeasible. The country does not have the resources to produce at this level
+::: 
+
+:::
+
+::::
+
+---
+
+## How Does a Country Optimally Choose?
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/PPC-03.png){fig-align="left"}
+:::
+
+::: {.column width="40%"}
+
+::: {.fragment .small}
+Choice depends on the country's demand for the two goods
+
+We call these [Indifference Curves]{.h}
+
+- Each curve shows the consumption bundles of goods that the economy can consume and be equally satisfied
+
+- The consumers are [indifferent]{.h} in its own preference across the bundles on a particular indifference curve
+:::
+
+:::
+
+::::
+
+---
+
+## Indifference Curves
+
+![](images/PPC-04.png){fig-align="center"}
+
+---
+
+## Back to the Ricardo Model
+
+Starting with the [Ricardo Model]{.hi-red}, we look at it's primary components:
+
+::: {.incremental}
+- Single Factor of Production (Labor)
+- Two-Country Model (Home and Foreign)
+- Technology differences across countries
+:::
+
+::: {.fragment}
+[We will use our own example]{.align-center} 
+
+:::: {.columns}
+
+::: {.column width="60%"}
+- Factor of production: [Labor (L)]{.h}
+- Two Countries: [Home]{.hi-red} and [Foreign]{.hi-teal}
+- Two Goods: [Coffee and Tea]{.hi}
+:::
+
+::: {.column .small width="40%"}
+
+::: {.fragment}
+- Suppose that in this case, the [Home Country]{.hi-red} exports [coffee]{.hi-teal} and imports [tea]{.hi-teal}
+- [What would this imply about which good each country has comparative advantage in?]{.hi-orange}
+:::
+:::
+
+::::
+
+:::
+
+---
+
+## Ricardo Model Assumptions
+
+![](images/gerber-model-assumptions.png){fig-align="center"}
+
+## Introducing some Key Variables - Marginal Product of Labor
+
+[Marginal Product of Labor (MPL):]{.h} Represents the [additional units of a good produced]{.hi-green}, given a [one unit increase in the number of workers assigned]{.hi-green} to a particular task
+
+. . .
+
+The MPL for the [Home Country]{.hi-red} for each good is written as $\text{MPL}_{c}^{H}$ and $\text{MPL}_{t}^{H}$, for [coffee]{.hi} and [tea]{.hi} respectively. 
+
+We can assign numbers to each such that:
+
+. . .
+
+$$
+    \text{MPL}_{c}^{H} = 9 \;\;\;\; \& \;\;\;\; \text{MPL}_{t}^{H} = 7 
+$$
+
+Let's also say that the country has a full labor force $\bar{L} = 10$
+
+We will add the [Foreign Country]{.hi-teal} later
+
+---
+
+## Home PPF
+
+We can plot the [Home PPF]{.hi-red} by finding the intercepts for each good. 
+We can do this by multiplying the marginal product of labor by the workforce size
+
+$$
+    \text{MPL}_{\text{good}}^{\text{country}} * \bar{L}
+$$
+
+:::: {.columns}
+
+::: {.column width="60%"}
+The [Home Country]{.hi-red} produces
+
+\begin{align*}
+    Q_{\text{coffee}}^{H} &= 9 * 10 = 90 \\ \\
+    Q_{\text{tea}}^{H} &= 7 * 10 = 70
+\end{align*}
+:::
+
+::: {.column width="40%"}
+![](images/Home-PPF-01.png){fig-align="center" height="350"}
+:::
+
+::::
+
+
+---
+
+## Home PPF
+
+[Assume:]{.h .note} PPF is a straight line due to the constant [MPLs]{.h}
+
+[Slope of PPF:]{.h .note} Equal to the marginal rate of substitution between goods ([Coffee & Tea]{.hi})
+
+$$
+    \text{Slope of PPF}^{H} = -\dfrac{\text{MPL}_{t}}{\text{MPL}_{c}} = -\dfrac{7}{9}
+$$
+
+This is also the [Opportunity Cost]{.hi-orange} of [coffee]{.hi}. So we can say that if we want one more unit of [coffee]{.hi} we must trade off [tea]{.hi} at a rate of $\dfrac{7}{9}$
+
+Equivalently, the [opportunity cost]{.hi-orange} of [tea]{.hi} would be $\dfrac{9}{7}$ units of [coffee]{.hi}
+
+---
+
+## Home Prices 
+
+We can determine prices in the country from this information as well. 
+We assume to be under [Perfect Competition]{.hi} which means that all goods are sold at cost. 
+
+[Prices]{.h .align-center}
+
+These are in terms relative to both goods and [measured in units]{.h}:
+
+$$
+    P_{c}^{H} = \dfrac{\text{MPL}_{t}}{\text{MPL}_{c}} = \dfrac{7}{9} \;\;\;\;\; \& \;\;\;\;\; P_{t}^{H} = \dfrac{\text{MPL}_{c}}{\text{MPL}_{t}} = \dfrac{9}{7}
+$$
+
+---
+
+## Home Wages
+
+We use the [Perfect Competition]{.hi} assumptions to also determine wages
+
+[Wages]{.h .align-center}
+
+Workers are paid the equivalent of their MPL times the price of that additional unit they produce:
+
+\begin{align*}
+    \text{wages}_{\text{coffee}} &= \text{P}_{\text{coffee}} * \text{MPL}_{\text{coffee}} \\ \\
+    \text{wages}_{\text{tea}} &= \text{P}_{\text{tea}} * \text{MPL}_{\text{tea}}
+\end{align*}
+
+## Home Wages Across Industries 
+
+Additionally, because we assume that labor moves freely between industries, we can assume that wages are equalized across industries
+
+$$
+    \text{wages}_{\text{coffee}} = \text{P}_{\text{coffee}} * \text{MPL}_{\text{coffee}} = \text{P}_{\text{tea}} * \text{MPL}_{\text{tea}} = \text{wages}_{\text{tea}}
+$$
+
+. . .
+
+<br>
+
+We can rearrange this such that the price ratio is equal to the MPL ratio
+
+$$
+    \dfrac{\text{P}_{\text{coffee}}}{\text{P}_{\text{tea}}} = \dfrac{\text{MPL}_{\text{tea}}}{\text{MPL}_{\text{coffee}}}
+$$
+
+Relative price of coffee is equal to the [Opportunity Cost]{.hi-orange} of coffee at the [autarky/no-trade equilibrium]{.hi-red}
+
+---
+
+## Foreign PPF, Prices, and Wages
+
+We can find the [Foreign Country]{.hi-teal} results as well
+
+Find them for yourself and we will pick it up next class. Let:
+
+$$
+    \text{MPL}_{c}^{F} = 10 \;\;\;\;\; \& \;\;\;\;\; \text{MPL}_{t}^{F} = 12 \;\;\;\;\; \& \;\;\;\;\; \bar{L} = 10
+$$
+
+[Tasks]{.align-center .h .note .big}
+
+- Graph the [Foreign Country PPF]{.hi-teal} 
+- Slope of $\text{PPF}$
+- [Opportunity Cost]{.hi-orange} of [coffee]{.hi} and [tea]{.hi} 
+- Prices for both goods
+
+- Read Ch.3.1 to Ch.3.3
+
+---
+
+## Foreign Country 
+
+[Foreign PPF]{.h .note .align-center}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/Foreign-PPF-01.png){fig-align="center"}
+:::
+
+::: {.column width="40%"}
+[Opportunity Costs]{.h .align-center}
+
+- Coffee: $\dfrac{12}{10}$ $\;\;$ & $\;\;$ Tea: $\dfrac{10}{12}$
+
+[Prices]{.h .align-center}
+
+- Coffee: $\dfrac{12}{10}$ $\;\;$ & $\;\;$ Tea: $\dfrac{10}{12}$ 
+:::
+
+::::
+
+---
+
+## Who has the Advantage?
+
+Now we have two countries, we can begin to compare their [Marginal Productivities of Labor]{.hi}
+
+- A nation has the [Absolute Advantage in a good]{.h} if they produce more per labor input
+
+- A nation has the [Comparative Advantage]{.hi} if the [Opportunity Cost]{.hi-orange} of producing a good is lower than that of the other country
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+\begin{array}{|c|c|c|}
+\hline
+ & \text{Coffee} & \text{Tea} \\
+\hline
+\text{Home} & 9 & 7 \\
+\hline
+\text{Foreign} & 10 & 12 \\
+\hline
+\end{array}
+
+:::
+
+::: {.column width="50%"}
+::: {.fragment}
+- [Absolute Advantage:]{.h} [Foreign]{.hi} in both
+
+- [Comparative Advantage:]{.h} [Home]{.hi-red} in Coffee | [Foreign]{.hi-teal} in Tea
+:::
+:::
+
+::::
