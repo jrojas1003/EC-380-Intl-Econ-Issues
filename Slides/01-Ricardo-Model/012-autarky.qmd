@@ -363,14 +363,12 @@ $$
 [Prices]{.h .align-center}
 
 - Coffee: $\dfrac{12}{10}$ $\;\;$ & $\;\;$ Tea: $\dfrac{10}{12}$ 
->>>>>>> fabaca3409613dc28a06ade333b74db5e7fb4788
 :::
 
 ::::
 
 ---
 
-<<<<<<< HEAD
 ## Comparing Countries 
 
 ![](images/Both-PPF.png){fig-align="center"}
@@ -397,12 +395,10 @@ Now we have two countries, we can begin to compare their [Marginal Productivitie
 - A nation has the [Absolute Advantage in a good]{.h} if they produce more per labor input
 
 - A nation has the [Comparative Advantage]{.hi} if the [Opportunity Cost]{.hi-orange} of producing a good is lower than that of the other country
->>>>>>> fabaca3409613dc28a06ade333b74db5e7fb4788
 
 :::: {.columns}
 
 ::: {.column width="50%"}
-<<<<<<< HEAD
 ![](images/autarky-economy.png){fig-align="center" height="200"}
 :::
 
@@ -418,8 +414,6 @@ Now we have two countries, we can begin to compare their [Marginal Productivitie
 ::: {.fragment}
 [Home]{.hi-red} in Coffee | [Foreign]{.hi-teal} in Tea
 :::
-
-=======
 
 \begin{array}{|c|c|c|}
 \hline
@@ -439,7 +433,6 @@ Now we have two countries, we can begin to compare their [Marginal Productivitie
 
 - [Comparative Advantage:]{.h} [Home]{.hi-red} in Coffee | [Foreign]{.hi-teal} in Tea
 :::
->>>>>>> fabaca3409613dc28a06ade333b74db5e7fb4788
 :::
 
 ::::
