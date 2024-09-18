@@ -143,7 +143,6 @@ Starting with the [Ricardo Model]{.hi-red}, we look at it's primary components:
 
 ![](images/gerber-model-assumptions.png){fig-align="center"}
 
-<<<<<<< HEAD
 ---
 
 ## Creating PPFs {.small}
@@ -206,7 +205,10 @@ $$
 ::: {.fragment}
 ![](images/Foreign-PPF-01.png){fig-align="center"}
 :::
-=======
+:::
+
+::::
+
 ## Introducing some Key Variables - Marginal Product of Labor
 
 [Marginal Product of Labor (MPL):]{.h} Represents the [additional units of a good produced]{.hi-green}, given a [one unit increase in the number of workers assigned]{.hi-green} to a particular task
@@ -254,7 +256,6 @@ The [Home Country]{.hi-red} produces
 :::
 
 ::::
-
 
 ---
 
@@ -386,8 +387,8 @@ We work with two types of advantages:
 - [Comparative Advantage:]{.hi} If the country's [Opportunity Cost]{.hi-orange} of producing a good is lower than the other country
 :::
 
-. . .
-=======
+---
+
 ## Who has the Advantage?
 
 Now we have two countries, we can begin to compare their [Marginal Productivities of Labor]{.hi}
@@ -413,25 +414,6 @@ Now we have two countries, we can begin to compare their [Marginal Productivitie
 
 ::: {.fragment}
 [Home]{.hi-red} in Coffee | [Foreign]{.hi-teal} in Tea
-:::
-
-\begin{array}{|c|c|c|}
-\hline
- & \text{Coffee} & \text{Tea} \\
-\hline
-\text{Home} & 9 & 7 \\
-\hline
-\text{Foreign} & 10 & 12 \\
-\hline
-\end{array}
-
-:::
-
-::: {.column width="50%"}
-::: {.fragment}
-- [Absolute Advantage:]{.h} [Foreign]{.hi} in both
-
-- [Comparative Advantage:]{.h} [Home]{.hi-red} in Coffee | [Foreign]{.hi-teal} in Tea
 :::
 :::
 

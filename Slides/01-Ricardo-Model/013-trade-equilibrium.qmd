@@ -207,4 +207,3 @@ But it is not without some faults:
 - It assumes away effects of trade on the [distribution of incomes within countries]{.hi} which ignores the fact that not all benefit from trade equally
 - Misses differences in resources among countries 
     - Our next model addresses this
-
