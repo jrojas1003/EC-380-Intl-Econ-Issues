@@ -548,7 +548,8 @@ Roughly 56% from China alone. Next noticeable sources are Germany, Switzerland, 
 <section id="ricardo-model-assumptions" class="slide level2">
 <h2>Ricardo Model Assumptions</h2>
 
-<img data-src="images/gerber-model-assumptions.png" class="r-stretch quarto-figure-center"></section>
+<img data-src="images/gerber-model-assumptions.png" class="r-stretch quarto-figure-center"><p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD</p>
+</section>
 <section id="creating-ppfs" class="slide level2 small">
 <h2>Creating PPFs</h2>
 <p>Let each country have a <span class="h">labor force size of 10</span> and <span class="h">productions</span> be:</p>
@@ -578,7 +579,7 @@ Roughly 56% from China alone. Next noticeable sources are Germany, Switzerland, 
 <section id="foreign-ppf" class="slide level2">
 <h2>Foreign PPF</h2>
 <p><span class="hi-teal">Foreign</span> produces <span class="hi">10 Coffee</span> and <span class="hi">12 Tea</span></p>
-<div class="columns">
+<p>:::: {.columns}</p>
 <div class="column" style="width:50%;">
 <p><br> <span class="hi-teal align-center">Foreign would produce:</span></p>
 <p><span class="small"><span class="math display">\[\begin{align*}
@@ -588,7 +589,8 @@ Roughly 56% from China alone. Next noticeable sources are Germany, Switzerland, 
 <p><span class="small"><span class="math display">\[\begin{align*}
     &amp;\text{Slope} = \dfrac{\Delta \text{Tea Ouptut}}{\Delta \text{Coffee Output}} = \dfrac{-10}{12}
 \end{align*}\]</span></span></p>
-</div><div class="column" style="width:50%;">
+</div>
+<p>::: {.column width=“50%”}</p>
 <div class="fragment">
 <div class="quarto-figure quarto-figure-center">
 <figure>
@@ -596,11 +598,127 @@ Roughly 56% from China alone. Next noticeable sources are Germany, Switzerland, 
 </figure>
 </div>
 </div>
+<p>======= ## Introducing some Key Variables - Marginal Product of Labor</p>
+<p><span class="h">Marginal Product of Labor (MPL):</span> Represents the <span class="hi-green">additional units of a good produced</span>, given a <span class="hi-green">one unit increase in the number of workers assigned</span> to a particular task</p>
+<div class="fragment">
+<p>The MPL for the <span class="hi-red">Home Country</span> for each good is written as <span class="math inline">\(\text{MPL}_{c}^{H}\)</span> and <span class="math inline">\(\text{MPL}_{t}^{H}\)</span>, for <span class="hi">coffee</span> and <span class="hi">tea</span> respectively.</p>
+<p>We can assign numbers to each such that:</p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[
+    \text{MPL}_{c}^{H} = 9 \;\;\;\; \&amp; \;\;\;\; \text{MPL}_{t}^{H} = 7
+\]</span></p>
+<p>Let’s also say that the country has a full labor force <span class="math inline">\(\bar{L} = 10\)</span></p>
+<p>We will add the <span class="hi-teal">Foreign Country</span> later</p>
+</div>
+</section>
+<section id="home-ppf-1" class="slide level2">
+<h2>Home PPF</h2>
+<p>We can plot the <span class="hi-red">Home PPF</span> by finding the intercepts for each good. We can do this by multiplying the marginal product of labor by the workforce size</p>
+<p><span class="math display">\[
+    \text{MPL}_{\text{good}}^{\text{country}} * \bar{L}
+\]</span></p>
+<div class="columns">
+<div class="column" style="width:60%;">
+<p>The <span class="hi-red">Home Country</span> produces</p>
+<p><span class="math display">\[\begin{align*}
+    Q_{\text{coffee}}^{H} &amp;= 9 * 10 = 90 \\ \\
+    Q_{\text{tea}}^{H} &amp;= 7 * 10 = 70
+\end{align*}\]</span></p>
+</div><div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Home-PPF-01.png" height="350"></p>
+</figure>
+</div>
 </div>
 </div>
 </section>
-<section id="comparing-countries" class="slide level2">
-<h2>Comparing Countries</h2>
+<section id="home-ppf-2" class="slide level2">
+<h2>Home PPF</h2>
+<p><span class="h note">Assume:</span> PPF is a straight line due to the constant <span class="h">MPLs</span></p>
+<p><span class="h note">Slope of PPF:</span> Equal to the marginal rate of substitution between goods (<span class="hi">Coffee &amp; Tea</span>)</p>
+<p><span class="math display">\[
+    \text{Slope of PPF}^{H} = -\dfrac{\text{MPL}_{t}}{\text{MPL}_{c}} = -\dfrac{7}{9}
+\]</span></p>
+<p>This is also the <span class="hi-orange">Opportunity Cost</span> of <span class="hi">coffee</span>. So we can say that if we want one more unit of <span class="hi">coffee</span> we must trade off <span class="hi">tea</span> at a rate of <span class="math inline">\(\dfrac{7}{9}\)</span></p>
+<p>Equivalently, the <span class="hi-orange">opportunity cost</span> of <span class="hi">tea</span> would be <span class="math inline">\(\dfrac{9}{7}\)</span> units of <span class="hi">coffee</span></p>
+</section>
+<section id="home-prices" class="slide level2">
+<h2>Home Prices</h2>
+<p>We can determine prices in the country from this information as well. We assume to be under <span class="hi">Perfect Competition</span> which means that all goods are sold at cost.</p>
+<p><span class="h align-center">Prices</span></p>
+<p>These are in terms relative to both goods and <span class="h">measured in units</span>:</p>
+<p><span class="math display">\[
+    P_{c}^{H} = \dfrac{\text{MPL}_{t}}{\text{MPL}_{c}} = \dfrac{7}{9} \;\;\;\;\; \&amp; \;\;\;\;\; P_{t}^{H} = \dfrac{\text{MPL}_{c}}{\text{MPL}_{t}} = \dfrac{9}{7}
+\]</span></p>
+</section>
+<section id="home-wages" class="slide level2">
+<h2>Home Wages</h2>
+<p>We use the <span class="hi">Perfect Competition</span> assumptions to also determine wages</p>
+<p><span class="h align-center">Wages</span></p>
+<p>Workers are paid the equivalent of their MPL times the price of that additional unit they produce:</p>
+<p><span class="math display">\[\begin{align*}
+    \text{wages}_{\text{coffee}} &amp;= \text{P}_{\text{coffee}} * \text{MPL}_{\text{coffee}} \\ \\
+    \text{wages}_{\text{tea}} &amp;= \text{P}_{\text{tea}} * \text{MPL}_{\text{tea}}
+\end{align*}\]</span></p>
+</section>
+<section id="home-wages-across-industries" class="slide level2">
+<h2>Home Wages Across Industries</h2>
+<p>Additionally, because we assume that labor moves freely between industries, we can assume that wages are equalized across industries</p>
+<p><span class="math display">\[
+    \text{wages}_{\text{coffee}} = \text{P}_{\text{coffee}} * \text{MPL}_{\text{coffee}} = \text{P}_{\text{tea}} * \text{MPL}_{\text{tea}} = \text{wages}_{\text{tea}}
+\]</span></p>
+<div class="fragment">
+<p><br></p>
+<p>We can rearrange this such that the price ratio is equal to the MPL ratio</p>
+<p><span class="math display">\[
+    \dfrac{\text{P}_{\text{coffee}}}{\text{P}_{\text{tea}}} = \dfrac{\text{MPL}_{\text{tea}}}{\text{MPL}_{\text{coffee}}}
+\]</span></p>
+<p>Relative price of coffee is equal to the <span class="hi-orange">Opportunity Cost</span> of coffee at the <span class="hi-red">autarky/no-trade equilibrium</span></p>
+</div>
+</section>
+<section id="foreign-ppf-prices-and-wages" class="slide level2">
+<h2>Foreign PPF, Prices, and Wages</h2>
+<p>We can find the <span class="hi-teal">Foreign Country</span> results as well</p>
+<p>Find them for yourself and we will pick it up next class. Let:</p>
+<p><span class="math display">\[
+    \text{MPL}_{c}^{F} = 10 \;\;\;\;\; \&amp; \;\;\;\;\; \text{MPL}_{t}^{F} = 12 \;\;\;\;\; \&amp; \;\;\;\;\; \bar{L} = 10
+\]</span></p>
+<p><span class="align-center h note big">Tasks</span></p>
+<ul>
+<li><p>Graph the <span class="hi-teal">Foreign Country PPF</span></p></li>
+<li><p>Slope of <span class="math inline">\(\text{PPF}\)</span></p></li>
+<li><p><span class="hi-orange">Opportunity Cost</span> of <span class="hi">coffee</span> and <span class="hi">tea</span></p></li>
+<li><p>Prices for both goods</p></li>
+<li><p>Read Ch.3.1 to Ch.3.3</p></li>
+</ul>
+</section>
+<section id="foreign-country" class="slide level2">
+<h2>Foreign Country</h2>
+<p><span class="h note align-center">Foreign PPF</span></p>
+<div class="columns">
+<div class="column" style="width:60%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/Foreign-PPF-01.png"></p>
+</figure>
+</div>
+</div><div class="column" style="width:40%;">
+<p><span class="h align-center">Opportunity Costs</span></p>
+<ul>
+<li>Coffee: <span class="math inline">\(\dfrac{12}{10}\)</span> <span class="math inline">\(\;\;\)</span> &amp; <span class="math inline">\(\;\;\)</span> Tea: <span class="math inline">\(\dfrac{10}{12}\)</span></li>
+</ul>
+<p><span class="h align-center">Prices</span></p>
+<ul>
+<li>Coffee: <span class="math inline">\(\dfrac{12}{10}\)</span> <span class="math inline">\(\;\;\)</span> &amp; <span class="math inline">\(\;\;\)</span> Tea: <span class="math inline">\(\dfrac{10}{12}\)</span> &gt;&gt;&gt;&gt;&gt;&gt;&gt; fabaca3409613dc28a06ade333b74db5e7fb4788</li>
+</ul>
+</div>
+</div>
+</section>
+<section class="slide level2">
+
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD ## Comparing Countries</p>
 
 <img data-src="images/Both-PPF.png" class="r-stretch quarto-figure-center"></section>
 <section id="who-has-the-advantage" class="slide level2">
@@ -613,14 +731,22 @@ Roughly 56% from China alone. Next noticeable sources are Germany, Switzerland, 
 <li class="fragment"><span class="hi">Comparative Advantage:</span> If the country’s <span class="hi-orange">Opportunity Cost</span> of producing a good is lower than the other country</li>
 </ul>
 </div>
-<div class="fragment">
+</section></section>
+<section>
+<section id="section" class="title-slide slide level1 center">
+<h1>. . .</h1>
+
+</section>
+<section id="who-has-the-advantage-1" class="slide level2">
+<h2>Who has the Advantage?</h2>
+<p>Now we have two countries, we can begin to compare their <span class="hi">Marginal Productivities of Labor</span></p>
+<ul>
+<li><p>A nation has the <span class="h">Absolute Advantage in a good</span> if they produce more per labor input</p></li>
+<li><p>A nation has the <span class="hi">Comparative Advantage</span> if the <span class="hi-orange">Opportunity Cost</span> of producing a good is lower than that of the other country &gt;&gt;&gt;&gt;&gt;&gt;&gt; fabaca3409613dc28a06ade333b74db5e7fb4788</p></li>
+</ul>
 <div class="columns">
 <div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/autarky-economy.png" height="200"></p>
-</figure>
-</div>
+<p>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD <img data-src="images/autarky-economy.png" data-fig-align="center" height="200"></p>
 </div><div class="column" style="width:50%;">
 <p><span class="hi align-center">Absolute Advantage</span></p>
 <div class="fragment">
@@ -630,7 +756,38 @@ Roughly 56% from China alone. Next noticeable sources are Germany, Switzerland, 
 <div class="fragment">
 <p><span class="hi-red">Home</span> in Coffee | <span class="hi-teal">Foreign</span> in Tea</p>
 </div>
+<p>=======</p>
+<span class="math display">\[\begin{array}{|c|c|c|}
+\hline
+&amp; \text{Coffee} &amp; \text{Tea} \\
+\hline
+\text{Home} &amp; 9 &amp; 7 \\
+\hline
+\text{Foreign} &amp; 10 &amp; 12 \\
+\hline
+\end{array}\]</span>
+</div><div class="column" style="width:50%;">
+<div class="fragment">
+<ul>
+<li><p><span class="h">Absolute Advantage:</span> <span class="hi">Foreign</span> in both</p></li>
+<li><p><span class="h">Comparative Advantage:</span> <span class="hi-red">Home</span> in Coffee | <span class="hi-teal">Foreign</span> in Tea</p></li>
+</ul>
 </div>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>fabaca3409613dc28a06ade333b74db5e7fb4788</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
 </div>
 </div>
 </section></section>
@@ -641,7 +798,7 @@ Roughly 56% from China alone. Next noticeable sources are Germany, Switzerland, 
 </section>
 <section id="why-would-foreign-trade" class="slide level2">
 <h2>Why Would Foreign Trade?</h2>
-<p><span class="hi-teal">Foreign</span> is outright better at producing <span class="hi">Coffee &amp; Tea</span> than <span class="hi-red">Home</span>. How could they benefit from trading with a less productive country?</p>
+<p><span class="hi-teal">Foreign</span> is outright better at producing <span class="hi">Coffee &amp; Tea</span> than <span class="hi-red">Home</span>. &lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD How could they benefit from trading with a less productive country?</p>
 <p><br></p>
 <div>
 <ul>
@@ -817,6 +974,21 @@ Roughly 56% from China alone. Next noticeable sources are Germany, Switzerland, 
 <li>Our next model addresses this</li>
 </ul></li>
 </ul>
+<p>======= How could they benefit from trading with the inferior country?</p>
+<div class="fragment">
+<p>If <span class="hi-teal">Foreign</span> doesn’t trade, they are bound by their own production possibilities. With trade, they can exceed their own production capacities, <span class="h">even when they hold an Absolute Advantage</span></p>
+<p>The same logic can be applied to <span class="hi-red">Home</span>. They will be able to exceed domestic production capacity by trading.</p>
+</div>
+</section>
+<section id="benefits-from-trading---home" class="slide level2">
+<h2>Benefits from Trading - Home</h2>
+<p><span class="hi-red align-center">Home</span></p>
+
+<img data-src="images/Home-Trade-01.png" class="r-stretch quarto-figure-center"></section>
+<section id="benefits-from-trading---foreign" class="slide level2">
+<h2>Benefits from Trading - Foreign</h2>
+<p><span class="hi-teal align-center">Foreign</span></p>
+<p><img data-src="images/Foreign-Trade-01.png" data-fig-align="center"> &gt;&gt;&gt;&gt;&gt;&gt;&gt; fabaca3409613dc28a06ade333b74db5e7fb4788</p>
 </section>
 <section id="next-topic" class="slide level2">
 <h2>Next Topic</h2>
