@@ -19,10 +19,27 @@ title-slide-attributes:
 
 {{< include 011-why-trade.qmd >}}
 
-# Autarky vs Trade {.inverse .note}
+# Autarky {.inverse .note}
 
-{{< include 012-autarky-vs-trade.qmd >}}
+{{< include 012-autarky.qmd >}}
 
-# International Market Equilibrium {.inverse .note}
+# Trade {.inverse .note}
 
-{{< include 013-international-market-eq.qmd >}}
+{{< include 013-trade-equilibrium.qmd >}}
+
+---
+
+## Next Topic
+
+- Heckscher-Ohlin Trade Model
+
+[Reading]{.h}
+
+- Ch. 4 : Comparative Advantage and Factor Endowments
+  - Modern Trade Theory
+  - Trade and Income Distribution
+
+[Assignment(s)]{.h}
+
+- Quiz 1 Due 
+- Problem Set 1 Due Wednesday
