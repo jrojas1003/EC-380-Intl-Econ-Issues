@@ -1,0 +1,254 @@
+---
+name: autarky vs trade
+---
+
+## Autarky
+
+[Definition:]{.h} The complete absence of foreign trade; total self-sufficiency of a national economy
+
+To understand how trade affects national welfare, we have to understand how they do on their own
+
+We can do this by looking at the [Production Possibilities Curve (PPC)]{.hi-blue}
+
+- These show the trade-offs when a country chooses their production combination of two goods
+- It is closely related to the opportunity cost of the good on the [horizontal axis]{.hi}
+
+---
+
+## Production Possibilities Curves (PPC)
+
+For the moment, we will be dealing with PPCs that look like straight lines because [we assume that the trade-off between two goods does not change]{.hii}
+
+- [This follows from an assumption we make on labor:]{.h} Labor is homogeneous and no group of workers is more skilled than another group
+
+. . .
+
+How are they related to opportunity costs?
+
+- [Opportunity costs are the best forgone alternative]{.hi-orange}: In order to produce 1 unit of good X, the country has to give up some amount of good Y. 
+
+    - Because this is a "rate of change", we say that the [slope of the PPC]{.hi-orange} is the [Opportunity Cost of good X]{.hi-orange} 
+
+---
+
+## Production Possibilities Curves (PPC)
+
+[Country's PPC Between X & Y]{.h .align-center}
+
+![](images/PPC-01.png){fig-align="center"}
+
+---
+
+## Production Possibilities Curves (PPC)
+
+:::: {.columns}
+
+::: {.column width="60%"}
+[Country's Bundle Choices Between X & Y]{.h .align-center}
+
+![](images/PPC-02.png){fig-align="center"}
+:::
+
+::: {.column width="40%"}
+
+::: {.fragment}
+- [Point A:]{.h} 
+Producing at an inefficient and wasteful level
+::: 
+
+::: {.fragment}
+- [Point B:]{.h} 
+Efficient point of production where maximum level of output is obtained
+::: 
+
+::: {.fragment}
+- [Point C:]{.h} 
+Infeasible. The country does not have the resources to produce at this level
+::: 
+
+:::
+
+::::
+
+---
+
+## How Does a Country Optimally Choose?
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/PPC-03.png){fig-align="left"}
+:::
+
+::: {.column width="40%"}
+
+::: {.fragment .small}
+Choice depends on the country's demand for the two goods
+
+We call these [Indifference Curves]{.h}
+
+- Each curve shows the consumption bundles of goods that the economy can consume and be equally satisfied
+
+- The consumers are [indifferent]{.h} in its own preference across the bundles on a particular indifference curve
+:::
+
+:::
+
+::::
+
+---
+
+## Indifference Curves
+
+![](images/PPC-04.png){fig-align="center"}
+
+---
+
+## Back to the Ricardo Model
+
+Starting with the [Ricardo Model]{.hi-red}, we look at it's primary components:
+
+::: {.incremental}
+- Single Factor of Production (Labor)
+- Two-Country Model (Home and Foreign)
+- Technology differences across countries
+:::
+
+::: {.fragment}
+[We will use our own example]{.align-center} 
+
+:::: {.columns}
+
+::: {.column width="60%"}
+- Factor of production: [Labor (L)]{.h}
+- Two Countries: [Home]{.hi-red} and [Foreign]{.hi-teal}
+- Two Goods: [Coffee and Tea]{.hi}
+:::
+
+::: {.column .small width="40%"}
+
+::: {.fragment}
+- Suppose that in this case, the [Home Country]{.hi-red} exports [coffee]{.hi-teal} and imports [tea]{.hi-teal}
+- [What would this imply about which good each country has comparative advantage in?]{.hi-orange}
+:::
+:::
+
+::::
+
+:::
+
+---
+
+## Ricardo Model Assumptions
+
+![](images/gerber-model-assumptions.png){fig-align="center"}
+
+---
+
+## Creating PPFs {.small}
+
+Let each country have a [labor force size of 10]{.h} and [productions]{.h} be:
+
+![](images/autarky-economy.png){fig-align="center" height="250"}
+
+[We find the PPF intercepts by seeing how much a country will produce if their entire work force only produces one good]{.h .align-center}
+
+::: {.fragment}
+[Home would produce:]{.hi-red .align-center}
+
+\begin{align*}
+    &\text{Coffee:} \; L * \text{units} = 10 * 9 = 90 \\
+    &\text{Tea:} \; L * \text{units} = 10 * 7 = 70
+\end{align*}
+::: 
+
+
+---
+
+## Home PPF {.small}
+
+![](images/Home-PPF-01.png){fig-align="center"}
+
+[Slope of PPF is Opportunity Cost of Good X]{.hi-orange .align-center}
+
+Which is how much units of tea do I give up to make one more unit of coffee
+
+$$
+    \text{Slope of PPF} = \dfrac{\Delta \text{Tea Ouptut}}{\Delta \text{Coffee Output}} = \dfrac{-7}{9} = \text{(-)Opportunity Cost of Coffee}
+$$
+
+---
+
+## Foreign PPF
+
+[Foreign]{.hi-teal} produces [10 Coffee]{.hi} and [12 Tea]{.hi}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<br>
+[Foreign would produce:]{.hi-teal .align-center}
+
+[\begin{align*}
+    &\text{Coffee:} \; L * \text{units} = 10 * 10 = 100 \\
+    &\text{Tea:} \; L * \text{units} = 10 * 12 = 120
+\end{align*}]{.small}
+
+[\begin{align*}
+    &\text{Slope} = \dfrac{\Delta \text{Tea Ouptut}}{\Delta \text{Coffee Output}} = \dfrac{-10}{12}
+\end{align*}]{.small}
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment}
+![](images/Foreign-PPF-01.png){fig-align="center"}
+:::
+:::
+
+::::
+
+---
+
+## Comparing Countries 
+
+![](images/Both-PPF.png){fig-align="center"}
+
+---
+
+## Who Has the Advantage?
+
+We can compare both countries and determine who has an advantage in production
+
+We work with two types of advantages:
+
+::: {.incremental}
+- [Absolute Advantage:]{.hi} If the country produces more per labor input
+- [Comparative Advantage:]{.hi} If the country's [Opportunity Cost]{.hi-orange} of producing a good is lower than the other country
+:::
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](images/autarky-economy.png){fig-align="center" height="200"}
+:::
+
+::: {.column width="50%"}
+[Absolute Advantage]{.hi .align-center}
+
+::: {.fragment}
+[Foreign]{.hi-teal} in both goods
+:::
+
+[Comparative Advantage]{.hi .align-center}
+
+::: {.fragment}
+[Home]{.hi-red} in Coffee | [Foreign]{.hi-teal} in Tea
+:::
+
+:::
+
+::::
