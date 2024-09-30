@@ -54,10 +54,11 @@ Every so often we will be creating our own world market
 ::: {.column width="50%"}
 [Course Grades]{.h}
 
-- 10% $\rightarrow$ In-Class Activity Participation
+- 5% $\rightarrow$ In-Class Activity Participation
 - 25% $\rightarrow$ 5 Problem Sets
+- 10% $\rightarrow$ 3 Quizzes
 - 30% $\rightarrow$ Midterm Exam
-- 35% $\rightarrow$ Final Exam 
+- 30% $\rightarrow$ Final Exam 
 :::
 
 ::::
