@@ -10,7 +10,7 @@ format:
         slide-number: true
         footer: "EC380, Lecture 02 | HO Model"
         preview-links: auto
-        code-f  old: FALSE
+        code-fold: FALSE
 title-slide-attributes: 
   data-background-position: left
 ---

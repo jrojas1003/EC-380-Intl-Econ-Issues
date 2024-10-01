@@ -1,3 +1,47 @@
 ---
 name: stolper-samuelson model
 ---
+
+## Theoretical Outcomes of Assymetric Factors
+
+The [Stolper-Samuelson Theorem]{.h} states that:
+
+- Income depends on input supplied to the value of final product
+- Wages will vary depending on their skill level
+- Labor input earnings (wages) demand on their demand and supply
+
+::: {.fragment}
+[Derived Demand:]{.hp}
+Indirectly finding demand of an input used in produciton from the demand of the final good
+:::
+
+::: {.fragment}
+If a good is in high demand, and therefore its price is high, then input factors receive high returns
+:::
+
+---
+
+## Changes in Prices & Effects on Income
+
+Any change that impact prices will have direct impacts on outcomes
+<br><br>
+
+::: {.incremental}
+- Open trade causes the [export good price]{.hi} to rise and [import good price]{.hi} to fall
+
+- Demand for each input factor readjusts, which leads to changes in returns to each factor
+
+- Resources [shift away from the imported good sector]{.hi-red} and [move toward the exported good sector]{.hi-green}, which cause changes in demand for each input
+:::
+
+---
+
+## Stolper-Samuelson Example
+
+Let's consider an economy where the [sports cars are the export good]{.h}
+
+These require a high amount of capital and low amount of labor inputs
+
+::: {.fragment}
+Because it is the [export good]{.h}, demand for [capital factors rise]{.hi-green} and demand for [labor factors fall]{.hi-red}
+:::
