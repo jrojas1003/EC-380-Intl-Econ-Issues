@@ -16,6 +16,4 @@ What better way to learn than to play a game?
 
 Throughout the term we will create our own international economy. The objective is to experience what markets do and how different agents make decisions. The theory will teach us what ***should*** happen, but theory is just theory.
 
-We will test theory and learn by doing. 
-
-Activity based on <https://economicsnetwork.ac.uk/showcase/sloman_game>
+We will test theory and learn by doing.

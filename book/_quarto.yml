@@ -6,15 +6,17 @@ book:
   subtitle: "The Fun Stuff About Trade"
   author: "Jose Rojas-Fallas"
   date: "7/19/2024"
+  favicon: globe-icon.png
   chapters:
     - index.qmd
-    - part: game/organization.qmd
-      chapters:
-        - game/round-1.qmd
-        - game/round-2.qmd
-        - game/round-3.qmd
-        - game/round-4.qmd
-        - game/round-5.qmd
+    - game/organization.qmd
+    # - slides/003-trade-overview.qmd
+    #     parts:
+        # - game/round-1.qmd
+        # - game/round-2.qmd
+        # - game/round-3.qmd
+        # - game/round-4.qmd
+        # - game/round-5.qmd
 #    - Gerber/CH1/ch1-summary.qmd
 #    - Gerber/CH3/ch3-summary.qmd
 #    - Gerber/CH4/ch4-summary.qmd
