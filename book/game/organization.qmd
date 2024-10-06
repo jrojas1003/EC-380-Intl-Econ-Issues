@@ -4,34 +4,33 @@ title: "Game Structure"
 
 ## Rules
 
-Each activity you will be given materials, brief instructions, and time. 
-Your job is to produce as much as you can to meet your demands. 
+Each activity you will be given materials, brief instructions, and time. Your job is to produce as much as you can to meet your demands.
 
-Your groups are assigned in-class and should be reflected below. 
-Let me know if I have made any mistake. 
-
+Your groups are assigned in-class and should be reflected below. Let me know if I have made any mistake.
 
 ## Groups
 
-| Country 1 | Country 2  | Country 3  | Country 4  | Country 5  |
-|-----------|------------|------------|------------|------------|
-| Student 1 | Student 8  | Student 15 | Student 22 | Student 29 |
-| Student 2 | Student 9  | Student 16 | Student 23 | Student 30 |
-| Student 3 | Student 10 | Student 17 | Student 24 | Student 31 |
-| Student 4 | Student 11 | Student 18 | Student 25 | Student 32 |
-| Student 5 | Student 12 | Student 19 | Student 26 | Student 33 |
-| Student 6 | Student 13 | Student 20 | Student 27 | Student 34 |
-| Student 7 | Student 14 | Student 21 | Student 28 | Student 35 |
-| Student 8 | Student 15 | Student 22 | Student 29 | Student 36 |
+| Country 1              | Country 2          | Country 3           | Country 4               | Country 5             |
+|------------------------|--------------------|---------------------|-------------------------|-----------------------|
+| Davie, Meadow          | Alwan, Ben         | Askew-Burch, Jordan | Abe, Kosei              | Aleu, Marc            |
+| Dillender-Kinast, Will | Ayers, Jonah       | Chandley, Dylan     | Corvi, Ben              | Anderson, Derek       |
+| Grisham, Zachery       | Gardner, Ema       | McConnaughey, Kyle  | Garcia Secundino, Jessie| Campbell, Ryan        |
+| Hall, Kate             | Martinelli, Thomas | Miwa, Kyle          | Gudino, Alex            | Chaabi, Nidal         |
+| McElhinney, Neal       | Ostby, Michael     | Scyoc, Nick         | Heltzel, Dylan          | Patel, Jailen         |
+| Salazar, Ava           | Ruiz, Mason        | Serrao, Zach        | Kung, Soren             | Quinn, Isabel         |
+| Solomon, Yodit         | Swanson, Tabor     | Tran, Hanna         | Larson, Brayden         | Ramos, Tia            |
+| Xie, Phillip           | Tredennick, Ryan   | Varga, Ethan        | Wilson, Nicholas        | Sandstedt, Gus        |
 
-| Country 6 | Country 7  | Country 8  | Country 9  | Country 10 |
-|-----------|------------|------------|------------|------------|
-| Student 1 | Student 8  | Student 15 | Student 22 | Student 29 |
-| Student 2 | Student 9  | Student 16 | Student 23 | Student 30 |
-| Student 3 | Student 10 | Student 17 | Student 24 | Student 31 |
-| Student 4 | Student 11 | Student 18 | Student 25 | Student 32 |
-| Student 5 | Student 12 | Student 19 | Student 26 | Student 33 |
-| Student 6 | Student 13 | Student 20 | Student 27 | Student 34 |
-| Student 7 | Student 14 | Student 21 | Student 28 | Student 35 |
-| Student 8 | Student 15 | Student 22 | Student 29 | Student 36 |
+
+
+| Country 6             | Country 7             | Country 8           | Country 9                | Country 10           |
+|-----------------------|-----------------------|---------------------|--------------------------|----------------------|
+| Davis, Ethan          | Aastroem, Arvid       | Barrysmith, Caden   | Andhavarapu, Vyshnavi    | Angelich, Eli        |
+| El-Haddar, Jalila     | Bell, Alex            | Edwards, Race       | Bracamontes Varga, Emese | Compton, Carson      |
+| Farias-Montes, Adilene| Bradley, Cole         | Fleming, Henry      | Cicilian, Ben            | Fitzgerald, Kyle     |
+| O'Hara, Drew          | Carson-Cotton, Maddie | Gensler, Sam        | Klum, Annalee            | Kokoeva, Sasha       |
+| Pfeffer, Lauren       | Foland, Cade          | Hansen, Nick        | Lammers, Garrick         | Schatzman, Jacob     |
+| Thayer, Jack          | Rizzo, Louis          | Johnson, Ben        | Lee, Sieun               | Thomason, Kyle       |
+| Watson, Jake          | Straton, Will         | Moon, Benjamin      | Sheakley, Cooper         | Wickett, Noah        |
+| Webster, Ben          | Yan, Jake             | Taiber, Miles       | Sugawara, Daichi         | Williamson, Jaeger   |
 
