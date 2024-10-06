@@ -196,7 +196,7 @@ $$
 \end{align*}]{.small}
 
 [\begin{align*}
-    &\text{Slope} = \dfrac{\Delta \text{Tea Ouptut}}{\Delta \text{Coffee Output}} = \dfrac{-10}{12}
+    &\text{Slope} = \dfrac{\Delta \text{Tea Ouptut}}{\Delta \text{Coffee Output}} = \dfrac{-12}{10}
 \end{align*}]{.small}
 :::
 
@@ -418,3 +418,253 @@ Now we have two countries, we can begin to compare their [Marginal Productivitie
 :::
 
 ::::
+
+---
+
+## Choosing Production Based on Preferences
+
+Under [Autarky]{.hi}, every country has to produce as much as they want to consume
+
+We saw that the production bundle is determined by the country indifference curve
+
+::: {.incremental}
+- We won't go into how we determine preferences, but we will figure out how to get exact bundles based on a pre-determined mix of goods
+
+- We are looking for a point where 2 curves (lines) touch
+
+    - Which is equivalent to finding out at which coordinates they are equal to each other
+
+    - We will have [2 equations (PPF & Preferences) and 2 unknowns (Good X and Good Y)]{.h}
+:::
+
+---
+
+## Choosing Production - Example
+
+Let there be two countries [New New York]{.hi} and [Mars]{.hi-red} with the following productivities and a labor force size of $\bar{L} = 20$
+
+![](images/autarky-demand-example.png){fig-align="center"}
+
+We will focus on [New New York]{.hi} for this example:
+
+- They have prefer to consume [3 Slurm for every 2 Popplers]{.h}
+
+- We will find how much [Slurm and Popplers]{.h} [New New York]{.hi} needs to produce in order to satisfy demand
+
+---
+
+## New New York Production Bundle
+
+:::: {.columns}
+
+::: {.column width="40%"}
+<br>
+
+$$ \bar{L} = 20 $$
+
+![](images/autarky-demand-example.png){fig-align="left"}
+:::
+
+::: {.column width="60%"}
+
+We will:
+
+:::{.incremental}
+- Find the PPF intercepts
+- Find the proportion in which they prefer to consume the goods
+- Determine the PPF line
+- Set preferences proportion equal to PPF line and solve
+:::
+
+:::
+
+::::
+
+---
+
+## Find PPF Intercepts
+
+Looking only at [New New York]{.hi} with $\bar{L} = 20$
+
+![](images/autarky-demand-example-01.png){fig-align="center"}
+
+We need to find the maximum they can produce for each good:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Slurm]{.h .align-center}
+
+::: {.fragment}
+\begin{align*}
+    \text{Max Slurm} &= \text{MPL}_{s} * \bar{L} \\
+    \text{Max Slurm} &= 7 * 20 \\
+    \text{Max Slurm} &= 140
+\end{align*}
+:::
+
+:::
+
+::: {.column width="50%"}
+[Popplers]{.h .align-center}
+
+::: {.fragment}
+\begin{align*}
+    \text{Max Popplers} &= \text{MPL}_{p} * \bar{L} \\
+    \text{Max Popplers} &= 9 * 20 \\
+    \text{Max Popplers} &= 180
+\end{align*}
+:::
+
+:::
+
+::::
+
+---
+
+## Preference in Consuming Goods
+
+We were told that [New New York Consumers]{.hi} prefer to consume [3 Slurm]{.h} for every [2 Popplers]{.h}
+
+Let's see how this translates to our indifference curve concept 
+
+::: {.fragment}
+\begin{align*}
+    \dfrac{\text{Slurm}}{\text{Popplers}} = \dfrac{3}{2} \\
+\end{align*}
+:::
+
+::: {.fragment}
+\begin{align*}
+    \dfrac{\text{Slurm}}{\text{Popplers}} &= \dfrac{3}{2} \\
+    2 * \text{Slurm} &= 3 * \text{Popplers} \\
+    \dfrac{2}{3} * \text{Slurm} &= \text{Popplers}
+\end{align*}
+:::
+
+::: {.notes}
+We can write this as a proportion, then we can solve for either of the goods
+
+This will help us in finding that optimal bundle
+:::
+
+---
+
+## Determining the PPF Line
+
+:::: {.columns}
+
+::: {.column width="65%"}
+![](images/autarky-demand-example-02.png){fig-align="left"}
+:::
+
+::: {.column width="35%"}
+
+<br><br>
+
+[The PPF Line]{.h .align-center}
+
+::: {.fragment}
+\begin{align*}
+    \text{Y} &= b \pm mx \\
+    \text{Y} &= 180 - \dfrac{9}{7} * x
+
+\end{align*}
+:::
+
+:::
+
+::::
+
+---
+
+## Putting It Altogether
+
+Because we are finding where [Production]{.h} equals [Demand]{.h}, we are finding where these two equations equal each other
+
+$$
+    \text{Popplers} = \dfrac{2}{3} * \text{Slurm} \;\;\;\;\; \& \;\;\;\;\; \text{Popplers} = 180 - \dfrac{9}{7} * \text{Slurm}
+$$  
+
+::: {.fragment .small}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+\begin{align*}
+    \dfrac{2}{3} * \text{Slurm} &= 180 - \dfrac{9}{7} * \text{Slurm} \\
+    \left(\dfrac{2}{3} + \dfrac{9}{7} \right) * \text{Slurm} &= 180 \\ 
+    \left(\dfrac{14+27}{21} \right) * \text{Slurm} &= 180 \\ 
+    \left(\dfrac{41}{21} \right) * \text{Slurm} &= 180
+\end{align*}
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment}
+\begin{align*}
+    \left(\dfrac{41}{21} \right) * \text{Slurm} &= 180 \\
+    \text{Slurm} &= \dfrac{180}{1.95} \\ \\
+    \text{Slurm} &\approx 92.3
+\end{align*}
+:::
+
+:::
+
+:::
+
+::::
+
+---
+
+## Putting It Altogether
+
+We know that [New New York]{.hi} will make [92.3 Slurm]{.h} 
+
+Now we need to find how many [Popplers]{.h} they make:
+
+There are two ways to find this out:
+
+$$
+    \text{Popplers} = \dfrac{2}{3} * \text{Slurm} \;\;\;\;\; \text{or} \;\;\;\;\; \text{Popplers} = 180 - \dfrac{9}{7} * \text{Slurm}
+$$  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+::: {.fragment}
+\begin{align*}
+    \text{Popplers} &= \dfrac{2}{3} * 92.3 \\
+    \text{Popplers} &\approx 61.5
+\end{align*}
+:::
+:::
+
+::: {.column width="50%"}
+::: {.fragment}
+\begin{align*}
+    \text{Popplers} &= 180 - \dfrac{9}{7} * 92.3 \\
+    \text{Popplers} &= 180 - 118.7 \\
+    \text{Popplers} &\approx 61.3 
+\end{align*}
+:::
+:::
+
+::::
+
+---
+
+## Results!
+
+By knowing in which proportion consumers prefer their goods, we can find how much the country will produce under [autarky]{.hii}
+
+::: {.fragment}
+We could also figure out what happens to production if there is some form of shock to the economy, for example: 
+
+::: {.incremental}
+- Preferences change
+- Labor increases/decreases
+- Productivities change
+:::
+
+:::

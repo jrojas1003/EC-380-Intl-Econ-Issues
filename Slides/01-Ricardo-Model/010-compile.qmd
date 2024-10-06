@@ -10,7 +10,7 @@ format:
         slide-number: true
         footer: "EC380, Lecture 01 | Ricardian Model"
         preview-links: auto
-        code-f  old: FALSE
+        code-fold: FALSE
 title-slide-attributes: 
   data-background-position: left
 ---
@@ -39,7 +39,7 @@ title-slide-attributes:
   - Modern Trade Theory
   - Trade and Income Distribution
 
-[Assignment(s)]{.h}
+[Assignment(s)]{.h} [DUE BEFORE CLASS!]{.hi-red}
 
-- Quiz 1 Due 
-- Problem Set 1 Due Wednesday
+- Quiz 1
+- Problem Set 1
