@@ -15,25 +15,6 @@ title-slide-attributes:
   data-background-position: left
 ---
 
-## Recap
-
-[Previously]{.h}
-
-- Countries with no absolute advantage in production do still trade!
-
-- Countries that are more productive overall still benefit from trading with less productive countries
-
-- We assumed differences in technology, but with the [internet]{.hii} and the subsequent [information age]{.hii} these differences have narrowed
-
-. . . 
-
-[What else could explain why and how countries trade goods?]{.h .align-center}
-
-. . . 
-
-<br>
-The [Hecksher-Ohlin Model]{.hi} suggests that [differences in factor endowments]{.hi-red} can explain trade patterns
-
 # Heckscher-Ohlin Model {.inverse .note}
 
 {{< include 021-ho-model.qmd >}}
@@ -54,4 +35,3 @@ The [Hecksher-Ohlin Model]{.hi} suggests that [differences in factor endowments]
 
 {{< include 025-extensions.qmd >}}
 
----
