@@ -55,19 +55,3 @@ The [Hecksher-Ohlin Model]{.hi} suggests that [differences in factor endowments]
 {{< include 025-extensions.qmd >}}
 
 ---
-
-<!--
-## Next Topic 
-
-- Whatever is Next
-
-[Reading]{.h}
-
-- Next Chapter
-
-[Assignment(s)]{.h}
-
-- Quiz 
-- Problem Set 
-
--->
