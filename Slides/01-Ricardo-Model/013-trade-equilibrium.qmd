@@ -150,7 +150,7 @@ Up until now, we have not mentioned wage differences across countries.
 
 The price of goods we just found were [relative prices]{.h} which means it is a ratio of the value of one good over the other
 
-We assumed $P_{c}^{W} = 1$ which means that the [actual]{.hi} price of goods are equal to each other, [not that one unit of coffee is 1]{.h}
+We assumed $P_{c}^{W} = 1$ which means that the [actual]{.hi} price of goods are equal to each other, [not that one unit of coffee is worth $1]{.h}
 
 Knowing [relative prices]{.h} allows us to find [relative wages]{.h} as well:
 
