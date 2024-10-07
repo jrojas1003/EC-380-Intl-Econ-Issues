@@ -45,3 +45,116 @@ These require a high amount of capital and low amount of labor inputs
 ::: {.fragment}
 Because it is the [export good]{.h}, demand for [capital factors rise]{.hi-green} and demand for [labor factors fall]{.hi-red}
 :::
+
+::: {.fragment}
+This implies that income for factors in [higher demand]{.h} will rise
+
+Income for factors in [lower demand]{.hii} will fall
+:::
+
+::: {.fragment}
+> [Stolper-Samuelson Theorem suggests that the increase in price of a good raises the income earned by factors intensively used in its production. A fall in price of a good lowers the income of factors used intensively]{.hi-red}
+:::
+
+---
+
+## Stopler-Samuelson Theorem
+
+According to this [theory]{.h}, a country with a capital-intensive presence (like the US) will shift away from labor demand
+
+::: {.fragment}
+- Capital owners will benefit from trade
+- Labor will lose out
+:::
+
+::: {.fragment}
+There is an extension to this called the [Magnification Effect]{.h} which says that changes in prices lead to a larger change in factor incomes
+:::
+
+---
+
+## Magnification Effect
+
+Let's look at how this works in theory
+
+> [Recall the Stopler-Samuelson Theorem: When the Price of a good increases, the income earned by the factor intensively used in production will increase. The other factor will see decreased earnings.]{.note .h}
+
+We can write this up mathematically:
+
+::: {.fragment}
+$$
+    P_{X} = \alpha_{L} * w + \alpha_{K} * r
+$$
+
+Where
+
+:::: {.columns}
+
+::: {.column width="60%"}
+- $\alpha_{L}$: Labor Share of Factor Inputs
+- $\alpha_{K}$: Capital Share of Factor Inputs
+:::
+
+::: {.column width="40%"}
+- $w$: Wage Rate of Labor
+- $r$: Rental Rate of Capital
+:::
+
+::::
+
+:::
+
+---
+
+## Magnification Effect
+
+$$
+    P_{X} = \alpha_{L} * w + \alpha_{K} * r
+$$
+
+::: {.fragment}
+Let $\alpha_{L}$ be 0.25 and $\alpha_{K}$ be 0.75
+
+Then this product is made 25% by labor and 75% by capital inputs
+
+It is [capital-intensive]{.h}
+:::
+
+::: {.fragment}
+The [Stolper-Samuelson Theorem]{.hi} predicts that if $P_{X}$ increases, then $r \uparrow$ and $w \downarrow$  
+:::
+
+::: {.fragment}
+The [Magnification Effect]{.h} says that if prices go up by, let's say, 10%, then the capital rental rate will see earnings increase by more than 10%
+:::
+
+---
+
+## Magnification Effect - Example {.small}
+
+Let's introduce some notation:
+
+$$
+   \Delta P_{X} = \alpha_{L} * \Delta w + \alpha_{K} * \Delta r
+$$
+
+Here the $\Delta$ means "change in"
+
+[Let's throw some numbers to see it in action]{.h .align-center}
+
+::: {.fragment .small}
+$$
+   10 \% = 0.25 * -5\% + 0.75 * \Delta r
+$$
+:::
+
+::: {.fragment .small}
+\begin{align}
+    10 \% &= 1.25 \% + 0.75 * \Delta r \\
+    10 \% - 1.25 \% &= 0.75 * \Delta r \\
+    10 \% - 1.25 \% &= 0.75 * \Delta r \\
+    8.75 \% &= 0.75 * \Delta r \\
+    \dfrac{8.75}{0.75} \% &= \Delta r = 11.6
+\end{align}
+:::
+
