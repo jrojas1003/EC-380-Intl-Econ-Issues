@@ -150,11 +150,16 @@ $$
 
 ::: {.fragment .small}
 \begin{align}
-    10 \% &= 1.25 \% + 0.75 * \Delta r \\
-    10 \% - 1.25 \% &= 0.75 * \Delta r \\
-    10 \% - 1.25 \% &= 0.75 * \Delta r \\
-    8.75 \% &= 0.75 * \Delta r \\
-    \dfrac{8.75}{0.75} \% &= \Delta r = 11.6
+    10 \% &= - 1.25 \% + 0.75 * \Delta r \\
+    10 \% + 1.25 \% &= 0.75 * \Delta r \\
+    11.25 \% &= 0.75 * \Delta r \\
+    \dfrac{11.25}{0.75} \% &= \Delta r = 15 
 \end{align}
 :::
+
+---
+
+## Bridging the Gap in Time
+
+Movement across sectors and optimization of production occurs in what we generally call the [Long-Run]{.h}
 
