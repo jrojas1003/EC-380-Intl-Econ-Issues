@@ -163,3 +163,17 @@ $$
 
 Movement across sectors and optimization of production occurs in what we generally call the [Long-Run]{.h}
 
+The [Long-Run]{.h} is an arbitrary amount of time. 
+It is used as a measure of how things work out after all possible adjustments/adaptations occur.
+
+<br>
+
+::: {.fragment}
+[Let's look at an example:]{.hi}
+:::
+
+::: {.fragment}
+Suppose world prices adjust to trade openness and labor resources begin leaving the US steel industry toward some other industry
+
+In the [Long-Run]{.h}, workers may retrain and find employment elsewhere but in the [Short-Run]{.hp} they are stuck with pay cuts and unemployment
+:::
