@@ -1,0 +1,28 @@
+---
+title: "Trade Theory | Issues and Empirics"
+subtitle: "EC 380 - International Economic Issues"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "EC380, Lecture 03 | Issues & Empirics"
+        preview-links: auto
+        code-fold: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+# Employment {.inverse .note}
+
+{{< include 031-employment.qmd >}}
+
+# Migration {.inverse .note}
+
+{{< include 032-migration.qmd >}}
+
+# Political Economy {.inverse .note}
+
+{{< include 033-political-economy.qmd >}}
