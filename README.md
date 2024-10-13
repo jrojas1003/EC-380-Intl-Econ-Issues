@@ -8,8 +8,8 @@ Welcome to EC 380: International Economic Issues (Fall 2024) at the University o
 
 ## Lectures
 
-[Lecture 00 - Introduction](https://rawcdn.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/329abc29973abd4d202b2d95071de9b9c3664bed/Slides/00-Introduction/000-compile.html)
+[Lecture 00 - Introduction](https://raw.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/main/Slides/00-Introduction/000-compile.html)
 
-[Lecture 01 - Ricardian Model](https://rawcdn.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/8c4a144a7a8edd9bd81b5e0579442ee1fc55acf5/Slides/01-Ricardo-Model/010-compile.html)
+[Lecture 01 - Ricardian Model](https://raw.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/main/Slides/01-Ricardo-Model/010-compile.html)
 
-[Lecture 02 - Heckscher-Ohlin Model](https://rawcdn.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/76cf1c0a6922b11bccfff245e3e3142e8c23c171/Slides/02-HO-Model/020-compile.html)
+[Lecture 02 - Heckscher-Ohlin Model](https://raw.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/main/Slides/02-HO-Model/020-compile.html)
