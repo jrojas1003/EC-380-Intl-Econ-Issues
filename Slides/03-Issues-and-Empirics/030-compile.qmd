@@ -15,6 +15,24 @@ title-slide-attributes:
   data-background-position: left
 ---
 
+## Recap
+
+So far we have done a lot of work on learning [trade theory]{.hp}
+
+::: {.incremental}
+- Comparative advantages determine trade flows
+
+- Differences in technology, factor endowments, location, and prosperity can all help countries decision to specialize
+
+  - This can either be for final or intermediate goods
+
+- Recent technological advances have fragmented production processes across countries, furthering the importance of trade
+:::
+
+::: {.fragment}
+Now we will focus on issues of trade with respect to jobs, wages, migration, and political economy
+:::
+
 # Employment {.inverse .note}
 
 {{< include 031-employment.qmd >}}

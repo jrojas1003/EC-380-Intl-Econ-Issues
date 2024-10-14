@@ -1,3 +1,96 @@
 ---
 name: employment
 ---
+
+## Economic Trends
+
+Manufacturing has been on a [long downward trend in NA and West EU]{.hp} for decades
+
+Wage inequality increased, particularly in the US with a primary effect on young, low-education, and less-skilled workers
+
+Throughout this period, [trade saw its greatest bout of liberalization]{.hp} due to:
+
+::: {.incremental}
+- Widespread tariff reductions
+- Ascensions of major economies such as China to the World Trade Organization (WTO) and;
+- Reductions in direct trade costs (Advancement in technology)
+:::
+
+---
+
+## Economic Trends
+
+With the economy experiencing these long trends of declining manufacturing employment and wage reductions questions come up
+
+::: {.fragment}
+- Where are these jobs going?
+- Are low wages abroad influencing wage levels in developed economies?
+:::
+
+::: {.fragment}
+The [number of jobs]{.hp} depends on age profile, size of population, labor market policies, and the state of the business cycle
+
+While trade does not act as the main influence of [jobs level]{.hp} for large open economies, it [might affect specific sectors]{.hi-red} in a particularly focused manner
+:::
+
+---
+
+## The China Shock - Abstract
+
+![](images/china-shock-abstract.png){fig-align="center"}
+
+---
+
+## The China Shock - Manufacturing Employment
+
+![](images/china-shock-figure-1.png){fig-align="center"}
+
+---
+
+## The China Shock - Regression Results
+
+![](images/china-shock-table-6.png){fig-align="center"}
+
+---
+
+## The China Shock - Conclusion
+
+To quote the authors concluding remarks:
+
+<br>
+
+![](images/china-shock-conclusion.png){fig-align="center"}
+
+<br>
+
+::: {.fragment}
+> [Trade research has increasingly attempted to incorporate considerations for marginalized groups resulting from globalization]{.hp}
+:::
+
+---
+
+## Trade & Employment
+
+- Trade with less developed countries has potentially led to spillover effects on local wage rates
+
+::: {.incremental}
+- Up until recently, decline in low-skill wage rates was only somewhat attributed to increased trade openness
+
+- It was initially suggested that [tech improvements were driving the marginal productivity of skilled labor upward]{.h}, driving up the wage gap
+
+- Since 2000, this gap has stagnated, leaving experts without a main explanatory factor anymore
+:::
+
+---
+
+## Trade & Employment
+
+Research in this area has seen a resurgence given that previously accepted reasoning on it has become outdated
+
+A natural question that comes up is [whether trade or technology]{.hp} plays a larger role in sector-specific outcomes
+
+::: {.fragment}
+- I think this question is too broad and not entirely helpful to counteract the issue
+
+- It may also redirect much needed attention from research that addresses how to [facilitate reallocation among displaced manufacturing workers]{.hp}
+:::
