@@ -165,7 +165,7 @@ $$
 $$
 
 ::: {.fragment}
-Many empirical analyses leverage model specifications on these key factors, which explain much of the variation obseved in countyr-level trade flows    
+Many empirical analyses leverage model specifications on these key factors, which explain much of the variation obseved in country-level trade flows    
 :::
 
 --- 
