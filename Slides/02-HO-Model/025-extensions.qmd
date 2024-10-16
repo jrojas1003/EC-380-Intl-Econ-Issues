@@ -58,7 +58,7 @@ Rather than going between extremes of no-trade to completely free trade, we norm
 [Findings]{.hp}
 
 - As labor producitity in a particular industry rises, the intensive margin by which goods are exported increases. 
-The country becmoes a net exporter of that godo
+The country becomes a net exporter of that godo
 :::
 
 ::: {.fragment}
