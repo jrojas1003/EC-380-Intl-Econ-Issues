@@ -78,7 +78,7 @@ These are things that may [draw people into a receiving country]{.hi}
 
 ## Migration: Social Networks
 
-Not Facebook. But rather ["personal reasons"]{.hi} that may draw individuals:
+Not Facebook. But rather ["personal reasons"]{.hi} that may draw individuals and make them congregate in certain places:
 
 <br><br>
 
@@ -132,6 +132,72 @@ Our very own [Mark Colas](https://sites.google.com/site/markyaucolas/){.hp} rece
 [In practice]{.hp}, high-skilled migrant influxes show a similar lack of impact
 
 ![](images/gandal-et-al-abstract.png){fig-align="center"}
+
+---
+
+## Migration: Effects on Wages
+
+We will keep it simple by assuming there are:
+
+::: {.fragment}
+- Two countries
+- Produce a single good made with [labor]{.h} and an immobile factor
+:::
+
+::: {.fragment}
+Since there is only one good, there is no reason to trade [however]{.hi} there will be "trade" in labor services
+
+- Workers move in search of higher wages
+:::
+
+::: {.fragment}
+In the absence of migration, wage differences across countries can be through technology differences, or differences in the availability of the immobile factor
+:::
+
+---
+
+## Migration: Effects on Wages
+
+![](images/krugman-migration-graph.png){fig-align="center"}
+
+::: {.notes}
+Horizontal axis is the total world labor force
+
+MPL curves represent production of the same good in different countries
+
+Wages are on the vertical axis and are "real wages" (wage divided by the price of the good in each country)
+:::
+
+---
+
+## Migration: Effects on Wages
+
+:::: {.columns}
+
+::: {.column width="55%"}
+![](images/krugman-migration-graph.png){fig-align="left"}
+:::
+
+::: {.column width="45%" .small}
+Home workers: $OL^{1}$  
+
+Foreign workers: $L^{1}O^{*}$ 
+
+Immobile Factor endowments are different and cause real wages to be higher in [Foreign (point B)]{.hi-orange} than in [Home (Point C)]{.hi-teal}
+
+[Who moves where?]{.h .align-center}
+
+::: {.fragment}
+[Home workers]{.hi-teal} will migrate to [Foreign]{.hi-orange}
+
+This reduces the [Home labor force]{.hi-teal} and raises the real wage in [Home]{.hi-teal}
+
+In [Foreign]{.hi-orange} the opposite occurs
+:::
+
+:::
+
+::::
 
 ---
 
@@ -200,6 +266,7 @@ In the [Long-Run]{.hi} other things are allowed to move which makes outcomes som
 
 ::: {.incremental}
 - Given a rise in labor ($\bar{L}$ to $\bar{L}'$ in our example), capital/land/labor ratios readjust
+    - Immobile factors are free to shift in the [Long-Run]{.hi}
 - Instead of what we see in the [Short-Run]{.hi}, these ratios adjust to ideal levels such that ideal production levels are maintained
 - $\Delta L$ will flow entirely into the [labor-intensive]{.h} industry
 :::
