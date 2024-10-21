@@ -1,3 +1,206 @@
 ---
 name: migration
 ---
+
+## Labor Supply
+
+So far our models have kept labor supplies fixed across countries and not allowed for migration of labor between countries
+
+Workers were able to switch sectors in [Ricardian]{.h}, [HO]{.h}, and [Specific Factors]{.h} models but not country
+
+::: {.fragment}
+If we were to incorporate this migration-feature into a model it may make it more realistic
+:::
+
+---
+
+## Cause of Migration
+
+There are many possible and imaginable reasons individuals may migrate. We can categorize them into:
+
+<br><br><br>
+
+:::: {.columns}
+
+::: {.column width="33%"}
+[Push Factors]{.h .align-center}
+
+:::
+
+::: {.column width="33%"}
+[Pull Factors]{.h .align-center}
+
+:::
+
+::: {.column width="33%"}
+[Social Networks]{.h .align-center}
+
+:::
+
+::::
+
+---
+
+## Migration: Push Factors
+
+These are things that may incentivize individuals to move [away from their origin country]{.hi}
+
+::: {.incremental}
+- Local purchasing power being too low
+- Housing too expensive
+- Recessions
+- Political strife/violence/uncertainty
+- War & famine
+:::
+
+<br>
+
+::: {.fragment}
+[Climate change and related agricultural patterns may induce further mass-migrations in the coming future]{.hp .align-center}
+:::
+
+---
+
+## Migration: Pull Factors
+
+These are things that may [draw people into a receiving country]{.hi}
+
+<br><br>
+
+::: {.incremental}
+- Income levels
+- Healthcare
+- Socioeconomic stability
+- Educational support/institutions
+:::
+
+---
+
+## Migration: Social Networks
+
+Not Facebook. But rather ["personal reasons"]{.hi} that may draw individuals:
+
+<br><br>
+
+::: {.incremental}
+- Family ties
+- Local affinities to surroundings
+- Ethnic groupings/enclaves
+- Insider opportunities
+:::
+
+---
+
+## Migration - Theory
+
+[In theory]{.hp}, suppose we were in a scenario where trade was already open and now we wanted to allow for the free movement of labor
+
+::: {.fragment}
+[In theory]{.hp}, free movement of labor will see wages harmonize across countries as we saw them across industries in our simple models
+
+It will do that to an extent, but [the gap between countries will still exist somewhat]{.h}
+:::
+
+::: {.fragment}
+The European Union is a great real-world example of this process:
+
+- Brexit placed a great deal of focus on [limiting the movement of people while trying to ekep the movement of goods open]{.h}
+:::
+
+---
+
+## Migration - Practice
+
+[In practice]{.hp}, empirics have shown [evidence of effects of low-skilled worker inflows]{.h} [not impacting]{.hi-red} [other local worker groups]{.h}
+
+::: {.fragment}
+![](images/card-mariel-boatlift-abstract.png){fig-align="center" height="475"}
+:::
+
+---
+
+## Migration - Practice
+
+Our very own [Mark Colas](https://sites.google.com/site/markyaucolas/){.hp} recently published:
+
+![](images/colas-sachs-abstract.png){fig-align="center"}
+
+---
+
+## Migration - Practice
+
+[In practice]{.hp}, high-skilled migrant influxes show a similar lack of impact
+
+![](images/gandal-et-al-abstract.png){fig-align="center"}
+
+---
+
+## Migration: Short-Run
+
+Let's view a stylized example of how [migration may impact local labor markets]{.h} in the [Short-Run]{.hp}
+
+Recall the [OH model]{.h}, where labor can move between industries but capital is fixed
+
+We also have that labor is a sum of both industry labor, such that:
+
+$$\bar{L} = L_{x} + L_{y}$$
+
+---
+
+## Migration: Short-Run
+
+![](images/migration-short-run-01.png){fig-align="center"}
+
+---
+
+## Migration: Short-Run
+
+![](images/migration-short-run-02.png){fig-align="center"}
+
+---
+
+## Migration: Short-Run
+
+:::: {.columns}
+
+::: {.column width="70%"}
+![](images/migration-short-run-02.png){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+[Effects]{.h .align-center}
+
+::: {.incremental .small}
+- Immigration causes total labor to change: $\bar{L}' = \bar{L} + \Delta L$
+- Shifting out the supply curve of industry $x$ causes the corresponding marginal productivity curve to shift right by $\Delta L$
+:::
+
+:::
+
+::::
+
+---
+
+## Migration: Short-Run
+
+[Equilibrium Outcomes]{.hi} 
+
+::: {.incremental}
+- Number of workers in both industries rises
+- Wages across both industries fall
+- [Why?]{.hp}
+    - Labor became [less scare/more abundant]{.h}, relative to the fixed amount of capital/land
+:::
+
+---
+
+## Migration: Long-Run
+
+In the [Long-Run]{.hi} other things are allowed to move which makes outcomes somewhat different:
+
+::: {.incremental}
+- Given a rise in labor ($\bar{L}$ to $\bar{L}'$ in our example), capital/land/labor ratios readjust
+- Instead of what we see in the [Short-Run]{.hi}, these ratios adjust to ideal levels such that ideal production levels are maintained
+- $\Delta L$ will flow entirely into the [labor-intensive]{.h} industry
+:::
+

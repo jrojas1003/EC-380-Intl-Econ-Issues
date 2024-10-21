@@ -94,3 +94,72 @@ A natural question that comes up is [whether trade or technology]{.hp} plays a l
 
 - It may also redirect much needed attention from research that addresses how to [facilitate reallocation among displaced manufacturing workers]{.hp}
 :::
+
+---
+
+## Trade & Employment
+
+Manufacturing firms that adopt specific technologies, such as computers or industrial automation, are [significantly different from those that do not]{.h}
+
+::: {.fragment}
+- They are larger and more productive upon adoption
+:::
+
+::: {.fragment}
+While exposure to [greater import competition]{.h} is associated with employment decline, firms that increase their use of imported goods conditional on such exposure can exhibit employment gains
+:::
+
+::: {.fragment}
+> [Should direct use of imported goods be considered a technological input?]{.h .note}
+:::
+
+---
+
+## Poverty and Inequality 
+
+If there are documented negative effects, how about positives?
+
+[Does International Trade Reduce Poverty & Income Inequality?]{.hp}
+
+::: {.incremental}
+- In 2013, China had 13.9% of the world's skilled labor and 39.8% of the world's less skilled labor
+- For the same year, China held 16% of world GDP
+- This makes them abundant in:
+    - [Low-skilled labor]{.hp}
+- And scarce in [High-skilled labor]{.h}
+- Trade openness translates to elevated demand for low-skill workers, and their wages rise
+:::
+
+---
+
+## Poverty 
+
+["Towards the End of Porverty" from The Economist]{.hp} has the following to say:
+
+::: {.incremental}
+- The number of people living off of $1.25 per day was cut by one-half over the past 20 years
+- It has declined from 43% of the World Population in 1990 to 21% in 2010
+- Attributes much of this achievement to China
+:::
+
+::: {.fragment}
+> "China is responsible for three-quarters of the achievement... even though income equality is rising fast, extreme poverty is disappearing. China pulled 680m people out of misery in 1981-2010 and reduced its extreme poverty from 84% to 10%."
+:::
+
+---
+
+## Inequality
+
+While global poverty has fallen due to free trade, [what about income inequality?]{.h}
+
+::: {.incremental}
+- Income inequality has been increasing
+    - Higher incomes are rising more rapidly than lower incomes
+- The same is true of the US $\Rightarrow$ The relative wages of skilled workers has been rising 
+:::
+
+::: {.fragment}
+[This may seem counter-intuitive to what the HO model predicts]{.hp .align-center} 
+
+A model of offshoring better explains this phenomenon but is beyond this course
+:::
