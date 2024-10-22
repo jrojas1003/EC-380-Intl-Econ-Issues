@@ -1,3 +1,22 @@
 ---
 name: political economy
 ---
+
+## Political Economy of Trade
+
+There are many points of view of how international trade should be treated through a political view
+
+Up until now we have seen there are both good and bad outcomes of trade, happening at the exact same time
+
+Take for example the following scenario:
+
+::: {.incremental}
+- In the US, workers in the import-competing sectors earn wages substantially below the average wage, and those 
+:::
+
+---
+
+## Importing Political Polarization?
+
+![](images/autor-2020-abstract.png){fig-align="center"}
+

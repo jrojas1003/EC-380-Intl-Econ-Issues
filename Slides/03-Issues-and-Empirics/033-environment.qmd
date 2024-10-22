@@ -37,6 +37,12 @@ Per dollar value exports, which country has the cleanest 2004 exports?
 
 ## Environmental Effects
 
+![](images/shapiro-table-01.png){fig-align="center"}
+
+---
+
+## Environmental Effects
+
 [Main Findings]{.hi}
 
 ::: {.incremental}
