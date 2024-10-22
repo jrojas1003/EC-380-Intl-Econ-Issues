@@ -41,10 +41,6 @@ Now we will focus on issues of trade with respect to jobs, wages, migration, and
 
 {{< include 032-migration.qmd >}}
 
-# Environment {.inverse .note}
-
-{{< include 033-environment.qmd >}}
-
 # Political Economy {.inverse .note}
 
 {{< include 034-political-economy.qmd >}}
