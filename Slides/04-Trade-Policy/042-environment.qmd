@@ -1,0 +1,53 @@
+---
+name: environment
+---
+
+## Environmental Effects
+
+[Cristea et al. - Trade & Greenhouse Gas Emissions from International Freight Transport (2013)]{.hi .align-center .small}
+
+![](images/cristea-et-al-abstract.png){fig-align="center"}
+
+---
+
+## Enviromental Effects
+
+Per dollar value exports, which country has the cleanest 2004 exports?
+
+![](images/cristea-et-al-fig-01.png){fig-align="center"}
+
+---
+
+## Environmental Effects
+
+::: {.incremental}
+- International transportation is a small fraction of [overall emissions]{.hp} but a surprisingly large fraction of [trade-related emissions]{.hp}
+- 2/3 of trade-related emissions in US exports are due to international transportation
+- Many exporters and products that look relatively "clean", when focusing on output emissions, are in fact [heavy emitters]{.hp} once we include transportation
+- Under [trade liberalization]{.hp}, transport emissions will become increasingly important, growing [twice as fast]{.hp} as the emission from trade-related output
+:::
+
+---
+
+## Environmental Effects
+
+![](images/shapiro-abstract.png){fig-align="center"}
+
+---
+
+## Environmental Effects
+
+![](images/shapiro-table-01.png){fig-align="center"}
+
+---
+
+## Environmental Effects
+
+[Main Findings]{.hi}
+
+::: {.incremental}
+- Shows international trade harms the environment
+- Effects are equally driven by production and transportation of traded goods
+- [Welfare gains]{.hp} of trade are greater than environmental costs by a factor of 161
+- [Welfare gains]{.hp} across every country in the sample, [however gains are disproportionately poorer for less-developed countries]{.h}
+:::
