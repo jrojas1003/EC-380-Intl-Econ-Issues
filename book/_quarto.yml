@@ -5,14 +5,13 @@ book:
   title: "International Economic Issues Workbook"
   subtitle: "The Fun Stuff About Trade"
   author: "Jose Rojas-Fallas"
-  date: "7/19/2024"
+  date: "10/21/2024"
   favicon: globe-icon.png
   chapters:
     - index.qmd
-    - game/organization.qmd
-    # - slides/003-trade-overview.qmd
-    #     parts:
-        # - game/round-1.qmd
+    - part: game/organization.qmd
+      chapters:
+      - game/round-1.qmd
         # - game/round-2.qmd
         # - game/round-3.qmd
         # - game/round-4.qmd
@@ -25,7 +24,6 @@ book:
 #    - Gerber/CH10/ch10-summary.qmd
 #    - Gerber/CH12/ch12-summary.qmd
 #   - Gerber/CH15/ch15-summary.qmd
-    - references.qmd
 
 bibliography: references.bib
 

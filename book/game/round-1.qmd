@@ -1,3 +1,80 @@
----
-title: "Autarky"
----
+# Techonology Differences {.unnumbered}
+
+## Game Set-up
+
+There are 10 groups (countries) made up of 8 students each
+
+In this game we are seeing how **technological differences** across countries can impact outcomes.
+Each country is tasked with producing as much as they possibly can with the given materials in a set amount of time. 
+
+Each country is given a different envelope with materials to produce paper shapes.
+Each paper shape has it's own value and are "sold" to the instructor for wealth. 
+**Shapes must follow specific measurements and be cut using scissors. Any shape that is not to the proper specifications or well-cut are discarded**.
+
+Due to the difference in endowments some countries are "more productive" than others. 
+
+There are **three different type of countries** with the following **endowments**: 
+
+:::: {.columns}
+
+::: {.column width="33%"}
+**High Income** (2)
+
+- x2 Scissors
+- x2 Rulers
+- x1 Circle (Plate)
+- x2 Pencils
+- x10 White Papers
+- x5 $100 Notes
+:::
+
+::: {.column width="33%"}
+**Middle Income** (5)
+
+- x2 Rulers
+- x2 Pencils
+- x10 White Papers
+- x5 $100 Notes
+:::
+
+::: {.column width="33%"}
+**Low Income** (3)
+
+- x2 Pencils
+- x10 White Papers
+- x5 $100 Notes
+:::
+::::
+
+## Results
+
+There were a total of **218** shapes that met the stipulated criteria.
+Of those **218**, there were **12** circles (valued at \$500 each), **36** rectangles (valued at \$300 each), and **170** equilateral triangles (values at \$150 each). 
+
+From the original raw resources and total \$5000 handed out, all countries produced a total of **$47300** in welfare (goods + money).
+
+### Notes
+
+Unsurprisingly, wealth is concentrated in a few nations (most likely the original High-Income countries).
+
+And, because of the incentives, there was a **specialization** in the smallest and easiest-to-produce shape (equilateral triangles).
+
+The data suggests that the poor countries either gave up, or only managed to produce the minimum given their constraints. 
+
+Trade, in this context, was around the trading of techonology (rich nations "rented" out their scissors) rather than trade of goods. 
+Although we can consider factor inputs as intermediate goods.
+
+| Country | Circles | Rectangles | Equi-Tri | Triangle | Half | Cash | Wealth | Share |
+|:-------:|:-------:|:----------:|:----:|:--------:|:----:|:----:|:-----:|:-----:|
+|    1    |    0    |      4     |  0   |    0     |  0   |  500 |  1700 |   4%  |
+|    2    |    0    |     13     |  16  |    0     |  0   |  300 |  6600 |  14%  |
+|    3    |    0    |      2     |  0   |    0     |  0   |  300 |  900  |   2%  |
+|    4    |    0    |      0     |  79  |    0     |  0   |  700 | 12550 |  27%  |
+|    5    |    0    |     12     |  0   |    0     |  0   |   0  |  3600 |   8%  |
+|    6    |    0    |      1     |  0   |    0     |  0   |  500 |  800  |   2%  |
+|    7    |    0    |      0     |  0   |    0     |  0   |  500 |  500  |   1%  |
+|    8    |    0    |      0     |  0   |    0     |  0   |  200 |  200  |   0%  |
+|    9    |    0    |      4     |  0   |    0     |  0   |  500 |  1700 |   4%  |
+|   10    |   12    |      0     |  75  |    0     |  0   | 1500 | 18750 |  40%  |
+| **Total** | **12** |  **36**   |**170**|  **0**   |**0** |**5000**|**47300**|**100%**|
+
