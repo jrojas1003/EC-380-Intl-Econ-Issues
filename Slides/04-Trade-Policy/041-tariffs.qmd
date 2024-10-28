@@ -369,3 +369,15 @@ It is possible to improve natinoal welfare with tariffs as long as there is no r
 Home price becomes $P^{*}_{t} = P_{W}^{*} + t$
 - Price reduction offsets some of the deadweight loss caused by tariff introduction 
 :::
+
+---
+
+## Tariff Analysis: Large Country
+
+![](images/market-tariff-large-country.png){fig-align="center"}
+
+::: {.fragment}
+A lower price implies that areas $b$ and $d$ are smaller. Less domestic production occurs and fewer consumers are squeezed out of the market. 
+
+If $g > b + d$ then the tariff is [welfare enhancing]{.hp}
+:::
