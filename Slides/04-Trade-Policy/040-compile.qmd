@@ -1,0 +1,92 @@
+---
+title: "Trade Policy | Tariffs, Quotas, and Subsidies"
+subtitle: "EC 380 - International Economic Issues"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "EC380, Lecture 04 | Trade Policy"
+        preview-links: auto
+        code-fold: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+## Recap
+
+[Previously]{.h}
+
+- Trade openness appears to have had an effect on the compositional make-up of US industrial activity
+
+- Effects are likely negative for [low-income unskilled workers]{.hp}
+
+- Migration opennes yields little evicence of wage change
+
+- Trade openness is linked with political consequences, where people become more polarized
+
+::: {.fragment}
+[Now]{.h}
+
+- Effects of protectionism through [tariff rates and quotas]{.hp}
+
+- Inform ourselves on how interference with free trade impacts markets
+:::
+
+---
+
+## Key Topics
+
+We will work through [five topics]{.hp}:
+
+::: {.incremental}
+- Use market theory to explain the [effects of tariffs]{.hp} on market outcomes
+- Compare tariff data on inputs and outputs to compare [effective and nominal protection]{.hp} levels
+- Comparing the [impact of quotas]{.hp} relative to tariff rate adjustments
+- Highlight forms of protection that are [difficult to observe]{.hp}
+- New [unconventional methods]{.hp} of protectionism
+:::
+
+--- 
+
+## Glossary
+
+Let's define key terms for this lecture:
+
+::: {.incremental}
+- [Protectionism:]{.hp} 
+A concerted effort to shield domestic industries from external competitive pressure by restricting foreign import choices. 
+This can be achieved through subsidizing local industry, taxing imports, and limiting number of goods that can enter the country, per annum
+- [Tariff:]{.hp} 
+Percentage of value based tax on a country's imports. 
+These vary based on the origin and commodity of imported goods
+- [Quota:]{.hp}
+Weight and quantity limits on the amount of goods that can be imported into the country
+:::
+
+::: {.fragment .small}
+Not all quotas are acts of protectionism. 
+Some are required for national security (e.g. protecting the domestic supply of food), or to avoid health concerns related to imoprts from specific countries (e.g. livestock diseases)
+:::
+
+# Tariffs {.inverse .note}
+
+{{< include 041-tariffs.qmd >}}
+
+# Input & Outputs {.inverse .note}
+
+{{< include 042-input-output.qmd >}}
+
+# Quotas {.inverse .note}
+
+{{< include 043-quotas.qmd >}}
+
+# Observing Protectionism {.inverse .note}
+
+{{< include 044-observing-protectionism.qmd >}}
+
+# Coordinating Trade Policy {.inverse .note}
+
+{{< include 045-coordinating-trade-policy.qmd >}}
