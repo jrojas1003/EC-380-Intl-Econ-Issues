@@ -33,7 +33,23 @@ We could have:
 
 ## Political Economy: Trade is Good?
 
+Most economist sure think so 
 
+There are [three main reasons]{.h} why economists do [not]{.hp} generally stres the income distribution effect of trade:
+
+::: {.incremental}
+- Income distribution effects are not specific to international trade
+
+- It is always better to allow trade and compensate those who are hurt by it than to prohibit the trade
+
+- Those who stand to lose from increased trade are typically better organized than those who stand to gain. 
+:::
+
+::: {.fragment}
+This rings [somewhat true]{.hp} if we are considering industries. 
+
+But people are not industries, and when in a democracy, people have the ability to influence their political context
+:::
 
 ---
 
