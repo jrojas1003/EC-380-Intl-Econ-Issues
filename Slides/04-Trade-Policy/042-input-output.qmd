@@ -2,3 +2,100 @@
 name: input-outputs
 ---
 
+## Inputs & Outputs
+
+While tariffs protect one industry,they may also [inconvenience other domestic industries]{.h} that are reliant on inputs of intermediated goods
+
+::: {.fragment}
+- US tariffs on steel products protected the steel industry and hurt the automotive industry
+:::
+
+::: {.fragment}
+Let's introduce two concepts:
+:::
+
+::: {.fragment}
+[Nominal Rate of Protection]{.hp}: 
+The amount of a [tariff expressed as a percentage of a good's price]{.hi}.
+This is the tariff we have discussed so far
+:::
+
+::: {.fragment}
+[Effective Rate of Protection]{.hp}: 
+The level of protection on intermediate inputs and nominal tariff levied on the protected good.
+[Measured as percentage change in domestic value added]{.h} after tariffs on intermediate and final goods are applied
+:::
+
+---
+
+## Inputs & Outputs
+
+I mentioned [value added]{.hp}, so let's define that too
+
+::: {.fragment}
+[Value-Added]{.hp}: 
+Contribution of domestic production factors (capital and labor) to a given product/good
+
+With that defined, we can take a deeper look at [Effective Rate of Protection]{.hp}
+:::
+
+::: {.fragment}
+$$
+    \text{Effective Rate of Protection} = \dfrac{(VA^{*} - VA)}{VA}
+$$
+
+- $VA$ is [domestic value-added]{.hi} under free-trade
+
+- $VA^{*}$ is $VA$ [after accounting for all relevant tariffs]{.hi}
+:::
+
+---
+
+## Effective Rate of Protection
+
+Suppose we introduce [two tariffs]{.hp}, in sequence
+
+![](images/effective-rate-protection-01.png){fig-align="center"}
+
+---
+
+## Effective Rate of Protection: Final 
+
+![](images/effective-rate-protection-02.png){fig-align="center"}
+
+---
+
+## Effective Rate of Protection: Intermediate
+
+![](images/effective-rate-protection-03.png){fig-align="center"}
+
+---
+
+## Effective Rate of Protection
+
+![](images/effective-rate-protection-04.png){fig-align="center"}
+
+---
+
+## Inputs & Outputs
+
+It is possible to go too far trying to protect domestic industries and end up hurting them
+
+Sufficiently high import reliance can make tariff protection yield [negative protection measures]{.hp}, depending on the good examined
+
+::: {.fragment}
+![](images/negative-protection-rate.png){fig-align="center"}
+:::
+
+---
+
+## Summary
+
+<br><br>
+
+- Tariffs are bad for countries with little influence on world prices
+
+- Large countries exhibit an ambiguous effect, conditional on everyone playing nice
+
+- Tariff protection can backfire, depending on input reliances
+
