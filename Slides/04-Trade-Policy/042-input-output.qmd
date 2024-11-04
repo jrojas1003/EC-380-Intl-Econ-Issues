@@ -34,7 +34,7 @@ I mentioned [value added]{.hp}, so let's define that too
 
 ::: {.fragment}
 [Value-Added]{.hp}: 
-Contribution of domestic production factors (capital and labor) to a given product/good
+Price of a good minus the cost of intermediate imports used to produce the good
 
 With that defined, we can take a deeper look at [Effective Rate of Protection]{.hp}
 :::

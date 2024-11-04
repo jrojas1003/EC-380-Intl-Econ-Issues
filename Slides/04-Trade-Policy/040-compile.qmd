@@ -70,7 +70,7 @@ Weight and quantity limits on the amount of goods that can be imported into the 
 Not all quotas are acts of protectionism. 
 Some are required for national security (e.g. protecting the domestic supply of food), or to avoid health concerns related to imoprts from specific countries (e.g. livestock diseases)
 :::
-
+  
 # Tariffs {.inverse .note}
 
 {{< include 041-tariffs.qmd >}}
