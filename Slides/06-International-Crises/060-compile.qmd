@@ -1,0 +1,40 @@
+---
+title: "Global Finance | International Crises"
+subtitle: "EC 380 - International Economic Issues"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "EC380, Lecture 06 | International Crises"
+        preview-links: auto
+        code-fold: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+# Banking Crises {.inverse .note}
+
+{{< include 061-banking-crises.qmd >}}
+
+# Exchange Rate Crises {.inverse .note}
+
+{{< include 062-exchange-rate-crises.qmd >}}
+
+# Debt Crises {.inverse .note}
+
+{{< include 063-debt-crises.qmd >}}
+
+# Balance of Payment Crises {.inverse .note}
+
+{{< include 064-balance-of-payment-crises.qmd >}}
+
+# Vulnerabilities {.inverse .note}
+
+{{< include 065-vulnerabilities.qmd >}}
+
+# Examples {.inverse .note}
+
+{{< 066-examples.qmd >}}
