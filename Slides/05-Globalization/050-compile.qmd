@@ -1,0 +1,32 @@
+---
+title: "Effects of Globalization"
+subtitle: "EC 380 - International Economic Issues"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "EC380, Lecture 05 | Globalization"
+        preview-links: auto
+        code-fold: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+# Context {.inverse .note}
+
+{{< include 051-context.qmd >}}
+
+# Global Value Chains {.inverse .note}
+
+{{< include 052-global-value-chains.qmd >}}
+
+# Financial Integration {.inverse .note}
+
+{{< include 053-financial-integration.qmd >}}
+
+# Globalization Perspectives {.inverse .note}
+
+{{< include 054-globalization-perspectives.qmd >}}
