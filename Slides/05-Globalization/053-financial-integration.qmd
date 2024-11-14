@@ -1,3 +1,47 @@
 ---
 name: financial integration
 ---
+
+## Separate from Trade in Goods & Services
+
+Global [financial integration]{.hp} is a much-debated but important topic. Here is a quick summary:
+
+::: {.incremental}
+- US flow of foreign investments has been [declining since 2008]{.hp} 
+- Many countries have [large international financial flows]{.hp} or investments, consisting of assests and liabilities (FDI, securities, and debts)
+- Countries have become susceptible to [sudden stops and surges]{.hp} in these flows, leading to greater economic volatility for developing nations
+:::
+
+---
+
+## Globalization & Financial Integration
+
+![](images/globalization-financial-investments.png){fig-align="center"}
+
+---
+
+## Globalization & Financial Integration
+
+![](images/globalization-stable-volatile-investments.png){fig-align="center"}
+
+---
+
+## Globalization & Financial Integration
+
+![](images/globalization-susceptible-crises.png){fig-align="center"}
+
+---
+
+## Goal of Globalization
+
+The US established a global economic order governed by mutually accepted rules and overseen by multilateral institutions
+
+The idea has been to create a better world with countries seeking to cooperate with one another to promote [prosperity and peace]{.hp} 
+
+[Free trade]{.hp} and the [rule of law]{.hp} were mainstays of the system, helping to prevent most economic disputes from escalating into larger conflicts
+
+---
+
+## Key Institutions
+
+![](images/globalization-organizations.png){fig-align="center"}
