@@ -15,3 +15,19 @@ Welcome to EC 380: International Economic Issues (Fall 2024) at the University o
 [Lecture 02 - Heckscher-Ohlin Model](https://raw.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/main/Slides/02-HO-Model/020-compile.html)
 
 [Lecture 03 - Empirics and Issues](https://raw.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/main/Slides/03-Issues-and-Empirics/030-compile.html)
+
+[Lecture 04 - Trade Policy](https://raw.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/main/Slides/04-Trade-Policy/040-compile.html)
+
+[Lecture 05 - Globalization](https://raw.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/main/Slides/05-Globalization/050-compile.html)
+
+[Lecture 06 - International Crises](https://raw.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/main/Slides/06-International-Crises/060-compile.html)
+
+[Lecture 07 - Balance of Payments I]()
+
+[Lecture 08 - Balance of Payments II]()
+
+[Lecture 09 - Exchange Rates: Long-Run]()
+
+[Lecture 10 - Exchange Rates: Short/Medium-Run]()
+
+[Lecture 11 - Exchange Rates: Policies]()
