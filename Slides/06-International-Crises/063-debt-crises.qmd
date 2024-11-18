@@ -1,3 +1,84 @@
 ---
 name: debt crises
 ---
+
+## Debt Crises
+
+[Defined as]{.hp} a [widespread failure to meet debt obligations]{.h}
+
+::: {.incremental}
+- Can be [public or private debtors]{.h} that begin struggling to meet required debt repayments
+- In exceptional cases out of the borrower's control, debt forgiveness, interest rate and term length adjustments can be applied
+- [External debt]{.hp} is [debt linked to a foreign lender/borrower]{.h}. 
+International exchange of funds result in these form of linkages
+:::
+
+::: {.fragment}
+> If debt is held in a specificy currency, that country presides over legal matters related to payment arrears and bankrupcty
+:::
+
+---
+
+## Debt Crises
+
+<br>
+
+If a party fails to honor their debt, these losses can [spread throughout]{.hp} the rest of the economy
+
+<br>
+
+::: {.fragment}
+Widespread cases of failures to honor debt can lead to service providers declaring bankrupcty
+:::
+
+<br>
+
+::: {.fragment}
+[Spread can occur]{.hp} in insolvency, in which other individuals go into bankrupcty because an initial set of individuals do
+:::
+
+---
+
+## Debt Crises - Example
+
+Suppose an economy is split into three groups:
+
+::: {.incremental .small}
+- [Group A]{.h} is heavily indebeted and holding risky portfolio of assets it invested in
+
+- [Group B]{.h} holds relatively correlated assets to [Group A]{.hi} but maintains low debt level
+
+- [Group C]{.h} holds unrelated assets and maintains low debt level
+:::
+
+::: {.fragment}
+If [Group A]{.h} experiences a shock in which it cannot service its debts, it may be forced to sell all of its assets to meet as much of their debt as possible
+:::
+
+::: {.fragment}
+[Group B]{.h} sees [assets fall in value]{.hp} as supply in the market suddenly increases
+:::
+
+::: {.fragment}
+[Group B]{.h} assets fall in value $\Rightarrow$ Becomes insolvent too. 
+[Group C]{.h} is unaffected
+:::
+
+---
+
+## Debt Crises
+
+Governments can also fail to obligate their debts.
+The EU debt crisis saw repeated episodes of [Greece]{.hi} nearly defaulting on debt, following a major economic collapse
+
+<br>
+
+::: {.fragment}
+[What happens when an entire country defaults on foreign debts?]{.hp .align-center}
+:::
+
+::: {.fragment}
+- Usually, [international lending agencies]{.h} such as the [IMF]{.hp} step in
+- Bailouts are heavily politicized, often the distressed country is at the mercy of its neighbors
+- Steep requirement can be placedo no the burdened economy, extending the length of downturn to ensure bailout is provided
+:::

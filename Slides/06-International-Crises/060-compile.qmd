@@ -15,6 +15,42 @@ title-slide-attributes:
   data-background-position: left
 ---
 
+## Upcoming Topics 
+
+<br>
+
+- Broad look at [international financial crises]{.hi}
+
+<br>
+
+- Understanding [Balance of Payments in National Accounting]{.hi}
+
+<br>
+
+- [Exchange Rate]{.hi} Dynamics
+
+## Types
+
+::: {.fragment}
+- [Banking Crisis]{.h}
+    - Domino of bank collapse due to insolvency
+:::
+
+::: {.fragment}
+- [Exchange Rate Crisis]{.h}
+    - Unexpected collapse in value of developing country currency
+:::
+
+::: {.fragment}
+- [(Sovereign) Debt Crisis]{.h}
+    - EU debt crisis following public bailouts
+:::
+
+::: {.fragment}
+- [Balance of Payments Crisis]{.h}
+    - Foreign currency reserves drying up
+:::
+
 # Banking Crises {.inverse .note}
 
 {{< include 061-banking-crises.qmd >}}
@@ -35,6 +71,8 @@ title-slide-attributes:
 
 {{< include 065-vulnerabilities.qmd >}}
 
+<!--
 # Examples {.inverse .note}
 
 {{< 066-examples.qmd >}}
+-->

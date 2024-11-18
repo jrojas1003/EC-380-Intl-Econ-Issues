@@ -1,3 +1,47 @@
 ---
 name: balance of payment crises
 ---
+
+## BoP Crises
+
+[Defined as]{.hp} a country having a current account deficit that it cannot finance
+
+<br>
+
+::: {.fragment}
+Deficit is financed through selling financial assets, which includes currency reserves, as a way to generate [capital account net inflow]{.hp} that offsets [current account net outflow]{.hp}
+:::
+
+::: {.incremental}
+- Foreign bankers extend loans, buy bonds, stocks or invest directly in deficit country's real estate market
+- These flows must cover current account deficit
+:::
+
+---
+
+## BoP Crises
+
+If the [deficit country]{.hp} capital investments/purchases appear too risky, capital inflows ease
+
+As [Forbes and Warnock (2012)]{.hii} show, patterns have emerged of these flows acting as sudden stops and surges
+
+::: {.incremental}
+-  Can put great pressure on domestic reserve, causing them to dwindle
+
+- The ability to [purchase goods abroad]{.h} using their denominated currency now faces a limit and may need to stop all together
+
+- The ability to [convert local currency into foreign debt repayment transfers]{.h} also kicks in, causing further stress on the [deficit country]{.hp}
+:::
+
+---
+
+![](images/forbes-&-warnock-capital-flow-waves-abstract.png){fig-align="center"}
+
+---
+
+![](images/forbes-&-warnock-net-&-gross-flows-for-Chile.png){fig-align="center"}
+
+::: {.fragment}
+Help from allies and IMF act as stopgaps to slow decline. 
+Deficit must shrink until confidence in the country is restored
+:::
