@@ -44,7 +44,7 @@ Macroimablances can be attributed to:
 ::::
 
 ::: {.fragment}
-Usually, these issues occur simulataneousl, further complicating matters of unravelling macroeconomic imbalances
+Usually, these issues occur simulataneously, further complicating matters of unravelling macroeconomic imbalances
 :::
 
 ::: {.fragment}
@@ -71,7 +71,7 @@ When developed economies enter recession, central banks [lower interest rates]{.
 ::: {.fragment}
 Capital investors [migrate]{.hp} to low-income/emerging economies until resurgence in developed country economy
 
-These volatile movements of large sums of cpaital within these transition periods can be [highly costly for the emerging host countries]{.hp}
+These volatile movements of large sums of capital within these transition periods can be [highly costly for the emerging host countries]{.hp}
 :::
 
 ---
