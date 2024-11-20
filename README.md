@@ -22,7 +22,7 @@ Welcome to EC 380: International Economic Issues (Fall 2024) at the University o
 
 [Lecture 06 - International Crises](https://raw.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/main/Slides/06-International-Crises/060-compile.html)
 
-[Lecture 07 - Balance of Payments I]()
+[Lecture 07 - Balance of Payments I](https://raw.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/main/Slides/07-Balance-of-Payments-I/070-compile.html)
 
 [Lecture 08 - Balance of Payments II]()
 
