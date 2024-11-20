@@ -24,6 +24,6 @@ Devaluation is similar to a [bank run]{.hp}, international currency holders sell
 - Equivalent to available currency demand dropping significantly
 - Suddenly foreign debt obligation payments are difficult to meet 
     - Potential knock-on [bank crises]{.hp}
-- Impoted goods become expensive for local economy
+- Imported goods become expensive for local economy
 - Industries reliant on foreign credit suddenly see loss of liquidity, resulting in market price falls (e.g. housing market collapse)
 :::
