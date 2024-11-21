@@ -1,0 +1,58 @@
+---
+title: "Global Finance | Balance of Payments II"
+subtitle: "EC 380 - International Economic Issues"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "EC380, Lecture 07 | Balance of Payments II"
+        preview-links: auto
+        code-fold: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+## Recap
+
+[Previously]{.h}
+
+- Contents of Balance of Payments
+
+- Financial Account Features
+
+[Today]{.h}
+
+- International Debt
+
+- Investment Position
+
+---
+
+## Limits on Financial Flows
+
+Last time we discussed financial account flows
+
+A [trade-off]{.hp} exists with respect to allowing greater financial flexibility and increase exposure to international financial crises/capital flight
+
+::: {.fragment}
+- Countries risk becoming reliant on external sources of liquidity
+
+- A quick change in the business cycle could result in a large-scale exodus of liquidity
+
+- Asset prices drop, indebtedness intensifies
+:::
+
+# National Accounts {.inverse .note}
+
+{{< include 081-national-accounts.qmd >}}
+
+# Current Accounts {.inverse .note}
+
+{{< include 082-current-acounts.qmd >}}
+
+# International Debt {.inverse .note}
+
+{{< include 083-international-debt.qmd >}}
