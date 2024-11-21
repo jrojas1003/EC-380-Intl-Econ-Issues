@@ -56,3 +56,17 @@ A [trade-off]{.hp} exists with respect to allowing greater financial flexibility
 # International Debt {.inverse .note}
 
 {{< include 083-international-debt.qmd >}}
+
+## Summary
+
+<br>
+
+- National Accounts and CA balance are interconnected
+
+<br>
+
+- Deficit is not a sign of economic/geopolitical weakness
+
+<br>
+
+- A deficit implies borrowing from abroad, but investments can be very fruitful
