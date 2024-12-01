@@ -1,0 +1,65 @@
+---
+name: ppp example
+---
+
+## PPP Example
+
+Suppose a bag of goods costs [1000 USD]{.h} and [800 GBP]{.hi}
+
+::: {.fragment}
+According to [PPP]{.hp}, the exchange rate is [$1.25 dollars to the pound]{.hp}
+:::
+
+::: {.fragment}
+Imagine that [GBP]{.hi}:[USD]{.h} is $2. 
+
+Goods priced at [800 GBP]{.hi} in UK sell for [500 GBP]{.hi} if imported from the US and paid for in [USD]{.h} 
+:::
+
+::: {.fragment .align-center}
+[This presents an Arbitrage Opportunity]{.hp}
+:::
+
+::: {.fragment}
+Brits begin exchanging [GBP]{.hi} for [USD]{.h}, demand increases for [USD]{.h} [(Appreciation)]{.hp} until purchasing power parity is achieved
+:::
+
+---
+
+## PPP Example
+
+A few unrealistic assumptions that we will have: consider these caveats
+
+::: {.fragment}
+- Assume that goods flow [without cost]{.hp} across international borders and that all goods and services can be traded
+:::
+
+::: {.fragment}
+[In reality]{.h}, there are transportation costs involved with moving goods. 
+Some goods and services are not traded
+:::
+
+::: {.incremental}
+- Bank fees for a currency broker when buying the needed pounds
+- Some of the goods and services are non-tradable, arbitrage is not possible
+:::
+
+::: {.fragment}
+Also, few nations have eliminated all their [barriers to entry]{.hp} of foreign goods and services
+:::
+
+--- 
+
+## PPP in the Long-Run
+
+<br>
+
+Evidence shows that PPP exerts its influence over exchange rates [only in the long-run]{.hp} 
+
+<br> 
+
+Over time we have:
+
+- Lower transport costs
+- Minimized import rules 
+- Minimzed regulations
