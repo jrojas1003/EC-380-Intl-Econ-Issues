@@ -21,18 +21,18 @@ The markets's answer: [Forward Exchange Rates]{.hp}
 <br>
 
 > The forward exchange rate sets the price of currency that will be delivered in the future and these transactions take place on the forward market.
-Spot market represents any buying and selling taking place in the present
+[Spot market]{.hp} represents any [buying and selling taking place in the present]{.hp}
 
 ---
 
 ## Effects of $\Delta$ Supply and $\Delta$ Demand of Foreign Currency
 
-[Let's take the market for USD]{.h .align-center}
+[Let's take the market for GBP]{.h .align-center}
 
 :::: {.columns}
 
 ::: {.column width="50%"}
-[Increased Demand]{.hp} for [USD]{.hi} 
+[Increased Demand]{.hp} for [GBP]{.hi} 
 
 ::: {.fragment}
 [Raises]{.hi-green} its price 
@@ -43,7 +43,7 @@ Spot market represents any buying and selling taking place in the present
 :::
 
 ::: {.column width="50%"}
-[Increased Supply]{.hp} for [USD]{.hi}
+[Increased Supply]{.hp} for [GBP]{.hi}
 
 ::: {.fragment}
 [Lowers]{.hi-red} its price

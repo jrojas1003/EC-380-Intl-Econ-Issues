@@ -64,7 +64,7 @@ $$
 ::: {.fragment}
 Individual units of colones are not worth very much, nominally, in terms of dollars
 
-We cannot comment on colones being worth little though, since nominal wages in pesos might be high
+We cannot comment on colones being worth little though, since nominal wages in colones might be high
 :::
 
 ---
