@@ -8,7 +8,7 @@ format:
     revealjs:
         theme: [default, styles.scss]
         slide-number: true
-        footer: "EC380, Lecture 07 | Exchange Rates LR"
+        footer: "EC380, Lecture 09 | Exchange Rates LR"
         preview-links: auto
         code-fold: FALSE
 title-slide-attributes: 
