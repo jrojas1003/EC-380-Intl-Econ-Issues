@@ -15,14 +15,14 @@ title-slide-attributes:
   data-background-position: left
 ---
 
-## FX Medium & Short-Run
+# FX Medium & Short-Run {.inverse .note}
 
 {{< include 101-medium-short-run.qmd >}}
 
-## Interest Parity
+# Interest Parity {.inverse .note}
 
 {{< include 102-interest-parity.qmd >}}
 
-## CIP & UIP
+# CIP & UIP {.inverse .note}
 
 {{< include 103-cip-&-uip.qmd >}}
