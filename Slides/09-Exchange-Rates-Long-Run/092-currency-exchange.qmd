@@ -13,7 +13,8 @@ We will argue there are [three reasons]{.h}
 ::: 
 
 ::: {.fragment}
-[1) Enable trade and investment purposes]{.hi}
+[ 1) Enable trade and investment purposes]{.hi}
+:::
 
 ::: {.fragment .small}
 > Traders (importers and exporters) and investors routinely transact in foreign currencies, either receiving or making payments in another country's currency. 
