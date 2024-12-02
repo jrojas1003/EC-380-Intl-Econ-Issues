@@ -29,7 +29,7 @@ title-slide-attributes:
 
 - Exchange Rate Adjustments
 
-    # Basics {.inverse .note}
+# Basics {.inverse .note}
 
 {{< include 091-basics.qmd >}}
 
