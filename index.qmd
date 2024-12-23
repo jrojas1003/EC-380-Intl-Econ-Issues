@@ -7,7 +7,7 @@ title: "Home"
 ```{=html}
 <details>
   <summary>Winter 2025 Syllabus PDF</summary>
-  <a class="btn btn-primary btn-lg cv-download" href="DDocuments/Syllabus/Syllabus.pdf" target="_blank">
+  <a class="btn btn-primary btn-lg cv-download" href="Documents/Syllabus/Syllabus.pdf" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
   </a>
   <div class="embed-container">
@@ -27,3 +27,20 @@ title: "Home"
   </div>
 </details>
 ```
+
+## Tentative Schedule
+
+| **Week** | **Chapter** | **Topic**                                                        | Assignments                                                                                                      |
+|:--------:+:-----------:+------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------|
+|     1    |     1, 2    | [Intro & General Principles]    | [Activity 1](activities/01GuessTwoThirds/GuessTwoThirds.qmd)                                                     |
+|     2    |      3      |                 | [Homework 1](Homework/assignment1/main.pdf), [Activity 2](activities/02SurvivorFlags/SurvivorFlags.qmd)          |
+|     3    |      4      | [Simultaneous Move Games](Slides/#simultaneous-games)            | [Activity 4](activities/04BlottoElection/BlottoElection.qmd)                                                     |
+|     4    |      5      | [Continuous Strategies](Slides/#simultaneous-games)              | [Homework 2](Homework/assignment2/main.pdf)                                                                      |
+|     4    |      6      | [Combining Forms](Slides/#combining-simultaneous-and-sequential) |                                                                                                                  |
+|     5    |      6      | Review & **Midterm**                                             |                                                                                                                  |
+|     6    |      7      | [Mixed Strategies](Slides/#mixed-strategies)                     | [Activity 5](activities/05CournotComp/cournotcomp.qmd), [Activity 6](activities/06PenaltyKicks/penaltykicks.qmd) |
+|     7    |      7      | [Mixed Strategies](Slides/#mixed-strategies)                     | [Homework 3](Homework/assignment3/main.pdf)                                                                      |
+|     8    |      9      | [Uncertainty and Information](Slides/#asymmetric-info)           | [Activity 7](activities/07Brinksmanship/brinksmanship.qmd)                                                                   |
+|     9    |      8      | [Strategic Moves](Slides/#strategic-moves)                       | [Activity 8](activities/Brinksmanship/main.qmd)                                                                  |
+|    10    |      10     | [Repeated Games](Slides/#repeated-games)                         | [Homework 4](Homework/assignment4/main.pdf)                                                                      |
+| *Finals* |  Cumulative | **Exam**: Friday, Dec. 13 - 10:15am                              |                                                                                                                  |
