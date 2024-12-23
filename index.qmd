@@ -6,7 +6,7 @@ title: "Home"
 
 ```{=html}
 <details>
-  <summary>PDF</summary>
+  <summary>Winter 2025 Syllabus PDF</summary>
   <a class="btn btn-primary btn-lg cv-download" href="DDocuments/Syllabus/Syllabus.pdf" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
   </a>
