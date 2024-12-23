@@ -16,3 +16,14 @@ title: "Home"
 </details>
 ```
 
+```{=html}
+<details>
+  <summary>Winter 2025 Syllabus PDF</summary>
+  <a class="btn btn-primary btn-lg cv-download" href="Documents/Syllabus/Syllabus.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+  </a>
+  <div class="embed-container">
+    <iframe src="Documents/Syllabus/Syllabus.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
