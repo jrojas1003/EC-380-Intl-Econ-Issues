@@ -28,6 +28,7 @@ format:
       - cosmo 
       - styles.scss
     toc: true
+    page-layout: full
 
 
 
