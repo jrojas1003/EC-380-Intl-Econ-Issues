@@ -1,0 +1,64 @@
+---
+name: syllabus
+---
+
+## Class Information 
+
+- [**Schedule:**]{.hi} Monday & Wednesday in McKenzie 125
+
+- [**Office Hours:**]{.hi} Wednesdays from 10:00 am to 12:00 pm 
+
+**Lectures**
+
+- Slides are meant to complement the lectures, not substitute them
+
+- I will lecture, go through example problems, ask you to solve things, etc
+
+- By being in lecture, the ideal goal is for you to understand things beyond the textbook 
+
+---
+
+## In-Class Activity
+
+Every so often we will be creating our own world market
+
+- The class will be split into countries (groups of 8) 
+
+- Each time the economy will have different rules and circumstances
+
+- The goal is to give you an interactive component rather than just lectures, homeworks and exams
+
+[**Note:** This is the first time I do this so there might be some hiccups. The activity itself is fairly simple but sometimes I find myself thinking what are you actually learning here]{.note .small}
+
+---
+
+## Course Logistics
+
+- Our [textbook]{.hi} is International Economics by James Gerber (8th Ed)
+
+    - Any other reading/material will be uploaded on our Canvas page
+
+- Things relevant to the in-class activity will be maintained on an [online workbook](https://jose-rojas-fallas.quarto.pub/international-econ-workbook/)
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Course Schedule]{.h}
+
+- [W1 - W3:]{.hii} Theory of Trade
+- [W4 - W7:]{.hii} Trade Policy
+- [W8 - W10:]{.hii} Global Finance
+
+:::
+
+::: {.column width="50%"}
+[Course Grades]{.h}
+
+- 5% $\rightarrow$ In-Class Activity Participation
+- 25% $\rightarrow$ 5 Problem Sets
+- 10% $\rightarrow$ 3 Quizzes
+- 30% $\rightarrow$ Midterm Exam
+- 30% $\rightarrow$ Final Exam 
+:::
+
+::::

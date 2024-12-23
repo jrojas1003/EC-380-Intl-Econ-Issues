@@ -1,0 +1,19 @@
+---
+name: welcome
+---
+
+## Course Goals
+
+In this class we will: 
+
+- Learn baseline models that help explain why countries trade
+
+- Analyze policy-relevant trade tools
+
+    - Tariffs
+
+    - Quotas 
+
+    - Subsidies
+
+- Explore global finance through exchange rates and BoP

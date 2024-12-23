@@ -1,0 +1,63 @@
+---
+title: "Global Finance | Exchange Rates LR"
+subtitle: "EC 380 - International Economic Issues"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "EC380, Lecture 09 | Exchange Rates LR"
+        preview-links: auto
+        code-fold: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+## Recap
+
+[Previously]{.h}
+
+- National Accounts and CA balance are interconnected
+
+- Deficit is not a sign of weakness 
+
+- A deficit implies borrowing from abroad, and these investments can be very fruitful
+
+[Today]{.h}
+
+- Exchange Rate Adjustments
+
+# Basics {.inverse .note}
+
+{{< include 091-basics.qmd >}}
+
+# Currency Exchanges {.inverse .note}
+
+{{< include 092-currency-exchange.qmd >}}
+
+# Foreign Exchange Market {.inverse .note}
+
+{{< include 093-foreign-exchange-market.qmd >}}
+
+# Purchasing Power Parity Example {.inverse .note}
+
+{{< include 094-purchasing-power-parity-ex.qmd >}}
+
+## Summary
+
+[Recap]{.h}
+
+- Exchange rates determine price of foreign goods
+
+- Numerous reasons to hold foreign reserves 
+
+- Shifts in exchange rates often mirror changes in demand and supply of currencies
+
+- PPP holds only in the Long-Run
+
+[Next]{.h}
+
+- Short-run & Medium-Run Exchange Rates 
+- Parity Relationships

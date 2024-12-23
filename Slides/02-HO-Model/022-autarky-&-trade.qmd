@@ -1,0 +1,194 @@
+---
+name: autarky & trade
+---
+
+## Production Possibilities Frontiers
+
+The [Ricardian Model]{.h} assumed a single factor of production (labor) which was homogenous
+
+- This implied that countries face the same trade-off between goods regardless of input levels
+
+- The PPF was a straight line
+
+. . .
+
+The [HO Model]{.h} now considers [combinations of factors]{.h} where some specific mix of the two is most productive
+
+- Because of this necessary mix of inputs, the [PPF will be a curve]{.hi-red}
+
+---
+
+## New PPF
+
+[PPF for Country A]{.h .align-center}
+
+![](images/HO-ppf.png){fig-align="center"}
+
+---
+
+## New PPF - Increase in Labor Intensive Good
+
+![](images/HO-ppf-labor-intensive.png){fig-align="center"}
+
+---
+
+## New PPF - Increase in Capital Intensive Good
+
+![](images/HO-ppf-capital-intensive.png){fig-align="center"}
+
+---
+
+## New PPF
+
+Adjustments at the extremes of the frontiers require a [disproportionately large exchange]{.h} in factors
+
+::: {.incremental}
+- Each unit increase in one factor-good leads to an increasingly sizeable loss of the other factor-good
+- [Opportunity costs]{.hi-orange} are [rising]{.hi-red} for each type of production 
+- [Why?]{.hi-red}
+:::
+
+. . .
+
+As you reallocate resources from a [capital-intensive good to a labor-intensive]{.hi}, you need greater amounts of factors due to factor combinations being misaligned
+
+- AKA It is not a linear trade-off 
+
+---
+
+## Autarky
+
+![](images/HO-autarky.png){fig-align="center"}
+
+::: {.notes}
+country consumes exactly what it produces
+:::
+
+---
+
+## Free Trade - World Price
+
+![](images/HO-world-price.png){fig-align="center"}
+
+---
+
+## Free Trade - Gains from Trade
+
+![](images/HO-free-trade.png){fig-align="center"}
+
+---
+
+## Gains from Free Trade
+
+Since we are trading at the [world price level]{.hi}, we can reach [higher]{.hi-green} indifference curves
+
+- The country [produces at B]{.hi-red} and [consumes at C]{.hi-red} 
+
+. . .
+
+<br>
+Therefore if the country produces more of the [capital-intensive product]{.hi} than they consume, [the must be exporting]{.h} a subset of that good
+
+- That is the difference between [bundle B and bundle C]{.h}
+
+. . .
+
+In constrast, the country [produces less textiles than they consume]{.hi}, which suggests that they are [importing]{.h} the difference
+
+---
+
+## Comparing to the Ricardian Model
+
+Try to remember why a country would shift their production when trading under a [different world price]{.hii}
+
+. . .
+
+The country [must produce where the]{.h} [opportunity cost]{.hi-orange} [is equal to the relative world price slope]{.h}
+
+. . . 
+
+The gains from trade are very similar between both models
+
+Except that [the specialization in production is not complete]{.h} 
+
+::: {.fragment}
+- This is due to [diminishing marginal productivity]{.hp} associated with each factor 
+:::
+
+---
+
+## Diminishing Marginal Productivity 
+
+[Definition:]{.hp} 
+Holding the other factor(s) fixed, the [marginal unit increase]{.h} of a given factor yields an increasingly smaller contributions to overall output
+
+::: {.fragment}
+Imagine having [one shovel]{.h} to share between [5 workers]{.h}.
+The workers can take turns with the shovel whenever they get tired. 
+But how much could [total work output]{.h} increase if we add [10 more workers]{.h}?
+:::
+
+<br><br>
+
+::: {.fragment}
+[Not much]{.hi .align-center .big}
+:::
+
+---
+
+## Diminishing Marginal Productivity
+
+[Diminishing Marginal Product of Labor]{.h .align-center}
+
+![](images/diminishing-marginal-productivity.png){fig-align="center"}
+
+---
+
+## Trade & Income Distribution 
+
+In the [Ricardian Model]{.hi-red} we ruled out harmful effects and suggest everyone benefits in society.
+Reallocated workers simply leave the shrinking industry for an expanding one. 
+
+They are able to exchange their unchanged labor supply for a [larger bundle of goods]{.h}
+
+- Specialization doesn't incur any costs/penalties
+
+::: {.fragment}
+The [HO Model]{.h} takes a more moderate view
+
+Rather than [capital and labor]{.h}, let's consider two labor sectors:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Skilled
+:::
+
+::: {.column width="50%"}
+- Unskilled
+:::
+
+::::
+
+:::
+
+::: {.fragment}
+Industries require different combinations of [skilled and unskilled]{.hi} labor
+:::
+
+---
+
+## Heterogenous Income Effects
+
+We will go into this further later in the course but for now let's keep in mind that [trade openness can have heterogeneous effects]{.hi} depending on which part of the skill bracket the worker belongs to
+
+<br>
+
+::: {.fragment}
+It can be shown that a systematic relationship exists between endowments of factors for a country and who ends up being winners and losers
+
+<br>
+
+I'll show you a [theoretical argument]{.hp} for how this can happen.
+Later we will look at [empirical evidence]{.hp}, which uses applied econometric analysis.
+:::

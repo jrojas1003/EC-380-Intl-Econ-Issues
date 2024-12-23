@@ -1,0 +1,209 @@
+---
+name: international market equilibrium 
+---
+
+## Why Would Foreign Trade?
+
+[Foreign]{.hi-teal} is outright better at producing [Coffee & Tea]{.hi} than [Home]{.hi-red}.
+How could they benefit from trading with a less productive country?
+
+<br>
+
+::: {.incremental}
+- If [Foreign]{.hi-teal} doesn't trade, they are bound by their own production possibilities. 
+With trade, they can exceed their own production capacities, [even when they hold an Absolute Advantage]{.h}
+
+- The same logic can be applied to [Home]{.hi-red}. 
+They will be able to exceed domestic production capacity by trading.
+
+- To trade, both nations must be better off from doing so. 
+This will mean that the [relative price]{.h} of the good should fall somewhere in between both markets
+
+- Prices for each country are just the [opportunity costs of the good]{.hi-orange}
+:::
+
+---
+
+## Gains from Trade - Home
+
+The [relative price]{.h} of the good in the world market should fall somewhere in between both countries prices 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+
+\begin{align*}
+    P_{c}^{H} &< P_{c}^{W} < P_{c}^{F} \\ \\
+    \dfrac{7}{9} &< P_{c}^{W} < \dfrac{12}{10}
+\end{align*}
+
+::: {.fragment}
+[Let the World Price be ]{.h .align-center}
+$$ 
+    P_{c}^{W} = 1 \Rightarrow \text{Slope} = -1
+$$ 
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment}
+![](images/Home-Trade-01.png){fig-align="center" height="400"}
+:::
+
+:::
+
+::::
+
+---
+
+## Gains from Trade - Foreign
+
+The [relative price]{.h} of the good in the world market should fall somewhere in between both countries prices 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+<br>
+
+\begin{align*}
+    P_{c}^{H} &< P_{c}^{W} < P_{c}^{F} \\ \\
+    \dfrac{7}{9} &< P_{c}^{W} < \dfrac{12}{10}
+\end{align*}
+
+[Let the World Price be ]{.h .align-center}
+$$ 
+    P_{c}^{W} = 1 \Rightarrow \text{Slope} = -1
+$$ 
+
+:::
+
+::: {.column width="50%"}
+
+![](images/Foreign-Trade-01.png){fig-align="center" height="400"}
+
+:::
+
+::::
+
+---
+
+## Free Trade
+
+There are gains to be had for [both countries to benefit from trade]{.h}. 
+How do we determine who produces what?
+
+::: {.incremental}
+- The pattern of exports and imports is determined by [Opportunity Costs]{.hi-orange} of production in each country.
+
+- Countries will [export]{.h} the good in which they have the [Comparative Advantage]{.hi} and [import]{.h} the other good $\Rightarrow$ they will [specialize and only produce the export good]{.h}
+
+- We can think of this in terms prices as well:
+
+    - The price of coffee at [Home is 7/9]{.hi-red} and at [Foreign is 12/10]{.hi-teal}
+    - There is a higher return for [Home Producers]{.hi-red} to sell their coffee in [Foreign]{.hi-teal} so they will [export]{.h}
+:::
+
+::: {.notes}
+The same logic can be applied to tea and you will see that [Foreign Producers]{.hi-teal} will export to [Home]{.hi-red} for a higher return
+:::
+
+---
+
+## Gains From Trade When Specialization Occurs
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Home Makes Only Coffee]{.hi-red .align-center}
+
+![](images/Home-Trade-02.png){fig-align="center" height="400"}
+
+:::
+
+::: {.column width="50%"}
+[Foreign Makes Only Tea]{.hi-teal .align-center}
+
+![](images/Foreign-Trade-02.png){fig-align="center" height="400"}
+
+:::
+
+::::
+
+## Gains From Trade With No Absolute Advantage
+
+What matters most for the purposes of trade is not a country's [absolute advantage]{.h} but its [comparative advantage]{.h}
+
+- Differences in [absolute advantage]{.h} do not eliminate gains from trade
+
+. . .
+
+Up until now, we have not mentioned wage differences across countries.
+
+- This is something that is usually talked about in the real world when we hear about concerns of exploitation in foreign countries or offshoring of jobs
+
+---
+
+## Living Standards / Incomes Across Countries
+
+The price of goods we just found were [relative prices]{.h} which means it is a ratio of the value of one good over the other
+
+We assumed $P_{c}^{W} = 1$ which means that the [actual]{.hi} price of goods are equal to each other, [not that one unit of coffee is worth $1]{.h}
+
+Knowing [relative prices]{.h} allows us to find [relative wages]{.h} as well:
+
+::: {.incremental}
+- Economies operate under Perfect Competition which implies zero profits
+    - Workers are paid at cost of producing the good
+- Workers earn "units of goods" they produce
+- Since we know [relative prices]{.h}, we can figure out [relative wages]{.h}
+:::
+
+---
+
+## Living Standards / Incomes Across Countries
+
+Let the price of a unit of coffee be $3. 
+If the relative world price is 1, then what is the world price of tea?
+
+::: {.fragment}
+- Price of tea is also $3
+:::
+
+. . .
+
+Each [Home worker]{.hi-red} makes 9 units of coffee per labor unit. 
+Since they get paid what they produce, wages are simply:
+
+::: {.fragment .small}
+$$
+    \text{wage}_{c}^{H} = \text{productivity} * P_{c}^{W} = 9 * 3 = 27
+$$
+:::
+
+::: {.fragment .small}
+$$
+    \text{wage}_{t}^{F} = \text{productivity} * P_{t}^{W} = 12 * 3 = 36
+$$
+:::
+
+::: {.fragment .small .align-center}
+The [relative wage]{.h} of [Home workers]{.hi-red} is $\dfrac{w^{H}}{w^{F}} = \dfrac{27}{36} = \dfrac{3}{4}$
+:::
+
+---
+
+## Flaws of the Ricardo Model
+
+The [Ricardian Model]{.h} does a great job at providing a basic prediction that countries should tend to export goods in which they have relatively high productivity
+
+- This has been confirmed by studies over the years
+
+But it is not without some faults:
+
+- It predicts an [extreme degree of specialization]{.hi} that we do not observe in the real world
+- It assumes away effects of trade on the [distribution of incomes within countries]{.hi} which ignores the fact that not all benefit from trade equally
+- Misses differences in resources among countries 
+    - Our next model addresses this

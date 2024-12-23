@@ -1,0 +1,29 @@
+---
+name: exchange rate crises
+---
+
+## Exchange Rate Crises
+
+[Defined as]{.hp} a [sudden collapse of the value of a national currency]{.h}
+
+<br><br>
+
+::: {.fragment}
+If seeking to peg to another global currency, a lack of foreign reserves may break fixed exchange rate
+
+Devaluation is similar to a [bank run]{.hp}, international currency holders sell their holdings [as soon as possible]{.h}
+:::
+
+---
+
+## Exchange Rate Crises
+
+[What happens to the local economy?]{.hp .align-center}
+
+::: {.incremental}
+- Equivalent to available currency demand dropping significantly
+- Suddenly foreign debt obligation payments are difficult to meet 
+    - Potential knock-on [bank crises]{.hp}
+- Imported goods become expensive for local economy
+- Industries reliant on foreign credit suddenly see loss of liquidity, resulting in market price falls (e.g. housing market collapse)
+:::

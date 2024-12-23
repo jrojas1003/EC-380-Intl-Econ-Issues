@@ -1,0 +1,80 @@
+---
+name: globalization context
+---
+
+## What is it?
+
+[Globalization]{.hp}
+
+> The growing interdependence of the world's economies, cultures, and populations, brought about by cross-border trade in goods and services, technology, and flows of investment, people, and information
+
+<br>
+
+::: {.fragment}
+The term is used broadly. 
+We focus on international trade and some of the investment flows among advanced economies, mostly focusing on the United States.
+:::
+
+---
+
+## Big Picture
+
+There are wide-ranging effects of globalization, but all lessons thus far culminate to these points:
+
+::: {.incremental}
+- Complex and politically charged
+- As with major technological advances, globalization benefits society as a whole, while harming certain groups
+:::
+
+::: {.fragment}
+Understanding the relative costs and benefits can pave the way to alleviating problems [while sustaining the wider payoffs]{.hp}
+:::
+
+---
+
+## History Lesson
+
+[Globalization]{.hp} took off in the 19th century
+
+<br>
+
+::: {.fragment}
+Following centuries of European colonization and trade activity, [first wave of globalization]{.hp} moved forward by steamships, railroads, the telegraph, and refrigeration
+
+<br>
+
+It came alongside [increased economic cooperation]{.hi}. 
+This initial trend [eventually waned]{.hi} and crashed in the horrors of [World War I]{.hp}
+:::
+
+<br>    
+
+::: {.fragment}
+This was followed by post-war [protectionism]{.hp}, the [Great Depression]{.hp}, and [World War II]{.hp}
+:::
+
+---
+
+## History Lesson
+
+After WWII, the United States led efforts to [revive internatinoal trade and investment]{.hp} under negotiated ground rules
+
+::: {.fragment .small}
+> Bretton Woods Conference (1944): Series of agreements led to [exchange rate system]{.hp} (lasted until 1971); 
+> 
+> International Bank for Reconstruction and Development (IBRD), now known as the [World Bank]{.hp} 
+> 
+> The [International Monetary Fund (IMF)]{.hp}
+> 
+> Two years later, 23 nations invluding the UK and US began reducing trade barriers, leading to the [General Agreement on Tariffs and Trade (GATT)]{.hp}, which began in 1948. 
+:::
+
+::: {.fragment}
+We are now in the [Second Wave of Globalization]{.hp}, though it is been marked by periodic downturns and mounting political scrutiny
+:::
+
+---
+
+## Era of Trade Liberalization
+
+![](images/trade-liberalization-graph.png){fig-align="center"}

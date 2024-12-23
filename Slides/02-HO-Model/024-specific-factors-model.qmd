@@ -1,0 +1,213 @@
+---
+name: specific factors model
+---
+
+## Heterogeneity Across Time
+
+We can consider the [Short-Run stickiness]{.hp} in our [HO Model]{.h} by adding some conditions:
+
+::: {.incremental}
+- Three Input Factors: [Labor (L)]{.h}, [Capital (K)]{.h}, [Land (T)]{.hi-green}
+- Two Goods: Cloth and Food
+- Production Functions:
+    - $Q_{c} = f(K, L_{c}) \Rightarrow \;$ Cloth is made with [Capital]{.h} and [Labor employed in Cloth]{.h}
+    - $Q_{f} = f(T, L_{f}) \Rightarrow \;$ Food is made with [Land]{.h} and [Labor employed in Food]{.h}
+    - [Labor]{.h} across industries must sum up to total labor: $L = L_{c} + L_{f}$
+:::
+
+---
+
+## Specific and Variable Factors
+
+We call [Labor]{.h} our [variable factor]{.hp} because it is used in the production of both goods
+
+And [Land and Capital]{.h} are [specific factors]{.hii} because they are exclusively used for specific goods
+
+<br>
+
+::: {.fragment}
+With these modifications to the [HO Model]{.h}, we have now extended it into a [Specific Factors Model]{.hi-red}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.fragment}
+[Specific Factors]{.hii} are [immobile]{.hii}
+
+- They cannot move between the two industries
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment}
+[Variable Factors]{.hp} are [mobile]{.hp} 
+
+- [Labor]{.h} can freely move across industries
+:::
+
+:::
+
+::::
+
+:::
+
+---
+
+## Trade Patterns
+
+Trade flows will be determined similarly to our [HO Model]{.h}
+
+The difference is that [Specific Factors]{.hii} will play a key role in determining [Comparative Advantages]{.hp}
+
+Trade flows will be determined by the [relative endowment]{.h} of the [Specific Factors]{.hii}
+
+---
+
+## Trade Patterns 
+
+Let's say that [Country A]{.hi-teal} is relatively well endowed with [land]{.h} and [Country B]{.hi-red} is relatively well endowed with [capital]{.h} 
+
+::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+<br>
+
+![](images/specific-factors-table-01.png){fig-align="center"}
+:::
+
+::: {.column width="40%"}
+
+<br><br>
+
+::: {.fragment}
+[Country A]{.hi-teal} will [Export]{.h}
+
+::: {.fragment}
+- [Food]{.hi}
+::: 
+
+[Country B]{.hi-red} will [Export]{.h}
+
+::: {.fragment}
+- [Cloth]{.hi}
+::: 
+:::
+:::
+
+::::
+
+:::
+
+---
+
+## Specific Factors Dynamics
+
+Let's look at the steps of openning to trade:
+
+::: {.incremental}
+- Each country opens up to trade 
+- They each follow their [comparative advantage]{.hi-orange} and move toward greater specialization
+- The [shift in production]{.h} reduces demand for the specific factor used in the non-specialized industry
+    - In our example, the demand for [capital in Country A]{.hi-teal} goes down
+- Income for the less utilized [specific factor]{.hii} also declines
+:::
+
+---
+
+## Specific Factors Dynamics
+
+This model helps us view [income distribution effects of trade]{.h} more clearly
+
+::: {.fragment}
+So we have [Country A capital owners]{.hi-teal} be hurt, due to the economy moving away from production of capital-intensive [cloth]{.h} 
+:::
+
+::: {.fragment}
+On the other hand, we have [Country A landowners]{.hi-teal} experience the opposite effect
+:::
+
+:::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](images/specific-factors-table-02.png){fig-align="center" height="290"}
+:::
+
+::: {.column width="50%"}
+![](images/specific-factors-table-03.png){fig-align="center"}
+:::
+
+::::    
+
+::::
+
+---
+
+## Specific Factors Dynamics
+
+How about [Labor]{.h}?
+
+::: {.fragment}
+Because [labor]{.h} is mobile between industries, workers that are laid off in the declining sector will find employment in the expanding sector
+:::
+
+::: {.fragment}
+Additionally, prices of both goods shift from what they were under [autarky]{.hii}
+
+In [Country A]{.hi-teal} where [Food is the export]{.h}, we would see:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Price of Food]{.h .align-center}
+
+::: {.fragment}
+[Increase!]{.hi-green .align-center}
+:::
+
+:::
+
+::: {.column width="50%"}
+[Price of Cloth]{.h .align-center}
+
+::: {.fragment}
+[Decrease!]{.hi-red .align-center}
+:::
+
+:::
+
+::::
+:::
+
+::: {.notes}
+Ask why $\rightarrow$ because world price for export is higher than at home and import is lower than at home
+:::
+
+---
+
+## Effects on Variable Factor Income
+
+[The income distribution effect on the variable good is ambiguous]{.hp .align-center}
+
+<br>
+
+::: {.fragment}
+- The net effect depends on which is strongest, rising Food prices or falling Cloth prices
+
+- It also on their consumption patterns
+:::
+
+::: {.fragment}
+In its most basic form, we have adapted the [HO Model]{.h} in such a way that we can observe income distribution effects:
+
+- Across factor inputs that are specific to production ([Specific Factors]{.hii})
+
+- Within factors used in both forms of production ([Variable Factors]{.hp})
+:::

@@ -1,0 +1,670 @@
+---
+name: autarky vs trade
+---
+
+## Autarky
+
+[Definition:]{.h} The complete absence of foreign trade; total self-sufficiency of a national economy
+
+To understand how trade affects national welfare, we have to understand how they do on their own
+
+We can do this by looking at the [Production Possibilities Curve (PPC)]{.hi-blue}
+
+- These show the trade-offs when a country chooses their production combination of two goods
+- It is closely related to the opportunity cost of the good on the [horizontal axis]{.hi}
+
+---
+
+## Production Possibilities Curves (PPC)
+
+For the moment, we will be dealing with PPCs that look like straight lines because [we assume that the trade-off between two goods does not change]{.hii}
+
+- [This follows from an assumption we make on labor:]{.h} Labor is homogeneous and no group of workers is more skilled than another group
+
+. . .
+
+How are they related to opportunity costs?
+
+- [Opportunity costs are the best forgone alternative]{.hi-orange}: In order to produce 1 unit of good X, the country has to give up some amount of good Y. 
+
+    - Because this is a "rate of change", we say that the [slope of the PPC]{.hi-orange} is the [Opportunity Cost of good X]{.hi-orange} 
+
+---
+
+## Production Possibilities Curves (PPC)
+
+[Country's PPC Between X & Y]{.h .align-center}
+
+![](images/PPC-01.png){fig-align="center"}
+
+---
+
+## Production Possibilities Curves (PPC)
+
+:::: {.columns}
+
+::: {.column width="60%"}
+[Country's Bundle Choices Between X & Y]{.h .align-center}
+
+![](images/PPC-02.png){fig-align="center"}
+:::
+
+::: {.column width="40%"}
+
+::: {.fragment}
+- [Point A:]{.h} 
+Producing at an inefficient and wasteful level
+::: 
+
+::: {.fragment}
+- [Point B:]{.h} 
+Efficient point of production where maximum level of output is obtained
+::: 
+
+::: {.fragment}
+- [Point C:]{.h} 
+Infeasible. The country does not have the resources to produce at this level
+::: 
+
+:::
+
+::::
+
+---
+
+## How Does a Country Optimally Choose?
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/PPC-03.png){fig-align="left"}
+:::
+
+::: {.column width="40%"}
+
+::: {.fragment .small}
+Choice depends on the country's demand for the two goods
+
+We call these [Indifference Curves]{.h}
+
+- Each curve shows the consumption bundles of goods that the economy can consume and be equally satisfied
+
+- The consumers are [indifferent]{.h} in its own preference across the bundles on a particular indifference curve
+:::
+
+:::
+
+::::
+
+---
+
+## Indifference Curves
+
+![](images/PPC-04.png){fig-align="center"}
+
+---
+
+## Back to the Ricardo Model
+
+Starting with the [Ricardo Model]{.hi-red}, we look at it's primary components:
+
+::: {.incremental}
+- Single Factor of Production (Labor)
+- Two-Country Model (Home and Foreign)
+- Technology differences across countries
+:::
+
+::: {.fragment}
+[We will use our own example]{.align-center} 
+
+:::: {.columns}
+
+::: {.column width="60%"}
+- Factor of production: [Labor (L)]{.h}
+- Two Countries: [Home]{.hi-red} and [Foreign]{.hi-teal}
+- Two Goods: [Coffee and Tea]{.hi}
+:::
+
+::: {.column .small width="40%"}
+
+::: {.fragment}
+- Suppose that in this case, the [Home Country]{.hi-red} exports [coffee]{.hi-teal} and imports [tea]{.hi-teal}
+- [What would this imply about which good each country has comparative advantage in?]{.hi-orange}
+:::
+:::
+
+::::
+
+:::
+
+---
+
+## Ricardo Model Assumptions
+
+![](images/gerber-model-assumptions.png){fig-align="center"}
+
+---
+
+## Creating PPFs {.small}
+
+Let each country have a [labor force size of 10]{.h} and [productions]{.h} be:
+
+![](images/autarky-economy.png){fig-align="center" height="250"}
+
+[We find the PPF intercepts by seeing how much a country will produce if their entire work force only produces one good]{.h .align-center}
+
+::: {.fragment}
+[Home would produce:]{.hi-red .align-center}
+
+\begin{align*}
+    &\text{Coffee:} \; L * \text{units} = 10 * 9 = 90 \\
+    &\text{Tea:} \; L * \text{units} = 10 * 7 = 70
+\end{align*}
+::: 
+
+
+---
+
+## Home PPF {.small}
+
+![](images/Home-PPF-01.png){fig-align="center"}
+
+[Slope of PPF is Opportunity Cost of Good X]{.hi-orange .align-center}
+
+Which is how much units of tea do I give up to make one more unit of coffee
+
+$$
+    \text{Slope of PPF} = \dfrac{\Delta \text{Tea Ouptut}}{\Delta \text{Coffee Output}} = \dfrac{-7}{9} = \text{(-)Opportunity Cost of Coffee}
+$$
+
+---
+
+## Foreign PPF
+
+[Foreign]{.hi-teal} produces [10 Coffee]{.hi} and [12 Tea]{.hi}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<br>
+[Foreign would produce:]{.hi-teal .align-center}
+
+[\begin{align*}
+    &\text{Coffee:} \; L * \text{units} = 10 * 10 = 100 \\
+    &\text{Tea:} \; L * \text{units} = 10 * 12 = 120
+\end{align*}]{.small}
+
+[\begin{align*}
+    &\text{Slope} = \dfrac{\Delta \text{Tea Ouptut}}{\Delta \text{Coffee Output}} = \dfrac{-12}{10}
+\end{align*}]{.small}
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment}
+![](images/Foreign-PPF-01.png){fig-align="center"}
+:::
+:::
+
+::::
+
+## Introducing some Key Variables - Marginal Product of Labor
+
+[Marginal Product of Labor (MPL):]{.h} Represents the [additional units of a good produced]{.hi-green}, given a [one unit increase in the number of workers assigned]{.hi-green} to a particular task
+
+. . .
+
+The MPL for the [Home Country]{.hi-red} for each good is written as $\text{MPL}_{c}^{H}$ and $\text{MPL}_{t}^{H}$, for [coffee]{.hi} and [tea]{.hi} respectively. 
+
+We can assign numbers to each such that:
+
+. . .
+
+$$
+    \text{MPL}_{c}^{H} = 9 \;\;\;\; \& \;\;\;\; \text{MPL}_{t}^{H} = 7 
+$$
+
+Let's also say that the country has a full labor force $\bar{L} = 10$
+
+We will add the [Foreign Country]{.hi-teal} later
+
+---
+
+## Home PPF
+
+We can plot the [Home PPF]{.hi-red} by finding the intercepts for each good. 
+We can do this by multiplying the marginal product of labor by the workforce size
+
+$$
+    \text{MPL}_{\text{good}}^{\text{country}} * \bar{L}
+$$
+
+:::: {.columns}
+
+::: {.column width="60%"}
+The [Home Country]{.hi-red} produces
+
+\begin{align*}
+    Q_{\text{coffee}}^{H} &= 9 * 10 = 90 \\ \\
+    Q_{\text{tea}}^{H} &= 7 * 10 = 70
+\end{align*}
+:::
+
+::: {.column width="40%"}
+![](images/Home-PPF-01.png){fig-align="center" height="350"}
+:::
+
+::::
+
+---
+
+## Home PPF
+
+[Assume:]{.h .note} PPF is a straight line due to the constant [MPLs]{.h}
+
+[Slope of PPF:]{.h .note} Equal to the marginal rate of substitution between goods ([Coffee & Tea]{.hi})
+
+$$
+    \text{Slope of PPF}^{H} = -\dfrac{\text{MPL}_{t}}{\text{MPL}_{c}} = -\dfrac{7}{9}
+$$
+
+This is also the [Opportunity Cost]{.hi-orange} of [coffee]{.hi}. So we can say that if we want one more unit of [coffee]{.hi} we must trade off [tea]{.hi} at a rate of $\dfrac{7}{9}$
+
+Equivalently, the [opportunity cost]{.hi-orange} of [tea]{.hi} would be $\dfrac{9}{7}$ units of [coffee]{.hi}
+
+---
+
+## Home Prices 
+
+We can determine prices in the country from this information as well. 
+We assume to be under [Perfect Competition]{.hi} which means that all goods are sold at cost. 
+
+[Prices]{.h .align-center}
+
+These are in terms relative to both goods and [measured in units]{.h}:
+
+$$
+    P_{c}^{H} = \dfrac{\text{MPL}_{t}}{\text{MPL}_{c}} = \dfrac{7}{9} \;\;\;\;\; \& \;\;\;\;\; P_{t}^{H} = \dfrac{\text{MPL}_{c}}{\text{MPL}_{t}} = \dfrac{9}{7}
+$$
+
+---
+
+## Home Wages
+
+We use the [Perfect Competition]{.hi} assumptions to also determine wages
+
+[Wages]{.h .align-center}
+
+Workers are paid the equivalent of their MPL times the price of that additional unit they produce:
+
+\begin{align*}
+    \text{wages}_{\text{coffee}} &= \text{P}_{\text{coffee}} * \text{MPL}_{\text{coffee}} \\ \\
+    \text{wages}_{\text{tea}} &= \text{P}_{\text{tea}} * \text{MPL}_{\text{tea}}
+\end{align*}
+
+## Home Wages Across Industries 
+
+Additionally, because we assume that labor moves freely between industries, we can assume that wages are equalized across industries
+
+$$
+    \text{wages}_{\text{coffee}} = \text{P}_{\text{coffee}} * \text{MPL}_{\text{coffee}} = \text{P}_{\text{tea}} * \text{MPL}_{\text{tea}} = \text{wages}_{\text{tea}}
+$$
+
+. . .
+
+<br>
+
+We can rearrange this such that the price ratio is equal to the MPL ratio
+
+$$
+    \dfrac{\text{P}_{\text{coffee}}}{\text{P}_{\text{tea}}} = \dfrac{\text{MPL}_{\text{tea}}}{\text{MPL}_{\text{coffee}}}
+$$
+
+Relative price of coffee is equal to the [Opportunity Cost]{.hi-orange} of coffee at the [autarky/no-trade equilibrium]{.hi-red}
+
+---
+
+## Foreign PPF, Prices, and Wages
+
+We can find the [Foreign Country]{.hi-teal} results as well
+
+Find them for yourself and we will pick it up next class. Let:
+
+$$
+    \text{MPL}_{c}^{F} = 10 \;\;\;\;\; \& \;\;\;\;\; \text{MPL}_{t}^{F} = 12 \;\;\;\;\; \& \;\;\;\;\; \bar{L} = 10
+$$
+
+[Tasks]{.align-center .h .note .big}
+
+- Graph the [Foreign Country PPF]{.hi-teal} 
+- Slope of $\text{PPF}$
+- [Opportunity Cost]{.hi-orange} of [coffee]{.hi} and [tea]{.hi} 
+- Prices for both goods
+
+- Read Ch.3.1 to Ch.3.3
+
+---
+
+## Foreign Country 
+
+[Foreign PPF]{.h .note .align-center}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/Foreign-PPF-01.png){fig-align="center"}
+:::
+
+::: {.column width="40%"}
+[Opportunity Costs]{.h .align-center}
+
+- Coffee: $\dfrac{12}{10}$ $\;\;$ & $\;\;$ Tea: $\dfrac{10}{12}$
+
+[Prices]{.h .align-center}
+
+- Coffee: $\dfrac{12}{10}$ $\;\;$ & $\;\;$ Tea: $\dfrac{10}{12}$ 
+:::
+
+::::
+
+---
+
+## Comparing Countries 
+
+![](images/Both-PPF.png){fig-align="center"}
+
+---
+
+## Who Has the Advantage?
+
+We can compare both countries and determine who has an advantage in production
+
+We work with two types of advantages:
+
+::: {.incremental}
+- [Absolute Advantage:]{.hi} If the country produces more per labor input
+- [Comparative Advantage:]{.hi} If the country's [Opportunity Cost]{.hi-orange} of producing a good is lower than the other country
+:::
+
+---
+
+## Who has the Advantage?
+
+Now we have two countries, we can begin to compare their [Marginal Productivities of Labor]{.hi}
+
+- A nation has the [Absolute Advantage in a good]{.h} if they produce more per labor input
+
+- A nation has the [Comparative Advantage]{.hi} if the [Opportunity Cost]{.hi-orange} of producing a good is lower than that of the other country
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](images/autarky-economy.png){fig-align="center" height="200"}
+:::
+
+::: {.column width="50%"}
+[Absolute Advantage]{.hi .align-center}
+
+::: {.fragment}
+[Foreign]{.hi-teal} in both goods
+:::
+
+[Comparative Advantage]{.hi .align-center}
+
+::: {.fragment}
+[Home]{.hi-red} in Coffee | [Foreign]{.hi-teal} in Tea
+:::
+:::
+
+::::
+
+---
+
+## Choosing Production Based on Preferences
+
+Under [Autarky]{.hi}, every country has to produce as much as they want to consume
+
+We saw that the production bundle is determined by the country indifference curve
+
+::: {.incremental}
+- We won't go into how we determine preferences, but we will figure out how to get exact bundles based on a pre-determined mix of goods
+
+- We are looking for a point where 2 curves (lines) touch
+
+    - Which is equivalent to finding out at which coordinates they are equal to each other
+
+    - We will have [2 equations (PPF & Preferences) and 2 unknowns (Good X and Good Y)]{.h}
+:::
+
+---
+
+## Choosing Production - Example
+
+Let there be two countries [New New York]{.hi} and [Mars]{.hi-red} with the following productivities and a labor force size of $\bar{L} = 20$
+
+![](images/autarky-demand-example.png){fig-align="center"}
+
+We will focus on [New New York]{.hi} for this example:
+
+- They have prefer to consume [3 Slurm for every 2 Popplers]{.h}
+
+- We will find how much [Slurm and Popplers]{.h} [New New York]{.hi} needs to produce in order to satisfy demand
+
+---
+
+## New New York Production Bundle
+
+:::: {.columns}
+
+::: {.column width="40%"}
+<br>
+
+$$ \bar{L} = 20 $$
+
+![](images/autarky-demand-example.png){fig-align="left"}
+:::
+
+::: {.column width="60%"}
+
+We will:
+
+:::{.incremental}
+- Find the PPF intercepts
+- Find the proportion in which they prefer to consume the goods
+- Determine the PPF line
+- Set preferences proportion equal to PPF line and solve
+:::
+
+:::
+
+::::
+
+---
+
+## Find PPF Intercepts
+
+Looking only at [New New York]{.hi} with $\bar{L} = 20$
+
+![](images/autarky-demand-example-01.png){fig-align="center"}
+
+We need to find the maximum they can produce for each good:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Slurm]{.h .align-center}
+
+::: {.fragment}
+\begin{align*}
+    \text{Max Slurm} &= \text{MPL}_{s} * \bar{L} \\
+    \text{Max Slurm} &= 7 * 20 \\
+    \text{Max Slurm} &= 140
+\end{align*}
+:::
+
+:::
+
+::: {.column width="50%"}
+[Popplers]{.h .align-center}
+
+::: {.fragment}
+\begin{align*}
+    \text{Max Popplers} &= \text{MPL}_{p} * \bar{L} \\
+    \text{Max Popplers} &= 9 * 20 \\
+    \text{Max Popplers} &= 180
+\end{align*}
+:::
+
+:::
+
+::::
+
+---
+
+## Preference in Consuming Goods
+
+We were told that [New New York Consumers]{.hi} prefer to consume [3 Slurm]{.h} for every [2 Popplers]{.h}
+
+Let's see how this translates to our indifference curve concept 
+
+::: {.fragment}
+\begin{align*}
+    \dfrac{\text{Slurm}}{\text{Popplers}} = \dfrac{3}{2} \\
+\end{align*}
+:::
+
+::: {.fragment}
+\begin{align*}
+    \dfrac{\text{Slurm}}{\text{Popplers}} &= \dfrac{3}{2} \\
+    2 * \text{Slurm} &= 3 * \text{Popplers} \\
+    \dfrac{2}{3} * \text{Slurm} &= \text{Popplers}
+\end{align*}
+:::
+
+::: {.notes}
+We can write this as a proportion, then we can solve for either of the goods
+
+This will help us in finding that optimal bundle
+:::
+
+---
+
+## Determining the PPF Line
+
+:::: {.columns}
+
+::: {.column width="65%"}
+![](images/autarky-demand-example-02.png){fig-align="left"}
+:::
+
+::: {.column width="35%"}
+
+<br><br>
+
+[The PPF Line]{.h .align-center}
+
+::: {.fragment}
+\begin{align*}
+    \text{Y} &= b \pm mx \\
+    \text{Y} &= 180 - \dfrac{9}{7} * x
+
+\end{align*}
+:::
+
+:::
+
+::::
+
+---
+
+## Putting It Altogether
+
+Because we are finding where [Production]{.h} equals [Demand]{.h}, we are finding where these two equations equal each other
+
+$$
+    \text{Popplers} = \dfrac{2}{3} * \text{Slurm} \;\;\;\;\; \& \;\;\;\;\; \text{Popplers} = 180 - \dfrac{9}{7} * \text{Slurm}
+$$  
+
+::: {.fragment .small}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+\begin{align*}
+    \dfrac{2}{3} * \text{Slurm} &= 180 - \dfrac{9}{7} * \text{Slurm} \\
+    \left(\dfrac{2}{3} + \dfrac{9}{7} \right) * \text{Slurm} &= 180 \\ 
+    \left(\dfrac{14+27}{21} \right) * \text{Slurm} &= 180 \\ 
+    \left(\dfrac{41}{21} \right) * \text{Slurm} &= 180
+\end{align*}
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment}
+\begin{align*}
+    \left(\dfrac{41}{21} \right) * \text{Slurm} &= 180 \\
+    \text{Slurm} &= \dfrac{180}{1.95} \\ \\
+    \text{Slurm} &\approx 92.3
+\end{align*}
+:::
+
+:::
+
+:::
+
+::::
+
+---
+
+## Putting It Altogether
+
+We know that [New New York]{.hi} will make [92.3 Slurm]{.h} 
+
+Now we need to find how many [Popplers]{.h} they make:
+
+There are two ways to find this out:
+
+$$
+    \text{Popplers} = \dfrac{2}{3} * \text{Slurm} \;\;\;\;\; \text{or} \;\;\;\;\; \text{Popplers} = 180 - \dfrac{9}{7} * \text{Slurm}
+$$  
+
+:::: {.columns}
+
+::: {.column width="50%"}
+::: {.fragment}
+\begin{align*}
+    \text{Popplers} &= \dfrac{2}{3} * 92.3 \\
+    \text{Popplers} &\approx 61.5
+\end{align*}
+:::
+:::
+
+::: {.column width="50%"}
+::: {.fragment}
+\begin{align*}
+    \text{Popplers} &= 180 - \dfrac{9}{7} * 92.3 \\
+    \text{Popplers} &= 180 - 118.7 \\
+    \text{Popplers} &\approx 61.3 
+\end{align*}
+:::
+:::
+
+::::
+
+---
+
+## Results!
+
+By knowing in which proportion consumers prefer their goods, we can find how much the country will produce under [autarky]{.hii}
+
+::: {.fragment}
+We could also figure out what happens to production if there is some form of shock to the economy, for example: 
+
+::: {.incremental}
+- Preferences change
+- Labor increases/decreases
+- Productivities change
+:::
+
+:::

@@ -1,0 +1,104 @@
+---
+name: basics
+---
+
+## Starting From The Start
+
+[What is an exchange rate?]{.hp .align-center}
+
+::: {.fragment}
+This is the [exact amount of one currency received in exchange for a single unit]{.hi} of an alternative currency
+:::
+
+::: {.fragment}
+The US-Costa Rica exchange rate can be expressed as either:
+
+::: {.incrmental}
+- How many [US Dollars]{.h} do I get for each [Colon]{.h} exchanged?
+
+- How many [Colones]{.h} do I get for each [US Dollar]{.h} exchanged?
+:::
+
+:::
+
+::: {.fragment}
+> Usually we see the rates that do not account for transaction fees
+:::
+
+---
+
+## Basics
+
+We are usually told [one unit of this currency]{.hi} is equal to [x units]{.hi} of the other
+
+::: {.fragment}
+For example, suppose [one US dollar]{.hi} can be exchanged for 510.06 [colones]{.hi}
+:::
+
+<br>
+
+::: {.fragment}
+$$
+\text{USD to Colon, Nominal Exchange Rate}
+$$
+
+$$
+\dfrac{\text{Units of Money after Exchange}}{\text{Units of Money before Exchange}} = \dfrac{510.06}{1}
+$$
+:::
+
+---
+
+## Basics
+
+If you are given an exchange rate (1 USD for 510.06 colones), but are asked to find the exchange in the opposite direction you just [have to invert the ratio]{.hp}
+
+[How many dollars can one colon be exchanged for at this rate?]{.h .align-center}
+
+::: {.fragment}
+$$
+    \text{Colon to USD} = \left(\dfrac{510.06}{1}\right)^{-1} = \dfrac{1}{510.06} \approx 0.002 \; \text{USD}
+$$
+:::
+
+::: {.fragment}
+Individual units of colones are not worth very much, nominally, in terms of dollars
+
+We cannot comment on colones being worth little though, since nominal wages in colones might be high
+:::
+
+---
+
+## Basics
+
+[Key economic events]{.h} can adjust the value of a currency relative to other items it trades against
+
+::: {.fragment}
+When a [home currency]{.hi} is able to purchase more units of a foreign currency:
+
+- The [home currency]{.hi} is said to have [appreciated in value]{.hi-green}
+:::
+
+::: {.fragment}
+When instead, the amount of foreign currency that one can buy with a [single unit of home currency]{.hi} [declines]{.hi-red}:
+
+- The [home currency]{.hi} is said to have [depreciated in value]{.hi-red}
+:::
+
+---
+
+## Basics
+
+For example, if the [USD:GBP]{.hi} exchange rate changed from 0.87 to 0.85, the units of [GBP]{.hi} that each [USD]{.hi} can be exchanged for has fallen
+
+This implies that:
+
+::: {.incremental}
+- [USD]{.hi} has [depreciated]{.hi-red} in value, [relative to the GBP]{.h} $\Rightarrow$ [USD $\downarrow$]{.hi}
+
+- [GBP]{.hi} has [appreciated]{.hi-green} in value, [relative to the USD]{.h} $\Rightarrow$ [GBP $\uparrow$]{.hi}
+:::
+
+::: {.fragment}
+[Consider how you would calculate the GBP:USD exchange rate and the movements from there as well]{.hp .align-center}
+:::

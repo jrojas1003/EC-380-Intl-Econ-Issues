@@ -1,0 +1,93 @@
+---
+name: quotas
+---
+
+## Quota Analysis
+
+[Quotas]{.hp} limit the quantity of good imports rather than adjust the price
+
+The net results are the same:
+
+::: {.fragment}
+- Less imports
+- Fall in total domestic consumption
+- Rise in domestic production
+
+However there is a significant difference from [tariffs]{.hp}
+:::
+
+<br>
+
+::: {.fragment}
+[No tariff revenue for the government]{.hp} $\Rightarrow$ Greater loss in economic welfare
+:::
+
+---
+
+## Quotas
+
+[Type of Quotas]{.h}
+
+::: {.incremental}
+- [Limitations:]{.hi} Specifies in terms of quantities product is counted in 
+    - For example, number of cows, kg of ore
+
+- [Licensing Requirement:]{.hi} Forces importers to gain government approval with respect to importing a specific type of good. By regulating the number of licenses available, the government can place an obstacle on import volumes
+
+- [Voluntary Export Restraint (VER):]{.hi} Exporting country voluntarily agrees to limit exports for some period. This is usually a compromise made to avoid more extreme measures being levied by the importer country
+:::
+
+---
+
+## How Do Quotas Work?
+
+Let a country enter free-trade and experience world price equal to $P_{w}$
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/market-quota-01.png){fig-align="left" height="500"}
+:::
+
+::: {.column width="40%" .small}
+- Suppose the government sets a quota on imports of quantity $Q_{2}^{*} - Q_{1}$ 
+
+[At $\;\; P_{w}$]{.hi .align-center}
+
+::: {.incremental}
+- [Domestic production is $Q_{1}$]{.h}
+- [Domestic demand is $Q_{2}$]{.h}
+- [Imports]{.hi} are $Q_{2} - Q_{1}$ 
+- [Prices]{.hi} will rise until the market can clear 
+:::
+
+:::
+
+::::
+
+---
+
+## How Do Quotas Work?
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+![](images/market-quota-02.png){fig-align="left" height="500"}
+:::
+
+::: {.column width="40%" .small}
+- The [Domestic Price]{.h} settles at $P_{q}$
+- [Domestic Supply]{.h} grows to $Q_{1}^{*}$
+- The main difference is that the area $c$ is not captured by the government
+
+[Difference from Tariffs]{.hi .align-center}
+
+::: {.incremental}
+- Area $c$ captured by foreign producers that earn extra profits 
+- [Domestic Producers]{.h} prefer quotas over tariffs as a form of industry protection
+:::
+
+:::
+
+::::

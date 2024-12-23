@@ -1,0 +1,283 @@
+---
+name: international market equilibrium 
+---
+
+## Why Would Foreign Trade?
+
+[Foreign]{.hi-teal} is outright better at producing [Coffee & Tea]{.hi} than [Home]{.hi-red}.
+How could they benefit from trading with the inferior country?
+
+. . .
+
+If [Foreign]{.hi-teal} doesn't trade, they are bound by their own production possibilities. 
+With trade, they can exceed their own production capacities, [even when they hold an Absolute Advantage]{.h}
+
+The same logic can be applied to [Home]{.hi-red}. 
+They will be able to exceed domestic production capacity by trading.
+
+To trade, both nations must be better off from doing so. 
+This will mean that the price of the good should fall somewhere in between both markets
+
+$$
+    P_{c}^{H} < P_{c}^{W} < P_{c}^{F}
+$$
+
+---
+
+## Benefits from Trading - Home
+
+[Home]{.hi-red .align-center}
+
+:::: {.columns}
+
+::: {.column width="20%"}
+<br><br><br><br><br>
+[Arbitrarily, let $P_{c}^{W} = 1$]{.hi-green}
+:::
+
+::: {.column width="80%"}
+![](images/Home-Trade-01.png){fig-align="center" height="550"}
+:::
+
+::::
+
+---
+
+## Benefits from Trading - Foreign 
+
+[Foreign]{.hi-teal .align-center}
+
+:::: {.columns}
+
+::: {.column width="20%"}
+<br><br><br><br><br>
+[Arbitrarily, let $P_{c}^{W} = 1$]{.hi-green}
+:::
+
+::: {.column width="80%"}
+![](images/Foreign-Trade-01.png){fig-align="center" height="550"}
+:::
+
+::::
+
+---
+
+## Free Trade
+
+<br>
+
+Now that we have established that both countries benefit from trade, how do we determine who produces what?
+
+. . . 
+
+<br><br>
+
+The pattern of exports and imports is determined by [Opportunity Costs]{.hi-orange} of production in each country, which identifies each country's pattern of [Comparative Advantage]{.hi}
+
+---
+
+## Free Trade Prices
+
+Since the [relative price]{.hi-purple} of [coffee]{.hi} is $7/9$ at [Home]{.hi-red} but $12/10$ in [Foreign]{.hi-teal}, there is an incentive to export [Home's]{.hi-red} [coffee]{.hi} to [Foreign]{.hi-teal} for a higher return
+
+. . .
+
+Alternatively, the relative price of [tea]{.hi} is:
+
+$$
+    P^{H}_{t} = \dfrac{9}{7} > \dfrac{10}{12} = P^{F}_{t}
+$$
+
+Since [tea]{.hi} sells better in [Home]{.hi-red}, [Foreign]{.hi-teal} is incentivized to export their [tea]{.hi} to [Home]{.hi-red}
+
+. . .
+
+The [Ricardo Model]{.h} predicts that [Home exports Coffee]{.hi-red} and [Foreign exports Tea]{.hi-teal}
+
+---
+
+## Free Trade Dynamics
+
+As [Home exports coffee $\uparrow$]{.hi-red}, the local supply $\downarrow$ (making it more scarce)
+
+- Less local supply $\Rightarrow$ Higher [coffee price at Home]{.hi-red}
+
+- Higher [Foreign supply]{.hi-teal} $\Rightarrow$ Lower [coffee price in Foreign]{.hi-teal}
+
+. . .
+
+<br>
+
+Similarly, [Foreign exports of tea]{.hi-teal} to [Home]{.hi-red} bid down prices abroad and up locally
+
+Changes to exports and imports stop once the relative price is the same in both countries
+
+<br>
+
+No incentive to deviate from this point $\Rightarrow$ Equilibrium condition met
+
+---
+
+## Free Trade Equilibrium
+
+What would the new [world price]{.h} of [coffee]{.hi} look like for [Home]{.hi-red} in this setting?
+
+We first measure the world capacity to produce [coffee & tea]{.hi}. 
+This is calculated by seeing how much both countries can produce if they focus their entire workforces towards a single good:
+
+\begin{align*}
+    Q^{W}_{t} &= \text{MPL}_{t}^{H} * \bar{L} + \text{MPL}_{t}^{F} * \bar{L} = 70 + 120 = 190 \\ \\
+    Q^{W}_{c} &= \text{MPL}_{c}^{H} * \bar{L} + \text{MPL}_{c}^{F} * \bar{L} = 90 + 100 = 190
+\end{align*}
+
+. . .
+
+The [World PPF's]{.h} slope is the line between these two "max" prodcution points, and it has [slope equal to -1]{.h}. 
+The [World Price would be 1]{.h}.  
+
+---
+
+## Free Trade Equilibrium
+
+The [World Price (1)]{.h} of [coffee]{.hi} is greater than the [Opportunity Cost]{.hi-orange} of producing [coffee]{.hi} at [Home $(\dfrac{7}{9})$]{.hi-red} 
+
+What do [Home producers]{.hi-red} do?
+
+. . .
+
+- They shift labor toward producing more [coffee]{.hi}
+
+. . .
+
+How much does labor shift?
+
+. . .
+
+- It depends on wages across industries
+
+---
+
+## Free Trade Labor Shift 
+
+Recall [wages at home]{.hi-red} are given by:
+
+[$$ w_{c}^{H} = \text{MPL}_{c}^{H} * P_{c}^{H} \;\;\; \& \;\;\;  w_{t}^{H} = \text{MPL}_{t}^{H} * P_{t}^{H}$$]{.small}
+
+Also recall that under trade we have 
+
+[$$ \dfrac{P_{c}^{H}}{P_{t}^{H}} = 1 \; , \;\; \text{MPL}_{c}^{H} = 9 \text{ and } \text{MPL}_{t}^{H} = 7 $$]{.small}
+
+The wage ratio is given by [$\dfrac{P_{c}^{H} * \text{MPL}_{c}^{H}}{P_{t}^{H} * \text{MPL}_{t}^{H}} = 1 * \dfrac{9}{7} = \dfrac{9}{7}$]{.small}
+
+. . .
+
+Which implies that wages are higher in the [coffee industry]{.hi} than in the [tea industry]{.hi}
+
+[All Home workers go work in the coffee industry]{.hi-red .align-center}
+
+---
+
+## Autarky Production & Consumption
+
+Let's visualize the gains of trade. 
+First, let's see where each country would produce & consume under [Autarky]{.hi}
+
+Let the ICs and PPFs for each country be equal at bundles:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Home]{.h .align-center}
+
+![](images/Home-Autarky-01.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+[Foreign]{.h .align-center}
+
+![](images/Foreign-Autarky-01.png){fig-align="center"}
+:::
+
+::::
+---
+
+## Autarky Production & Consumption
+
+Under [Autarky]{.h}, a nation consumes as much as they produce. 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Production Bundles]{.h .note .align-center}
+
+![](images/Home-Autarky-02.png){fig-align="center" width="300" height="200"}
+:::
+
+::: {.column width="50%"}
+[Consumption Bundles]{.h .note .align-center}
+
+![](images/Home-Autarky-03.png){fig-align="center" width="300" height="200"}
+:::
+
+::::
+
+[Ricardo's logic]{.h} states that both countries will [enhance their welfare]{.h} by specializing and trading 
+
+---
+
+## Free Trade Production & Consumption
+
+Under [Free Trade]{.h}, both countries specialize in the good they have the [Comparative Advantage]{.hi}
+
+::: {.columns}
+
+::: {.column width="50%"}
+[Production Bundles]{.h .note .align-center}
+
+![](images/production-bundles.png){fig-align="center" width="300" height="200"}
+:::
+
+::: {.column width="50%"}
+[Consumption Bundles]{.h .note .align-center}
+
+::: {.fragment}
+![](images/consumption-bundles.png){fig-align="center" width="300" height="200"}
+:::
+:::
+
+:::
+
+::: {.fragment}
+- [Home]{.hi-red} consumes [more]{.h} [tea]{.hi} than they did under [Autarky]{.h} (35 $\Rightarrow$ 40)
+
+- [Foreign]{.hi-teal} consumes [more]{.h} [coffee]{.hi} than they did under [Autarky]{.h} (30 $\Rightarrow$ 45)
+:::
+
+---
+
+## Free Trade - Relative Wages
+
+So far we have seen that there are [gains from trade]{.h} and that [trade flows are determined by comparative advantages]{.h} 
+
+::: {.incremental}
+- Prices converged, but wages do not 
+
+- Wage levels differ across countries with trade, and [wages are determined by absolute advantage]{.hi}, not comparative advantage
+
+    - This is a third, less-emphasized lesson of the [Ricardian Model]{.h}
+:::
+
+---
+
+## Free Trade - Relative Wages
+
+Due to markets being perfectly competitive, firms pay workers the value they add to production (marginal product)
+
+Recall that $\text{MPL}_{c}^{H} = 9$. 
+This is a [real wage]{.h}, measured in quantity of goods rather than money.
+
+Workers sell the coffee they earn at the [world market price of 1]{.h}, making their real wage:
+
+$$
+    \dfrac{P_{\text{coffee}}}{P_{\text{tea}}} * \text{MPL}_{c}^{H} = 9 \;\; \text{units of tea}
+$$

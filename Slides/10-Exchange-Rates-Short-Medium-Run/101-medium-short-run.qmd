@@ -1,0 +1,78 @@
+---
+name: medium & short-run
+---
+
+## FX Market: Medium Run
+
+Consider it to be typically a 4 to 5 year range, where countries experience ebbs and flows of [business cycle]{.hp} booms and busts
+
+::: {.fragment}
+- During boom periods, incomes go up, [aggregate demand rises]{.hp} across consumers
+
+- Some of that spills over into [increased demand for imports]{.hp}
+
+- This implies a greater need for foreign currency
+:::
+
+---
+
+## FX Market: Medium Run
+
+[US incomes increase]{.hp}, demand for UK imports increases, so [demand for GBP]{.hi} increases
+
+![](images/exchange-rate-increase-demand.png){fig-align="center"}
+
+---
+
+## FX Market: Medium Run
+
+Now suppose the [UK sees an economic boom]{.hp}, they increased import of US goods, so the US will hold a higher amount of [GBP reserves]{.hi} 
+
+![](images/exchange-rate-increase-reserves.png){fig-align="center"}
+
+---
+
+## FX Market: Short Run
+
+We will consider the [short-run]{.h} to be a time period of one year or less
+
+We observe continuous day-to-day fluctuations in exchange rates
+
+![](images/exchange-rate-short-run-fluctuations.png){fig-align="center"}
+
+---
+
+## FX Market: Short Run
+
+[So what causes short-run changes in Exchange Rates?]{.hp}
+
+::: {.incremental}
+- Interest rate adjustments, which can occur 4-5 times in a year
+- Speculation, driven by exogenous shocks to the state of the economy
+    - Political scandals
+    - Discovery of natural gas deposits 
+    - COVID outbreak
+:::
+
+::: {.fragment}
+The latter contributes to a mechanism known as [price discovery]{.hp} in exchange rates
+:::
+
+---
+
+## FX Market: Short Run
+
+> [Price Discovery]{.hp} is the trial-and-error process of discovering the [equilibrium price in a market]{.hp}
+>
+> If speculators believe a currency is overvalued, they sell that currency, driving its value down
+
+::: {.incremental}
+- If [correct]{.hi-green}, currency moves towards an equilibrium and speculators are rewarded through arbitrage profits
+
+- If [wrong]{.hi-red}, large losses are realized.
+This can often lead to bankruptcy if these risks were taken based on borrowed funds
+:::
+
+::: {.fragment .align-center}
+[These high stakes create a strong incentive to make the correct decision, bolstering the speed of market adjustments in the process]{.hp}
+:::

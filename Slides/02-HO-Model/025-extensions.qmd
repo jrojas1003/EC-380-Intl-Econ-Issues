@@ -1,0 +1,339 @@
+---
+name: extensions 
+---
+
+## Empirical Tests
+
+So far we have argued in-favor and against gains from trade exclusively from theory
+
+You should always be skeptical and ask yourself two questions:
+
+::: {.incremental}
+- Do the predictions of generalized models hold in the real world?
+
+- Are there other reasons that these predicted patterns may be observed in the data?
+:::
+
+::: {.fragment}
+A great deal of work that economists do is translating theory into empirical analysis
+
+For example, [Blonigen & Wilson (2008)]{.hp} examine whether port efficiency allows for greater volume of trade
+:::
+
+---
+
+## Emperical Tests - Comparative Advantage
+
+All trade theories come down to differences between countries that establish [comparative advantages]{.hi-orange} which motivate trade
+
+Each theory predicts which goods a country will import and export
+
+<br>
+
+::: {.fragment}
+[Empirical tests are difficult due to our inability to observe an]{.h} ['autarky' counterfactual]{.hi-red} [and difficulty in]{.h} [measuring factor endowments]{.hi-red}
+:::
+
+<br>
+
+::: {.fragment}
+Rather than going between extremes of no-trade to completely free trade, we normally imagine changes in [trade openness]{.hp} as a result of:
+
+- Lower tariff rates and reduced trade quotas
+:::
+
+---
+
+## Theory vs Empirics
+
+[Ricardian Model]{.hp}
+
+::: {.fragment}
+- Challenging to test due to the assumption of relative differences in technology augmenting labor productivity
+
+- Most countries do not produce goods for which they are at a comparative disadvantage so [there is no way to measure their productivity in those sectors]{.h}
+:::
+
+::: {.fragment}
+[Findings]{.hp}
+
+- As labor producitity in a particular industry rises, the intensive margin by which goods are exported increases. 
+The country becomes a net exporter of that godo
+:::
+
+::: {.fragment}
+[The Ricardian model]{.hp} has been more frequently and succesfully tested
+:::
+
+---
+
+## Theory vs Empirics 
+
+[HO Model]{.hp}
+
+::: {.fragment}
+- Even harder to apply tests due to challenges involved in accurately measuring factor endowments. 
+Our measures of land and capital values are imprecise estimates
+:::
+
+::: {.fragment}
+[Findings]{.hp}
+
+- Cross-country measures of capital, land, and labor endowments are often measured using different means due to [methodological differences]{.h} across national accounting bodies
+
+- Even with these flaws, the [HO Model]{.h} is a useful starting point through factor endowments which can then be supplmented with other ideas
+
+- Useful way to categorize the income distribution effects of trade
+:::
+
+::: {.notes}
+Other important determinants of trade such as economies of scale, corporate structure, and economic policy are not considered in the model
+
+Findings: Housing's contributions to CPI is based on mortgage values in Europe while the US uses a rental-equivalence approach
+:::
+
+---
+
+## Empirical Tests
+
+So how do we address international economic theories when countries are all measuring our key statistics in different ways?
+
+This normally requires an Non-Governmental Organization (NGO) or world body to apply data collection methods in a cross-country manner
+
+<br>
+
+::: {.fragment}
+For example, I used data from [UN Comtrade]{.hp} which contained values of trade between countries at a detailed level
+
+I complemented this with political manifesto data provided by the [Comparative Manifesto Project]{.hp} in order to document how increased opennes to trade has shifted political leans in Costa Rica
+:::
+
+--- 
+
+## Empirical Tests
+
+Other differences between countries, beyond technology and factor endowments, that partly explain difference in trade flows across countries are:
+
+- Economies of Scale
+
+- Corporate structures
+
+- Economic policy
+
+- Public infrastructure
+
+- Institutional quality
+
+---
+
+## Extensions to Trade Theory
+
+Because of these empirical concerns and other key country-level differences, further extensions to HO have been developed
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Gravity Model
+- Product Cycle
+:::
+
+::: {.column width="50%"}
+- Trade vs FDI
+- Offshoring & Outsorcing   
+:::
+
+::::
+
+<br>
+
+These provide theoretical settings which explain a portion of existing trade
+
+---
+
+## Extension - Gravity Model
+
+This model says that to explain how a country trades with other countries, [we must factor in distance and size]{.h}
+
+- The [larger]{.hp} the other country is, the more demand it represents on the global market for a given good
+
+- The [closer]{.hp} the other country is, the cheaper it is to access that market
+
+$$
+    T_{ij} = \dfrac{GDP_{i}^{\alpha} * GDP_{j}^{\beta}}{D_{ij}^{\theta}}
+$$
+
+::: {.fragment}
+Many empirical analyses leverage model specifications on these key factors, which explain much of the variation obseved in country-level trade flows    
+:::
+
+--- 
+
+## Extension - Gravity Model
+
+Some examples to fix ideas:
+
+::: {.fragment}
+- [Mexico's most important trade partner is the US]{.h}
+
+    - Distance: Share a border which means transport costs are less than, let's say, Europe
+    - Market Size: US market is huge, and will absorb a lot of Mexican output
+:::
+
+::: {.fragment}
+- [US trade with Korea vs trade with Japan]{.h}
+
+    - Distance: Relatively same distance which means equal-ish transport costs
+    - Market Size: Japanese economy is larger which means more US goods enter Japan relative to Korea
+:::
+
+---
+
+## Extension - Product Cycle
+
+Explains exports of sophisticated manufactured goods from countries who are scarce in skilled labor and capital
+
+Many manufactured goods go through product cycles where [factor inputs change over time]{.hp}
+
+<br><br>
+
+:::: {.columns}
+
+::: {.column width="35%"}
+[Early/Development]{.h .align-center}
+
+:::
+
+::: {.column width="40%"}
+[Middle/Standardized]{.h .align-center}
+:::
+
+::: {.column width="25%"}
+[Late]{.h .align-center}
+:::
+
+::::
+
+---
+
+## Extension - Product Cycle
+
+[Early/Development]{.hi}
+
+::: {.incremental}
+- Goods are produced with a lot of testing (in inputs and final form)
+    - Requires skilled labor to promote and develop product
+
+- Consumers with higher incomes will be early-adopters and provide crucial feedback
+:::
+
+---
+
+## Extension - Product Cycle
+
+[Middle/Standardized]{.hi}
+
+::: {.incremental}
+- Product becomes standardized in characteristics and production process
+- Shift production toward low labor cost nations
+:::
+
+--- 
+
+## Extension - Product Cycle
+
+[Late]{.hi}
+
+::: {.incremental}
+- Consumption in high-income countries exceeds production 
+- Production is concentrated in low-income countries as production process has taken form of assembly-type operations
+- High-income countries need to innovate and restart the cycle in order to continue growth
+:::
+
+---
+
+## Extension - Product Cycle
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[High-Income Countries]{.h .align-center}
+
+::: {.fragment}
+![](images/product-cycle-01.png){fig-align="center" height="290"}
+:::
+:::
+
+::: {.column width="50%"}
+[Low-Income Countries]{.h .align-center}
+
+::: {.fragment}
+![](images/product-cycle-02.png){fig-align="center" height="300"}
+:::
+:::
+
+::::
+
+::: {.fragment}
+[The composition of factor inputs and cost minimization decisions by firms lead to relocation of production efforts, increasingly toward lower-cost labor nations]{.h .align-center}
+:::
+
+---
+
+## Trade/FDI
+
+In the [Product Cycle]{.hp} extension, firms invest abroad and some output generated is sent home for consumption
+
+- This is a great difference from the [HO Model]{.hp} where no investment abroad is taken into consideration and factor endowments cannot cross countries
+
+- We can then introduce the concept of [Foreign Direct Investment (FDI)]{.hp}
+
+::: {.fragment}
+[FDI]{.hp} suggests that cases may exist where firms elect to [invest abroad]{.hi-red} rather than transport/ship goods abroad
+:::
+
+::: {.fragment}
+[Intrafirm trade]{.hp} is when these firms, with foreign affiliates, import outputs back home and it is handled by the parent firm
+:::
+
+---
+
+## Trade/FDI
+
+---
+
+## Extension - Offshore/Outsorce
+
+[Offshoring:]{.hp} Set up a plant abroad to produce goods
+
+[Outsorcing:]{.hp} Contract a different firm to produce goods for you. 
+Can be international.
+
+::: {.fragment}
+Modernization of the trade process has made these [international features]{.hp} of production and distribution chains more feasible
+
+::: {.incremental}
+- Largely driven in the 1990s by internet availability, satellite communication, containerization of cargo and improved computing power
+
+- Easier to succesfully manage business operations abroad (marginal cost of multinational enterprise operations lower)
+:::
+
+:::
+
+---
+
+## Extension - Offshore/Outsource
+
+Effects include a trend toward international production, with comparative advantages across countries featuring in individual firms' supply chains
+
+Rather than specialize in goods, countries can specialize in [key intermediate inputs]{.hi-red}
+
+Trade economists refer to this as increased formations of [global value chains]{.hi-red}
+
+Many exports and local production processes now rely on the availability of imports
+
+::: {.fragment}
+[There is a huge vulnerability if ports become congested or delays occur]{.hi-red}
+:::
+

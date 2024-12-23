@@ -1,0 +1,201 @@
+---
+name: political economy
+---
+
+## Political Economy of Trade
+
+There are many points of view of how international trade should be treated through a political view
+
+Up until now we have seen there are both good and bad outcomes of trade, happening at the exact same time
+
+Take for example the following scenario:
+
+::: {.incremental}
+- In the US, workers in the import-competing sectors earn wages substantially below the average wage, and those workers earning the lowest wage face the highest risk of separation from their current employer due to import competition
+:::
+
+---
+
+## Political Economy: Possible Outcomes 
+
+We have workers in import-competing sectors earning lower wages than average and facing a higher risk of unemployment
+
+Let's take the example of production workers in the apparel sector in 2019 where wages were below 25% the average wage for all production workers
+
+We could have:
+
+::: {.incremental}
+- There may be widespread sympathy for the situation these workers are going through and, consequently, restrictions on apparel imports
+- If this happens, gains from more affluent consumers that would have happened with more imports do not realize. 
+:::
+
+---
+
+## Political Economy: Trade is Good?
+
+Most economist sure think so 
+
+There are [three main reasons]{.h} why economists do [not]{.hp} generally stres the income distribution effect of trade:
+
+::: {.incremental}
+- Income distribution effects are not specific to international trade
+
+- It is always better to allow trade and compensate those who are hurt by it than to prohibit the trade
+
+- Those who stand to lose from increased trade are typically better organized than those who stand to gain. 
+:::
+
+::: {.fragment}
+This rings [somewhat true]{.hp} if we are considering industries. 
+
+But people are not industries, and when in a democracy, people have the ability to influence their political context
+:::
+
+---
+
+## Electoral Competition
+
+Let me introduce some political science concepts to motivate possible political shifts due to trade 
+
+Suppose the following:
+
+::: {.incremental}
+- There are two competing parties that are willing to promise whatever will enable each to win the next election
+- Policy can be described along one dimension 
+    - Something simple like a tariff rate level
+- Voters differ in the policies they prefer
+:::
+
+---
+
+## Electoral Competition - Example
+
+Let's think of a simple example:
+
+Imagine a country that [exports skill-intensive goods]{.h} and [imports labor-intensive goods]{.hi}. 
+Political parties are divided alongside the level of tariff rate to impose
+
+::: {.fragment}
+There are two type of voters:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[High-skill voters]{.h .align-center}
+
+::: {.fragment}
+- Prefer [low tariff rates]{.hi-green}
+:::
+
+:::
+
+::: {.column width="50%"}
+[Low-skill voters]{.h .align-center}
+
+::: {.fragment}
+- Prefer [high tariff rates]{.hi-red}
+:::
+
+:::
+
+::::
+
+:::
+
+::: {.fragment}
+> [Think what the]{.hp} [Stolper-Samuelson Theorem]{.h} [says to explain this]{.hp}
+:::
+
+---
+
+## What Policy to Choose?
+
+If we think about lining up all the voters in the order of the tariff rate they prefer, with the voters who favor the lowest rate on the left and those who favor the highest rate on the right we get:
+
+![](images/median-voter-01.png){fig-align="center"}
+
+---
+
+## Median Voter
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/median-voter-01.png){fig-align="center"}
+:::
+
+::: {.column width="40%" .small}
+Parties will converge on the tariff rate preferred by the [median voter]{.h}
+
+To see why, think what happens if one party takes the position of tariff $t_{A}$
+
+::: {.fragment}
+The other party could propose a slightly lower rate $t_{B}$, which is preferred by almost all other voters. 
+
+It is always in their interest to undercut any tariff proposal that is higher than what the median voter wants
+:::
+
+:::
+
+::::
+
+---
+
+## Median Voter and Trade {.smaller}
+
+Interestingly enough, the [median voter model]{.h} does not seem to work well for trade policy
+
+According to this model, a policy should be chosen based on how many voters it pleases:
+
+::: {.fragment}
+- A policy that inflicts large losses on a few people but benefits a large number of people should be a political winner
+
+- A policy that inflicts widespread losses but helps a small group should be a loser
+:::
+
+::: {.fragment}
+However, this is not usually the case:
+
+- Usually, voters consider protectionist trade policy which will benefit only a few while harming a majority
+
+    - Think of the US diary industry which is protected through an elaborate system of tariffs and quotas
+    - These restrictions make dairy products slightly more expensive for consumers while benefiting an industry which employs about 0.1% of the workforce 
+:::
+
+---
+
+## Importing Political Polarization?
+
+![](images/autor-2020-abstract.png){fig-align="center"}
+
+---
+
+## Autor et al - Importing Political Polarization (2020)
+
+![](images/autor-2020-media-ratings.png){fig-align="center"}
+
+## Autor et al - Importing Political Polarization (2020)
+
+![](images/autor-2020-campaign-contributions.png){fig-align="center"}
+
+## Autor et al - Importing Political Polarization (2020)
+
+![](images/autor-2020-party-prob-01.png){fig-align="center"}
+
+## Autor et al - Importing Political Polarization (2020)
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Non-White]{.h .align-center}
+
+![](images/autor-2020-non-white-pop.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+[White]{.h .align-center}
+
+![](images/autor-2020-white-pop.png){fig-align="center"}
+:::
+
+::::
