@@ -16,7 +16,45 @@ title: "Home"
 </details>
 ```
 
-## Tentative Schedule
+## Winter 2025 Class Details
 
-| **Week** | **Chapter** | **Topic** |
-|    01    | [Test](Slides/#intro-and-syllabus-day)     | Syllabus  |
+:::: {.columns}
+:::{.column width="50%"}
+
+**Instructor:** Jose Rojas-Fallas
+
+**Email:** jrojas2@uoregon.edu
+
+**Office Hours:** TBD in PLC 525
+:::
+
+::: {.column width="50%"}
+
+**Class Location:** Straub 253
+
+**Class Day & Time:** Mon & Wed - 2:00 - 3:20pm
+
+**Textbook/Readings:** [Check Here](Readings/articles.qmd)
+:::
+
+::::
+
+### Course Grade Breakdown
+
+For more details, read the [Syllabus](Documents/Syllabus/Syllabus.pdf) above
+
+
+| Assignment   | Grade Weight  | 
+|:------------|:------------:|
+| Problem Sets (x5) | **25%** |
+| Quizzes (x3) | **10%** |
+| Midterm Exam | **30%** |
+| Final Exam | **30%** |
+| International Market Game | **5%** |
+
+### Tentative Schedule
+
+| **Week** | **Chapter** | **Topic** | **Assignments** |
+|:---------:|:----------:|:---------:|:---------------:|
+| Test | Test | TEst| Test | 
+

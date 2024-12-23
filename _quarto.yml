@@ -19,6 +19,8 @@ website:
         text: Readings
       - href: Assignments/list.qmd
         text: Homework
+      - href: Activities/activities.qmd
+        text: Intl Market
       - href: about.qmd
         text: About Me
 

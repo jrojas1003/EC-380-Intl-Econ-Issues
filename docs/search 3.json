@@ -18,7 +18,7 @@
     "href": "index.html#tentative-schedule",
     "title": "Home",
     "section": "Tentative Schedule",
-    "text": "Tentative Schedule\n\n\n\nWeek\nChapter\nTopic\n\n\n\n\nTest\nTest\nTEst"
+    "text": "Tentative Schedule\nWeek | Chapter | Topic |\n   01 | Test | Syllabus |"
   },
   {
     "objectID": "Slides/lectures.html",
@@ -5325,47 +5325,5 @@
     "title": "EC 380 - International Econ",
     "section": "",
     "text": "Text goes here"
-  },
-  {
-    "objectID": "index.html#winter-2025-class-details",
-    "href": "index.html#winter-2025-class-details",
-    "title": "Home",
-    "section": "Winter 2025 Class Details",
-    "text": "Winter 2025 Class Details\n\n\nInstructor: Jose Rojas-Fallas\nEmail: jrojas2@uoregon.edu\nOffice Hours: TBD in PLC 525\n\nClass Location: Straub 253\nClass Day & Time: Mon & Wed - 2:00 - 3:20pm\nTextbook/Readings: Check Here\n\n\n\nCourse Grade Breakdown\nFor more details, read the Syllabus above\n\n\n\nAssignment\nGrade Weight\n\n\n\n\nProblem Sets (x5)\n25%\n\n\nQuizzes (x3)\n10%\n\n\nMidterm Exam\n30%\n\n\nFinal Exam\n30%\n\n\nInternational Market Game\n5%\n\n\n\n\n\nTentative Schedule\n\n\n\nWeek\nChapter\nTopic\nAssignments\n\n\n\n\nTest\nTest\nTEst\nTest"
-  },
-  {
-    "objectID": "Activities/activities.html#activity-02",
-    "href": "Activities/activities.html#activity-02",
-    "title": "Intl Market",
-    "section": "Activity 02",
-    "text": "Activity 02"
-  },
-  {
-    "objectID": "Activities/activities.html#activity-03",
-    "href": "Activities/activities.html#activity-03",
-    "title": "Intl Market",
-    "section": "Activity 03",
-    "text": "Activity 03"
-  },
-  {
-    "objectID": "Activities/activities.html#activity-01",
-    "href": "Activities/activities.html#activity-01",
-    "title": "Intl Market",
-    "section": "Activity 01",
-    "text": "Activity 01"
-  },
-  {
-    "objectID": "Activities/activities.html",
-    "href": "Activities/activities.html",
-    "title": "Intl Market",
-    "section": "",
-    "text": "Country Member List"
-  },
-  {
-    "objectID": "Activities/activities.html#groups",
-    "href": "Activities/activities.html#groups",
-    "title": "Intl Market",
-    "section": "",
-    "text": "Country Member List"
   }
 ]
