@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.22)  23 DEC 2024 12:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.22)  23 DEC 2024 13:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -657,7 +657,7 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 79.
- [2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}] [3] [4] 
+ [2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}] [3] [4] (./Course-Schedule.tex) [5] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./Syllabus.aux)
  ***********
@@ -668,18 +668,18 @@ Package rerunfilecheck Info: File `Syllabus.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12331 strings out of 474116
- 197063 string characters out of 5743681
+ 12349 strings out of 474116
+ 197404 string characters out of 5743681
  1938187 words of memory out of 5000000
- 34500 multiletter control sequences out of 15000+600000
- 598706 words of font info for 59 fonts, out of 8000000 for 9000
+ 34512 multiletter control sequences out of 15000+600000
+ 604263 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,7n,79p,346b,512s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,346b,512s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso10.pfb>
-Output written on Syllabus.pdf (4 pages, 140674 bytes).
+Output written on Syllabus.pdf (5 pages, 144124 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
+ 78 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1734987269.21393 "/Users/joserojas/Documents/Teaching/EC380/Documents/Syllabus/Syllabus.tex" "Syllabus.pdf" "Syllabus" 1734987269.67056 0
-  "/Users/joserojas/Documents/Teaching/EC380/Documents/Syllabus/Syllabus.tex" 1734939373.76078 11133 11794784c553ffc927edf872d45f1666 ""
+["pdflatex"] 1734988245.20631 "/Users/joserojas/Documents/Teaching/EC380/Documents/Syllabus/Syllabus.tex" "Syllabus.pdf" "Syllabus" 1734988245.65914 0
+  "/Users/joserojas/Documents/Teaching/EC380/Documents/Syllabus/Syllabus.tex" 1734988244.47265 11138 bcdbe0416f8d82cea86f6f5155d94f88 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1202520719 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -13,6 +13,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm" 1254269338 12056 7e13df7fe4cbce21b072ba7c4f4deb6e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm" 1254269338 12092 7b1546e2d096cfd5dcbd4049b0b1ec2e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmss10.tfm" 1254269338 11176 53ebf7a171df1f9447b387b178768bb5 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm" 1254269338 11252 57c8b53a3aeebba8c17658d4221d47ec ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmss9.tfm" 1254269338 11204 6ae1acdb5c7b9e57dc25853230e3cdae ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm" 1254269338 11168 06d87f5698fd1b642d96449b7c8d90b0 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm" 1254269338 11316 701b7748a8cc1abea04b4bcc027674ae ""
@@ -109,9 +110,10 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1734939011 8221433 bb52dd08fc4036ad0c5bff34b43066ca ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "Class-Information.tex" 1734939488.69573 629 2772621eac311d968295998b54063b15 ""
-  "Syllabus.aux" 1734987269.61299 257 05758fd683ead0a40fe8a10db615d480 "pdflatex"
-  "Syllabus.out" 1734987269.48443 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Syllabus.tex" 1734939373.76078 11133 11794784c553ffc927edf872d45f1666 ""
+  "Course-Schedule.tex" 1734988244.58632 2339 745ac24791bbe49d1d1a6250889973d8 ""
+  "Syllabus.aux" 1734988245.60213 420 1c5f739272d652d86e1058bfc09454df "pdflatex"
+  "Syllabus.out" 1734988245.46875 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Syllabus.tex" 1734988244.47265 11138 bcdbe0416f8d82cea86f6f5155d94f88 ""
   (generated)
   "Syllabus.aux"
   "Syllabus.log"

@@ -208,6 +208,11 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
+INPUT ./Course-Schedule.tex
+INPUT ./Course-Schedule.tex
+INPUT Course-Schedule.tex
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT Syllabus.aux
 INPUT ./Syllabus.out
 INPUT ./Syllabus.out
