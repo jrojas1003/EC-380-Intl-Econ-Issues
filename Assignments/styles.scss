@@ -23,8 +23,27 @@ $body-bg: #4c566a !default;
 $code-bg: #F5F5F5 !default;
 $code-color: #5E81AC !default;
 
-/*-- scss:rules --*/
+$uo-green: #007030; // UO-Green 
+$uo-yellow: #FEE11A; // UO-Yellow
+$light-green: #D1D9CE;
+$cream: #FDFBF7;
+$gray: #64605f;
+$purple: #9158A2;
+$orange: #ad7237;
 
+
+/*-- scss:rules --*/
+/* Custom style for the download button */
+.cv-download {
+  background-color: $uo-green !important; /* Green color */
+  border-color: $uo-green !important;
+  color: $uo-yellow !important;
+}
+
+.cv-download:hover {
+  background-color: #45a049 !important; /* Slightly darker green on hover */
+  border-color: #45a049 !important;
+}
 
 /*-- Title slide --*/
 #title-slide {

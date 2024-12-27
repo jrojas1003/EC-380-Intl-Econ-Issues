@@ -2,11 +2,19 @@
 title: "Readings" 
 ---
 
+## Textbook Chapters
+
+### Chapter 01
+
+### Chapter 03
+
+### Chapter 04
+
 ## Course Literature
 
 ```{=html}
 <details>
-  <summary>PDF</summary>
+  <summary>Krugman (1993) - What Do Undergrads Need to Know About Trade </summary>
   <a class="btn btn-primary btn-lg cv-download" href="1993-Krugman-WhatDoUndergradsNeedToKnowAboutTrade-AEA.pdf" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
   </a>

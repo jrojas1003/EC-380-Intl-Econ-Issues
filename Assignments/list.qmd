@@ -4,4 +4,75 @@ title: "Homework"
 
 ## Problem Sets
 
+### PS01 (Due Jan. 15 Before Lecture) on [**Canvas**](https://google.com){target="_blank"} 
+
+```{=html}
+<details>
+  <summary>View PDF</summary> 
+  <a class="btn btn-primary btn-lg cv-download" href="Problem-Sets/Winter25/PS01/problem-set-01.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download 
+  </a>
+  <div class="embed-container">
+    <iframe src="Problem-Sets/Winter25/PS01/problem-set-01.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
+
+### PS02 (Due TBD Before Lecture) on [**Canvas**](https://google.com){target="_blank"}
+
+### PS03 (Due TBD Before Lecture) on [**Canvas**](https://google.com){target="_blank"}
+
+### PS04 (Due TBD Before Lecture) on [**Canvas**](https://google.com){target="_blank"}
+
+### PS05 (Due TBD Before Lecture) on [**Canvas**](https://google.com){target="_blank"}
+
+<!--
+```{=html}
+<details>
+  <summary>Problem Set 02 (Due Jan. 22 Before Lecture)</summary>
+  <a class="btn btn-primary btn-lg cv-download" href="Problem-Sets/Winter25/PS02/problem-set-02.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+  </a>
+  <div class="embed-container">
+    <iframe src="Problem-Sets/Winter25/PS02/problem-set-02.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
+```{=html}
+<details>
+  <summary>Problem Set 03 (TBD)</summary>
+  <a class="btn btn-primary btn-lg cv-download" href="Problem-Sets/Winter25/PS03/problem-set-03.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+  </a>
+  <div class="embed-container">
+    <iframe src="Problem-Sets/Winter25/PS03/problem-set-03.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
+
+```{=html}
+<details>
+  <summary>Problem Set 04 (TBD)</summary>
+  <a class="btn btn-primary btn-lg cv-download" href="Problem-Sets/Winter25/PS04/problem-set-04.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+  </a>
+  <div class="embed-container">
+    <iframe src="Problem-Sets/Winter25/PS04/problem-set-04.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
+
+```{=html}
+<details>
+  <summary>Problem Set 05 (TBD)</summary>
+  <a class="btn btn-primary btn-lg cv-download" href="Problem-Sets/Winter25/PS05/problem-set-05.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+  </a>
+  <div class="embed-container">
+    <iframe src="Problem-Sets/Winter25/PS05/problem-set-05.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
+-->
+
 ## Quizzes

@@ -18,28 +18,35 @@
     "href": "index.html#winter-2025-class-details",
     "title": "Home",
     "section": "Winter 2025 Class Details",
-    "text": "Winter 2025 Class Details\n\n\nInstructor: Jose Rojas-Fallas\nEmail: jrojas2@uoregon.edu\nOffice Hours: TBD in PLC 525\n\nClass Location: Straub 253\nClass Day & Time: Mon & Wed - 2:00 - 3:20pm\nTextbook/Readings: Check Here\n\n\n\nCourse Grade Breakdown\nFor more details, read the Syllabus above\n\n\n\nAssignment\nGrade Weight\n\n\n\n\nProblem Sets (x5)\n25%\n\n\nQuizzes (x3)\n10%\n\n\nMidterm Exam\n30%\n\n\nFinal Exam\n30%\n\n\nInternational Market Game\n5%\n\n\n\n\n\nTentative Schedule\n\n\n\nWeek\nChapter\nTopic\nAssignments\n\n\n\n\nTest\nTest\nTEst\nTest"
+    "text": "Winter 2025 Class Details\n\n\nInstructor: Jose Rojas-Fallas\nEmail: jrojas2@uoregon.edu\nOffice Hours: TBD in PLC 525\n\nClass Location: Straub 245\nClass Day & Time: Mon & Wed - 2:00 - 3:20pm\nTextbook/Readings: Check Here\n\n\n\nCourse Grade Breakdown\nFor more details, read the Syllabus above\n\n\n\nAssignment\nGrade Weight\n\n\n\n\nProblem Sets (x5)\n25%\n\n\nQuizzes (x3)\n10%\n\n\nMidterm Exam\n30%\n\n\nFinal Exam\n30%\n\n\nInternational Market Game\n5%\n\n\n\n\n\nTentative Schedule\n\n\n\n\n\n\n\n\n\nWeek\nReading\nTopic\nAssignments\n\n\n\n\n01\nChapter 01\nRicardian Model\n-\n\n\n02\nChapter 03\nOH Model\nProblem Set 01 & Quiz 01 Due\n\n\n03\nArticles\nIssues & Empirics\nProblem Set 02 Due\n\n\n04\nChapter 04\nTrade Policy\nProblem Set 03 & Quiz 02 Due\n\n\n05\nPractice\nMidterm Review\nMidterm"
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Home",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThis class has been created using materials passed down by a former UO graduate student. Thank you Phillip Economides for the invaluable help and support. Also thank you to Dante Yasui, whose own class website inspired and helped me figure out how to properly code this one."
   },
   {
     "objectID": "Slides/lectures.html",
     "href": "Slides/lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Expand"
+    "text": "Expand\n\n\n\n\n\n  \n\n\n   Expand"
   },
   {
-    "objectID": "Slides/lectures.html#intro-and-syllabus-day",
-    "href": "Slides/lectures.html#intro-and-syllabus-day",
+    "objectID": "Slides/lectures.html#first-half",
+    "href": "Slides/lectures.html#first-half",
     "title": "Lectures",
     "section": "",
-    "text": "Expand"
+    "text": "Expand\n\n\n\n\n\n  \n\n\n   Expand"
   },
   {
-    "objectID": "Slides/lectures.html#next",
-    "href": "Slides/lectures.html#next",
+    "objectID": "Slides/lectures.html#second-half",
+    "href": "Slides/lectures.html#second-half",
     "title": "Lectures",
-    "section": "Next",
-    "text": "Next\n\n  \n\n\n   Expand"
+    "section": "Second Half",
+    "text": "Second Half\n\nGlobalization & Interntional Crises\n\n\nBalance of Payments\n\n\nExchange Rates"
   },
   {
     "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/103-cip-&-uip.html#cip-and-uip",
@@ -2303,18 +2310,11 @@
     "text": "In this class we will:\n\nLearn baseline models that help explain why countries trade\nAnalyze policy-relevant trade tools\n\nTariffs\nQuotas\nSubsidies\n\nExplore global finance through exchange rates and BoP"
   },
   {
-    "objectID": "Readings/articles.html",
-    "href": "Readings/articles.html",
-    "title": "Readings",
-    "section": "",
-    "text": "PDF\n  \n     Download"
-  },
-  {
     "objectID": "Readings/articles.html#course-literature",
     "href": "Readings/articles.html#course-literature",
     "title": "Readings",
-    "section": "",
-    "text": "PDF\n  \n     Download"
+    "section": "Course Literature",
+    "text": "Course Literature\n\n  Krugman (1993) - What Do Undergrads Need to Know About Trade \n  \n     Download"
   },
   {
     "objectID": "Activities/activities.html",
@@ -2352,6 +2352,20 @@
     "text": "Activity 03"
   },
   {
+    "objectID": "Assignments/list.html",
+    "href": "Assignments/list.html",
+    "title": "Homework",
+    "section": "",
+    "text": "View PDF \n  \n     Download"
+  },
+  {
+    "objectID": "Assignments/list.html#problem-sets",
+    "href": "Assignments/list.html#problem-sets",
+    "title": "Homework",
+    "section": "",
+    "text": "View PDF \n  \n     Download"
+  },
+  {
     "objectID": "Assignments/list.html#quizzes",
     "href": "Assignments/list.html#quizzes",
     "title": "Homework",
@@ -2370,21 +2384,21 @@
     "href": "Slides/00-Introduction/000-compile.html#class-information",
     "title": "Introduction and Overview",
     "section": "Class Information",
-    "text": "Class Information\n\nSchedule: Monday & Wednesday in McKenzie 125\nOffice Hours: Wednesdays from 10:00 am to 12:00 pm\n\nLectures\n\nSlides are meant to complement the lectures, not substitute them\nI will lecture, go through example problems, ask you to solve things, etc\nBy being in lecture, the ideal goal is for you to understand things beyond the textbook"
+    "text": "Class Information\n\nSchedule: Monday & Wednesday in Straub 245\nOffice Hours: Wednesdays from 10:00 am to 12:00 pm\n\nLectures\n\nSlides are meant to complement the lectures, not substitute them\nI will lecture, go through example problems, ask you to solve things, etc\nBy being in lecture, the goal is for you to understand things beyond the textbook"
   },
   {
     "objectID": "Slides/00-Introduction/000-compile.html#in-class-activity",
     "href": "Slides/00-Introduction/000-compile.html#in-class-activity",
     "title": "Introduction and Overview",
     "section": "In-Class Activity",
-    "text": "In-Class Activity\nEvery so often we will be creating our own world market\n\nThe class will be split into countries (groups of 8)\nEach time the economy will have different rules and circumstances\nThe goal is to give you an interactive component rather than just lectures, homeworks and exams\n\nNote: This is the first time I do this so there might be some hiccups. The activity itself is fairly simple but sometimes I find myself thinking what are you actually learning here"
+    "text": "In-Class Activity\nEvery so often we will be creating our own world market\n\nThe class will be split into countries (groups of 8)\nEach time the economy will have different rules and circumstances\nThe goal is to give you an interactive component rather than just lectures, homeworks and exams"
   },
   {
     "objectID": "Slides/00-Introduction/000-compile.html#course-logistics",
     "href": "Slides/00-Introduction/000-compile.html#course-logistics",
     "title": "Introduction and Overview",
     "section": "Course Logistics",
-    "text": "Course Logistics\n\nOur textbook is International Economics by James Gerber (8th Ed)\n\nAny other reading/material will be uploaded on our Canvas page\n\nThings relevant to the in-class activity will be maintained on an online workbook\n\n\n\nCourse Schedule\n\nW1 - W3: Theory of Trade\nW4 - W7: Trade Policy\nW8 - W10: Global Finance\n\n\nCourse Grades\n\n5% \\(\\rightarrow\\) In-Class Activity Participation\n25% \\(\\rightarrow\\) 5 Problem Sets\n10% \\(\\rightarrow\\) 3 Quizzes\n30% \\(\\rightarrow\\) Midterm Exam\n30% \\(\\rightarrow\\) Final Exam"
+    "text": "Course Logistics\n\nOur textbook is International Economics by James Gerber (8th Ed)\n\nAny other reading/material I will be responsible for providing to you\n\n\n\n\nCourse Schedule\n\nW1 - W3: Theory of Trade\nW4 - W7: Trade Policy\nW8 - W10: Global Finance\n\n\nCourse Grades\n\n\n5% \\(\\rightarrow\\) In-Class Activity Participation\n25% \\(\\rightarrow\\) 5 Problem Sets\n10% \\(\\rightarrow\\) 3 Quizzes\n30% \\(\\rightarrow\\) Midterm Exam\n30% \\(\\rightarrow\\) Final Exam"
   },
   {
     "objectID": "Slides/00-Introduction/000-compile.html#international-integration-good-bad",
@@ -2496,28 +2510,28 @@
     "href": "Slides/00-Introduction/002-syllabus.html",
     "title": "EC 380 - International Econ",
     "section": "",
-    "text": "Schedule: Monday & Wednesday in McKenzie 125\nOffice Hours: Wednesdays from 10:00 am to 12:00 pm\n\nLectures\n\nSlides are meant to complement the lectures, not substitute them\nI will lecture, go through example problems, ask you to solve things, etc\nBy being in lecture, the ideal goal is for you to understand things beyond the textbook"
+    "text": "Schedule: Monday & Wednesday in Straub 245\nOffice Hours: Wednesdays from 10:00 am to 12:00 pm\n\nLectures\n\nSlides are meant to complement the lectures, not substitute them\nI will lecture, go through example problems, ask you to solve things, etc\nBy being in lecture, the goal is for you to understand things beyond the textbook"
   },
   {
     "objectID": "Slides/00-Introduction/002-syllabus.html#class-information",
     "href": "Slides/00-Introduction/002-syllabus.html#class-information",
     "title": "EC 380 - International Econ",
     "section": "",
-    "text": "Schedule: Monday & Wednesday in McKenzie 125\nOffice Hours: Wednesdays from 10:00 am to 12:00 pm\n\nLectures\n\nSlides are meant to complement the lectures, not substitute them\nI will lecture, go through example problems, ask you to solve things, etc\nBy being in lecture, the ideal goal is for you to understand things beyond the textbook"
+    "text": "Schedule: Monday & Wednesday in Straub 245\nOffice Hours: Wednesdays from 10:00 am to 12:00 pm\n\nLectures\n\nSlides are meant to complement the lectures, not substitute them\nI will lecture, go through example problems, ask you to solve things, etc\nBy being in lecture, the goal is for you to understand things beyond the textbook"
   },
   {
     "objectID": "Slides/00-Introduction/002-syllabus.html#in-class-activity",
     "href": "Slides/00-Introduction/002-syllabus.html#in-class-activity",
     "title": "EC 380 - International Econ",
     "section": "In-Class Activity",
-    "text": "In-Class Activity\nEvery so often we will be creating our own world market\n\nThe class will be split into countries (groups of 8)\nEach time the economy will have different rules and circumstances\nThe goal is to give you an interactive component rather than just lectures, homeworks and exams\n\nNote: This is the first time I do this so there might be some hiccups. The activity itself is fairly simple but sometimes I find myself thinking what are you actually learning here"
+    "text": "In-Class Activity\nEvery so often we will be creating our own world market\n\nThe class will be split into countries (groups of 8)\nEach time the economy will have different rules and circumstances\nThe goal is to give you an interactive component rather than just lectures, homeworks and exams"
   },
   {
     "objectID": "Slides/00-Introduction/002-syllabus.html#course-logistics",
     "href": "Slides/00-Introduction/002-syllabus.html#course-logistics",
     "title": "EC 380 - International Econ",
     "section": "Course Logistics",
-    "text": "Course Logistics\n\nOur textbook is International Economics by James Gerber (8th Ed)\n\nAny other reading/material will be uploaded on our Canvas page\n\nThings relevant to the in-class activity will be maintained on an online workbook\n\n\n\nCourse Schedule\n\nW1 - W3: Theory of Trade\nW4 - W7: Trade Policy\nW8 - W10: Global Finance\n\n\nCourse Grades\n\n5% \\(\\rightarrow\\) In-Class Activity Participation\n25% \\(\\rightarrow\\) 5 Problem Sets\n10% \\(\\rightarrow\\) 3 Quizzes\n30% \\(\\rightarrow\\) Midterm Exam\n30% \\(\\rightarrow\\) Final Exam"
+    "text": "Course Logistics\n\nOur textbook is International Economics by James Gerber (8th Ed)\n\nAny other reading/material I will be responsible for providing to you\n\n\n\n\nCourse Schedule\n\nW1 - W3: Theory of Trade\nW4 - W7: Trade Policy\nW8 - W10: Global Finance\n\n\nCourse Grades\n\n\n5% \\(\\rightarrow\\) In-Class Activity Participation\n25% \\(\\rightarrow\\) 5 Problem Sets\n10% \\(\\rightarrow\\) 3 Quizzes\n30% \\(\\rightarrow\\) Midterm Exam\n30% \\(\\rightarrow\\) Final Exam"
   },
   {
     "objectID": "Slides/01-Ricardo-Model/010-compile.html#quick-recap",
@@ -5357,8 +5371,8 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "EC 380 - International Econ",
+    "title": "Jose Alberto Rojas Fallas",
     "section": "",
-    "text": "Text goes here"
+    "text": "Github\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     Email\n  \n\n  \n  \nI am a 4th Year PhD Student in Economics at the University of Oregon.\nOriginally from San Jose, Costa Rica.\nDownload my CV\n\n\n\n\nResearch Interests\n\n\nDevelopment\nInternational Trade\nEducation\nPolitical Economy\n\n\n\nEducation\n\n\nPhD in Economics, Expected 2026 University of Oregon\nMs in Economics, 2021\nPortland State University\nBS in Economics, 2019\nPortland State University"
   }
 ]

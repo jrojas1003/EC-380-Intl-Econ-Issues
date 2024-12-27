@@ -1,0 +1,132 @@
+\documentclass[12pt]{exam}
+\usepackage{amsthm}
+\usepackage{libertine}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{multicol}
+\usepackage[shortlabels]{enumitem}
+\usepackage{siunitx}
+\usepackage{cancel}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{tikz}
+\usepackage[T1]{fontenc}  % Ensure proper encoding
+\usepackage{titlesec}
+\usepackage{booktabs}
+
+\CorrectChoiceEmphasis{\color{red}\bfseries\itshape}
+
+\newcommand{\class}{\fontfamily{lmss} \textbf{EC 380}} % This is the name of the course 
+\newcommand{\examnum}{\fontfamily{lmss} \textbf{PS 02}} % This is the name of the assignment
+\newcommand{\examdate}{\fontfamily{lmss} \textbf{January 22 at 01:59pm}} % This is the due date
+\newcommand{\timelimit}{}
+\addpoints % Allows to add points up to include table at end of document
+
+\pagestyle{headandfoot} % Fancy equivalent for exam documentclass
+\firstpageheadrule % Horizontal bar in first page
+\runningheadrule % Horizontal bar in rest of pages
+\firstpageheader{\class}{\examnum}{\fontfamily{lmss} Due \examdate} % 1st page header content
+\firstpagefooter{\fontfamily{lmss} Points earned: \makebox[1in]{\hrulefill} / \pointsonpage{\thepage} points}{}{\thepage\ of \numpages} % 1st page footer content
+\runningheader{\class}{\examnum}{\fontfamily{lmss} Due \examdate} % Rest of pages header content
+\runningfooter{\fontfamily{lmss} Points earned: \makebox[1in]{\hrulefill} / \pointsonpage{\thepage} points}{}{\thepage\ of \numpages} % Rest of pages footer content
+\bracketedpoints % Puts points per question inside brackets instead of parenthesis 
+
+\titleformat{\section}
+  {\normalfont\large\bfseries\sffamily}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries\sffamily}{\thesection}{1em}{}
+
+\begin{document}
+\fontfamily{lmss}
+\selectfont
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PREAMBLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+    \textbf{{\LARGE EC 380 Problem Set 02}} \\
+    \bigskip 
+\end{center}
+
+\noindent \textbf{Instructions:} 
+Answers must be submitted online through the designated Canvas assignment in a \textbf{PDF file}.
+This Problem Set is due on \examdate.
+Please write as legible and clearly as possible. 
+You will not be given full credit if your answers cannot be easily understood. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% QUESTIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Questions}
+\begin{questions}
+
+\question[8]
+Answer the following short questions
+
+\begin{parts}
+    \part[2] In your own words, how would you define \textbf{Labor Abundance} in the Heckscher-Ohlin model setting?
+    \vspace*{\stretch{1}}
+    \part[2] How does the capital-labor ratio help us determine patterns of trade?
+    \vspace*{\stretch{1}}
+    \part[2] Describe the key difference(s) that separate the HO model from the Ricardian model
+    \vspace*{\stretch{1}}
+    \part[2] Describe the \textbf{Gravity Model}. 
+    What does this model ignore?
+    \vspace*{\stretch{1}}
+\end{parts}
+%\vspace*{\stretch{1}}
+
+\newpage 
+
+\question[6]
+Suppose we are considering an \textbf{HO Model setting}, where countries have not yet opened up to trade.
+Two goods are produced: \textbf{Suits and Ozempic}. 
+Suppose that tailoring \textbf{Suits} is \textbf{labor-intensive} in production as it is primarily done by hand and making \textbf{Ozempic} is \textbf{capital-intensive} in production as it requires exact and automated machinery. 
+The countries, Country A and Country B, have the following \textbf{Labor (L) and Capital (K)} endowments.
+
+\input{tables/Q2-table}
+
+\begin{parts}
+    \part[2] What are the \textbf{Capital-Labor Ratios} for each country?
+    \vspace*{\stretch{1}}
+    \part[2] Which country has comparative advantage in producing Ozempic?
+    \vspace*{\stretch{1}} 
+    \part[2] How will trade flows look once each country specializes?
+    \vspace*{\stretch{1}}
+\end{parts}
+
+\newpage 
+
+\question[6]
+How do trade outcomes play out for owners of factor inputs when trade opens? 
+Address both capital and labor outcome when a country is abundant in either capital or labor.
+\vspace*{\stretch{1}}
+
+\question[4]
+Consider the \textbf{Specific-Factor Model}. 
+What are the implications for domestic labor income of switching from autarky to open trade, when a given country is \textbf{land-abundant}?
+Is this impact different if the country is \textbf{capital-abundant} instead?
+\vspace*{\stretch{1}}
+
+\newpage 
+
+\question[6]
+Recall the \textbf{Magnification Effect} we learned in lecture.
+Let the capital share be 27\% and the labor share be 63\% to produce Banana Bread.
+If the rental rate of capital were to remain constant, then a 12\% increase in the price of Banana Bread must be accompanied by what percentage increase/decrease in wages?
+\vspace*{\stretch{1}}
+
+\question[4]
+We covered ambiguities of changes in labor outcomes, given greater openness to trade. 
+Who does \textbf{Autor et al (2013)} suggest are the most vulnerable with respect to labor market outcomes in the US, following Chinese trade liberalization between 1990 and 2007?
+\vspace*{\stretch{1}}
+
+\question[4]
+Find a research article of interest related to trade and labor market outcomes that we did not cover in class.
+Cite the study in APA format. 
+Describe the most interesting findings in a single paragraph.
+\vspace*{\stretch{1}}
+
+\end{questions}
+
+\end{document}

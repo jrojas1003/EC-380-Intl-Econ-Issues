@@ -230,7 +230,7 @@ There are two strands within the field of international trade:
 
 ---
 
-## Next Steps {.small }
+## Next Steps {.small}
 
 We will begin to look at the theory, starting with the [Ricardo Model]{.hi}. 
 It involves:

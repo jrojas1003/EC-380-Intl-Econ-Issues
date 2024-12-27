@@ -15,8 +15,6 @@ title-slide-attributes:
   data-background-position: left
 ---
 
-# Welcome {.inverse .note}
-
 {{< include 001-welcome.qmd >}}
 
 # Syllabus {.inverse .note}

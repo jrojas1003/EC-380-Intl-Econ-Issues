@@ -30,7 +30,7 @@ title: "Home"
 
 ::: {.column width="50%"}
 
-**Class Location:** Straub 253
+**Class Location:** Straub 245
 
 **Class Day & Time:** Mon & Wed - 2:00 - 3:20pm
 
@@ -54,7 +54,18 @@ For more details, read the [Syllabus](Documents/Syllabus/Syllabus.pdf) above
 
 ### Tentative Schedule
 
-| **Week** | **Chapter** | **Topic** | **Assignments** |
-|:---------:|:----------:|:---------:|:---------------:|
-| Test | Test | TEst| Test | 
+| **Week** |  **Reading** |    **Topic**    | **Assignments** |
+|:--------:|:------------:|:---------------:|:---------------:|
+|    01    |  Chapter 01  | Ricardian Model | - | 
+|    02    |  Chapter 03  |    OH Model     | Problem Set 01 & Quiz 01 Due |
+|    03    |   Articles   | Issues & Empirics |  Problem Set 02 Due |
+|    04    |  Chapter 04  | Trade Policy | Problem Set 03 & Quiz 02 Due |
+|    05    |   Practice   | Midterm Review | Midterm | 
 
+
+
+## Acknowledgements
+
+This class has been created using materials passed down by a former UO graduate student. 
+Thank you [Phillip Economides](https://philip-economides.com){target="_blank"} for the invaluable help and support. 
+Also thank you to [Dante Yasui](https://github.com/dyasui){target="_blank"}, whose own class website inspired and helped me figure out how to properly code this one. 

@@ -33,3 +33,21 @@ $navbar-hl: $uo-yellow; // highlight color when hovering over navbar links
 .text-center {
   text-align: center;
 }
+
+.cv-download {
+  background-color: $uo-green !important; /* Green color */
+  border-color: $cream !important;
+  color: $uo-yellow !important;
+  font-weight: bold !important; /* Make text bold */
+  display: inline-flex; /* Allows better alignment for text and icons */
+  align-items: center; /* Vertical centering */
+  justify-content: center; /* Horizontal centering */
+  text-align: center; /* Ensure text is centered */
+  padding: 10px 20px; /* Add padding for better spacing */
+  border-radius: 10px !important; /* Rounded corners */
+}
+
+.cv-download:hover {
+  background-color: #45a049 !important; /* Slightly darker green on hover */
+  border-color: #45a049 !important;
+}

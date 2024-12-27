@@ -2,7 +2,9 @@
 title: "Lectures"
 ---
 
-## Intro and Syllabus Day
+## First Half
+
+### Introduction and Syllabus
 
 ```{=html}
 <div>
@@ -13,7 +15,7 @@ title: "Lectures"
 </a>
 ```
 
-## Next 
+### Ricardian Model 
 
 ```{=html}
 <div>
@@ -23,3 +25,15 @@ title: "Lectures"
   <i class="fa-solid fa-window-restore"></i>&ensp;Expand
 </a>
 ```
+
+### HO Model
+
+### Trade Policy
+
+## Second Half
+
+### Globalization & Interntional Crises
+
+### Balance of Payments
+
+### Exchange Rates
