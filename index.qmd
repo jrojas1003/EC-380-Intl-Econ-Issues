@@ -56,10 +56,10 @@ For more details, read the [Syllabus](Documents/Syllabus/Syllabus.pdf) above
 
 | **Week** |  **Reading** |    **Topic**    | **Assignments** |
 |:--------:|:------------:|:---------------:|:---------------:|
-|    01    |  Chapter 01  | Ricardian Model | - | 
-|    02    |  Chapter 03  |    OH Model     | Problem Set 01 & Quiz 01 Due |
-|    03    |   Articles   | Issues & Empirics |  Problem Set 02 Due |
-|    04    |  Chapter 04  | Trade Policy | Problem Set 03 & Quiz 02 Due |
+|    01    |  [Chapter 01](Readings/articles.qmd#chapter-01-(p.-24---37))  | [Ricardian Model](Slides/lectures.qmd#ricardian-model) | - | 
+|    02    |  [Chapter 03](Readings/articles.qmd#chapter-03-(p.-64---85))  |    [OH Model](Slides/lectures.qmd#ho-model)     | [Problem Set 01](Assignments/list.qmd#ps01-(due-jan.-15-before-lecture-on-canvas)) & Quiz 01 Due |
+|    03    |   [Articles](Readings/articles.qmd#course-literature)   | [Issues & Empirics](Slides/lectures.qmd#issues--empirics) |  [Problem Set 02](Assignments/list.qmd#ps02-(due-tbd-before-lecture-on-canvas) Due) |
+|    04    |  [Chapter 04](Readings/articles.qmd#chapter-04-(p.-87---114))  | [Trade Policy](Slides/lectures.qmd#trade-policy) | [Problem Set 03](Assignments/list.qmd#ps03-(due-tbd-before-lecture-on-canvas)) & Quiz 02 Due |
 |    05    |   Practice   | Midterm Review | Midterm | 
 
 
@@ -68,4 +68,5 @@ For more details, read the [Syllabus](Documents/Syllabus/Syllabus.pdf) above
 
 This class has been created using materials passed down by a former UO graduate student. 
 Thank you [Phillip Economides](https://philip-economides.com){target="_blank"} for the invaluable help and support. 
-Also thank you to [Dante Yasui](https://github.com/dyasui){target="_blank"}, whose own class website inspired and helped me figure out how to properly code this one. 
+
+Thank you to [Dante Yasui](https://github.com/dyasui){target="_blank"}, whose own class website inspired and helped me figure out how to properly code this one. 
