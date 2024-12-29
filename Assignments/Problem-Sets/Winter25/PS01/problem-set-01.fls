@@ -1,8 +1,8 @@
-PWD /Users/joserojas/Documents/Teaching/EC380/Assignments/Problem-Sets/Winter 25/PS01
+PWD /Users/joserojas/Documents/Teaching/EC380/Assignments/Problem-Sets/Winter25/PS01
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/joserojas/Documents/Teaching/EC380/Assignments/Problem-Sets/Winter 25/PS01/problem-set-01.tex
+INPUT /Users/joserojas/Documents/Teaching/EC380/Assignments/Problem-Sets/Winter25/PS01/problem-set-01.tex
 OUTPUT problem-set-01.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/exam/exam.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/exam/exam.cls
