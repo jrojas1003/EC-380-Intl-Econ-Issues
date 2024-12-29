@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.22)  26 DEC 2024 11:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.22)  28 DEC 2024 20:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -740,17 +740,17 @@ LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <12> not available
 LaTeX Font Info:    Font shape `T1/lmss/b/n' in size <20.74> not available
 (Font)              Font shape `T1/lmss/bx/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 60.
+(Font)              scaled to size 14.4pt on input line 61.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 60.
-LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 60.
+(Font)              scaled to size 14.4pt on input line 61.
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 61.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 60.
+(Font)              scaled to size 14.4pt on input line 61.
 
-Overfull \hbox (3.3367pt too wide) in paragraph at lines 67--69
+Overfull \hbox (3.3367pt too wide) in paragraph at lines 68--70
 []\T1/lmss/m/n/12 In your own words, how would you de-fine \T1/lmss/bx/n/12 La-bor Abun-dance \T1/lmss/m/n/12 in the Heckscher-
  []
 
@@ -765,8 +765,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )) [2] [3] [4]
-This exam contains 7 questions with 7 parts, 0 subparts, and 0 subsubparts.
-This exam has a total of 52 points.
+This exam contains 6 questions with 6 parts, 0 subparts, and 0 subsubparts.
+This exam has a total of 50 points.
 This exam has a total of 0 bonus points.
 (./problem-set-02.aux)
  ***********
@@ -775,15 +775,15 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 22864 strings out of 474116
- 479544 string characters out of 5743681
+ 22856 strings out of 474116
+ 479427 string characters out of 5743681
  1931187 words of memory out of 5000000
- 44873 multiletter control sequences out of 15000+600000
+ 44865 multiletter control sequences out of 15000+600000
  591245 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,10n,93p,526b,530s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on problem-set-02.pdf (4 pages, 183681 bytes).
+Output written on problem-set-02.pdf (4 pages, 183166 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
