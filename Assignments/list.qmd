@@ -4,7 +4,7 @@ title: "Homework"
 
 ## Problem Sets
 
-### PS01 (Due Jan. 15 Before Lecture) on [**Canvas**](https://google.com){target="_blank"} 
+### PS01 (Due Jan. 15 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760037){target="_blank"} 
 
 ```{=html}
 <details>
@@ -18,13 +18,13 @@ title: "Homework"
 </details>
 ```
 
-### PS02 (Due TBD Before Lecture) on [**Canvas**](https://google.com){target="_blank"}
+### PS02 (Due Jan. 22 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760038){target="_blank"}
 
-### PS03 (Due TBD Before Lecture) on [**Canvas**](https://google.com){target="_blank"}
+### PS03 (Due Jan. 29 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760039){target="_blank"}
 
-### PS04 (Due TBD Before Lecture) on [**Canvas**](https://google.com){target="_blank"}
+### PS04 (Due Feb. 26 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760040){target="_blank"}
 
-### PS05 (Due TBD Before Lecture) on [**Canvas**](https://google.com){target="_blank"}
+### PS05 (Due Mar. 05 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760045){target="_blank"}
 
 <!--
 ```{=html}
@@ -76,3 +76,11 @@ title: "Homework"
 -->
 
 ## Quizzes
+
+### Quiz 01 (Due Jan. 15 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760034){target="_blank"}
+
+### Quiz 02 (Due Jan. 29 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760031){target="_blank"}
+
+### Quiz 03 (Due Feb. 26 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760044){target="_blank"}
+
+### Quiz 04 (Due Mar. 12 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760032){target="_blank"}
