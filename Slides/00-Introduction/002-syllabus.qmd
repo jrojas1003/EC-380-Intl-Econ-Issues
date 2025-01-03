@@ -108,4 +108,4 @@ Consideration for this form of accomodation is entirely subjective.
 
 Canvas will serve as a place to submit assignments and as a gradebook
 
-Everything else will be on our class [website](https://jrojas1003.github.io/EC-380-Intl-Econ-Issues/)
+Everything else will be on our class [website](https://jrojas1003.github.io/EC-380-Intl-Econ-Issues/){target="_blank"}
