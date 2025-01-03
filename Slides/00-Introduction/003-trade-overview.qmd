@@ -242,7 +242,7 @@ It involves:
 It will be key to note the models attributes as they will all have some key differences. 
 Each model will also have predictable outcomes.
 
-[For Next Class]{.hi-red .align-center} 
+[For Wednesday]{.hi-red .align-center} 
 
 - Read through Ch.1: Introduction to the World Economy (p. 24 - 37)
 - Read through Ch.3: Comparative Advantage and the Gains from Trade (p. 64 - 85)
