@@ -33,8 +33,74 @@ title: "Intl Market"
 
 ## Activity 01
 
+### Game Set-Up
 
+There are **10 groups (countries)** made up of 8 members each
+
+In this game, we are seeing how **technological differences** across countries can impact outcomes.
+Each country is tasked with producing as much as they possibly can given the time and resource constraints.
+
+Each country is given an envelope with resources to produce paper shapes. 
+Each shape has its own value and are "sold" in the market for a wealth transfer. 
+
+**Shapes must adhere to specific measurements and the edges must be cut with scissors.**
+**Any shape that is not measured properly or have a scissor-cut edge will be discarded.**
+
+<!--
+There are **three different type of countries** with the following **endowments**:
+
+:::: {.columns .align-center}
+
+::: {.column width="30%"}
+**High Income** (2)
+
+- x2 Scissors
+- x2 Rulers
+- x2 Protractors
+- x2 Pencils
+- x10 White Paper
+- x5 $100 Notes
+:::
+
+::: {.column width="40%"}
+**Middle Income** (5)
+
+- x2 Rulers
+- x2 Pencils
+- x10 White Paper
+- x5 $100 Notes
+:::
+
+::: {.column width="30%"}
+**Low Income** (3)
+
+- x2 Pencils
+- x10 White Paper
+- x5 $100 Notes
+:::
+
+::::
+
+-->
+
+### Results
+
+### Observations
+
+<!--
 ## Activity 02
 
+### Game Set-Up
+
+### Results
+
+### Observations
 
 ## Activity 03
+
+### Game Set-Up
+
+### Results
+
+### Observations
+-->
