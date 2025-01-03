@@ -35,11 +35,11 @@ title-slide-attributes:
 
 [Reading]{.h}
 
-- Ch. 4 : Comparative Advantage and Factor Endowments
+- [Chapter 03](../../Readings/articles.qmd#chapter-03-(p.-64---85))
   - Modern Trade Theory
   - Trade and Income Distribution
 
 [Assignment(s)]{.h} [DUE BEFORE CLASS!]{.hi-red}
 
-- Quiz 1
-- Problem Set 1
+- [Quiz 01](https://canvas.uoregon.edu/courses/254916/quizzes/376496){target="_blank"}
+- [Problem Set 01](../../Assignments/list.qmd#ps01-(due-jan.-15-before-lecture-on-canvas)){target="_blank"}
