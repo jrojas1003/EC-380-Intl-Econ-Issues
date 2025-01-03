@@ -244,6 +244,9 @@ Each model will also have predictable outcomes.
 
 [For Next Class]{.hi-red .align-center} 
 
-- Read Ch.1: Introduction to the World Economy
+- Read through Ch.1: Introduction to the World Economy (p. 24 - 37)
+- Read through Ch.3: Comparative Advantage and the Gains from Trade (p. 64 - 85)
+
+[Optional]{.hi}
+
 - Skim through Krugman (1993) "What do Undergrads Need to Know About Trade"
-- Read Ch.3: Comparative Advantage and the Gains from Trade

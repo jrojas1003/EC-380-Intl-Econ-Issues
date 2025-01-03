@@ -6,7 +6,7 @@ name: syllabus
 
 - [**Schedule:**]{.hi} Monday & Wednesday in Straub 245
 
-- [**Office Hours:**]{.hi} Wednesdays from 10:00 am to 12:00 pm 
+- [**Office Hours:**]{.hi} Wednesdays from 09:00 am to 11:00 am 
 
 **Lectures**
 
@@ -15,6 +15,40 @@ name: syllabus
 - I will lecture, go through example problems, ask you to solve things, etc
 
 - By being in lecture, the goal is for you to understand things beyond the textbook 
+
+---
+
+## Course Logistics
+
+- Our [textbook]{.hi} is International Economics by James Gerber (8th Ed)
+
+    - Any other reading/material I will be responsible for providing to you
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Course Schedule]{.h}
+
+- [W1 - W3:]{.hi} Theory of Trade
+- [W4 - W7:]{.hi} Trade Policy
+- [W8 - W10:]{.hi} Global Finance
+
+:::
+
+::: {.column width="50%"}
+[Course Grades]{.h}
+
+::: {.incremental}
+- 5% $\rightarrow$ In-Class Activity Participation
+- 25% $\rightarrow$ 5 Problem Sets
+- 10% $\rightarrow$ 4 Quizzes
+- 30% $\rightarrow$ Midterm Exam
+- 30% $\rightarrow$ Final Exam 
+:::
+
+:::
+
+::::
 
 ---
 
@@ -30,34 +64,48 @@ Every so often we will be creating our own world market
 
 ---
 
-## Course Logistics
+## Assignments
 
-- Our [textbook]{.hi} is International Economics by James Gerber (8th Ed)
+[Problem Sets]{.h} 
 
-    - Any other reading/material I will be responsible for providing to you
-
-:::: {.columns}
-
-::: {.column width="50%"}
-[Course Schedule]{.h}
-
-- [W1 - W3:]{.hii} Theory of Trade
-- [W4 - W7:]{.hii} Trade Policy
-- [W8 - W10:]{.hii} Global Finance
-
+::: {.fragment}
+- These assignments will test current course topics
+- Will be assigned a week before they are due
+- Due at 2:00pm (before lecture) but can submit until 11:59pm of due day
+- A late submission (anything past 2:00pm) will incur a substantial and propoortional penalty
 :::
 
-::: {.column width="50%"}
-[Course Grades]{.h}
+[Quizzes]{.h}
+
+::: {.fragment}
+- These are intended to test your critical thinking and develop your ability to form coherent and succint arguments
+- Have a 45min time limit
+- Submissions should be no more than a paragraph or two in length
+:::
+
+---
+
+## Make-Up Assignments 
+
+[Absolutely no make-up assignments will be given. Please do not ask. If a situation ever comes up that gets in the way of your being able to submit something, let me know beforehand and we will see]{.hp}
+
+::: {.fragment}
+In extreme circumstances that lead you to miss the midterm exam I will consider re-weighting your grade toward the final exam. 
+To qualify for re-weighting, you must notify me no later than two days after exam.
+Consideration for this form of accomodation is entirely subjective.
+:::
+
+[Exams]{.h}
 
 ::: {.incremental}
-- 5% $\rightarrow$ In-Class Activity Participation
-- 25% $\rightarrow$ 5 Problem Sets
-- 10% $\rightarrow$ 3 Quizzes
-- 30% $\rightarrow$ Midterm Exam
-- 30% $\rightarrow$ Final Exam 
+- Midterm exam is scheduled for Wednesday of Week 5 (Feb 5th)
+- Final exam is scheduled for Wednesday March 19th at 2:45pm
 :::
 
-:::
+---
 
-::::
+## Canvas & Course Set-up
+
+Canvas will serve as a place to submit assignments and as a gradebook
+
+Everything else will be on our class [website](https://jrojas1003.github.io/EC-380-Intl-Econ-Issues/)
