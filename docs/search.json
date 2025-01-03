@@ -1918,230 +1918,6 @@
     "text": "Flaws of the Ricardo Model\nThe Ricardian Model does a great job at providing a basic prediction that countries should tend to export goods in which they have relatively high productivity\n\nThis has been confirmed by studies over the years\n\nBut it is not without some faults:\n\nIt predicts an extreme degree of specialization that we do not observe in the real world\nIt assumes away effects of trade on the distribution of incomes within countries which ignores the fact that not all benefit from trade equally\nMisses differences in resources among countries\n\nOur next model addresses this"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html",
-    "title": "EC 380 - International Econ",
-    "section": "",
-    "text": "Definition: The complete absence of foreign trade; total self-sufficiency of a national economy\nTo understand how trade affects national welfare, we have to understand how they do on their own\nWe can do this by looking at the Production Possibilities Curve (PPC)\n\nThese show the trade-offs when a country chooses their production combination of two goods\nIt is closely related to the opportunity cost of the good on the horizontal axis"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#autarky",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#autarky",
-    "title": "EC 380 - International Econ",
-    "section": "",
-    "text": "Definition: The complete absence of foreign trade; total self-sufficiency of a national economy\nTo understand how trade affects national welfare, we have to understand how they do on their own\nWe can do this by looking at the Production Possibilities Curve (PPC)\n\nThese show the trade-offs when a country chooses their production combination of two goods\nIt is closely related to the opportunity cost of the good on the horizontal axis"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#production-possibilities-curves-ppc",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#production-possibilities-curves-ppc",
-    "title": "EC 380 - International Econ",
-    "section": "Production Possibilities Curves (PPC)",
-    "text": "Production Possibilities Curves (PPC)\nFor the moment, we will be dealing with PPCs that look like straight lines because we assume that the trade-off between two goods does not change\n\nThis follows from an assumption we make on labor: Labor is homogeneous and no group of workers is more skilled than another group\n\n. . .\nHow are they related to opportunity costs?\n\nOpportunity costs are the best forgone alternative: In order to produce 1 unit of good X, the country has to give up some amount of good Y.\n\nBecause this is a “rate of change”, we say that the slope of the PPC is the Opportunity Cost of good X"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#production-possibilities-curves-ppc-1",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#production-possibilities-curves-ppc-1",
-    "title": "EC 380 - International Econ",
-    "section": "Production Possibilities Curves (PPC)",
-    "text": "Production Possibilities Curves (PPC)\nCountry’s PPC Between X & Y"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#production-possibilities-curves-ppc-2",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#production-possibilities-curves-ppc-2",
-    "title": "EC 380 - International Econ",
-    "section": "Production Possibilities Curves (PPC)",
-    "text": "Production Possibilities Curves (PPC)\n\n\nCountry’s Bundle Choices Between X & Y\n\n\n\n\n\n\n\n\nPoint A: Producing at an inefficient and wasteful level\n\n\n\n\nPoint B: Efficient point of production where maximum level of output is obtained\n\n\n\n\nPoint C: Infeasible. The country does not have the resources to produce at this level"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#how-does-a-country-optimally-choose",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#how-does-a-country-optimally-choose",
-    "title": "EC 380 - International Econ",
-    "section": "How Does a Country Optimally Choose?",
-    "text": "How Does a Country Optimally Choose?\n\n\n\n\n\n\n\n\n\nChoice depends on the country’s demand for the two goods\nWe call these Indifference Curves\n\nEach curve shows the consumption bundles of goods that the economy can consume and be equally satisfied\nThe consumers are indifferent in its own preference across the bundles on a particular indifference curve"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#indifference-curves",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#indifference-curves",
-    "title": "EC 380 - International Econ",
-    "section": "Indifference Curves",
-    "text": "Indifference Curves"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#back-to-the-ricardo-model",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#back-to-the-ricardo-model",
-    "title": "EC 380 - International Econ",
-    "section": "Back to the Ricardo Model",
-    "text": "Back to the Ricardo Model\nStarting with the Ricardo Model, we look at it’s primary components:\n\n\nSingle Factor of Production (Labor)\nTwo-Country Model (Home and Foreign)\nTechnology differences across countries\n\n\n\nWe will use our own example\n\n\n\nFactor of production: Labor (L)\nTwo Countries: Home and Foreign\nTwo Goods: Coffee and Tea\n\n\n\n\nSuppose that in this case, the Home Country exports coffee and imports tea\nWhat would this imply about which good each country has comparative advantage in?"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#ricardo-model-assumptions",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#ricardo-model-assumptions",
-    "title": "EC 380 - International Econ",
-    "section": "Ricardo Model Assumptions",
-    "text": "Ricardo Model Assumptions"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#creating-ppfs",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#creating-ppfs",
-    "title": "EC 380 - International Econ",
-    "section": "Creating PPFs",
-    "text": "Creating PPFs\nLet each country have a labor force size of 10 and productions be:\n\n\n\n\n\nWe find the PPF intercepts by seeing how much a country will produce if their entire work force only produces one good\n\nHome would produce:\n\\[\\begin{align*}\n    &\\text{Coffee:} \\; L * \\text{units} = 10 * 9 = 90 \\\\\n    &\\text{Tea:} \\; L * \\text{units} = 10 * 7 = 70\n\\end{align*}\\]"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#home-ppf",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#home-ppf",
-    "title": "EC 380 - International Econ",
-    "section": "Home PPF",
-    "text": "Home PPF\n\n\n\n\n\nSlope of PPF is Opportunity Cost of Good X\nWhich is how much units of tea do I give up to make one more unit of coffee\n\\[\n    \\text{Slope of PPF} = \\dfrac{\\Delta \\text{Tea Ouptut}}{\\Delta \\text{Coffee Output}} = \\dfrac{-7}{9} = \\text{(-)Opportunity Cost of Coffee}\n\\]"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#foreign-ppf",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#foreign-ppf",
-    "title": "EC 380 - International Econ",
-    "section": "Foreign PPF",
-    "text": "Foreign PPF\nForeign produces 10 Coffee and 12 Tea\n\n\n Foreign would produce:\n\\[\\begin{align*}\n    &\\text{Coffee:} \\; L * \\text{units} = 10 * 10 = 100 \\\\\n    &\\text{Tea:} \\; L * \\text{units} = 10 * 12 = 120\n\\end{align*}\\]\n\\[\\begin{align*}\n    &\\text{Slope} = \\dfrac{\\Delta \\text{Tea Ouptut}}{\\Delta \\text{Coffee Output}} = \\dfrac{-12}{10}\n\\end{align*}\\]"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#introducing-some-key-variables---marginal-product-of-labor",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#introducing-some-key-variables---marginal-product-of-labor",
-    "title": "EC 380 - International Econ",
-    "section": "Introducing some Key Variables - Marginal Product of Labor",
-    "text": "Introducing some Key Variables - Marginal Product of Labor\nMarginal Product of Labor (MPL): Represents the additional units of a good produced, given a one unit increase in the number of workers assigned to a particular task\n. . .\nThe MPL for the Home Country for each good is written as \\(\\text{MPL}_{c}^{H}\\) and \\(\\text{MPL}_{t}^{H}\\), for coffee and tea respectively.\nWe can assign numbers to each such that:\n. . .\n\\[\n    \\text{MPL}_{c}^{H} = 9 \\;\\;\\;\\; \\& \\;\\;\\;\\; \\text{MPL}_{t}^{H} = 7\n\\]\nLet’s also say that the country has a full labor force \\(\\bar{L} = 10\\)\nWe will add the Foreign Country later"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#home-ppf-1",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#home-ppf-1",
-    "title": "EC 380 - International Econ",
-    "section": "Home PPF",
-    "text": "Home PPF\nWe can plot the Home PPF by finding the intercepts for each good. We can do this by multiplying the marginal product of labor by the workforce size\n\\[\n    \\text{MPL}_{\\text{good}}^{\\text{country}} * \\bar{L}\n\\]\n\n\nThe Home Country produces\n\\[\\begin{align*}\n    Q_{\\text{coffee}}^{H} &= 9 * 10 = 90 \\\\ \\\\\n    Q_{\\text{tea}}^{H} &= 7 * 10 = 70\n\\end{align*}\\]"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#home-ppf-2",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#home-ppf-2",
-    "title": "EC 380 - International Econ",
-    "section": "Home PPF",
-    "text": "Home PPF\nAssume: PPF is a straight line due to the constant MPLs\nSlope of PPF: Equal to the marginal rate of substitution between goods (Coffee & Tea)\n\\[\n    \\text{Slope of PPF}^{H} = -\\dfrac{\\text{MPL}_{t}}{\\text{MPL}_{c}} = -\\dfrac{7}{9}\n\\]\nThis is also the Opportunity Cost of coffee. So we can say that if we want one more unit of coffee we must trade off tea at a rate of \\(\\dfrac{7}{9}\\)\nEquivalently, the opportunity cost of tea would be \\(\\dfrac{9}{7}\\) units of coffee"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#home-prices",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#home-prices",
-    "title": "EC 380 - International Econ",
-    "section": "Home Prices",
-    "text": "Home Prices\nWe can determine prices in the country from this information as well. We assume to be under Perfect Competition which means that all goods are sold at cost.\nPrices\nThese are in terms relative to both goods and measured in units:\n\\[\n    P_{c}^{H} = \\dfrac{\\text{MPL}_{t}}{\\text{MPL}_{c}} = \\dfrac{7}{9} \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; P_{t}^{H} = \\dfrac{\\text{MPL}_{c}}{\\text{MPL}_{t}} = \\dfrac{9}{7}\n\\]"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#home-wages",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#home-wages",
-    "title": "EC 380 - International Econ",
-    "section": "Home Wages",
-    "text": "Home Wages\nWe use the Perfect Competition assumptions to also determine wages\nWages\nWorkers are paid the equivalent of their MPL times the price of that additional unit they produce:\n\\[\\begin{align*}\n    \\text{wages}_{\\text{coffee}} &= \\text{P}_{\\text{coffee}} * \\text{MPL}_{\\text{coffee}} \\\\ \\\\\n    \\text{wages}_{\\text{tea}} &= \\text{P}_{\\text{tea}} * \\text{MPL}_{\\text{tea}}\n\\end{align*}\\]"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#home-wages-across-industries",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#home-wages-across-industries",
-    "title": "EC 380 - International Econ",
-    "section": "Home Wages Across Industries",
-    "text": "Home Wages Across Industries\nAdditionally, because we assume that labor moves freely between industries, we can assume that wages are equalized across industries\n\\[\n    \\text{wages}_{\\text{coffee}} = \\text{P}_{\\text{coffee}} * \\text{MPL}_{\\text{coffee}} = \\text{P}_{\\text{tea}} * \\text{MPL}_{\\text{tea}} = \\text{wages}_{\\text{tea}}\n\\]\n. . .\n\nWe can rearrange this such that the price ratio is equal to the MPL ratio\n\\[\n    \\dfrac{\\text{P}_{\\text{coffee}}}{\\text{P}_{\\text{tea}}} = \\dfrac{\\text{MPL}_{\\text{tea}}}{\\text{MPL}_{\\text{coffee}}}\n\\]\nRelative price of coffee is equal to the Opportunity Cost of coffee at the autarky/no-trade equilibrium"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#foreign-ppf-prices-and-wages",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#foreign-ppf-prices-and-wages",
-    "title": "EC 380 - International Econ",
-    "section": "Foreign PPF, Prices, and Wages",
-    "text": "Foreign PPF, Prices, and Wages\nWe can find the Foreign Country results as well\nFind them for yourself and we will pick it up next class. Let:\n\\[\n    \\text{MPL}_{c}^{F} = 10 \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; \\text{MPL}_{t}^{F} = 12 \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; \\bar{L} = 10\n\\]\nTasks\n\nGraph the Foreign Country PPF\nSlope of \\(\\text{PPF}\\)\nOpportunity Cost of coffee and tea\nPrices for both goods\nRead Ch.3.1 to Ch.3.3"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#foreign-country",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#foreign-country",
-    "title": "EC 380 - International Econ",
-    "section": "Foreign Country",
-    "text": "Foreign Country\nForeign PPF\n\n\n\n\n\n\n\n\nOpportunity Costs\n\nCoffee: \\(\\dfrac{12}{10}\\) \\(\\;\\;\\) & \\(\\;\\;\\) Tea: \\(\\dfrac{10}{12}\\)\n\nPrices\n\nCoffee: \\(\\dfrac{12}{10}\\) \\(\\;\\;\\) & \\(\\;\\;\\) Tea: \\(\\dfrac{10}{12}\\)"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#comparing-countries",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#comparing-countries",
-    "title": "EC 380 - International Econ",
-    "section": "Comparing Countries",
-    "text": "Comparing Countries"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#who-has-the-advantage",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#who-has-the-advantage",
-    "title": "EC 380 - International Econ",
-    "section": "Who Has the Advantage?",
-    "text": "Who Has the Advantage?\nWe can compare both countries and determine who has an advantage in production\nWe work with two types of advantages:\n\n\nAbsolute Advantage: If the country produces more per labor input\nComparative Advantage: If the country’s Opportunity Cost of producing a good is lower than the other country"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#who-has-the-advantage-1",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#who-has-the-advantage-1",
-    "title": "EC 380 - International Econ",
-    "section": "Who has the Advantage?",
-    "text": "Who has the Advantage?\nNow we have two countries, we can begin to compare their Marginal Productivities of Labor\n\nA nation has the Absolute Advantage in a good if they produce more per labor input\nA nation has the Comparative Advantage if the Opportunity Cost of producing a good is lower than that of the other country\n\n\n\n\n\n\n\n\n\nAbsolute Advantage\n\nForeign in both goods\n\nComparative Advantage\n\nHome in Coffee | Foreign in Tea"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#choosing-production-based-on-preferences",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#choosing-production-based-on-preferences",
-    "title": "EC 380 - International Econ",
-    "section": "Choosing Production Based on Preferences",
-    "text": "Choosing Production Based on Preferences\nUnder Autarky, every country has to produce as much as they want to consume\nWe saw that the production bundle is determined by the country indifference curve\n\n\nWe won’t go into how we determine preferences, but we will figure out how to get exact bundles based on a pre-determined mix of goods\nWe are looking for a point where 2 curves (lines) touch\n\nWhich is equivalent to finding out at which coordinates they are equal to each other\nWe will have 2 equations (PPF & Preferences) and 2 unknowns (Good X and Good Y)"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#choosing-production---example",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#choosing-production---example",
-    "title": "EC 380 - International Econ",
-    "section": "Choosing Production - Example",
-    "text": "Choosing Production - Example\nLet there be two countries New New York and Mars with the following productivities and a labor force size of \\(\\bar{L} = 20\\)\n\n\n\n\n\nWe will focus on New New York for this example:\n\nThey have prefer to consume 3 Slurm for every 2 Popplers\nWe will find how much Slurm and Popplers New New York needs to produce in order to satisfy demand"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#new-new-york-production-bundle",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#new-new-york-production-bundle",
-    "title": "EC 380 - International Econ",
-    "section": "New New York Production Bundle",
-    "text": "New New York Production Bundle\n\n\n\n\\[ \\bar{L} = 20 \\]\n\n\n\n\n\n\nWe will:\n\n\nFind the PPF intercepts\nFind the proportion in which they prefer to consume the goods\nDetermine the PPF line\nSet preferences proportion equal to PPF line and solve"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#find-ppf-intercepts",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#find-ppf-intercepts",
-    "title": "EC 380 - International Econ",
-    "section": "Find PPF Intercepts",
-    "text": "Find PPF Intercepts\nLooking only at New New York with \\(\\bar{L} = 20\\)\n\n\n\n\n\nWe need to find the maximum they can produce for each good:\n\n\nSlurm\n\n\\[\\begin{align*}\n    \\text{Max Slurm} &= \\text{MPL}_{s} * \\bar{L} \\\\\n    \\text{Max Slurm} &= 7 * 20 \\\\\n    \\text{Max Slurm} &= 140\n\\end{align*}\\]\n\n\nPopplers\n\n\\[\\begin{align*}\n    \\text{Max Popplers} &= \\text{MPL}_{p} * \\bar{L} \\\\\n    \\text{Max Popplers} &= 9 * 20 \\\\\n    \\text{Max Popplers} &= 180\n\\end{align*}\\]"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#preference-in-consuming-goods",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#preference-in-consuming-goods",
-    "title": "EC 380 - International Econ",
-    "section": "Preference in Consuming Goods",
-    "text": "Preference in Consuming Goods\nWe were told that New New York Consumers prefer to consume 3 Slurm for every 2 Popplers\nLet’s see how this translates to our indifference curve concept\n\n\\[\\begin{align*}\n    \\dfrac{\\text{Slurm}}{\\text{Popplers}} = \\dfrac{3}{2} \\\\\n\\end{align*}\\]\n\n\n\\[\\begin{align*}\n    \\dfrac{\\text{Slurm}}{\\text{Popplers}} &= \\dfrac{3}{2} \\\\\n    2 * \\text{Slurm} &= 3 * \\text{Popplers} \\\\\n    \\dfrac{2}{3} * \\text{Slurm} &= \\text{Popplers}\n\\end{align*}\\]\n\n\nWe can write this as a proportion, then we can solve for either of the goods\nThis will help us in finding that optimal bundle"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#determining-the-ppf-line",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#determining-the-ppf-line",
-    "title": "EC 380 - International Econ",
-    "section": "Determining the PPF Line",
-    "text": "Determining the PPF Line\n\n\n\n\n\n\n\n\n\nThe PPF Line\n\n\\[\\begin{align*}\n    \\text{Y} &= b \\pm mx \\\\\n    \\text{Y} &= 180 - \\dfrac{9}{7} * x\n\n\\end{align*}\\]"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#putting-it-altogether",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#putting-it-altogether",
-    "title": "EC 380 - International Econ",
-    "section": "Putting It Altogether",
-    "text": "Putting It Altogether\nBecause we are finding where Production equals Demand, we are finding where these two equations equal each other\n\\[\n    \\text{Popplers} = \\dfrac{2}{3} * \\text{Slurm} \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; \\text{Popplers} = 180 - \\dfrac{9}{7} * \\text{Slurm}\n\\]\n\n\n\n\\[\\begin{align*}\n    \\dfrac{2}{3} * \\text{Slurm} &= 180 - \\dfrac{9}{7} * \\text{Slurm} \\\\\n    \\left(\\dfrac{2}{3} + \\dfrac{9}{7} \\right) * \\text{Slurm} &= 180 \\\\\n    \\left(\\dfrac{14+27}{21} \\right) * \\text{Slurm} &= 180 \\\\\n    \\left(\\dfrac{41}{21} \\right) * \\text{Slurm} &= 180\n\\end{align*}\\]\n\n\n\\[\\begin{align*}\n    \\left(\\dfrac{41}{21} \\right) * \\text{Slurm} &= 180 \\\\\n    \\text{Slurm} &= \\dfrac{180}{1.95} \\\\ \\\\\n    \\text{Slurm} &\\approx 92.3\n\\end{align*}\\]"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#putting-it-altogether-1",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#putting-it-altogether-1",
-    "title": "EC 380 - International Econ",
-    "section": "Putting It Altogether",
-    "text": "Putting It Altogether\nWe know that New New York will make 92.3 Slurm\nNow we need to find how many Popplers they make:\nThere are two ways to find this out:\n\\[\n    \\text{Popplers} = \\dfrac{2}{3} * \\text{Slurm} \\;\\;\\;\\;\\; \\text{or} \\;\\;\\;\\;\\; \\text{Popplers} = 180 - \\dfrac{9}{7} * \\text{Slurm}\n\\]\n\n\n\n\\[\\begin{align*}\n    \\text{Popplers} &= \\dfrac{2}{3} * 92.3 \\\\\n    \\text{Popplers} &\\approx 61.5\n\\end{align*}\\]\n\n\n\n\\[\\begin{align*}\n    \\text{Popplers} &= 180 - \\dfrac{9}{7} * 92.3 \\\\\n    \\text{Popplers} &= 180 - 118.7 \\\\\n    \\text{Popplers} &\\approx 61.3\n\\end{align*}\\]"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#results",
-    "href": "Slides/01-Ricardo-Model/012-autarky.html#results",
-    "title": "EC 380 - International Econ",
-    "section": "Results!",
-    "text": "Results!\nBy knowing in which proportion consumers prefer their goods, we can find how much the country will produce under autarky\n\nWe could also figure out what happens to production if there is some form of shock to the economy, for example:\n\n\nPreferences change\nLabor increases/decreases\nProductivities change"
-  },
-  {
     "objectID": "Slides/01-Ricardo-Model/011-why-trade.html",
     "href": "Slides/01-Ricardo-Model/011-why-trade.html",
     "title": "EC 380 - International Econ",
@@ -2349,21 +2125,7 @@
     "href": "Activities/activities.html#activity-01",
     "title": "Intl Market",
     "section": "Activity 01",
-    "text": "Activity 01"
-  },
-  {
-    "objectID": "Activities/activities.html#activity-02",
-    "href": "Activities/activities.html#activity-02",
-    "title": "Intl Market",
-    "section": "Activity 02",
-    "text": "Activity 02"
-  },
-  {
-    "objectID": "Activities/activities.html#activity-03",
-    "href": "Activities/activities.html#activity-03",
-    "title": "Intl Market",
-    "section": "Activity 03",
-    "text": "Activity 03"
+    "text": "Activity 01\n\nGame Set-Up\nThere are 10 groups (countries) made up of 8 members each\nIn this game, we are seeing how technological differences across countries can impact outcomes. Each country is tasked with producing as much as they possibly can given the time and resource constraints.\nEach country is given an envelope with resources to produce paper shapes. Each shape has its own value and are “sold” in the market for a wealth transfer.\nShapes must adhere to specific measurements and the edges must be cut with scissors. Any shape that is not measured properly or have a scissor-cut edge will be discarded.\n\n\n\nResults\n\n\nObservations"
   },
   {
     "objectID": "Assignments/list.html",
@@ -2695,13 +2457,6 @@
     "text": "Home PPF\n\nSlope of PPF is Opportunity Cost of Good X\nWhich is how much units of tea do I give up to make one more unit of coffee\n\\[\n    \\text{Slope of PPF} = \\dfrac{\\Delta \\text{Tea Ouptut}}{\\Delta \\text{Coffee Output}} = \\dfrac{-7}{9} = \\text{(-)Opportunity Cost of Coffee}\n\\]"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/010-compile.html#foreign-ppf",
-    "href": "Slides/01-Ricardo-Model/010-compile.html#foreign-ppf",
-    "title": "The Ricardian Model",
-    "section": "Foreign PPF",
-    "text": "Foreign PPF\nForeign produces 10 Coffee and 12 Tea\n\n\n Foreign would produce:\n\\[\\begin{align*}\n    &\\text{Coffee:} \\; L * \\text{units} = 10 * 10 = 100 \\\\\n    &\\text{Tea:} \\; L * \\text{units} = 10 * 12 = 120\n\\end{align*}\\]\n\\[\\begin{align*}\n    &\\text{Slope} = \\dfrac{\\Delta \\text{Tea Ouptut}}{\\Delta \\text{Coffee Output}} = \\dfrac{-12}{10}\n\\end{align*}\\]"
-  },
-  {
     "objectID": "Slides/01-Ricardo-Model/010-compile.html#introducing-some-key-variables---marginal-product-of-labor",
     "href": "Slides/01-Ricardo-Model/010-compile.html#introducing-some-key-variables---marginal-product-of-labor",
     "title": "The Ricardian Model",
@@ -2748,7 +2503,7 @@
     "href": "Slides/01-Ricardo-Model/010-compile.html#foreign-ppf-prices-and-wages",
     "title": "The Ricardian Model",
     "section": "Foreign PPF, Prices, and Wages",
-    "text": "Foreign PPF, Prices, and Wages\nWe can find the Foreign Country results as well\nFind them for yourself and we will pick it up next class. Let:\n\\[\n    \\text{MPL}_{c}^{F} = 10 \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; \\text{MPL}_{t}^{F} = 12 \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; \\bar{L} = 10\n\\]\nTasks\n\nGraph the Foreign Country PPF\nSlope of \\(\\text{PPF}\\)\nOpportunity Cost of coffee and tea\nPrices for both goods\nRead Ch.3.1 to Ch.3.3"
+    "text": "Foreign PPF, Prices, and Wages\nWe can find the Foreign Country results as well\nFind them for yourself and we will pick it up next class. Let:\n\\[\n    \\text{MPL}_{c}^{F} = 10 \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; \\text{MPL}_{t}^{F} = 12 \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; \\bar{L} = 10\n\\]\nTasks\n\nGraph the Foreign Country PPF\nSlope of \\(\\text{PPF}\\)\nOpportunity Cost of coffee and tea\nPrices for both goods"
   },
   {
     "objectID": "Slides/01-Ricardo-Model/010-compile.html#foreign-country",
@@ -2775,8 +2530,8 @@
     "objectID": "Slides/01-Ricardo-Model/010-compile.html#who-has-the-advantage-1",
     "href": "Slides/01-Ricardo-Model/010-compile.html#who-has-the-advantage-1",
     "title": "The Ricardian Model",
-    "section": "Who has the Advantage?",
-    "text": "Who has the Advantage?\nNow we have two countries, we can begin to compare their Marginal Productivities of Labor\n\nA nation has the Absolute Advantage in a good if they produce more per labor input\nA nation has the Comparative Advantage if the Opportunity Cost of producing a good is lower than that of the other country\n\n\n\n\n\n\n\n\n\nAbsolute Advantage\n\nForeign in both goods\n\nComparative Advantage\n\nHome in Coffee | Foreign in Tea"
+    "section": "Who Has the Advantage?",
+    "text": "Who Has the Advantage?\nNow we have two countries, we can begin to compare their Marginal Productivities of Labor\n\nA nation has the Absolute Advantage in a good if they produce more per labor input\nA nation has the Comparative Advantage if the Opportunity Cost of producing a good is lower than that of the other country\n\n\n\n\n\n\n\n\n\nAbsolute Advantage\n\nForeign in both goods\n\nComparative Advantage\n\nHome in Coffee | Foreign in Tea"
   },
   {
     "objectID": "Slides/01-Ricardo-Model/010-compile.html#choosing-production-based-on-preferences",
@@ -2790,49 +2545,49 @@
     "href": "Slides/01-Ricardo-Model/010-compile.html#choosing-production---example",
     "title": "The Ricardian Model",
     "section": "Choosing Production - Example",
-    "text": "Choosing Production - Example\nLet there be two countries New New York and Mars with the following productivities and a labor force size of \\(\\bar{L} = 20\\)\n\nWe will focus on New New York for this example:\n\nThey have prefer to consume 3 Slurm for every 2 Popplers\nWe will find how much Slurm and Popplers New New York needs to produce in order to satisfy demand"
+    "text": "Choosing Production - Example\nLet there be two countries, one belongs to the Vampires and the other to the Wolves with the following productivities and a labor force size of \\(\\bar{L} = 20\\)\n\nWe will focus on the Vampires for this example:\n\nThey have prefer to consume 3 Sparkling Selfies for every 2 Shirtless Selfies\nWe will find how many Sparkling and Shirtless selfies the Vampires need to produce in order to satisfy demand"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/010-compile.html#new-new-york-production-bundle",
-    "href": "Slides/01-Ricardo-Model/010-compile.html#new-new-york-production-bundle",
+    "objectID": "Slides/01-Ricardo-Model/010-compile.html#vampires-production-bundle",
+    "href": "Slides/01-Ricardo-Model/010-compile.html#vampires-production-bundle",
     "title": "The Ricardian Model",
-    "section": "New New York Production Bundle",
-    "text": "New New York Production Bundle\n\n\n\n\\[ \\bar{L} = 20 \\]\n\n\n\n\n\n\nWe will:\n\n\nFind the PPF intercepts\nFind the proportion in which they prefer to consume the goods\nDetermine the PPF line\nSet preferences proportion equal to PPF line and solve"
+    "section": "Vampires Production Bundle",
+    "text": "Vampires Production Bundle\n\n\n\n\\[ \\bar{L} = 20 \\]\n\n\n\n\n\n\nWe will:\n\n\nFind the PPF intercepts\nFind the proportion in which they prefer to consume the goods\nDetermine the PPF line\nSet preferences proportion equal to PPF line and solve"
   },
   {
     "objectID": "Slides/01-Ricardo-Model/010-compile.html#find-ppf-intercepts",
     "href": "Slides/01-Ricardo-Model/010-compile.html#find-ppf-intercepts",
     "title": "The Ricardian Model",
     "section": "Find PPF Intercepts",
-    "text": "Find PPF Intercepts\nLooking only at New New York with \\(\\bar{L} = 20\\)\n\nWe need to find the maximum they can produce for each good:\n\n\nSlurm\n\n\\[\\begin{align*}\n    \\text{Max Slurm} &= \\text{MPL}_{s} * \\bar{L} \\\\\n    \\text{Max Slurm} &= 7 * 20 \\\\\n    \\text{Max Slurm} &= 140\n\\end{align*}\\]\n\n\nPopplers\n\n\\[\\begin{align*}\n    \\text{Max Popplers} &= \\text{MPL}_{p} * \\bar{L} \\\\\n    \\text{Max Popplers} &= 9 * 20 \\\\\n    \\text{Max Popplers} &= 180\n\\end{align*}\\]"
+    "text": "Find PPF Intercepts\nLooking only at the Vampires with \\(\\bar{L} = 20\\)\n\nWe need to find the maximum they can produce for each good:\n\n\nSparkling\n\n\\[\\begin{align*}\n    \\text{Max Sparkling} &= \\text{MPL}_{spark} * \\bar{L} \\\\\n    \\text{Max Sparkling} &= 12 * 20 \\\\\n    \\text{Max Sparkling} &= 240\n\\end{align*}\\]\n\n\nShirtless\n\n\\[\\begin{align*}\n    \\text{Max Shirtless} &= \\text{MPL}_{shirt} * \\bar{L} \\\\\n    \\text{Max Shirtless} &= 4 * 20 \\\\\n    \\text{Max Shirtless} &= 80\n\\end{align*}\\]"
   },
   {
     "objectID": "Slides/01-Ricardo-Model/010-compile.html#preference-in-consuming-goods",
     "href": "Slides/01-Ricardo-Model/010-compile.html#preference-in-consuming-goods",
     "title": "The Ricardian Model",
     "section": "Preference in Consuming Goods",
-    "text": "Preference in Consuming Goods\nWe were told that New New York Consumers prefer to consume 3 Slurm for every 2 Popplers\nLet’s see how this translates to our indifference curve concept\n\n\\[\\begin{align*}\n    \\dfrac{\\text{Slurm}}{\\text{Popplers}} = \\dfrac{3}{2} \\\\\n\\end{align*}\\]\n\n\n\\[\\begin{align*}\n    \\dfrac{\\text{Slurm}}{\\text{Popplers}} &= \\dfrac{3}{2} \\\\\n    2 * \\text{Slurm} &= 3 * \\text{Popplers} \\\\\n    \\dfrac{2}{3} * \\text{Slurm} &= \\text{Popplers}\n\\end{align*}\\]\n\n\nWe can write this as a proportion, then we can solve for either of the goods\nThis will help us in finding that optimal bundle"
+    "text": "Preference in Consuming Goods\nWe were told that Vampires Consumers prefer to consume 3 Sparkling selfies for every 2 Shirtless selfies\nLet’s see how this translates to our indifference curve concept\n\n\\[\\begin{align*}\n    \\dfrac{\\text{Sparkling}}{\\text{Shirtless}} = \\dfrac{3}{2} \\\\\n\\end{align*}\\]\n\n\n\\[\\begin{align*}\n    \\dfrac{\\text{Sparkling}}{\\text{Shirtless}} &= \\dfrac{3}{2} \\\\\n    2 * \\text{Sparkling} &= 3 * \\text{Shirtless} \\\\\n    \\dfrac{2}{3} * \\text{Sparkling} &= \\text{Shirtless}\n\\end{align*}\\]\n\n\nWe can write this as a proportion, then we can solve for either of the goods\nThis will help us in finding that optimal bundle"
   },
   {
     "objectID": "Slides/01-Ricardo-Model/010-compile.html#determining-the-ppf-line",
     "href": "Slides/01-Ricardo-Model/010-compile.html#determining-the-ppf-line",
     "title": "The Ricardian Model",
     "section": "Determining the PPF Line",
-    "text": "Determining the PPF Line\n\n\n\n\n\n\n\n\n\nThe PPF Line\n\n\\[\\begin{align*}\n    \\text{Y} &= b \\pm mx \\\\\n    \\text{Y} &= 180 - \\dfrac{9}{7} * x\n\n\\end{align*}\\]"
+    "text": "Determining the PPF Line\n\n\n\n\n\n\n\n\n\nThe PPF Line\n\n\\[\\begin{align*}\n    \\text{Y} &= b \\pm mx \\\\\n    \\text{Y} &= 80 - \\dfrac{80}{240} * x \\\\\n    \\text{Y} &= 80 - \\dfrac{1}{3} * x\n\n\\end{align*}\\]"
   },
   {
     "objectID": "Slides/01-Ricardo-Model/010-compile.html#putting-it-altogether",
     "href": "Slides/01-Ricardo-Model/010-compile.html#putting-it-altogether",
     "title": "The Ricardian Model",
     "section": "Putting It Altogether",
-    "text": "Putting It Altogether\nBecause we are finding where Production equals Demand, we are finding where these two equations equal each other\n\\[\n    \\text{Popplers} = \\dfrac{2}{3} * \\text{Slurm} \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; \\text{Popplers} = 180 - \\dfrac{9}{7} * \\text{Slurm}\n\\]\n\n\n\n\\[\\begin{align*}\n    \\dfrac{2}{3} * \\text{Slurm} &= 180 - \\dfrac{9}{7} * \\text{Slurm} \\\\\n    \\left(\\dfrac{2}{3} + \\dfrac{9}{7} \\right) * \\text{Slurm} &= 180 \\\\\n    \\left(\\dfrac{14+27}{21} \\right) * \\text{Slurm} &= 180 \\\\\n    \\left(\\dfrac{41}{21} \\right) * \\text{Slurm} &= 180\n\\end{align*}\\]\n\n\n\\[\\begin{align*}\n    \\left(\\dfrac{41}{21} \\right) * \\text{Slurm} &= 180 \\\\\n    \\text{Slurm} &= \\dfrac{180}{1.95} \\\\ \\\\\n    \\text{Slurm} &\\approx 92.3\n\\end{align*}\\]"
+    "text": "Putting It Altogether\nBecause we are finding where Production equals Demand, we are finding where these two equations equal each other\n\\[\n    \\text{Shirtless} = \\dfrac{2}{3} * \\text{Sparkling} \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; \\text{Shirtless} = 80 - \\dfrac{1}{3} * \\text{Sparkling}\n\\]\n\n\\[\\begin{align*}\n    \\dfrac{2}{3} * \\text{Sparkling} &= 80 - \\dfrac{1}{3} * \\text{Sparkling} \\\\\n    \\left(\\dfrac{2}{3} + \\dfrac{1}{3} \\right) * \\text{Sparkling} &= 80 \\\\\n    (1) * \\text{Sparkling} &= 80 \\\\\n    \\text{Sparkling} &= 80\n\\end{align*}\\]"
   },
   {
     "objectID": "Slides/01-Ricardo-Model/010-compile.html#putting-it-altogether-1",
     "href": "Slides/01-Ricardo-Model/010-compile.html#putting-it-altogether-1",
     "title": "The Ricardian Model",
     "section": "Putting It Altogether",
-    "text": "Putting It Altogether\nWe know that New New York will make 92.3 Slurm\nNow we need to find how many Popplers they make:\nThere are two ways to find this out:\n\\[\n    \\text{Popplers} = \\dfrac{2}{3} * \\text{Slurm} \\;\\;\\;\\;\\; \\text{or} \\;\\;\\;\\;\\; \\text{Popplers} = 180 - \\dfrac{9}{7} * \\text{Slurm}\n\\]\n\n\n\n\\[\\begin{align*}\n    \\text{Popplers} &= \\dfrac{2}{3} * 92.3 \\\\\n    \\text{Popplers} &\\approx 61.5\n\\end{align*}\\]\n\n\n\n\\[\\begin{align*}\n    \\text{Popplers} &= 180 - \\dfrac{9}{7} * 92.3 \\\\\n    \\text{Popplers} &= 180 - 118.7 \\\\\n    \\text{Popplers} &\\approx 61.3\n\\end{align*}\\]"
+    "text": "Putting It Altogether\nWe know that Vampires will make 80 Sparkling selfies\nNow we need to find how many Shirtless selfies they make:\nThere are two ways to find this out:\n\\[\n    \\text{Shirtless} = \\dfrac{2}{3} * \\text{Sparkling} \\;\\;\\;\\;\\; \\text{or} \\;\\;\\;\\;\\; \\text{Shirtless} = 80 - \\dfrac{1}{3} * \\text{Sparkling}\n\\]\n\n\n\n\\[\\begin{align*}\n    \\text{Shirtless} &= \\dfrac{2}{3} * 80 \\\\\n    \\text{Shirtless} &\\approx 53.3\n\\end{align*}\\]\n\n\n\n\\[\\begin{align*}\n    \\text{Shirtless} &= 80 - \\dfrac{1}{3} * 80 \\\\\n    \\text{Shirtless} &= 80 - 26.67 \\\\\n    \\text{Shirtless} &\\approx 53.3\n\\end{align*}\\]"
   },
   {
     "objectID": "Slides/01-Ricardo-Model/010-compile.html#results",
@@ -2909,238 +2664,224 @@
     "href": "Slides/01-Ricardo-Model/010-compile.html#next-topic",
     "title": "The Ricardian Model",
     "section": "Next Topic",
-    "text": "Next Topic\n\nHeckscher-Ohlin Trade Model\n\nReading\n\nCh. 4 : Comparative Advantage and Factor Endowments\n\nModern Trade Theory\nTrade and Income Distribution\n\n\nAssignment(s) DUE BEFORE CLASS!\n\nQuiz 1\nProblem Set 1"
+    "text": "Next Topic\n\nHeckscher-Ohlin Trade Model\n\nReading\n\nChapter 03\n\nModern Trade Theory\nTrade and Income Distribution\n\n\nAssignment(s) DUE BEFORE CLASS!\n\nQuiz 01\nProblem Set 01"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html",
     "title": "EC 380 - International Econ",
     "section": "",
     "text": "Definition: The complete absence of foreign trade; total self-sufficiency of a national economy\nTo understand how trade affects national welfare, we have to understand how they do on their own\nWe can do this by looking at the Production Possibilities Curve (PPC)\n\nThese show the trade-offs when a country chooses their production combination of two goods\nIt is closely related to the opportunity cost of the good on the horizontal axis"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#autarky",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#autarky",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#autarky",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#autarky",
     "title": "EC 380 - International Econ",
     "section": "",
     "text": "Definition: The complete absence of foreign trade; total self-sufficiency of a national economy\nTo understand how trade affects national welfare, we have to understand how they do on their own\nWe can do this by looking at the Production Possibilities Curve (PPC)\n\nThese show the trade-offs when a country chooses their production combination of two goods\nIt is closely related to the opportunity cost of the good on the horizontal axis"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#production-possibilities-curves-ppc",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#production-possibilities-curves-ppc",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#production-possibilities-curves-ppc",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#production-possibilities-curves-ppc",
     "title": "EC 380 - International Econ",
     "section": "Production Possibilities Curves (PPC)",
     "text": "Production Possibilities Curves (PPC)\nFor the moment, we will be dealing with PPCs that look like straight lines because we assume that the trade-off between two goods does not change\n\nThis follows from an assumption we make on labor: Labor is homogeneous and no group of workers is more skilled than another group\n\n. . .\nHow are they related to opportunity costs?\n\nOpportunity costs are the best forgone alternative: In order to produce 1 unit of good X, the country has to give up some amount of good Y.\n\nBecause this is a “rate of change”, we say that the slope of the PPC is the Opportunity Cost of good X"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#production-possibilities-curves-ppc-1",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#production-possibilities-curves-ppc-1",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#production-possibilities-curves-ppc-1",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#production-possibilities-curves-ppc-1",
     "title": "EC 380 - International Econ",
     "section": "Production Possibilities Curves (PPC)",
     "text": "Production Possibilities Curves (PPC)\nCountry’s PPC Between X & Y"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#production-possibilities-curves-ppc-2",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#production-possibilities-curves-ppc-2",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#production-possibilities-curves-ppc-2",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#production-possibilities-curves-ppc-2",
     "title": "EC 380 - International Econ",
     "section": "Production Possibilities Curves (PPC)",
     "text": "Production Possibilities Curves (PPC)\n\n\nCountry’s Bundle Choices Between X & Y\n\n\n\n\n\n\n\n\nPoint A: Producing at an inefficient and wasteful level\n\n\n\n\nPoint B: Efficient point of production where maximum level of output is obtained\n\n\n\n\nPoint C: Infeasible. The country does not have the resources to produce at this level"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#how-does-a-country-optimally-choose",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#how-does-a-country-optimally-choose",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#how-does-a-country-optimally-choose",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#how-does-a-country-optimally-choose",
     "title": "EC 380 - International Econ",
     "section": "How Does a Country Optimally Choose?",
     "text": "How Does a Country Optimally Choose?\n\n\n\n\n\n\n\n\n\nChoice depends on the country’s demand for the two goods\nWe call these Indifference Curves\n\nEach curve shows the consumption bundles of goods that the economy can consume and be equally satisfied\nThe consumers are indifferent in its own preference across the bundles on a particular indifference curve"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#indifference-curves",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#indifference-curves",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#indifference-curves",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#indifference-curves",
     "title": "EC 380 - International Econ",
     "section": "Indifference Curves",
     "text": "Indifference Curves"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#back-to-the-ricardo-model",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#back-to-the-ricardo-model",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#back-to-the-ricardo-model",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#back-to-the-ricardo-model",
     "title": "EC 380 - International Econ",
     "section": "Back to the Ricardo Model",
     "text": "Back to the Ricardo Model\nStarting with the Ricardo Model, we look at it’s primary components:\n\n\nSingle Factor of Production (Labor)\nTwo-Country Model (Home and Foreign)\nTechnology differences across countries\n\n\n\nWe will use our own example\n\n\n\nFactor of production: Labor (L)\nTwo Countries: Home and Foreign\nTwo Goods: Coffee and Tea\n\n\n\n\nSuppose that in this case, the Home Country exports coffee and imports tea\nWhat would this imply about which good each country has comparative advantage in?"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#ricardo-model-assumptions",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#ricardo-model-assumptions",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#ricardo-model-assumptions",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#ricardo-model-assumptions",
     "title": "EC 380 - International Econ",
     "section": "Ricardo Model Assumptions",
     "text": "Ricardo Model Assumptions"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#introducing-some-key-variables---marginal-product-of-labor",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#introducing-some-key-variables---marginal-product-of-labor",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#creating-ppfs",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#creating-ppfs",
+    "title": "EC 380 - International Econ",
+    "section": "Creating PPFs",
+    "text": "Creating PPFs\nLet each country have a labor force size of 10 and productions be:\n\n\n\n\n\nWe find the PPF intercepts by seeing how much a country will produce if their entire work force only produces one good\n\nHome would produce:\n\\[\\begin{align*}\n    &\\text{Coffee:} \\; L * \\text{units} = 10 * 9 = 90 \\\\\n    &\\text{Tea:} \\; L * \\text{units} = 10 * 7 = 70\n\\end{align*}\\]"
+  },
+  {
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#home-ppf",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#home-ppf",
+    "title": "EC 380 - International Econ",
+    "section": "Home PPF",
+    "text": "Home PPF\n\n\n\n\n\nSlope of PPF is Opportunity Cost of Good X\nWhich is how much units of tea do I give up to make one more unit of coffee\n\\[\n    \\text{Slope of PPF} = \\dfrac{\\Delta \\text{Tea Ouptut}}{\\Delta \\text{Coffee Output}} = \\dfrac{-7}{9} = \\text{(-)Opportunity Cost of Coffee}\n\\]"
+  },
+  {
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#introducing-some-key-variables---marginal-product-of-labor",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#introducing-some-key-variables---marginal-product-of-labor",
     "title": "EC 380 - International Econ",
     "section": "Introducing some Key Variables - Marginal Product of Labor",
     "text": "Introducing some Key Variables - Marginal Product of Labor\nMarginal Product of Labor (MPL): Represents the additional units of a good produced, given a one unit increase in the number of workers assigned to a particular task\n. . .\nThe MPL for the Home Country for each good is written as \\(\\text{MPL}_{c}^{H}\\) and \\(\\text{MPL}_{t}^{H}\\), for coffee and tea respectively.\nWe can assign numbers to each such that:\n. . .\n\\[\n    \\text{MPL}_{c}^{H} = 9 \\;\\;\\;\\; \\& \\;\\;\\;\\; \\text{MPL}_{t}^{H} = 7\n\\]\nLet’s also say that the country has a full labor force \\(\\bar{L} = 10\\)\nWe will add the Foreign Country later"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#home-ppf",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#home-ppf",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#home-ppf-1",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#home-ppf-1",
     "title": "EC 380 - International Econ",
     "section": "Home PPF",
     "text": "Home PPF\nWe can plot the Home PPF by finding the intercepts for each good. We can do this by multiplying the marginal product of labor by the workforce size\n\\[\n    \\text{MPL}_{\\text{good}}^{\\text{country}} * \\bar{L}\n\\]\n\n\nThe Home Country produces\n\\[\\begin{align*}\n    Q_{\\text{coffee}}^{H} &= 9 * 10 = 90 \\\\ \\\\\n    Q_{\\text{tea}}^{H} &= 7 * 10 = 70\n\\end{align*}\\]"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#home-ppf-1",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#home-ppf-1",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#home-ppf-2",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#home-ppf-2",
     "title": "EC 380 - International Econ",
     "section": "Home PPF",
     "text": "Home PPF\nAssume: PPF is a straight line due to the constant MPLs\nSlope of PPF: Equal to the marginal rate of substitution between goods (Coffee & Tea)\n\\[\n    \\text{Slope of PPF}^{H} = -\\dfrac{\\text{MPL}_{t}}{\\text{MPL}_{c}} = -\\dfrac{7}{9}\n\\]\nThis is also the Opportunity Cost of coffee. So we can say that if we want one more unit of coffee we must trade off tea at a rate of \\(\\dfrac{7}{9}\\)\nEquivalently, the opportunity cost of tea would be \\(\\dfrac{9}{7}\\) units of coffee"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#home-prices",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#home-prices",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#home-prices",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#home-prices",
     "title": "EC 380 - International Econ",
     "section": "Home Prices",
     "text": "Home Prices\nWe can determine prices in the country from this information as well. We assume to be under Perfect Competition which means that all goods are sold at cost.\nPrices\nThese are in terms relative to both goods and measured in units:\n\\[\n    P_{c}^{H} = \\dfrac{\\text{MPL}_{t}}{\\text{MPL}_{c}} = \\dfrac{7}{9} \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; P_{t}^{H} = \\dfrac{\\text{MPL}_{c}}{\\text{MPL}_{t}} = \\dfrac{9}{7}\n\\]"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#home-wages",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#home-wages",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#home-wages",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#home-wages",
     "title": "EC 380 - International Econ",
     "section": "Home Wages",
     "text": "Home Wages\nWe use the Perfect Competition assumptions to also determine wages\nWages\nWorkers are paid the equivalent of their MPL times the price of that additional unit they produce:\n\\[\\begin{align*}\n    \\text{wages}_{\\text{coffee}} &= \\text{P}_{\\text{coffee}} * \\text{MPL}_{\\text{coffee}} \\\\ \\\\\n    \\text{wages}_{\\text{tea}} &= \\text{P}_{\\text{tea}} * \\text{MPL}_{\\text{tea}}\n\\end{align*}\\]"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#home-wages-across-industries",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#home-wages-across-industries",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#home-wages-across-industries",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#home-wages-across-industries",
     "title": "EC 380 - International Econ",
     "section": "Home Wages Across Industries",
     "text": "Home Wages Across Industries\nAdditionally, because we assume that labor moves freely between industries, we can assume that wages are equalized across industries\n\\[\n    \\text{wages}_{\\text{coffee}} = \\text{P}_{\\text{coffee}} * \\text{MPL}_{\\text{coffee}} = \\text{P}_{\\text{tea}} * \\text{MPL}_{\\text{tea}} = \\text{wages}_{\\text{tea}}\n\\]\n. . .\n\nWe can rearrange this such that the price ratio is equal to the MPL ratio\n\\[\n    \\dfrac{\\text{P}_{\\text{coffee}}}{\\text{P}_{\\text{tea}}} = \\dfrac{\\text{MPL}_{\\text{tea}}}{\\text{MPL}_{\\text{coffee}}}\n\\]\nRelative price of coffee is equal to the Opportunity Cost of coffee at the autarky/no-trade equilibrium"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#foreign-ppf-prices-and-wages",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#foreign-ppf-prices-and-wages",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#foreign-ppf-prices-and-wages",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#foreign-ppf-prices-and-wages",
     "title": "EC 380 - International Econ",
     "section": "Foreign PPF, Prices, and Wages",
-    "text": "Foreign PPF, Prices, and Wages\nWe can find the Foreign Country results as well\nFind them for yourself and we will pick it up next class. Let:\n\\[\n    \\text{MPL}_{c}^{F} = 10 \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; \\text{MPL}_{t}^{F} = 12 \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; \\bar{L} = 10\n\\]\nTasks\n\nGraph the Foreign Country PPF\nSlope of \\(\\text{PPF}\\)\nOpportunity Cost of coffee and tea\nPrices for both goods\nRead Ch.3.1 to Ch.3.3"
+    "text": "Foreign PPF, Prices, and Wages\nWe can find the Foreign Country results as well\nFind them for yourself and we will pick it up next class. Let:\n\\[\n    \\text{MPL}_{c}^{F} = 10 \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; \\text{MPL}_{t}^{F} = 12 \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; \\bar{L} = 10\n\\]\nTasks\n\nGraph the Foreign Country PPF\nSlope of \\(\\text{PPF}\\)\nOpportunity Cost of coffee and tea\nPrices for both goods"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#foreign-country",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#foreign-country",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#foreign-country",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#foreign-country",
     "title": "EC 380 - International Econ",
     "section": "Foreign Country",
     "text": "Foreign Country\nForeign PPF\n\n\n\n\n\n\n\n\nOpportunity Costs\n\nCoffee: \\(\\dfrac{12}{10}\\) \\(\\;\\;\\) & \\(\\;\\;\\) Tea: \\(\\dfrac{10}{12}\\)\n\nPrices\n\nCoffee: \\(\\dfrac{12}{10}\\) \\(\\;\\;\\) & \\(\\;\\;\\) Tea: \\(\\dfrac{10}{12}\\)"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/012-autarky-phil.html#who-has-the-advantage",
-    "href": "Slides/01-Ricardo-Model/012-autarky-phil.html#who-has-the-advantage",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#comparing-countries",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#comparing-countries",
     "title": "EC 380 - International Econ",
-    "section": "Who has the Advantage?",
-    "text": "Who has the Advantage?\nNow we have two countries, we can begin to compare their Marginal Productivities of Labor\n\nA nation has the Absolute Advantage in a good if they produce more per labor input\nA nation has the Comparative Advantage if the Opportunity Cost of producing a good is lower than that of the other country\n\n\n\n\\[\\begin{array}{|c|c|c|}\n\\hline\n& \\text{Coffee} & \\text{Tea} \\\\\n\\hline\n\\text{Home} & 9 & 7 \\\\\n\\hline\n\\text{Foreign} & 10 & 12 \\\\\n\\hline\n\\end{array}\\]\n\n\n\nAbsolute Advantage: Foreign in both\nComparative Advantage: Home in Coffee | Foreign in Tea"
+    "section": "Comparing Countries",
+    "text": "Comparing Countries"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#who-has-the-advantage",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#who-has-the-advantage",
     "title": "EC 380 - International Econ",
-    "section": "",
-    "text": "Foreign is outright better at producing Coffee & Tea than Home. How could they benefit from trading with the inferior country?\n. . .\nIf Foreign doesn’t trade, they are bound by their own production possibilities. With trade, they can exceed their own production capacities, even when they hold an Absolute Advantage\nThe same logic can be applied to Home. They will be able to exceed domestic production capacity by trading.\nTo trade, both nations must be better off from doing so. This will mean that the price of the good should fall somewhere in between both markets\n\\[\n    P_{c}^{H} &lt; P_{c}^{W} &lt; P_{c}^{F}\n\\]"
+    "section": "Who Has the Advantage?",
+    "text": "Who Has the Advantage?\nWe can compare both countries and determine who has an advantage in production\nWe work with two types of advantages:\n\n\nAbsolute Advantage: If the country produces more per labor input\nComparative Advantage: If the country’s Opportunity Cost of producing a good is lower than the other country"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#why-would-foreign-trade",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#why-would-foreign-trade",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#who-has-the-advantage-1",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#who-has-the-advantage-1",
     "title": "EC 380 - International Econ",
-    "section": "",
-    "text": "Foreign is outright better at producing Coffee & Tea than Home. How could they benefit from trading with the inferior country?\n. . .\nIf Foreign doesn’t trade, they are bound by their own production possibilities. With trade, they can exceed their own production capacities, even when they hold an Absolute Advantage\nThe same logic can be applied to Home. They will be able to exceed domestic production capacity by trading.\nTo trade, both nations must be better off from doing so. This will mean that the price of the good should fall somewhere in between both markets\n\\[\n    P_{c}^{H} &lt; P_{c}^{W} &lt; P_{c}^{F}\n\\]"
+    "section": "Who Has the Advantage?",
+    "text": "Who Has the Advantage?\nNow we have two countries, we can begin to compare their Marginal Productivities of Labor\n\nA nation has the Absolute Advantage in a good if they produce more per labor input\nA nation has the Comparative Advantage if the Opportunity Cost of producing a good is lower than that of the other country\n\n\n\n\n\n\n\n\n\nAbsolute Advantage\n\nForeign in both goods\n\nComparative Advantage\n\nHome in Coffee | Foreign in Tea"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#benefits-from-trading---home",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#benefits-from-trading---home",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#choosing-production-based-on-preferences",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#choosing-production-based-on-preferences",
     "title": "EC 380 - International Econ",
-    "section": "Benefits from Trading - Home",
-    "text": "Benefits from Trading - Home\nHome\n\n\n Arbitrarily, let \\(P_{c}^{W} = 1\\)"
+    "section": "Choosing Production Based on Preferences",
+    "text": "Choosing Production Based on Preferences\nUnder Autarky, every country has to produce as much as they want to consume\nWe saw that the production bundle is determined by the country indifference curve\n\n\nWe won’t go into how we determine preferences, but we will figure out how to get exact bundles based on a pre-determined mix of goods\nWe are looking for a point where 2 curves (lines) touch\n\nWhich is equivalent to finding out at which coordinates they are equal to each other\nWe will have 2 equations (PPF & Preferences) and 2 unknowns (Good X and Good Y)"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#benefits-from-trading---foreign",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#benefits-from-trading---foreign",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#choosing-production---example",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#choosing-production---example",
     "title": "EC 380 - International Econ",
-    "section": "Benefits from Trading - Foreign",
-    "text": "Benefits from Trading - Foreign\nForeign\n\n\n Arbitrarily, let \\(P_{c}^{W} = 1\\)"
+    "section": "Choosing Production - Example",
+    "text": "Choosing Production - Example\nLet there be two countries, one belongs to the Vampires and the other to the Wolves with the following productivities and a labor force size of \\(\\bar{L} = 20\\)\n\n\n\n\n\nWe will focus on the Vampires for this example:\n\nThey have prefer to consume 3 Sparkling Selfies for every 2 Shirtless Selfies\nWe will find how many Sparkling and Shirtless selfies the Vampires need to produce in order to satisfy demand"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#vampires-production-bundle",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#vampires-production-bundle",
     "title": "EC 380 - International Econ",
-    "section": "Free Trade",
-    "text": "Free Trade\n\nNow that we have established that both countries benefit from trade, how do we determine who produces what?\n. . .\n\nThe pattern of exports and imports is determined by Opportunity Costs of production in each country, which identifies each country’s pattern of Comparative Advantage"
+    "section": "Vampires Production Bundle",
+    "text": "Vampires Production Bundle\n\n\n\n\\[ \\bar{L} = 20 \\]\n\n\n\n\n\n\nWe will:\n\n\nFind the PPF intercepts\nFind the proportion in which they prefer to consume the goods\nDetermine the PPF line\nSet preferences proportion equal to PPF line and solve"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade-prices",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade-prices",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#find-ppf-intercepts",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#find-ppf-intercepts",
     "title": "EC 380 - International Econ",
-    "section": "Free Trade Prices",
-    "text": "Free Trade Prices\nSince the relative price of coffee is \\(7/9\\) at Home but \\(12/10\\) in Foreign, there is an incentive to export Home’s coffee to Foreign for a higher return\n. . .\nAlternatively, the relative price of tea is:\n\\[\n    P^{H}_{t} = \\dfrac{9}{7} &gt; \\dfrac{10}{12} = P^{F}_{t}\n\\]\nSince tea sells better in Home, Foreign is incentivized to export their tea to Home\n. . .\nThe Ricardo Model predicts that Home exports Coffee and Foreign exports Tea"
+    "section": "Find PPF Intercepts",
+    "text": "Find PPF Intercepts\nLooking only at the Vampires with \\(\\bar{L} = 20\\)\n\n\n\n\n\nWe need to find the maximum they can produce for each good:\n\n\nSparkling\n\n\\[\\begin{align*}\n    \\text{Max Sparkling} &= \\text{MPL}_{spark} * \\bar{L} \\\\\n    \\text{Max Sparkling} &= 12 * 20 \\\\\n    \\text{Max Sparkling} &= 240\n\\end{align*}\\]\n\n\nShirtless\n\n\\[\\begin{align*}\n    \\text{Max Shirtless} &= \\text{MPL}_{shirt} * \\bar{L} \\\\\n    \\text{Max Shirtless} &= 4 * 20 \\\\\n    \\text{Max Shirtless} &= 80\n\\end{align*}\\]"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade-dynamics",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade-dynamics",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#preference-in-consuming-goods",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#preference-in-consuming-goods",
     "title": "EC 380 - International Econ",
-    "section": "Free Trade Dynamics",
-    "text": "Free Trade Dynamics\nAs Home exports coffee \\(\\uparrow\\), the local supply \\(\\downarrow\\) (making it more scarce)\n\nLess local supply \\(\\Rightarrow\\) Higher coffee price at Home\nHigher Foreign supply \\(\\Rightarrow\\) Lower coffee price in Foreign\n\n. . .\n\nSimilarly, Foreign exports of tea to Home bid down prices abroad and up locally\nChanges to exports and imports stop once the relative price is the same in both countries\n\nNo incentive to deviate from this point \\(\\Rightarrow\\) Equilibrium condition met"
+    "section": "Preference in Consuming Goods",
+    "text": "Preference in Consuming Goods\nWe were told that Vampires Consumers prefer to consume 3 Sparkling selfies for every 2 Shirtless selfies\nLet’s see how this translates to our indifference curve concept\n\n\\[\\begin{align*}\n    \\dfrac{\\text{Sparkling}}{\\text{Shirtless}} = \\dfrac{3}{2} \\\\\n\\end{align*}\\]\n\n\n\\[\\begin{align*}\n    \\dfrac{\\text{Sparkling}}{\\text{Shirtless}} &= \\dfrac{3}{2} \\\\\n    2 * \\text{Sparkling} &= 3 * \\text{Shirtless} \\\\\n    \\dfrac{2}{3} * \\text{Sparkling} &= \\text{Shirtless}\n\\end{align*}\\]\n\n\nWe can write this as a proportion, then we can solve for either of the goods\nThis will help us in finding that optimal bundle"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade-equilibrium",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade-equilibrium",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#determining-the-ppf-line",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#determining-the-ppf-line",
     "title": "EC 380 - International Econ",
-    "section": "Free Trade Equilibrium",
-    "text": "Free Trade Equilibrium\nWhat would the new world price of coffee look like for Home in this setting?\nWe first measure the world capacity to produce coffee & tea. This is calculated by seeing how much both countries can produce if they focus their entire workforces towards a single good:\n\\[\\begin{align*}\n    Q^{W}_{t} &= \\text{MPL}_{t}^{H} * \\bar{L} + \\text{MPL}_{t}^{F} * \\bar{L} = 70 + 120 = 190 \\\\ \\\\\n    Q^{W}_{c} &= \\text{MPL}_{c}^{H} * \\bar{L} + \\text{MPL}_{c}^{F} * \\bar{L} = 90 + 100 = 190\n\\end{align*}\\]\n. . .\nThe World PPF’s slope is the line between these two “max” prodcution points, and it has slope equal to -1. The World Price would be 1."
+    "section": "Determining the PPF Line",
+    "text": "Determining the PPF Line\n\n\n\n\n\n\n\n\n\nThe PPF Line\n\n\\[\\begin{align*}\n    \\text{Y} &= b \\pm mx \\\\\n    \\text{Y} &= 80 - \\dfrac{80}{240} * x \\\\\n    \\text{Y} &= 80 - \\dfrac{1}{3} * x\n\n\\end{align*}\\]"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade-equilibrium-1",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade-equilibrium-1",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#putting-it-altogether",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#putting-it-altogether",
     "title": "EC 380 - International Econ",
-    "section": "Free Trade Equilibrium",
-    "text": "Free Trade Equilibrium\nThe World Price (1) of coffee is greater than the Opportunity Cost of producing coffee at Home \\((\\dfrac{7}{9})\\)\nWhat do Home producers do?\n. . .\n\nThey shift labor toward producing more coffee\n\n. . .\nHow much does labor shift?\n. . .\n\nIt depends on wages across industries"
+    "section": "Putting It Altogether",
+    "text": "Putting It Altogether\nBecause we are finding where Production equals Demand, we are finding where these two equations equal each other\n\\[\n    \\text{Shirtless} = \\dfrac{2}{3} * \\text{Sparkling} \\;\\;\\;\\;\\; \\& \\;\\;\\;\\;\\; \\text{Shirtless} = 80 - \\dfrac{1}{3} * \\text{Sparkling}\n\\]\n\n\\[\\begin{align*}\n    \\dfrac{2}{3} * \\text{Sparkling} &= 80 - \\dfrac{1}{3} * \\text{Sparkling} \\\\\n    \\left(\\dfrac{2}{3} + \\dfrac{1}{3} \\right) * \\text{Sparkling} &= 80 \\\\\n    (1) * \\text{Sparkling} &= 80 \\\\\n    \\text{Sparkling} &= 80\n\\end{align*}\\]"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade-labor-shift",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade-labor-shift",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#putting-it-altogether-1",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#putting-it-altogether-1",
     "title": "EC 380 - International Econ",
-    "section": "Free Trade Labor Shift",
-    "text": "Free Trade Labor Shift\nRecall wages at home are given by:\n\\[ w_{c}^{H} = \\text{MPL}_{c}^{H} * P_{c}^{H} \\;\\;\\; \\& \\;\\;\\;  w_{t}^{H} = \\text{MPL}_{t}^{H} * P_{t}^{H}\\]\nAlso recall that under trade we have\n\\[ \\dfrac{P_{c}^{H}}{P_{t}^{H}} = 1 \\; , \\;\\; \\text{MPL}_{c}^{H} = 9 \\text{ and } \\text{MPL}_{t}^{H} = 7 \\]\nThe wage ratio is given by \\(\\dfrac{P_{c}^{H} * \\text{MPL}_{c}^{H}}{P_{t}^{H} * \\text{MPL}_{t}^{H}} = 1 * \\dfrac{9}{7} = \\dfrac{9}{7}\\)\n. . .\nWhich implies that wages are higher in the coffee industry than in the tea industry\nAll Home workers go work in the coffee industry"
+    "section": "Putting It Altogether",
+    "text": "Putting It Altogether\nWe know that Vampires will make 80 Sparkling selfies\nNow we need to find how many Shirtless selfies they make:\nThere are two ways to find this out:\n\\[\n    \\text{Shirtless} = \\dfrac{2}{3} * \\text{Sparkling} \\;\\;\\;\\;\\; \\text{or} \\;\\;\\;\\;\\; \\text{Shirtless} = 80 - \\dfrac{1}{3} * \\text{Sparkling}\n\\]\n\n\n\n\\[\\begin{align*}\n    \\text{Shirtless} &= \\dfrac{2}{3} * 80 \\\\\n    \\text{Shirtless} &\\approx 53.3\n\\end{align*}\\]\n\n\n\n\\[\\begin{align*}\n    \\text{Shirtless} &= 80 - \\dfrac{1}{3} * 80 \\\\\n    \\text{Shirtless} &= 80 - 26.67 \\\\\n    \\text{Shirtless} &\\approx 53.3\n\\end{align*}\\]"
   },
   {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#autarky-production-consumption",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#autarky-production-consumption",
+    "objectID": "Slides/01-Ricardo-Model/012-autarky.html#results",
+    "href": "Slides/01-Ricardo-Model/012-autarky.html#results",
     "title": "EC 380 - International Econ",
-    "section": "Autarky Production & Consumption",
-    "text": "Autarky Production & Consumption\nLet’s visualize the gains of trade. First, let’s see where each country would produce & consume under Autarky\nLet the ICs and PPFs for each country be equal at bundles:\n\n\nHome\n\n\n\n\n\n\nForeign"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#autarky-production-consumption-1",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#autarky-production-consumption-1",
-    "title": "EC 380 - International Econ",
-    "section": "Autarky Production & Consumption",
-    "text": "Autarky Production & Consumption\nUnder Autarky, a nation consumes as much as they produce.\n\n\nProduction Bundles\n\n\n\n\n\n\nConsumption Bundles\n\n\n\n\n\n\n\nRicardo’s logic states that both countries will enhance their welfare by specializing and trading"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade-production-consumption",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade-production-consumption",
-    "title": "EC 380 - International Econ",
-    "section": "Free Trade Production & Consumption",
-    "text": "Free Trade Production & Consumption\nUnder Free Trade, both countries specialize in the good they have the Comparative Advantage\n\n\nProduction Bundles\n\n\n\n\n\n\nConsumption Bundles\n\n\n\n\n\n\n\n\n\n\n\nHome consumes more tea than they did under Autarky (35 \\(\\Rightarrow\\) 40)\nForeign consumes more coffee than they did under Autarky (30 \\(\\Rightarrow\\) 45)"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade---relative-wages",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade---relative-wages",
-    "title": "EC 380 - International Econ",
-    "section": "Free Trade - Relative Wages",
-    "text": "Free Trade - Relative Wages\nSo far we have seen that there are gains from trade and that trade flows are determined by comparative advantages\n\n\nPrices converged, but wages do not\nWage levels differ across countries with trade, and wages are determined by absolute advantage, not comparative advantage\n\nThis is a third, less-emphasized lesson of the Ricardian Model"
-  },
-  {
-    "objectID": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade---relative-wages-1",
-    "href": "Slides/01-Ricardo-Model/013-trade-equilibrium-phil.html#free-trade---relative-wages-1",
-    "title": "EC 380 - International Econ",
-    "section": "Free Trade - Relative Wages",
-    "text": "Free Trade - Relative Wages\nDue to markets being perfectly competitive, firms pay workers the value they add to production (marginal product)\nRecall that \\(\\text{MPL}_{c}^{H} = 9\\). This is a real wage, measured in quantity of goods rather than money.\nWorkers sell the coffee they earn at the world market price of 1, making their real wage:\n\\[\n    \\dfrac{P_{\\text{coffee}}}{P_{\\text{tea}}} * \\text{MPL}_{c}^{H} = 9 \\;\\; \\text{units of tea}\n\\]"
+    "section": "Results!",
+    "text": "Results!\nBy knowing in which proportion consumers prefer their goods, we can find how much the country will produce under autarky\n\nWe could also figure out what happens to production if there is some form of shock to the economy, for example:\n\n\nPreferences change\nLabor increases/decreases\nProductivities change"
   },
   {
     "objectID": "Slides/02-HO-Model/020-compile.html#introduction",
