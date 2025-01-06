@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Intl Market – EC 380 - International Econ</title>
+<title>stolper-samuelson – EC 380 - International Econ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../UO-icon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-401534a81502bb050162c7e5212a4163.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../UO-icon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-401534a81502bb050162c7e5212a4163.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -78,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">EC 380 - International Econ</span>
     </a>
   </div>
@@ -89,27 +118,27 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Slides/lectures.html"> 
+    <a class="nav-link" href="../../Slides/lectures.html"> 
 <span class="menu-text">Slides</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Readings/articles.html"> 
+    <a class="nav-link" href="../../Readings/articles.html"> 
 <span class="menu-text">Readings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Assignments/list.html"> 
+    <a class="nav-link" href="../../Assignments/list.html"> 
 <span class="menu-text">Homework</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../Activities/activities.html" aria-current="page"> 
+    <a class="nav-link" href="../../Activities/activities.html"> 
 <span class="menu-text">Intl Market</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About Me</span></a>
   </li>  
 </ul>
@@ -127,13 +156,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#groups" id="toc-groups" class="nav-link active" data-scroll-target="#groups">Groups</a></li>
-  <li><a href="#activity-01" id="toc-activity-01" class="nav-link" data-scroll-target="#activity-01">Activity 01</a>
-  <ul class="collapse">
-  <li><a href="#game-set-up" id="toc-game-set-up" class="nav-link" data-scroll-target="#game-set-up">Game Set-Up</a></li>
-  <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">Results</a></li>
-  <li><a href="#observations" id="toc-observations" class="nav-link" data-scroll-target="#observations">Observations</a></li>
-  </ul></li>
+  <li><a href="#theoretical-outcomes-of-assymetric-factors" id="toc-theoretical-outcomes-of-assymetric-factors" class="nav-link active" data-scroll-target="#theoretical-outcomes-of-assymetric-factors">Theoretical Outcomes of Assymetric Factors</a></li>
+  <li><a href="#changes-in-prices-effects-on-income" id="toc-changes-in-prices-effects-on-income" class="nav-link" data-scroll-target="#changes-in-prices-effects-on-income">Changes in Prices &amp; Effects on Income</a></li>
+  <li><a href="#stolper-samuelson-example" id="toc-stolper-samuelson-example" class="nav-link" data-scroll-target="#stolper-samuelson-example">Stolper-Samuelson Example</a></li>
+  <li><a href="#stopler-samuelson-theorem" id="toc-stopler-samuelson-theorem" class="nav-link" data-scroll-target="#stopler-samuelson-theorem">Stopler-Samuelson Theorem</a></li>
+  <li><a href="#magnification-effect" id="toc-magnification-effect" class="nav-link" data-scroll-target="#magnification-effect">Magnification Effect</a></li>
+  <li><a href="#magnification-effect-1" id="toc-magnification-effect-1" class="nav-link" data-scroll-target="#magnification-effect-1">Magnification Effect</a></li>
+  <li><a href="#magnification-effect---example" id="toc-magnification-effect---example" class="nav-link" data-scroll-target="#magnification-effect---example">Magnification Effect - Example</a></li>
+  <li><a href="#bridging-the-gap-in-time" id="toc-bridging-the-gap-in-time" class="nav-link" data-scroll-target="#bridging-the-gap-in-time">Bridging the Gap in Time</a></li>
   </ul>
 </nav>
 </nav>
@@ -142,285 +172,154 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Intl Market</h1>
+
+
+
+<section id="theoretical-outcomes-of-assymetric-factors" class="level2">
+<h2 class="anchored" data-anchor-id="theoretical-outcomes-of-assymetric-factors">Theoretical Outcomes of Assymetric Factors</h2>
+<p>The <span class="h">Stolper-Samuelson Theorem</span> states that:</p>
+<ul>
+<li>Income depends on input supplied to the value of final product</li>
+<li>Wages will vary depending on their skill level</li>
+<li>Labor input earnings (wages) demand on their demand and supply</li>
+</ul>
+<div class="fragment">
+<p><span class="hp">Derived Demand:</span> Indirectly finding demand of an input used in produciton from the demand of the final good</p>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="groups" class="level2">
-<h2 class="anchored" data-anchor-id="groups">Groups</h2>
-<div class="callout callout-style-simple callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
+<div class="fragment">
+<p>If a good is in high demand, and therefore its price is high, then input factors receive high returns</p>
 </div>
-<div class="callout-title-container flex-fill">
-Country Member List
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 18%">
-<col style="width: 18%">
-<col style="width: 23%">
-<col style="width: 17%">
-<col style="width: 21%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Country 1</th>
-<th>Country 2</th>
-<th>Country 3</th>
-<th>Country 4</th>
-<th>Country 5</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Chako, Ebissa</td>
-<td>Batra, Joshua</td>
-<td>Beaubien, Sydney</td>
-<td>Adams, Emily</td>
-<td>Connell, Sawyer</td>
-</tr>
-<tr class="even">
-<td>Dowler, Ben</td>
-<td>Goldberg, Caleb</td>
-<td>Hanson, Josh</td>
-<td>Cruz, Owen</td>
-<td>Friedrich, Holden</td>
-</tr>
-<tr class="odd">
-<td>Fraser, Morgan</td>
-<td>Gomez, Ariel</td>
-<td>Hicks, Jackson</td>
-<td>DiDomenico, Lena</td>
-<td>Geiger, Amber</td>
-</tr>
-<tr class="even">
-<td>Hudson, Tyler</td>
-<td>Hoke, Charlie</td>
-<td>Lind, Sebbe</td>
-<td>Huff, Jarrett</td>
-<td>Heyman, Nick</td>
-</tr>
-<tr class="odd">
-<td>Rohde, Harlen</td>
-<td>Rudin, Amanda</td>
-<td>Lum, Brandon</td>
-<td>Miller, Jaden</td>
-<td>Kelley, Sydney</td>
-</tr>
-<tr class="even">
-<td>Schaefer, Jack</td>
-<td>Suchodolski, Brian</td>
-<td>Marengo, John</td>
-<td>Saito, Hikaru</td>
-<td>Mcmullin, Rachel</td>
-</tr>
-<tr class="odd">
-<td>Sinigaglia, Ludovico</td>
-<td>Tran, Carter</td>
-<td>Rushing, Cruz</td>
-<td>Ulvenholm, Max</td>
-<td>Patel, Eshan</td>
-</tr>
-<tr class="even">
-<td>Susumu, Ryuto</td>
-<td>Tran, Derek</td>
-<td>Schroeder, Giel</td>
-<td>Vandamme, Vanny</td>
-<td>Watters, Sarah</td>
-</tr>
-</tbody>
-</table>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 18%">
-<col style="width: 21%">
-<col style="width: 21%">
-<col style="width: 17%">
-<col style="width: 20%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Country 6</th>
-<th>Country 7</th>
-<th>Country 8</th>
-<th>Country 9</th>
-<th>Country 10</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Baeza, Simone</td>
-<td>Clouser, Andrew</td>
-<td>Asiamah, Daniel</td>
-<td>Baros, Regan</td>
-<td>Beekman, Tabor</td>
-</tr>
-<tr class="even">
-<td>Barnett, Max</td>
-<td>Dadant, Evan</td>
-<td>Barnett, Jennifer</td>
-<td>Bendardaf, Ahmed</td>
-<td>Brown, Zac</td>
-</tr>
-<tr class="odd">
-<td>Cheng, Roger</td>
-<td>Darmody, Riley</td>
-<td>Colby, Piper</td>
-<td>Cebula, Matthew</td>
-<td>Burnett, Summer</td>
-</tr>
-<tr class="even">
-<td>Jones, Jacqueline</td>
-<td>Joshi, Graham</td>
-<td>Fletcher, Cody</td>
-<td>Colombo, Louis</td>
-<td>Conway, Logan</td>
-</tr>
-<tr class="odd">
-<td>Montez, Austin</td>
-<td>Murphy, Aidan</td>
-<td>Girmay, Maerg</td>
-<td>Lavin, Lila</td>
-<td>Finley, Charlee</td>
-</tr>
-<tr class="even">
-<td>Rosario, Noah</td>
-<td>Pruitt, Troy</td>
-<td>Godby, Ethan</td>
-<td>Novak, Carter</td>
-<td>Kahawaii, Kate</td>
-</tr>
-<tr class="odd">
-<td>Schwarzkopf, Parker</td>
-<td>Shimizu, Rio</td>
-<td>Henkle, Jake</td>
-<td>Schreck, Aidan</td>
-<td>Kameyama, Sota</td>
-</tr>
-<tr class="even">
-<td>Sherwood, Josh</td>
-<td>Zarnick, Ethan</td>
-<td>Kirby, Ethan</td>
-<td>Truong, Brian</td>
-<td>Schneiderman, Jacob</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
+<hr>
 </section>
-<section id="activity-01" class="level2">
-<h2 class="anchored" data-anchor-id="activity-01">Activity 01</h2>
-<section id="game-set-up" class="level3">
-<h3 class="anchored" data-anchor-id="game-set-up">Game Set-Up</h3>
-<p>There are <strong>10 groups (countries)</strong> made up of 8 members each</p>
-<p>In this game, we are seeing how <strong>technological differences</strong> across countries can impact outcomes. Each country is tasked with producing as much as they possibly can given the time and resource constraints.</p>
-<p>Each country is given an envelope with resources to produce paper shapes. Each shape has its own value and are “sold” in the market for a wealth transfer.</p>
-<p><strong>Shapes must adhere to specific measurements and the edges must be cut with scissors.</strong> <strong>Any shape that is not measured properly or have a scissor-cut edge will be discarded.</strong></p>
-<p><strong>YOUR SHAPES MUST HAVE YOUR COUNTRY NUMBER ON IT</strong></p>
-<!--
-There are **three different type of countries** with the following **endowments**:
-
-:::: {.columns .align-center}
-
-::: {.column width="30%"}
-**High Income** (2)
-
-- x2 Scissors
-- x2 Rulers
-- x2 Protractors
-- x2 Pencils
-- x5 White Paper
-- x5 $100 Notes
-:::
-
-::: {.column width="40%"}
-**Middle Income** (5)
-
-- x1 Rulers
-- x2 Pencils
-- x5 White Paper
-- x5 $100 Notes
-:::
-
-::: {.column width="30%"}
-**Low Income** (3)
-
-- x2 Pencils
-- x5 White Paper
-- x5 $100 Notes
-:::
-
-::::
-
-
-
--->
+<section id="changes-in-prices-effects-on-income" class="level2">
+<h2 class="anchored" data-anchor-id="changes-in-prices-effects-on-income">Changes in Prices &amp; Effects on Income</h2>
+<p>Any change that impact prices will have direct impacts on outcomes <br><br></p>
+<div class="incremental">
+<ul class="incremental">
+<li><p>Open trade causes the <span class="hi">export good price</span> to rise and <span class="hi">import good price</span> to fall</p></li>
+<li><p>Demand for each input factor readjusts, which leads to changes in returns to each factor</p></li>
+<li><p>Resources <span class="hi-red">shift away from the imported good sector</span> and <span class="hi-green">move toward the exported good sector</span>, which cause changes in demand for each input</p></li>
+</ul>
+</div>
+<hr>
 </section>
-<section id="results" class="level3">
-<h3 class="anchored" data-anchor-id="results">Results</h3>
-<!--
-| Country | Circles | Rectangles | Equi-Tri | Triangle | Half | Cash | Wealth | Share |
-|---------|---------|------------|---------|----------|------|------|--------|-------|
-| 1       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 2       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 3       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 4       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 5       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 6       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 7       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 8       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 9       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 10      | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| **Total** | **0**   | **0**        | **0**   | **0**      | **0**  | **0**  | **0**    | **0%**  |
--->
+<section id="stolper-samuelson-example" class="level2">
+<h2 class="anchored" data-anchor-id="stolper-samuelson-example">Stolper-Samuelson Example</h2>
+<p>Let’s consider an economy where the <span class="h">sports cars are the export good</span></p>
+<p>These require a high amount of capital and low amount of labor inputs</p>
+<div class="fragment">
+<p>Because it is the <span class="h">export good</span>, demand for <span class="hi-green">capital factors rise</span> and demand for <span class="hi-red">labor factors fall</span></p>
+</div>
+<div class="fragment">
+<p>This implies that income for factors in <span class="h">higher demand</span> will rise</p>
+<p>Income for factors in <span class="hii">lower demand</span> will fall</p>
+</div>
+<div class="fragment">
+<blockquote class="blockquote">
+<p><span class="hi-red">Stolper-Samuelson Theorem suggests that the increase in price of a good raises the income earned by factors intensively used in its production. A fall in price of a good lowers the income of factors used intensively</span></p>
+</blockquote>
+</div>
+<hr>
 </section>
-<section id="observations" class="level3">
-<h3 class="anchored" data-anchor-id="observations">Observations</h3>
-<!--
-## Activity 02
-
-### Game Set-Up
-
-### Results
-
-### Observations
-
-## Activity 03
-
-### Game Set-Up
-
-### Results
-
-### Observations
--->
-
-
+<section id="stopler-samuelson-theorem" class="level2">
+<h2 class="anchored" data-anchor-id="stopler-samuelson-theorem">Stopler-Samuelson Theorem</h2>
+<p>According to this <span class="h">theory</span>, a country with a capital-intensive presence (like the US) will shift away from labor demand</p>
+<div class="fragment">
+<ul>
+<li>Capital owners will benefit from trade</li>
+<li>Labor will lose out</li>
+</ul>
+</div>
+<div class="fragment">
+<p>There is an extension to this called the <span class="h">Magnification Effect</span> which says that changes in prices lead to a larger change in factor incomes</p>
+</div>
+<hr>
 </section>
+<section id="magnification-effect" class="level2">
+<h2 class="anchored" data-anchor-id="magnification-effect">Magnification Effect</h2>
+<p>Let’s look at how this works in theory</p>
+<blockquote class="blockquote">
+<p><span class="note h">Recall the Stopler-Samuelson Theorem: When the Price of a good increases, the income earned by the factor intensively used in production will increase. The other factor will see decreased earnings.</span></p>
+</blockquote>
+<p>We can write this up mathematically:</p>
+<div class="fragment">
+<p><span class="math display">\[
+    P_{X} = \alpha_{L} * w + \alpha_{K} * r
+\]</span></p>
+<p>Where</p>
+<div class="columns">
+<div class="column" style="width:60%;">
+<ul>
+<li><span class="math inline">\(\alpha_{L}\)</span>: Labor Share of Factor Inputs</li>
+<li><span class="math inline">\(\alpha_{K}\)</span>: Capital Share of Factor Inputs</li>
+</ul>
+</div><div class="column" style="width:40%;">
+<ul>
+<li><span class="math inline">\(w\)</span>: Wage Rate of Labor</li>
+<li><span class="math inline">\(r\)</span>: Rental Rate of Capital</li>
+</ul>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="magnification-effect-1" class="level2">
+<h2 class="anchored" data-anchor-id="magnification-effect-1">Magnification Effect</h2>
+<p><span class="math display">\[
+    P_{X} = \alpha_{L} * w + \alpha_{K} * r
+\]</span></p>
+<div class="fragment">
+<p>Let <span class="math inline">\(\alpha_{L}\)</span> be 0.25 and <span class="math inline">\(\alpha_{K}\)</span> be 0.75</p>
+<p>Then this product is made 25% by labor and 75% by capital inputs</p>
+<p>It is <span class="h">capital-intensive</span></p>
+</div>
+<div class="fragment">
+<p>The <span class="hi">Stolper-Samuelson Theorem</span> predicts that if <span class="math inline">\(P_{X}\)</span> increases, then <span class="math inline">\(r \uparrow\)</span> and <span class="math inline">\(w \downarrow\)</span></p>
+</div>
+<div class="fragment">
+<p>The <span class="h">Magnification Effect</span> says that if prices go up by, let’s say, 10%, then the capital rental rate will see earnings increase by more than 10%</p>
+</div>
+<hr>
+</section>
+<section id="magnification-effect---example" class="level2 small">
+<h2 class="small anchored" data-anchor-id="magnification-effect---example">Magnification Effect - Example</h2>
+<p>Let’s introduce some notation:</p>
+<p><span class="math display">\[
+   \Delta P_{X} = \alpha_{L} * \Delta w + \alpha_{K} * \Delta r
+\]</span></p>
+<p>Here the <span class="math inline">\(\Delta\)</span> means “change in”</p>
+<p><span class="h align-center">Let’s throw some numbers to see it in action</span></p>
+<div class="fragment small">
+<p><span class="math display">\[
+   10 \% = 0.25 * -5\% + 0.75 * \Delta r
+\]</span></p>
+</div>
+<div class="fragment small">
+<p><span class="math display">\[\begin{align}
+    10 \% &amp;= - 1.25 \% + 0.75 * \Delta r \\
+    10 \% + 1.25 \% &amp;= 0.75 * \Delta r \\
+    11.25 \% &amp;= 0.75 * \Delta r \\
+    \dfrac{11.25}{0.75} \% &amp;= \Delta r = 15
+\end{align}\]</span></p>
+</div>
+<hr>
+</section>
+<section id="bridging-the-gap-in-time" class="level2">
+<h2 class="anchored" data-anchor-id="bridging-the-gap-in-time">Bridging the Gap in Time</h2>
+<p>Movement across sectors and optimization of production occurs in what we generally call the <span class="h">Long-Run</span></p>
+<p>The <span class="h">Long-Run</span> is an arbitrary amount of time. It is used as a measure of how things work out after all possible adjustments/adaptations occur.</p>
+<p><br></p>
+<div class="fragment">
+<p><span class="hi">Let’s look at an example:</span></p>
+</div>
+<div class="fragment">
+<p>Suppose world prices adjust to trade openness and labor resources begin leaving the US steel industry toward some other industry</p>
+<p>In the <span class="h">Long-Run</span>, workers may retrain and find employment elsewhere but in the <span class="hp">Short-Run</span> they are stuck with pay cuts and unemployment</p>
+</div>
+
+
 </section>
 
 </main> <!-- /main -->

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Intl Market – EC 380 - International Econ</title>
+<title>account-types – EC 380 - International Econ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../UO-icon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-401534a81502bb050162c7e5212a4163.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../UO-icon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-401534a81502bb050162c7e5212a4163.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -78,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">EC 380 - International Econ</span>
     </a>
   </div>
@@ -89,27 +118,27 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Slides/lectures.html"> 
+    <a class="nav-link" href="../../Slides/lectures.html"> 
 <span class="menu-text">Slides</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Readings/articles.html"> 
+    <a class="nav-link" href="../../Readings/articles.html"> 
 <span class="menu-text">Readings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Assignments/list.html"> 
+    <a class="nav-link" href="../../Assignments/list.html"> 
 <span class="menu-text">Homework</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../Activities/activities.html" aria-current="page"> 
+    <a class="nav-link" href="../../Activities/activities.html"> 
 <span class="menu-text">Intl Market</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About Me</span></a>
   </li>  
 </ul>
@@ -127,13 +156,18 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#groups" id="toc-groups" class="nav-link active" data-scroll-target="#groups">Groups</a></li>
-  <li><a href="#activity-01" id="toc-activity-01" class="nav-link" data-scroll-target="#activity-01">Activity 01</a>
-  <ul class="collapse">
-  <li><a href="#game-set-up" id="toc-game-set-up" class="nav-link" data-scroll-target="#game-set-up">Game Set-Up</a></li>
-  <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">Results</a></li>
-  <li><a href="#observations" id="toc-observations" class="nav-link" data-scroll-target="#observations">Observations</a></li>
-  </ul></li>
+  <li><a href="#current-account-basics" id="toc-current-account-basics" class="nav-link active" data-scroll-target="#current-account-basics">Current Account Basics</a></li>
+  <li><a href="#current-account-inflows" id="toc-current-account-inflows" class="nav-link" data-scroll-target="#current-account-inflows">Current Account Inflows</a></li>
+  <li><a href="#capital-financial-accounts" id="toc-capital-financial-accounts" class="nav-link" data-scroll-target="#capital-financial-accounts">Capital &amp; Financial Accounts</a></li>
+  <li><a href="#ca-trade-balance" id="toc-ca-trade-balance" class="nav-link" data-scroll-target="#ca-trade-balance">CA: Trade Balance</a></li>
+  <li><a href="#ca-breakdown" id="toc-ca-breakdown" class="nav-link" data-scroll-target="#ca-breakdown">CA: Breakdown</a></li>
+  <li><a href="#ca-breakdown-1" id="toc-ca-breakdown-1" class="nav-link" data-scroll-target="#ca-breakdown-1">CA: Breakdown</a></li>
+  <li><a href="#ca-breakdown-2" id="toc-ca-breakdown-2" class="nav-link" data-scroll-target="#ca-breakdown-2">CA: Breakdown</a></li>
+  <li><a href="#ca-primary-income" id="toc-ca-primary-income" class="nav-link" data-scroll-target="#ca-primary-income">CA: Primary Income</a></li>
+  <li><a href="#ca-secondary-income" id="toc-ca-secondary-income" class="nav-link" data-scroll-target="#ca-secondary-income">CA: Secondary Income</a></li>
+  <li><a href="#ca-calculate-balance" id="toc-ca-calculate-balance" class="nav-link" data-scroll-target="#ca-calculate-balance">CA: Calculate Balance</a></li>
+  <li><a href="#ca-us-case" id="toc-ca-us-case" class="nav-link" data-scroll-target="#ca-us-case">CA: US Case</a></li>
+  <li><a href="#ca-us-case-1" id="toc-ca-us-case-1" class="nav-link" data-scroll-target="#ca-us-case-1">CA: US Case</a></li>
   </ul>
 </nav>
 </nav>
@@ -142,285 +176,182 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Intl Market</h1>
+
+
+
+<section id="current-account-basics" class="level2">
+<h2 class="anchored" data-anchor-id="current-account-basics">Current Account Basics</h2>
+<p><span class="hp">Definition:</span> Records the transaction of goods, services, investment income, and unilateral transfers between residents of a country and the rest of the world</p>
+<p><br></p>
+<div class="fragment">
+<ul>
+<li><p>Exports &amp; Imports</p></li>
+<li><p>Income on Equities</p></li>
+<li><p>Income on Debt-related Assests</p></li>
+<li><p>Repatriated Income by Multinational Enterprise (MNE) firms</p></li>
+</ul>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="groups" class="level2">
-<h2 class="anchored" data-anchor-id="groups">Groups</h2>
-<div class="callout callout-style-simple callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Country Member List
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 18%">
-<col style="width: 18%">
-<col style="width: 23%">
-<col style="width: 17%">
-<col style="width: 21%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Country 1</th>
-<th>Country 2</th>
-<th>Country 3</th>
-<th>Country 4</th>
-<th>Country 5</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Chako, Ebissa</td>
-<td>Batra, Joshua</td>
-<td>Beaubien, Sydney</td>
-<td>Adams, Emily</td>
-<td>Connell, Sawyer</td>
-</tr>
-<tr class="even">
-<td>Dowler, Ben</td>
-<td>Goldberg, Caleb</td>
-<td>Hanson, Josh</td>
-<td>Cruz, Owen</td>
-<td>Friedrich, Holden</td>
-</tr>
-<tr class="odd">
-<td>Fraser, Morgan</td>
-<td>Gomez, Ariel</td>
-<td>Hicks, Jackson</td>
-<td>DiDomenico, Lena</td>
-<td>Geiger, Amber</td>
-</tr>
-<tr class="even">
-<td>Hudson, Tyler</td>
-<td>Hoke, Charlie</td>
-<td>Lind, Sebbe</td>
-<td>Huff, Jarrett</td>
-<td>Heyman, Nick</td>
-</tr>
-<tr class="odd">
-<td>Rohde, Harlen</td>
-<td>Rudin, Amanda</td>
-<td>Lum, Brandon</td>
-<td>Miller, Jaden</td>
-<td>Kelley, Sydney</td>
-</tr>
-<tr class="even">
-<td>Schaefer, Jack</td>
-<td>Suchodolski, Brian</td>
-<td>Marengo, John</td>
-<td>Saito, Hikaru</td>
-<td>Mcmullin, Rachel</td>
-</tr>
-<tr class="odd">
-<td>Sinigaglia, Ludovico</td>
-<td>Tran, Carter</td>
-<td>Rushing, Cruz</td>
-<td>Ulvenholm, Max</td>
-<td>Patel, Eshan</td>
-</tr>
-<tr class="even">
-<td>Susumu, Ryuto</td>
-<td>Tran, Derek</td>
-<td>Schroeder, Giel</td>
-<td>Vandamme, Vanny</td>
-<td>Watters, Sarah</td>
-</tr>
-</tbody>
-</table>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 18%">
-<col style="width: 21%">
-<col style="width: 21%">
-<col style="width: 17%">
-<col style="width: 20%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Country 6</th>
-<th>Country 7</th>
-<th>Country 8</th>
-<th>Country 9</th>
-<th>Country 10</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Baeza, Simone</td>
-<td>Clouser, Andrew</td>
-<td>Asiamah, Daniel</td>
-<td>Baros, Regan</td>
-<td>Beekman, Tabor</td>
-</tr>
-<tr class="even">
-<td>Barnett, Max</td>
-<td>Dadant, Evan</td>
-<td>Barnett, Jennifer</td>
-<td>Bendardaf, Ahmed</td>
-<td>Brown, Zac</td>
-</tr>
-<tr class="odd">
-<td>Cheng, Roger</td>
-<td>Darmody, Riley</td>
-<td>Colby, Piper</td>
-<td>Cebula, Matthew</td>
-<td>Burnett, Summer</td>
-</tr>
-<tr class="even">
-<td>Jones, Jacqueline</td>
-<td>Joshi, Graham</td>
-<td>Fletcher, Cody</td>
-<td>Colombo, Louis</td>
-<td>Conway, Logan</td>
-</tr>
-<tr class="odd">
-<td>Montez, Austin</td>
-<td>Murphy, Aidan</td>
-<td>Girmay, Maerg</td>
-<td>Lavin, Lila</td>
-<td>Finley, Charlee</td>
-</tr>
-<tr class="even">
-<td>Rosario, Noah</td>
-<td>Pruitt, Troy</td>
-<td>Godby, Ethan</td>
-<td>Novak, Carter</td>
-<td>Kahawaii, Kate</td>
-</tr>
-<tr class="odd">
-<td>Schwarzkopf, Parker</td>
-<td>Shimizu, Rio</td>
-<td>Henkle, Jake</td>
-<td>Schreck, Aidan</td>
-<td>Kameyama, Sota</td>
-</tr>
-<tr class="even">
-<td>Sherwood, Josh</td>
-<td>Zarnick, Ethan</td>
-<td>Kirby, Ethan</td>
-<td>Truong, Brian</td>
-<td>Schneiderman, Jacob</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
+<hr>
 </section>
-<section id="activity-01" class="level2">
-<h2 class="anchored" data-anchor-id="activity-01">Activity 01</h2>
-<section id="game-set-up" class="level3">
-<h3 class="anchored" data-anchor-id="game-set-up">Game Set-Up</h3>
-<p>There are <strong>10 groups (countries)</strong> made up of 8 members each</p>
-<p>In this game, we are seeing how <strong>technological differences</strong> across countries can impact outcomes. Each country is tasked with producing as much as they possibly can given the time and resource constraints.</p>
-<p>Each country is given an envelope with resources to produce paper shapes. Each shape has its own value and are “sold” in the market for a wealth transfer.</p>
-<p><strong>Shapes must adhere to specific measurements and the edges must be cut with scissors.</strong> <strong>Any shape that is not measured properly or have a scissor-cut edge will be discarded.</strong></p>
-<p><strong>YOUR SHAPES MUST HAVE YOUR COUNTRY NUMBER ON IT</strong></p>
-<!--
-There are **three different type of countries** with the following **endowments**:
-
-:::: {.columns .align-center}
-
-::: {.column width="30%"}
-**High Income** (2)
-
-- x2 Scissors
-- x2 Rulers
-- x2 Protractors
-- x2 Pencils
-- x5 White Paper
-- x5 $100 Notes
-:::
-
-::: {.column width="40%"}
-**Middle Income** (5)
-
-- x1 Rulers
-- x2 Pencils
-- x5 White Paper
-- x5 $100 Notes
-:::
-
-::: {.column width="30%"}
-**Low Income** (3)
-
-- x2 Pencils
-- x5 White Paper
-- x5 $100 Notes
-:::
-
-::::
-
-
-
--->
+<section id="current-account-inflows" class="level2">
+<h2 class="anchored" data-anchor-id="current-account-inflows">Current Account Inflows</h2>
+<p><br></p>
+<p>Current Account Inflows are <span class="hp">monetary inflows</span>, exchanged for <span class="hp">goods/services outflows</span></p>
+<p><br></p>
+<p>Country <span class="hp">current account surplus</span> implies <span class="hp">CA Inflows</span> are greater than <span class="hp">CA Outflows</span></p>
+<p><br></p>
+<div class="fragment align-center">
+<p><span class="math inline">\(\Rightarrow\)</span> Outflow of goods, services, investment income, etc. of country are greater than inflows</p>
+</div>
+<hr>
 </section>
-<section id="results" class="level3">
-<h3 class="anchored" data-anchor-id="results">Results</h3>
-<!--
-| Country | Circles | Rectangles | Equi-Tri | Triangle | Half | Cash | Wealth | Share |
-|---------|---------|------------|---------|----------|------|------|--------|-------|
-| 1       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 2       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 3       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 4       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 5       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 6       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 7       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 8       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 9       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 10      | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| **Total** | **0**   | **0**        | **0**   | **0**      | **0**  | **0**  | **0**    | **0%**  |
--->
+<section id="capital-financial-accounts" class="level2">
+<h2 class="anchored" data-anchor-id="capital-financial-accounts">Capital &amp; Financial Accounts</h2>
+<p><span class="hp">Capital Account:</span></p>
+<div class="fragment">
+<p>Records transactions of highly specialized financial assets and liabilities</p>
+</div>
+<div class="fragment">
+<ul>
+<li>Gifts of an embassy</li>
+<li>Acquisition of land for embassy use</li>
+</ul>
+</div>
+<p><span class="hp">Financial Account:</span></p>
+<div class="fragment">
+<p>Tracks capital flows between economies, usually long-lasting items relative to goods or services</p>
+</div>
+<div class="fragment">
+<ul>
+<li>Foreign Investment</li>
+<li>Purchase or sales of foreign stock &amp; bonds</li>
+<li>International bank lending</li>
+</ul>
+</div>
+<hr>
 </section>
-<section id="observations" class="level3">
-<h3 class="anchored" data-anchor-id="observations">Observations</h3>
-<!--
-## Activity 02
-
-### Game Set-Up
-
-### Results
-
-### Observations
-
-## Activity 03
-
-### Game Set-Up
-
-### Results
-
-### Observations
--->
-
-
+<section id="ca-trade-balance" class="level2">
+<h2 class="anchored" data-anchor-id="ca-trade-balance">CA: Trade Balance</h2>
+<p>The <span class="hp">trade balance</span> is total exports minus total imports</p>
+<div class="incremental">
+<ul class="incremental">
+<li>A <span class="hi">trade balance deficit</span> is a case in which total imports of goods and services outweighs total exports</li>
+<li>It is possible to maintain a deficit in goods and surplus in srevices, but normally the net amount of both is considered</li>
+</ul>
+</div>
+<div class="fragment">
+<p>For the US, the 2023 USD trade balance was <span class="h">$3,053.5 bn</span> minus <span class="h">$3,8269 bn</span>, or <span class="h">$951.2 bn</span>.</p>
+<p>Because the <span class="hp">value is negative</span>, the United States had a <span class="hp">trade deficit</span></p>
+</div>
+<hr>
 </section>
+<section id="ca-breakdown" class="level2">
+<h2 class="anchored" data-anchor-id="ca-breakdown">CA: Breakdown</h2>
+<p><span class="hp">Current Account</span> measures all current, non-financial transactions between a nation and the rest of the world</p>
+<div class="incremental">
+<ul class="incremental">
+<li><p>Goods and Services trade <span class="hp">(Trade Balance)</span></p></li>
+<li><p>Earned income paid abroad and received from abroad <span class="hp">(Primary Income)</span></p></li>
+<li><p>International transfer payments <span class="hp">(Secondary Income)</span></p></li>
+</ul>
+</div>
+<div class="fragment">
+<p>All three of these items have <span class="h">credit and debit</span> components in BoP and in the construction of <span class="h">CA balance</span></p>
+</div>
+<hr>
+</section>
+<section id="ca-breakdown-1" class="level2">
+<h2 class="anchored" data-anchor-id="ca-breakdown-1">CA: Breakdown</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/current-account-breakdown.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="ca-breakdown-2" class="level2">
+<h2 class="anchored" data-anchor-id="ca-breakdown-2">CA: Breakdown</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/current-account-breakdown.png" class="quarto-figure quarto-figure-center figure-img" height="300"></p>
+</figure>
+</div>
+<p><span class="hp">Investment income</span> items not to be confused with the flow of <span class="hp">investment capital</span> used to buy a business or company shares</p>
+<p><span class="hp">Investment income</span> is the income received or paid on the existing investments</p>
+<hr>
+</section>
+<section id="ca-primary-income" class="level2">
+<h2 class="anchored" data-anchor-id="ca-primary-income">CA: Primary Income</h2>
+<p>Useful to think of <span class="hp">primary income</span> as payments or receipts for use of financial capital</p>
+<div class="fragment small">
+<blockquote class="blockquote">
+<p>If a US company invests in Mexico’s stock market, the initial investment will not show up in the current account but will be included in the financial account.</p>
+</blockquote>
+</div>
+<div class="fragment small">
+<blockquote class="blockquote">
+<p>Subsequent flow of dividends back to the US company will be counted in the United States as <span class="h">income received</span> and in Mexico as <span class="h">income paid</span>.</p>
+</blockquote>
+</div>
+<div class="fragment small">
+<blockquote class="blockquote">
+<p>If US company operating in Mexico pays wages from its home in the US, the wages are included in the primary income category of the current account and are recorded as a receipt by Mexico and payment by the US.</p>
+</blockquote>
+</div>
+<hr>
+</section>
+<section id="ca-secondary-income" class="level2">
+<h2 class="anchored" data-anchor-id="ca-secondary-income">CA: Secondary Income</h2>
+<p><span class="hp">Secondary Income</span> includes payments made that are not in exchange for a good or service</p>
+<div class="fragment">
+<ul>
+<li><span class="hp">Foreign aid</span>, or the <span class="hp">remittances</span> (transfer of wages earned in one country to residents of another country) of immigrants temporarily residing in another country</li>
+</ul>
+</div>
+<p><br></p>
+<div class="fragment">
+<p>In US, payments are small relative to the overall current account</p>
+<p>Transfers are sometimes <span class="hi">very important</span> to developing countries receiving large volumes of either foreign aid or remittances from their citizens working abroad</p>
+</div>
+<hr>
+</section>
+<section id="ca-calculate-balance" class="level2">
+<h2 class="anchored" data-anchor-id="ca-calculate-balance">CA: Calculate Balance</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/current-account-calculate-balance.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="ca-us-case" class="level2">
+<h2 class="anchored" data-anchor-id="ca-us-case">CA: US Case</h2>
+<p><br></p>
+<p>The US <span class="hp">current account deficit</span> has been trending downards for the past 50 years</p>
+<p><br></p>
+<p>We will explore the causes and consequences of large current account deficits later, but here it should be noted that <span class="h">a current account deficit is not simply a sign of weakness</span></p>
+<p><br></p>
+<div class="fragment">
+<p>Rapid economic growth in US <span class="hp">raised income</span>, increased spending power means greater imports</p>
+</div>
+<hr>
+</section>
+<section id="ca-us-case-1" class="level2">
+<h2 class="anchored" data-anchor-id="ca-us-case-1">CA: US Case</h2>
+<p><br></p>
+<p>Foreign incomes did not rise as rapidly</p>
+<p><br></p>
+<div class="fragment">
+<p>Current account deficit in 1990s was a sign of <span class="hp">relative US economic strength</span></p>
+</div>
+<p><br></p>
+<div class="fragment">
+<p>Deficit is not sustainable in the long-run and could create <span class="hp">serious future problems</span></p>
+</div>
+
+
 </section>
 
 </main> <!-- /main -->

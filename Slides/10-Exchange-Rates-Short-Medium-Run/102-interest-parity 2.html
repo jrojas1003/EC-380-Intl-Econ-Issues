@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Intl Market – EC 380 - International Econ</title>
+<title>interest-parity – EC 380 - International Econ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../UO-icon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-401534a81502bb050162c7e5212a4163.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../UO-icon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-401534a81502bb050162c7e5212a4163.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -78,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">EC 380 - International Econ</span>
     </a>
   </div>
@@ -89,27 +118,27 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Slides/lectures.html"> 
+    <a class="nav-link" href="../../Slides/lectures.html"> 
 <span class="menu-text">Slides</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Readings/articles.html"> 
+    <a class="nav-link" href="../../Readings/articles.html"> 
 <span class="menu-text">Readings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Assignments/list.html"> 
+    <a class="nav-link" href="../../Assignments/list.html"> 
 <span class="menu-text">Homework</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../Activities/activities.html" aria-current="page"> 
+    <a class="nav-link" href="../../Activities/activities.html"> 
 <span class="menu-text">Intl Market</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About Me</span></a>
   </li>  
 </ul>
@@ -127,13 +156,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#groups" id="toc-groups" class="nav-link active" data-scroll-target="#groups">Groups</a></li>
-  <li><a href="#activity-01" id="toc-activity-01" class="nav-link" data-scroll-target="#activity-01">Activity 01</a>
-  <ul class="collapse">
-  <li><a href="#game-set-up" id="toc-game-set-up" class="nav-link" data-scroll-target="#game-set-up">Game Set-Up</a></li>
-  <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">Results</a></li>
-  <li><a href="#observations" id="toc-observations" class="nav-link" data-scroll-target="#observations">Observations</a></li>
-  </ul></li>
+  <li><a href="#fx-market-interest-parity" id="toc-fx-market-interest-parity" class="nav-link active" data-scroll-target="#fx-market-interest-parity">FX Market: Interest Parity</a></li>
+  <li><a href="#fx-market-interest-parity-example" id="toc-fx-market-interest-parity-example" class="nav-link" data-scroll-target="#fx-market-interest-parity-example">FX Market: Interest Parity Example</a></li>
+  <li><a href="#fx-market-interest-parity-example-1" id="toc-fx-market-interest-parity-example-1" class="nav-link" data-scroll-target="#fx-market-interest-parity-example-1">FX Market: Interest Parity Example</a></li>
+  <li><a href="#fx-market-interest-parity-example-2" id="toc-fx-market-interest-parity-example-2" class="nav-link" data-scroll-target="#fx-market-interest-parity-example-2">FX Market: Interest Parity Example</a></li>
+  <li><a href="#fx-market-interest-parity-example-3" id="toc-fx-market-interest-parity-example-3" class="nav-link" data-scroll-target="#fx-market-interest-parity-example-3">FX Market: Interest Parity Example</a></li>
+  <li><a href="#fx-market-interest-parity-example-4" id="toc-fx-market-interest-parity-example-4" class="nav-link" data-scroll-target="#fx-market-interest-parity-example-4">FX Market: Interest Parity Example</a></li>
+  <li><a href="#fx-market-interest-parity-example-5" id="toc-fx-market-interest-parity-example-5" class="nav-link" data-scroll-target="#fx-market-interest-parity-example-5">FX Market: Interest Parity Example</a></li>
+  <li><a href="#fx-market-interest-parity-1" id="toc-fx-market-interest-parity-1" class="nav-link" data-scroll-target="#fx-market-interest-parity-1">FX Market: Interest Parity</a></li>
+  <li><a href="#fx-market-interest-parity-2" id="toc-fx-market-interest-parity-2" class="nav-link" data-scroll-target="#fx-market-interest-parity-2">FX Market: Interest Parity</a></li>
+  <li><a href="#fx-market-interest-parity-3" id="toc-fx-market-interest-parity-3" class="nav-link" data-scroll-target="#fx-market-interest-parity-3">FX Market: Interest Parity</a></li>
+  <li><a href="#fx-market-interest-parity-4" id="toc-fx-market-interest-parity-4" class="nav-link" data-scroll-target="#fx-market-interest-parity-4">FX Market: Interest Parity</a></li>
   </ul>
 </nav>
 </nav>
@@ -142,285 +175,186 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Intl Market</h1>
+
+
+
+<section id="fx-market-interest-parity" class="level2">
+<h2 class="anchored" data-anchor-id="fx-market-interest-parity">FX Market: Interest Parity</h2>
+<p><span class="hp">Interest Parity Condition:</span> Difference between the home and foreign interest rates should be equal to the expected change (appreciation or depreciation) of the exchange rate</p>
+<p><br></p>
+<div class="fragment">
+<p><span class="math display">\[
+    i - i^{*} = \dfrac{(F - R)}{R}
+\]</span></p>
+<ul>
+<li><span class="math inline">\(i\)</span> is the home interest rate</li>
+<li><span class="math inline">\(i^{*}\)</span> is the foreign interest rate</li>
+<li><span class="math inline">\(F\)</span> is the <span class="h">expected future exchange rate</span></li>
+<li><span class="math inline">\(R\)</span> is the current exchange rate</li>
+</ul>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="groups" class="level2">
-<h2 class="anchored" data-anchor-id="groups">Groups</h2>
-<div class="callout callout-style-simple callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Country Member List
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<table class="caption-top table">
-<colgroup>
-<col style="width: 18%">
-<col style="width: 18%">
-<col style="width: 23%">
-<col style="width: 17%">
-<col style="width: 21%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Country 1</th>
-<th>Country 2</th>
-<th>Country 3</th>
-<th>Country 4</th>
-<th>Country 5</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Chako, Ebissa</td>
-<td>Batra, Joshua</td>
-<td>Beaubien, Sydney</td>
-<td>Adams, Emily</td>
-<td>Connell, Sawyer</td>
-</tr>
-<tr class="even">
-<td>Dowler, Ben</td>
-<td>Goldberg, Caleb</td>
-<td>Hanson, Josh</td>
-<td>Cruz, Owen</td>
-<td>Friedrich, Holden</td>
-</tr>
-<tr class="odd">
-<td>Fraser, Morgan</td>
-<td>Gomez, Ariel</td>
-<td>Hicks, Jackson</td>
-<td>DiDomenico, Lena</td>
-<td>Geiger, Amber</td>
-</tr>
-<tr class="even">
-<td>Hudson, Tyler</td>
-<td>Hoke, Charlie</td>
-<td>Lind, Sebbe</td>
-<td>Huff, Jarrett</td>
-<td>Heyman, Nick</td>
-</tr>
-<tr class="odd">
-<td>Rohde, Harlen</td>
-<td>Rudin, Amanda</td>
-<td>Lum, Brandon</td>
-<td>Miller, Jaden</td>
-<td>Kelley, Sydney</td>
-</tr>
-<tr class="even">
-<td>Schaefer, Jack</td>
-<td>Suchodolski, Brian</td>
-<td>Marengo, John</td>
-<td>Saito, Hikaru</td>
-<td>Mcmullin, Rachel</td>
-</tr>
-<tr class="odd">
-<td>Sinigaglia, Ludovico</td>
-<td>Tran, Carter</td>
-<td>Rushing, Cruz</td>
-<td>Ulvenholm, Max</td>
-<td>Patel, Eshan</td>
-</tr>
-<tr class="even">
-<td>Susumu, Ryuto</td>
-<td>Tran, Derek</td>
-<td>Schroeder, Giel</td>
-<td>Vandamme, Vanny</td>
-<td>Watters, Sarah</td>
-</tr>
-</tbody>
-</table>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 18%">
-<col style="width: 21%">
-<col style="width: 21%">
-<col style="width: 17%">
-<col style="width: 20%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Country 6</th>
-<th>Country 7</th>
-<th>Country 8</th>
-<th>Country 9</th>
-<th>Country 10</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Baeza, Simone</td>
-<td>Clouser, Andrew</td>
-<td>Asiamah, Daniel</td>
-<td>Baros, Regan</td>
-<td>Beekman, Tabor</td>
-</tr>
-<tr class="even">
-<td>Barnett, Max</td>
-<td>Dadant, Evan</td>
-<td>Barnett, Jennifer</td>
-<td>Bendardaf, Ahmed</td>
-<td>Brown, Zac</td>
-</tr>
-<tr class="odd">
-<td>Cheng, Roger</td>
-<td>Darmody, Riley</td>
-<td>Colby, Piper</td>
-<td>Cebula, Matthew</td>
-<td>Burnett, Summer</td>
-</tr>
-<tr class="even">
-<td>Jones, Jacqueline</td>
-<td>Joshi, Graham</td>
-<td>Fletcher, Cody</td>
-<td>Colombo, Louis</td>
-<td>Conway, Logan</td>
-</tr>
-<tr class="odd">
-<td>Montez, Austin</td>
-<td>Murphy, Aidan</td>
-<td>Girmay, Maerg</td>
-<td>Lavin, Lila</td>
-<td>Finley, Charlee</td>
-</tr>
-<tr class="even">
-<td>Rosario, Noah</td>
-<td>Pruitt, Troy</td>
-<td>Godby, Ethan</td>
-<td>Novak, Carter</td>
-<td>Kahawaii, Kate</td>
-</tr>
-<tr class="odd">
-<td>Schwarzkopf, Parker</td>
-<td>Shimizu, Rio</td>
-<td>Henkle, Jake</td>
-<td>Schreck, Aidan</td>
-<td>Kameyama, Sota</td>
-</tr>
-<tr class="even">
-<td>Sherwood, Josh</td>
-<td>Zarnick, Ethan</td>
-<td>Kirby, Ethan</td>
-<td>Truong, Brian</td>
-<td>Schneiderman, Jacob</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
+<hr>
 </section>
-<section id="activity-01" class="level2">
-<h2 class="anchored" data-anchor-id="activity-01">Activity 01</h2>
-<section id="game-set-up" class="level3">
-<h3 class="anchored" data-anchor-id="game-set-up">Game Set-Up</h3>
-<p>There are <strong>10 groups (countries)</strong> made up of 8 members each</p>
-<p>In this game, we are seeing how <strong>technological differences</strong> across countries can impact outcomes. Each country is tasked with producing as much as they possibly can given the time and resource constraints.</p>
-<p>Each country is given an envelope with resources to produce paper shapes. Each shape has its own value and are “sold” in the market for a wealth transfer.</p>
-<p><strong>Shapes must adhere to specific measurements and the edges must be cut with scissors.</strong> <strong>Any shape that is not measured properly or have a scissor-cut edge will be discarded.</strong></p>
-<p><strong>YOUR SHAPES MUST HAVE YOUR COUNTRY NUMBER ON IT</strong></p>
-<!--
-There are **three different type of countries** with the following **endowments**:
-
-:::: {.columns .align-center}
-
-::: {.column width="30%"}
-**High Income** (2)
-
-- x2 Scissors
-- x2 Rulers
-- x2 Protractors
-- x2 Pencils
-- x5 White Paper
-- x5 $100 Notes
-:::
-
-::: {.column width="40%"}
-**Middle Income** (5)
-
-- x1 Rulers
-- x2 Pencils
-- x5 White Paper
-- x5 $100 Notes
-:::
-
-::: {.column width="30%"}
-**Low Income** (3)
-
-- x2 Pencils
-- x5 White Paper
-- x5 $100 Notes
-:::
-
-::::
-
-
-
--->
+<section id="fx-market-interest-parity-example" class="level2">
+<h2 class="anchored" data-anchor-id="fx-market-interest-parity-example">FX Market: Interest Parity Example</h2>
+<p>Suppose an investor has the choice to either <span class="h">invest locally</span> or <span class="hi">invest abroad</span> in one-year bonds</p>
+<p>More generally:</p>
+<blockquote class="blockquote">
+<p><span class="h">X year bond:</span> After maturing for X years, the bond is paid back to the investor in full principal amount and includes a yield of interest accrued for X years</p>
+</blockquote>
+<div class="fragment">
+<p>A bond will have the payoff equal to:</p>
+<p><span class="math display">\[
+    P \times (1 + i)^{n}
+\]</span></p>
+<p>Where <span class="math inline">\(P\)</span> is the principal amount invested, <span class="math inline">\(i\)</span> is the interest rate, and <span class="math inline">\(n\)</span> are the years the bond accrues interest for before maturing</p>
+</div>
+<hr>
 </section>
-<section id="results" class="level3">
-<h3 class="anchored" data-anchor-id="results">Results</h3>
-<!--
-| Country | Circles | Rectangles | Equi-Tri | Triangle | Half | Cash | Wealth | Share |
-|---------|---------|------------|---------|----------|------|------|--------|-------|
-| 1       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 2       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 3       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 4       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 5       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 6       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 7       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 8       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 9       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 10      | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| **Total** | **0**   | **0**        | **0**   | **0**      | **0**  | **0**  | **0**    | **0%**  |
--->
+<section id="fx-market-interest-parity-example-1" class="level2">
+<h2 class="anchored" data-anchor-id="fx-market-interest-parity-example-1">FX Market: Interest Parity Example</h2>
+<p>Suppose we are dealing with a 1-year <span class="h">US</span> bond has a price of 1000 USD</p>
+<p>The respective rates of return are <span class="math inline">\(i = 0.03\)</span> and <span class="math inline">\(i^{*} = 0.02\)</span>.</p>
+<p>Each payoff is in a different currency</p>
+<p>Let’s say we are considering a <span class="h">US Bond</span> and a <span class="hi">German Bond</span></p>
+<p><br></p>
+<div class="fragment">
+<p><span class="math display">\[
+    \text{US bond} = 1000 \times (1.03)^{1} = 1030 \text{ USD}
+\]</span></p>
+</div>
+<div class="fragment align-center">
+<p><span class="hp">The German Bond requires more careful thought</span></p>
+</div>
+<hr>
 </section>
-<section id="observations" class="level3">
-<h3 class="anchored" data-anchor-id="observations">Observations</h3>
-<!--
-## Activity 02
-
-### Game Set-Up
-
-### Results
-
-### Observations
-
-## Activity 03
-
-### Game Set-Up
-
-### Results
-
-### Observations
--->
-
-
+<section id="fx-market-interest-parity-example-2" class="level2">
+<h2 class="anchored" data-anchor-id="fx-market-interest-parity-example-2">FX Market: Interest Parity Example</h2>
+<p>A <span class="hi">German Bond</span> would be paid in <span class="hi">euros</span>, so we have to consider exchange rates to compare them</p>
+<div class="incremental">
+<ul class="incremental">
+<li><p>Recall the <span class="hi">German Bond</span> pays an interest equal to 0.02 (2%) <span class="hi">in euros</span></p></li>
+<li><p>The <span class="h">dollar value</span> of this investment choice depends on the <span class="hp">future exchange rate one year from now</span></p></li>
+<li><p>Suppose the exchange rate today is <span class="h">1.2 USD per EUR</span></p></li>
+<li><p>Investor can buy <span class="hi">833.33 EUR</span> in exchange for <span class="h">1000 USD</span></p></li>
+</ul>
+</div>
+<div class="fragment">
+<p><span class="math display">\[
+    \text{EUR bond} = 833.33 \times (1.02)^{1} = 850 \text{ EUR}
+\]</span></p>
+</div>
+<hr>
 </section>
+<section id="fx-market-interest-parity-example-3" class="level2">
+<h2 class="anchored" data-anchor-id="fx-market-interest-parity-example-3">FX Market: Interest Parity Example</h2>
+<p>To accurately compare the two choices, the investor must <span class="hp">forecast the exchange rate</span> in one years time</p>
+<ul>
+<li>We denote this as <span class="math inline">\(F\)</span></li>
+</ul>
+<div class="incremental">
+<ul class="incremental">
+<li>If the <span class="hp">expected future exchange rate E(F)</span> is <span class="math inline">\(E(F) = 1.3 \text{ USD/EUR}\)</span></li>
+<li>Implies an <span class="hp">expected foreign value</span> of <span class="math inline">\(850 \times 1.3 = 1105 \text{ USD}\)</span></li>
+<li>The <span class="h">US Bond</span> is worth <span class="math inline">\(1030\)</span>, so the foreign return of <span class="math inline">\(1105\)</span> is more profitable</li>
+<li>The expected return of foreign investment is:</li>
+</ul>
+<div class="fragment">
+<p><span class="math display">\[
+    i^{'} = \left[\dfrac{E(F)}{R} \times (1 + i^{*}) \right] - 1
+\]</span></p>
+</div>
+</div>
+<hr>
+</section>
+<section id="fx-market-interest-parity-example-4" class="level2">
+<h2 class="anchored" data-anchor-id="fx-market-interest-parity-example-4">FX Market: Interest Parity Example</h2>
+<p>To guarantee <span class="math inline">\(E(F) = F\)</span> is to <span class="hp">remove the uncertainty</span> from the setting</p>
+<div class="fragment">
+<p>Hedge against exchange rate risk by signing contracts on the <span class="hp">forward exchange rate market</span></p>
+</div>
+<div class="fragment">
+<p>Today’s <span class="h">spot rate</span> <span class="math inline">\(R\)</span> and market rate on one-year exchanges <span class="math inline">\(F\)</span> indicate where the market sees the Exchange Rate moving in one year</p>
+</div>
+<div class="incremental">
+<ul class="incremental">
+<li><p>If <span class="math inline">\(F &gt; R\)</span>, the currency is <span class="hp">expected to depreciate</span></p></li>
+<li><p>If <span class="math inline">\(F &lt; R\)</span>, the currency is <span class="hp">expected to appreciate</span></p></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="fx-market-interest-parity-example-5" class="level2">
+<h2 class="anchored" data-anchor-id="fx-market-interest-parity-example-5">FX Market: Interest Parity Example</h2>
+<p>In our example, investors were willing to sell off <span class="h">US Bonds</span> in order to purchase <span class="hi">German Bonds</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>Funds will flow from the <span class="h">US</span> to <span class="hi">Germany</span>, causing <span class="hi">German Money Supply</span> to increase</li>
+<li>A greater money supply implies lower interest rates, so <span class="math inline">\(i^{*}\)</span> falls</li>
+<li>Demand for <span class="hi">German Currency</span> used to buy the bonds rises, so <span class="math inline">\(R\)</span> rises</li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li>Market moves towards <span class="hp">interest rate parity</span></li>
+</ul>
+<p><span class="math display">\[
+    i - i^{*} = \dfrac{(F - R)}{R}
+\]</span></p>
+</div>
+<hr>
+</section>
+<section id="fx-market-interest-parity-1" class="level2">
+<h2 class="anchored" data-anchor-id="fx-market-interest-parity-1">FX Market: Interest Parity</h2>
+<p>What happens when <span class="math inline">\(F\)</span> changes?</p>
+<div class="fragment">
+<p>The future dollar value of <span class="hi">German Bonds</span> in <span class="h">USD</span> changes too</p>
+<p>The scale and direction of the change dictate the choice investors make</p>
+<p>Let’s see what this might look like</p>
+</div>
+<hr>
+</section>
+<section id="fx-market-interest-parity-2" class="level2">
+<h2 class="anchored" data-anchor-id="fx-market-interest-parity-2">FX Market: Interest Parity</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/change-in-forecast-table.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="fx-market-interest-parity-3" class="level2">
+<h2 class="anchored" data-anchor-id="fx-market-interest-parity-3">FX Market: Interest Parity</h2>
+<blockquote class="blockquote">
+<p><span class="note h small">Note: The textbook does a good job at explaining all scenarios on p.&nbsp;226-227</span></p>
+</blockquote>
+<p><br></p>
+<div class="fragment">
+<p>These mechanisms playout somewhat like a <span class="hp">self-fulfilling prophecy</span></p>
+<p>If investors think <span class="h">USD</span> will depreciate in the future, <span class="math inline">\(F\)</span> rises</p>
+<p>This causes return on foreign bonds to improve, causing demand on foreign currency to rise and the dollar’s spot rate <span class="math inline">\(R\)</span> depreciates</p>
+</div>
+<p><br></p>
+<div class="fragment align-center">
+<p><span class="hp">A change in expectations about future exchange rates can lead to a similar change in the spot rate</span></p>
+</div>
+<hr>
+</section>
+<section id="fx-market-interest-parity-4" class="level2">
+<h2 class="anchored" data-anchor-id="fx-market-interest-parity-4">FX Market: Interest Parity</h2>
+<p>We can think about the market playing out in two manners</p>
+<p><br></p>
+<ul>
+<li><span class="h">Covered Interest Parity (CIP)</span></li>
+</ul>
+<p><br></p>
+<ul>
+<li><span class="h">Uncovered Interest Parity (UIP)</span></li>
+</ul>
+
+
 </section>
 
 </main> <!-- /main -->
