@@ -46,6 +46,8 @@ Each shape has its own value and are "sold" in the market for a wealth transfer.
 **Shapes must adhere to specific measurements and the edges must be cut with scissors.**
 **Any shape that is not measured properly or have a scissor-cut edge will be discarded.**
 
+**YOUR SHAPES MUST HAVE YOUR COUNTRY NUMBER ON IT**
+
 <!--
 There are **three different type of countries** with the following **endowments**:
 
@@ -58,16 +60,16 @@ There are **three different type of countries** with the following **endowments*
 - x2 Rulers
 - x2 Protractors
 - x2 Pencils
-- x10 White Paper
+- x5 White Paper
 - x5 $100 Notes
 :::
 
 ::: {.column width="40%"}
 **Middle Income** (5)
 
-- x2 Rulers
+- x1 Rulers
 - x2 Pencils
-- x10 White Paper
+- x5 White Paper
 - x5 $100 Notes
 :::
 
@@ -75,7 +77,7 @@ There are **three different type of countries** with the following **endowments*
 **Low Income** (3)
 
 - x2 Pencils
-- x10 White Paper
+- x5 White Paper
 - x5 $100 Notes
 :::
 
