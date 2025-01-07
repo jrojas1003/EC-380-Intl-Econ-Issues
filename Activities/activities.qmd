@@ -48,7 +48,7 @@ Each shape has its own value and are "sold" in the market for a wealth transfer.
 
 **YOUR SHAPES MUST HAVE YOUR COUNTRY NUMBER ON IT**
 
-<!--
+
 There are **three different type of countries** with the following **endowments**:
 
 :::: {.columns .align-center}
@@ -83,29 +83,44 @@ There are **three different type of countries** with the following **endowments*
 
 ::::
 
-
-
--->
-
 ### Results
 
-<!--
-| Country | Circles | Rectangles | Equi-Tri | Triangle | Half | Cash | Wealth | Share |
-|---------|---------|------------|---------|----------|------|------|--------|-------|
-| 1       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 2       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 3       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 4       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 5       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 6       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 7       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 8       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 9       | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| 10      | 0       | 0          | 0       | 0        | 0    | 0    | 0      | 0%    |
-| **Total** | **0**   | **0**        | **0**   | **0**      | **0**  | **0**  | **0**    | **0%**  |
--->
+| Country | Circles | Rectangles | Triangle | Half | Cash Bills | Wealth | Share |
+|---------|---------|------------|----------|------|------------|--------|-------|
+| 1       | 2       | 5          | 0        | 1    | 13         | 4000   | 16.74%|
+| 2       | 0       | 0          | 0        | 0    | 4          | 400    | 1.67% |
+| 3       | 0       | 0          | 0        | 0    | 5          | 500    | 2.09% |
+| 4       | 0       | 8          | 8        | 0    | 5          | 5300   | 22.18%|
+| 5       | 0       | 15         | 0        | 0    | 0          | 4500   | 18.83%|
+| 6       | 0       | 10         | 0        | 0    | 8          | 3800   | 15.90%|
+| 7       | 0       | 0          | 13       | 0    | 0          | 3900   | 16.32%|
+| 8       | 0       | 0          | 0        | 0    | 5          | 500    | 2.09% |
+| 9       | 0       | 0          | 0        | 0    | 5          | 500    | 2.09% |
+| 10      | 0       | 0          | 0        | 0    | 5          | 500    | 2.09% |
+| **Total** | **2** | **38**     | **21**   | **1** | **50** | **23900** | **100%** |
+
+There were a total of **112** shapes that met the necessary criteria. 
+
+From the original raw resources and the total $5000 in cash, all countries produced a total of **$23900** in welfare (goods + money).
+
+24 total cutouts were rejected: 9 rectangles, 4 circles, 11 triangles. 
+This totals **$8000** in lost wealth. 
 
 ### Observations
+
+The easiest shape to produce was the **triangle** followed by a **rectangle**.
+It makes sense that countires specialized in producing these shapes due to the available technology. 
+The one nation that was able to produce **circles** was likely the only nation that had a compass. 
+This makes sense given that the most common technology were rulers. 
+
+Unsurprisingly, wealth was concentrated in a few countries. 
+This can be primarily explained through the initial endowment of technology. 
+Some of the middle-income countries were able to trade and produce in a surprising way, closely matching wealthy nations. 
+
+The data also suggests that poor countries either gave up, or were not able to trade for the necessary tools. 
+
+Rather than trading goods, which everyone was aware of the international market price, countries traded their resources (paper) and techonology (tools). 
+Something that actually happens in the real world is the trade of intermediate goods, which are input factors necessary in production. 
 
 <!--
 ## Activity 02
