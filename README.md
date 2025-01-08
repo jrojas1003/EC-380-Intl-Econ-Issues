@@ -1,10 +1,10 @@
 # International Economic Issues <img align="right" height="45" src="UO.png">
 
-Welcome to EC 380: International Economic Issues (Fall 2024) at the University of Oregon.
+Welcome to EC 380: International Economic Issues (Winter 2025) at the University of Oregon.
 
 - Instructor: [Jose Rojas-Fallas](https://jose-rojas-fallas.quarto.pub/jose-rojas-fallas/)
-- [Syllabus](https://rawcdn.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/d9eaeac552633c6e5887966e2c22e2e5a938d2fe/EC-380-Fall-24-Syllabus.pdf)
-- [Workbook](https://jose-rojas-fallas.quarto.pub/international-econ-workbook/)
+- [Syllabus](https://rawcdn.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/78cf50f76455a86b5749d5d89f959dbcd99f74f1/Documents/Syllabus/Syllabus.pdf)
+- [Webiste](https://jrojas1003.github.io/EC-380-Intl-Econ-Issues/)
 
 ## Lectures
 
