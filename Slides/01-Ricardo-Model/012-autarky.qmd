@@ -299,7 +299,7 @@ Relative price of coffee is equal to the [Opportunity Cost]{.hi-orange} of coffe
 
 We can find the [Foreign Country]{.hi-teal} results as well
 
-Find them for yourself and we will pick it up next class. Let:
+Find them for yourself. Let:
 
 $$
     \text{MPL}_{c}^{F} = 10 \;\;\;\;\; \& \;\;\;\;\; \text{MPL}_{t}^{F} = 12 \;\;\;\;\; \& \;\;\;\;\; \bar{L} = 10
@@ -491,7 +491,7 @@ We need to find the maximum they can produce for each good:
 
 ## Preference in Consuming Goods
 
-We were told that [Vampires Consumers]{.hi} prefer to consume [3 Sparkling]{.h} selfies for every [2 Shirtless]{.h} selfies
+We were told that [Vampires]{.hi} prefer to consume [3 Sparkling]{.h} selfies for every [2 Shirtless]{.h} selfies
 
 Let's see how this translates to our indifference curve concept 
 
