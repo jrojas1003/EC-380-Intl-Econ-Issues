@@ -12,6 +12,7 @@ Welcome to EC 380: International Economic Issues (Fall 2024) at the University o
 
 [Lecture 01 - Ricardian Model](https://raw.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/main/Slides/01-Ricardo-Model/010-compile.html)
 
+<!--
 [Lecture 02 - Heckscher-Ohlin Model](https://raw.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/main/Slides/02-HO-Model/020-compile.html)
 
 [Lecture 03 - Empirics and Issues](https://raw.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/main/Slides/03-Issues-and-Empirics/030-compile.html)
@@ -31,3 +32,4 @@ Welcome to EC 380: International Economic Issues (Fall 2024) at the University o
 [Lecture 10 - Exchange Rates: Short/Medium-Run]()
 
 [Lecture 11 - Exchange Rates: Policies]()
+-->
