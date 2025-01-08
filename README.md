@@ -4,7 +4,7 @@ Welcome to EC 380: International Economic Issues (Winter 2025) at the University
 
 - Instructor: [Jose Rojas-Fallas](https://jose-rojas-fallas.quarto.pub/jose-rojas-fallas/)
 - [Syllabus](https://rawcdn.githack.com/jrojas1003/EC-380-Intl-Econ-Issues/78cf50f76455a86b5749d5d89f959dbcd99f74f1/Documents/Syllabus/Syllabus.pdf)
-- [Webiste](https://jrojas1003.github.io/EC-380-Intl-Econ-Issues/)
+- [Website](https://jrojas1003.github.io/EC-380-Intl-Econ-Issues/)
 
 ## Lectures
 
@@ -30,6 +30,6 @@ Welcome to EC 380: International Economic Issues (Winter 2025) at the University
 [Lecture 09 - Exchange Rates: Long-Run]()
 
 [Lecture 10 - Exchange Rates: Short/Medium-Run]()
-
+ß
 [Lecture 11 - Exchange Rates: Policies]()
 -->
