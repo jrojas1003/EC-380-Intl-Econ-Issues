@@ -28,6 +28,15 @@ title: "Lectures"
 
 ### HO Model
 
+```{=html}
+<div>
+  <iframe class="slide deck" src="02-HO-Model/020-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+</div>
+<a class="btn btn-primary btn-md" href="02-HO-Model/020-compile.qmd" target="_blank">
+  <i class="fa-solid fa-window-restore"></i>&ensp;Expand
+</a>
+```
+
 ### Issues & Empirics
 
 ### Trade Policy
