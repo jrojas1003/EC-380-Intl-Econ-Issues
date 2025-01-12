@@ -35,9 +35,7 @@ title-slide-attributes:
 
 [Reading]{.h}
 
-- [Chapter 03](../../Readings/articles.qmd#chapter-03-(p.-64---85)){target="_blank"}
-  - Modern Trade Theory
-  - Trade and Income Distribution
+- [Chapter 04](../../Readings/articles.qmd#chapter-04-(p.-87---114)){target="_blank"}
 
 [Assignment(s)]{.h} [DUE BEFORE CLASS!]{.hi-red}
 
