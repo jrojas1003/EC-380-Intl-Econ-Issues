@@ -299,10 +299,6 @@ In the [Product Cycle]{.hp} extension, firms invest abroad and some output gener
 
 ---
 
-## Trade/FDI
-
----
-
 ## Extension - Offshore/Outsorce
 
 [Offshoring:]{.hp} Set up a plant abroad to produce goods
