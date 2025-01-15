@@ -35,3 +35,20 @@ title-slide-attributes:
 
 {{< include 025-extensions.qmd >}}
 
+## Next Topics
+
+[Issues in Trade and Empirical Evidence]{.hp}
+
+[Reading]{.h}
+
+- [Second Part of Ch 4](../../Readings/articles.qmd#chapter-04-(p.-87---114))
+
+[Read Abstract, Introduction and Conclusion]{.hi}
+
+- [Autor et al (2013) - China Shock Syndrome](../../Readings/articles.qmd#course-literature)
+
+- [Autor et al (2020) - Importing Political Polarization](../../Readings/articles.qmd#course-literature)
+
+[Assignments]{.h}
+
+- [Problem Set 02](../../Assignments/list.qmd#ps02-(due-jan.-22-before-lecture-on-canvas)
