@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Homework – EC 380 - International Econ</title>
+<title>input-output – EC 380 - International Econ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../UO-icon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-401534a81502bb050162c7e5212a4163.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../UO-icon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-401534a81502bb050162c7e5212a4163.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -78,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">EC 380 - International Econ</span>
     </a>
   </div>
@@ -89,27 +118,27 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Slides/lectures.html"> 
+    <a class="nav-link" href="../../Slides/lectures.html"> 
 <span class="menu-text">Slides</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Readings/articles.html"> 
+    <a class="nav-link" href="../../Readings/articles.html"> 
 <span class="menu-text">Readings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../Assignments/list.html" aria-current="page"> 
+    <a class="nav-link" href="../../Assignments/list.html"> 
 <span class="menu-text">Homework</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Activities/activities.html"> 
+    <a class="nav-link" href="../../Activities/activities.html"> 
 <span class="menu-text">Intl Market</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About Me</span></a>
   </li>  
 </ul>
@@ -127,21 +156,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#problem-sets" id="toc-problem-sets" class="nav-link active" data-scroll-target="#problem-sets">Problem Sets</a>
-  <ul class="collapse">
-  <li><a href="#ps01-due-jan.-15-before-lecture-on-canvas" id="toc-ps01-due-jan.-15-before-lecture-on-canvas" class="nav-link" data-scroll-target="#ps01-due-jan.-15-before-lecture-on-canvas">PS01 (Due Jan.&nbsp;15 Before Lecture) on <strong>Canvas</strong></a></li>
-  <li><a href="#ps02-due-jan.-22-before-lecture-on-canvas" id="toc-ps02-due-jan.-22-before-lecture-on-canvas" class="nav-link" data-scroll-target="#ps02-due-jan.-22-before-lecture-on-canvas">PS02 (Due Jan.&nbsp;22 Before Lecture) on <strong>Canvas</strong></a></li>
-  <li><a href="#ps03-due-jan.-29-before-lecture-on-canvas" id="toc-ps03-due-jan.-29-before-lecture-on-canvas" class="nav-link" data-scroll-target="#ps03-due-jan.-29-before-lecture-on-canvas">PS03 (Due Jan.&nbsp;29 Before Lecture) on <strong>Canvas</strong></a></li>
-  <li><a href="#ps04-due-feb.-26-before-lecture-on-canvas" id="toc-ps04-due-feb.-26-before-lecture-on-canvas" class="nav-link" data-scroll-target="#ps04-due-feb.-26-before-lecture-on-canvas">PS04 (Due Feb.&nbsp;26 Before Lecture) on <strong>Canvas</strong></a></li>
-  <li><a href="#ps05-due-mar.-05-before-lecture-on-canvas" id="toc-ps05-due-mar.-05-before-lecture-on-canvas" class="nav-link" data-scroll-target="#ps05-due-mar.-05-before-lecture-on-canvas">PS05 (Due Mar.&nbsp;05 Before Lecture) on <strong>Canvas</strong></a></li>
-  </ul></li>
-  <li><a href="#quizzes" id="toc-quizzes" class="nav-link" data-scroll-target="#quizzes">Quizzes</a>
-  <ul class="collapse">
-  <li><a href="#quiz-01-due-jan.-15-before-lecture-on-canvas" id="toc-quiz-01-due-jan.-15-before-lecture-on-canvas" class="nav-link" data-scroll-target="#quiz-01-due-jan.-15-before-lecture-on-canvas">Quiz 01 (Due Jan.&nbsp;15 Before Lecture) on <strong>Canvas</strong></a></li>
-  <li><a href="#quiz-02-due-jan.-29-before-lecture-on-canvas" id="toc-quiz-02-due-jan.-29-before-lecture-on-canvas" class="nav-link" data-scroll-target="#quiz-02-due-jan.-29-before-lecture-on-canvas">Quiz 02 (Due Jan.&nbsp;29 Before Lecture) on <strong>Canvas</strong></a></li>
-  <li><a href="#quiz-03-due-feb.-26-before-lecture-on-canvas" id="toc-quiz-03-due-feb.-26-before-lecture-on-canvas" class="nav-link" data-scroll-target="#quiz-03-due-feb.-26-before-lecture-on-canvas">Quiz 03 (Due Feb.&nbsp;26 Before Lecture) on <strong>Canvas</strong></a></li>
-  <li><a href="#quiz-04-due-mar.-12-before-lecture-on-canvas" id="toc-quiz-04-due-mar.-12-before-lecture-on-canvas" class="nav-link" data-scroll-target="#quiz-04-due-mar.-12-before-lecture-on-canvas">Quiz 04 (Due Mar.&nbsp;12 Before Lecture) on <strong>Canvas</strong></a></li>
-  </ul></li>
+  <li><a href="#inputs-outputs" id="toc-inputs-outputs" class="nav-link active" data-scroll-target="#inputs-outputs">Inputs &amp; Outputs</a></li>
+  <li><a href="#inputs-outputs-1" id="toc-inputs-outputs-1" class="nav-link" data-scroll-target="#inputs-outputs-1">Inputs &amp; Outputs</a></li>
+  <li><a href="#effective-rate-of-protection" id="toc-effective-rate-of-protection" class="nav-link" data-scroll-target="#effective-rate-of-protection">Effective Rate of Protection</a></li>
+  <li><a href="#effective-rate-of-protection-final" id="toc-effective-rate-of-protection-final" class="nav-link" data-scroll-target="#effective-rate-of-protection-final">Effective Rate of Protection: Final</a></li>
+  <li><a href="#effective-rate-of-protection-intermediate" id="toc-effective-rate-of-protection-intermediate" class="nav-link" data-scroll-target="#effective-rate-of-protection-intermediate">Effective Rate of Protection: Intermediate</a></li>
+  <li><a href="#effective-rate-of-protection-1" id="toc-effective-rate-of-protection-1" class="nav-link" data-scroll-target="#effective-rate-of-protection-1">Effective Rate of Protection</a></li>
+  <li><a href="#inputs-outputs-2" id="toc-inputs-outputs-2" class="nav-link" data-scroll-target="#inputs-outputs-2">Inputs &amp; Outputs</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
   </ul>
 </nav>
 </nav>
@@ -150,132 +172,108 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Homework</h1>
+
+
+
+<section id="inputs-outputs" class="level2">
+<h2 class="anchored" data-anchor-id="inputs-outputs">Inputs &amp; Outputs</h2>
+<p>While tariffs protect one industry,they may also <span class="h">inconvenience other domestic industries</span> that are reliant on inputs of intermediated goods</p>
+<div class="fragment">
+<ul>
+<li>US tariffs on steel products protected the steel industry and hurt the automotive industry</li>
+</ul>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="problem-sets" class="level2">
-<h2 class="anchored" data-anchor-id="problem-sets">Problem Sets</h2>
-<section id="ps01-due-jan.-15-before-lecture-on-canvas" class="level3">
-<h3 class="anchored" data-anchor-id="ps01-due-jan.-15-before-lecture-on-canvas">PS01 (Due Jan.&nbsp;15 Before Lecture) on <a href="https://canvas.uoregon.edu/courses/254916/assignments/1760037" target="_blank"><strong>Canvas</strong></a></h3>
-<details>
-  <summary>View PDF</summary> 
-  <a class="btn btn-primary btn-lg cv-download" href="Problem-Sets/Winter25/PS01/problem-set-01.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i> Download 
-  </a>
-  <div class="embed-container">
-    <iframe src="Problem-Sets/Winter25/PS01/problem-set-01.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
-  </div>
-</details>
+<div class="fragment">
+<p>Let’s introduce two concepts:</p>
+</div>
+<div class="fragment">
+<p><span class="hp">Nominal Rate of Protection</span>: The amount of a <span class="hi">tariff expressed as a percentage of a good’s price</span>. This is the tariff we have discussed so far</p>
+</div>
+<div class="fragment">
+<p><span class="hp">Effective Rate of Protection</span>: The level of protection on intermediate inputs and nominal tariff levied on the protected good. <span class="h">Measured as percentage change in domestic value added</span> after tariffs on intermediate and final goods are applied</p>
+</div>
+<hr>
 </section>
-<section id="ps02-due-jan.-22-before-lecture-on-canvas" class="level3">
-<h3 class="anchored" data-anchor-id="ps02-due-jan.-22-before-lecture-on-canvas">PS02 (Due Jan.&nbsp;22 Before Lecture) on <a href="https://canvas.uoregon.edu/courses/254916/assignments/1760038" target="_blank"><strong>Canvas</strong></a></h3>
-<!--
-
-
-
-```{=html}
-<details>
-  <summary>View PDF</summary> 
-  <a class="btn btn-primary btn-lg cv-download" href="Problem-Sets/Winter25/PS02/problem-set-02.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download 
-  </a>
-  <div class="embed-container">
-    <iframe src="Problem-Sets/Winter25/PS02/problem-set-02.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
-  </div>
-</details>
-```
-
-
-
--->
+<section id="inputs-outputs-1" class="level2">
+<h2 class="anchored" data-anchor-id="inputs-outputs-1">Inputs &amp; Outputs</h2>
+<p>I mentioned <span class="hp">value added</span>, so let’s define that too</p>
+<div class="fragment">
+<p><span class="hp">Value-Added</span>: Price of a good minus the cost of intermediate imports used to produce the good</p>
+<p>With that defined, we can take a deeper look at <span class="hp">Effective Rate of Protection</span></p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[
+    \text{Effective Rate of Protection} = \dfrac{(VA^{*} - VA)}{VA}
+\]</span></p>
+<ul>
+<li><p><span class="math inline">\(VA\)</span> is <span class="hi">domestic value-added</span> under free-trade</p></li>
+<li><p><span class="math inline">\(VA^{*}\)</span> is <span class="math inline">\(VA\)</span> <span class="hi">after accounting for all relevant tariffs</span></p></li>
+</ul>
+</div>
+<hr>
 </section>
-<section id="ps03-due-jan.-29-before-lecture-on-canvas" class="level3">
-<h3 class="anchored" data-anchor-id="ps03-due-jan.-29-before-lecture-on-canvas">PS03 (Due Jan.&nbsp;29 Before Lecture) on <a href="https://canvas.uoregon.edu/courses/254916/assignments/1760039" target="_blank"><strong>Canvas</strong></a></h3>
+<section id="effective-rate-of-protection" class="level2">
+<h2 class="anchored" data-anchor-id="effective-rate-of-protection">Effective Rate of Protection</h2>
+<p>Suppose we introduce <span class="hp">two tariffs</span>, in sequence</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/effective-rate-protection-01.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
 </section>
-<section id="ps04-due-feb.-26-before-lecture-on-canvas" class="level3">
-<h3 class="anchored" data-anchor-id="ps04-due-feb.-26-before-lecture-on-canvas">PS04 (Due Feb.&nbsp;26 Before Lecture) on <a href="https://canvas.uoregon.edu/courses/254916/assignments/1760040" target="_blank"><strong>Canvas</strong></a></h3>
+<section id="effective-rate-of-protection-final" class="level2">
+<h2 class="anchored" data-anchor-id="effective-rate-of-protection-final">Effective Rate of Protection: Final</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/effective-rate-protection-02.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
 </section>
-<section id="ps05-due-mar.-05-before-lecture-on-canvas" class="level3">
-<h3 class="anchored" data-anchor-id="ps05-due-mar.-05-before-lecture-on-canvas">PS05 (Due Mar.&nbsp;05 Before Lecture) on <a href="https://canvas.uoregon.edu/courses/254916/assignments/1760045" target="_blank"><strong>Canvas</strong></a></h3>
-<!--
-
-
-
-```{=html}
-<details>
-  <summary>Problem Set 03 (TBD)</summary>
-  <a class="btn btn-primary btn-lg cv-download" href="Problem-Sets/Winter25/PS03/problem-set-03.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
-  </a>
-  <div class="embed-container">
-    <iframe src="Problem-Sets/Winter25/PS03/problem-set-03.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
-  </div>
-</details>
-```
-
-```{=html}
-<details>
-  <summary>Problem Set 04 (TBD)</summary>
-  <a class="btn btn-primary btn-lg cv-download" href="Problem-Sets/Winter25/PS04/problem-set-04.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
-  </a>
-  <div class="embed-container">
-    <iframe src="Problem-Sets/Winter25/PS04/problem-set-04.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
-  </div>
-</details>
-```
-
-```{=html}
-<details>
-  <summary>Problem Set 05 (TBD)</summary>
-  <a class="btn btn-primary btn-lg cv-download" href="Problem-Sets/Winter25/PS05/problem-set-05.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
-  </a>
-  <div class="embed-container">
-    <iframe src="Problem-Sets/Winter25/PS05/problem-set-05.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
-  </div>
-</details>
-```
-
-
-
--->
+<section id="effective-rate-of-protection-intermediate" class="level2">
+<h2 class="anchored" data-anchor-id="effective-rate-of-protection-intermediate">Effective Rate of Protection: Intermediate</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/effective-rate-protection-03.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
 </section>
+<section id="effective-rate-of-protection-1" class="level2">
+<h2 class="anchored" data-anchor-id="effective-rate-of-protection-1">Effective Rate of Protection</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/effective-rate-protection-04.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
 </section>
-<section id="quizzes" class="level2">
-<h2 class="anchored" data-anchor-id="quizzes">Quizzes</h2>
-<section id="quiz-01-due-jan.-15-before-lecture-on-canvas" class="level3">
-<h3 class="anchored" data-anchor-id="quiz-01-due-jan.-15-before-lecture-on-canvas">Quiz 01 (Due Jan.&nbsp;15 Before Lecture) on <a href="https://canvas.uoregon.edu/courses/254916/assignments/1760034" target="_blank"><strong>Canvas</strong></a></h3>
+<section id="inputs-outputs-2" class="level2">
+<h2 class="anchored" data-anchor-id="inputs-outputs-2">Inputs &amp; Outputs</h2>
+<p>It is possible to go too far trying to protect domestic industries and end up hurting them</p>
+<p>Sufficiently high import reliance can make tariff protection yield <span class="hp">negative protection measures</span>, depending on the good examined</p>
+<div class="fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/negative-protection-rate.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</div>
+<hr>
 </section>
-<section id="quiz-02-due-jan.-29-before-lecture-on-canvas" class="level3">
-<h3 class="anchored" data-anchor-id="quiz-02-due-jan.-29-before-lecture-on-canvas">Quiz 02 (Due Jan.&nbsp;29 Before Lecture) on <a href="https://canvas.uoregon.edu/courses/254916/assignments/1760031" target="_blank"><strong>Canvas</strong></a></h3>
-</section>
-<section id="quiz-03-due-feb.-26-before-lecture-on-canvas" class="level3">
-<h3 class="anchored" data-anchor-id="quiz-03-due-feb.-26-before-lecture-on-canvas">Quiz 03 (Due Feb.&nbsp;26 Before Lecture) on <a href="https://canvas.uoregon.edu/courses/254916/assignments/1760044" target="_blank"><strong>Canvas</strong></a></h3>
-</section>
-<section id="quiz-04-due-mar.-12-before-lecture-on-canvas" class="level3">
-<h3 class="anchored" data-anchor-id="quiz-04-due-mar.-12-before-lecture-on-canvas">Quiz 04 (Due Mar.&nbsp;12 Before Lecture) on <a href="https://canvas.uoregon.edu/courses/254916/assignments/1760032" target="_blank"><strong>Canvas</strong></a></h3>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p><br><br></p>
+<ul>
+<li><p>Tariffs are bad for countries with little influence on world prices</p></li>
+<li><p>Large countries exhibit an ambiguous effect, conditional on everyone playing nice</p></li>
+<li><p>Tariff protection can backfire, depending on input reliances</p></li>
+</ul>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
