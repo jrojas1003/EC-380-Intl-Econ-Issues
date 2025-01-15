@@ -51,4 +51,4 @@ title-slide-attributes:
 
 [Assignments]{.h}
 
-- [Problem Set 02](../../Assignments/list.qmd#ps02-(due-jan.-22-before-lecture-on-canvas)
+- [Problem Set 02](../../Assignments/list.qmd#ps02-(due-jan.-22-before-lecture-on-canvas))
