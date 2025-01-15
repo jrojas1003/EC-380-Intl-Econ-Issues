@@ -20,7 +20,6 @@ title: "Homework"
 
 ### PS02 (Due Jan. 22 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760038){target="_blank"}
 
-<!--
 ```{=html}
 <details>
   <summary>View PDF</summary> 
@@ -32,7 +31,6 @@ title: "Homework"
   </div>
 </details>
 ```
--->
 
 ### PS03 (Due Jan. 29 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760039){target="_blank"}
 
