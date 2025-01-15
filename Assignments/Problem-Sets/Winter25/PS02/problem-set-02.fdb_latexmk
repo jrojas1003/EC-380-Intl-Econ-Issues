@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1736915598.42002 "/Users/joserojas/Documents/Teaching/EC380/Assignments/Problem-Sets/Winter25/PS02/problem-set-02.tex" "problem-set-02.pdf" "problem-set-02" 1736915599.08311 0
+["pdflatex"] 1736916566.83612 "/Users/joserojas/Documents/Teaching/EC380/Assignments/Problem-Sets/Winter25/PS02/problem-set-02.tex" "problem-set-02.pdf" "problem-set-02" 1736916567.48628 0
   "/Users/joserojas/Documents/Teaching/EC380/Assignments/Problem-Sets/Winter25/PS02/problem-set-02.tex" 1736915598.16514 6135 37e6b3e19f1fb63c68c34d01761e1a29 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490131464 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490131464 2933 9ad527ce78d7c5fa0a642dead095f172 ""
@@ -173,9 +173,9 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1734939054.00986 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1734939011 8221433 bb52dd08fc4036ad0c5bff34b43066ca ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "problem-set-02.aux" 1736915598.99665 2160 61d58d1f745ac328a95cec3b3167f69f "pdflatex"
+  "problem-set-02.aux" 1736916567.38042 2160 61d58d1f745ac328a95cec3b3167f69f "pdflatex"
   "problem-set-02.tex" 1736915598.16514 6135 37e6b3e19f1fb63c68c34d01761e1a29 ""
-  "tables/Q2-table.tex" 1736887992.9162 265 0ff8d3ed884f60e587fd13e15800d9eb ""
+  "tables/Q2-table.tex" 1736916566.62434 265 bf7575c6dd4a6cfbee5edff16e14be09 ""
   (generated)
   "problem-set-02.aux"
   "problem-set-02.log"
