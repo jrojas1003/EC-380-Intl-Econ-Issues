@@ -21,11 +21,11 @@ title: "Homework"
 ```{=html}
 <details>
   <summary>Solutions</summary> 
-  <a class="btn btn-primary btn-lg cv-download" href="Problem-Sets/Winter25/PS01/[Key]problem-set-01-class.pdf" target="_blank">
+  <a class="btn btn-primary btn-lg cv-download" href="Problem-Sets/Winter25/PS01/PS01-solutions.pdf" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download 
   </a>
   <div class="embed-container">
-    <iframe src="Problem-Sets/Winter25/PS01/[Key]problem-set-01-class.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+    <iframe src="Problem-Sets/Winter25/PS01/PS01-solutions.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
   </div>
 </details>
 ```
