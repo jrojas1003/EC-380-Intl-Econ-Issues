@@ -1,0 +1,144 @@
+\documentclass[12pt]{exam}
+\usepackage{amsthm}
+\usepackage{libertine}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{multicol}
+\usepackage[shortlabels]{enumitem}
+\usepackage{siunitx}
+\usepackage{cancel}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{tikz}
+\usepackage[T1]{fontenc}  % Ensure proper encoding
+\usepackage{titlesec}
+\usepackage{booktabs}
+
+\CorrectChoiceEmphasis{\color{red}\bfseries\itshape}
+
+\newcommand{\class}{\fontfamily{lmss} \textbf{EC 380}} % This is the name of the course 
+\newcommand{\examnum}{\fontfamily{lmss} \textbf{PS 03}} % This is the name of the assignment
+\newcommand{\examdate}{\fontfamily{lmss} \textbf{January 29 at 01:59pm}} % This is the due date
+\newcommand{\timelimit}{}
+\addpoints % Allows to add points up to include table at end of document
+
+\pagestyle{headandfoot} % Fancy equivalent for exam documentclass
+\firstpageheadrule % Horizontal bar in first page
+\runningheadrule % Horizontal bar in rest of pages
+\firstpageheader{\class}{\examnum}{\fontfamily{lmss} Due \examdate} % 1st page header content
+\firstpagefooter{\fontfamily{lmss} Points earned: \makebox[1in]{\hrulefill} / \pointsonpage{\thepage} points}{}{\thepage\ of \numpages} % 1st page footer content
+\runningheader{\class}{\examnum}{\fontfamily{lmss} Due \examdate} % Rest of pages header content
+\runningfooter{\fontfamily{lmss} Points earned: \makebox[1in]{\hrulefill} / \pointsonpage{\thepage} points}{}{\thepage\ of \numpages} % Rest of pages footer content
+\bracketedpoints % Puts points per question inside brackets instead of parenthesis 
+
+\titleformat{\section}
+  {\normalfont\large\bfseries\sffamily}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries\sffamily}{\thesection}{1em}{}
+
+\begin{document}
+\fontfamily{lmss}
+\selectfont
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PREAMBLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+    \textbf{{\LARGE Problem Set 03}} \\
+    \bigskip 
+\end{center}
+
+\noindent \textbf{Instructions:} 
+Answers must be submitted online through the designated Canvas assignment. 
+This Problem Set is due on \examdate.
+Please write as legible and clearly as possible. 
+You will not be given full credit if your answers cannot be easily understood. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% QUESTIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Questions}
+\begin{questions}
+
+\question
+Suppose we are in an autarky scenario and considering the market for an imported good at Home. 
+Use the following demand and supply functions for solving the various equilibrium scenarios:
+\begin{align*}
+    \textbf{Demand:} \;\; P &= 120 - \dfrac{4}{7}Q_{d} \\
+    \textbf{Supply:} \;\; P &= \dfrac{1}{4}Q_{s}
+\end{align*}
+
+Consider the \textbf{Autarky Scenario} first
+
+\begin{parts}
+    \part[3]  
+    Sketch the supply and demand curves, with the appropriate labeling for the equilibrium point and surplus regions.
+    \vspace*{\stretch{1}}
+    \part[5] Report the coordinates of the equilibrium point, which represent the \textbf{price and quantity the market operates at}.
+    \vspace*{\stretch{2}} 
+    \part[3] Calculate the consumer and producer surplus values under autarky. 
+    What is the total welfare for the economy?
+    \vspace*{\stretch{0.75}} 
+\end{parts}
+
+\newpage 
+
+\question
+Using the same demand and supply functions as before, answer the following:
+\begin{align*}
+    \textbf{Demand:} \;\; P &= 120 - \dfrac{4}{7}Q_{d} \\
+    \textbf{Supply:} \;\; P &= \dfrac{1}{4}Q_{s}
+\end{align*}
+
+Suppose Home opens up to \textbf{free-trade} and becomes exposed to a world price, $P_{w} = 25$.
+Be sure to complete every part.
+\begin{parts}
+    \part[3]  
+    Sketch the market with the \textbf{new price line} and corresponding equilibria points for \textbf{quantity demanded and supplied}.
+    \vspace*{\stretch{1.5}}
+    \part[5]
+    Calculate the equilibrium values for quantities, imports, and surplus values. 
+    \vspace*{\stretch{2}}
+    \part[3]
+    What is the change in welfare, relative to \textbf{autarky}
+    \vspace*{\stretch{0.75}}
+\end{parts}
+
+\newpage 
+
+\question
+Using the same demand and supply functions as before, answer the following:
+\begin{align*}
+    \textbf{Demand:} \;\; P &= 120 - \dfrac{4}{7}Q_{d} \\
+    \textbf{Supply:} \;\; P &= \dfrac{1}{4}Q_{s}
+\end{align*}
+
+Consider the case in which \textbf{the government intervenes, setting a tariff rate of $t = 4$}.
+Be sure to complete every part.
+\begin{parts}
+    \part[3]
+    Sketch the updated demand \& supply curves. 
+    Label it properly and highlight which regions are the efficiency and dead-weight loss areas
+    \vspace*{\stretch{1.5}}
+    \part[5] 
+    Calculate the equilibria for \textbf{quantity supplied, quantity demanded, imports, and surpluses (consumer, producer, government)}.
+    \vspace*{\stretch{2}}
+    \part[3] 
+    What is the \textbf{change in welfare}, relative to free-trade?
+    \vspace*{\stretch{0.75}}
+\end{parts}
+
+\newpage 
+
+\input{tables/q1-table}
+
+\question[10]
+Complete the table above and express the effective rate of protection in \textbf{each case}. 
+\textbf{Tariffs on the final good are 25\% and tariffs on the input good are 12\%}.
+\textbf{Show your work in the space provided below}
+\vspace*{\stretch{1}}
+
+
+\end{questions}
+
+\end{document}
