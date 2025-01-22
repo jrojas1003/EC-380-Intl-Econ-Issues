@@ -35,7 +35,7 @@ We could have:
 
 Most economist sure think so 
 
-There are [three main reasons]{.h} why economists do [not]{.hp} generally stres the income distribution effect of trade:
+There are [three main reasons]{.h} why economists do [not]{.hp} generally stress the income distribution effect of trade:
 
 ::: {.incremental}
 - Income distribution effects are not specific to international trade
@@ -72,7 +72,7 @@ Suppose the following:
 
 Let's think of a simple example:
 
-Imagine a country that [exports skill-intensive goods]{.h} and [imports labor-intensive goods]{.hi}. 
+Imagine a country that [exports high skill-intensive goods]{.h} and [imports low- skill-intensive goods]{.hi}. 
 Political parties are divided alongside the level of tariff rate to impose
 
 ::: {.fragment}
