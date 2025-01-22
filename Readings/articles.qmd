@@ -91,12 +91,48 @@ Gerber, J. (2022). International Economics (8th ed.). Pearson.
 
 ```{=html}
 <details>
-  <summary>Card (1990) - Importing Political Polarization </summary>
+  <summary>Card (1990) - Mariel Boatlift </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Articles/1990-Card-Impact-of-the-Mariel-Boatlift-on-Miami-Labor-Market-ILRR.pdf" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
   </a>
   <div class="embed-container">
     <iframe src="Articles/1990-Card-Impact-of-the-Mariel-Boatlift-on-Miami-Labor-Market-ILRR.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
+
+```{=html}
+<details>
+  <summary>Colas & Sachs (2024) - Indirect Fiscal Benefits of Low-Skilled Immigration </summary>
+  <a class="btn btn-primary btn-lg cv-download" href="Articles/2024-Colas-&-Sachs-Indirect-Fiscal-Benefits-of-Low-Skilled-Immigration-AEJ.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+  </a>
+  <div class="embed-container">
+    <iframe src="Articles/2024-Colas-&-Sachs-Indirect-Fiscal-Benefits-of-Low-Skilled-Immigration-AEJ.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
+
+```{=html}
+<details>
+  <summary>Gandal, Hanson and Slaughter (2004) - Technology, Trade, and Adjustment to Immigration </summary>
+  <a class="btn btn-primary btn-lg cv-download" href="Articles/2004-Gandal-et-al-Technology-Trade-&-Adjustment-to-Immigration-EER.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+  </a>
+  <div class="embed-container">
+    <iframe src="Articles/2004-Gandal-et-al-Technology-Trade-&-Adjustment-to-Immigration-EER.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
+
+```{=html}
+<details>
+  <summary>Krugman (2023) - Modeling Trade & Electoral Competition</summary>
+  <a class="btn btn-primary btn-lg cv-download" href="Krugman-Textbook/Political-Theory.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+  </a>
+  <div class="embed-container">
+    <iframe src="Krugman-Textbook/Political-Theory.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
   </div>
 </details>
 ```
