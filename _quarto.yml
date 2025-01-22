@@ -24,6 +24,13 @@ website:
       - href: about.qmd
         text: About Me
 
+  announcement: 
+    icon: clipboard2-check-fill
+    dismissable: true
+    content: "**Heads Up!** - I have uploaded the Answer Key to **Problem Set 01**. You can find it in the assignments tab under the original assignment."
+    type: warning
+    position: below-navbar
+
 format:
   html:
     theme: 
