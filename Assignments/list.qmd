@@ -46,6 +46,18 @@ title: "Homework"
 
 ### PS03 (Due Jan. 29 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760039){target="_blank"}
 
+```{=html}
+<details>
+  <summary>View PDF</summary> 
+  <a class="btn btn-primary btn-lg cv-download" href="Problem-Sets/Winter25/PS03/problem-set-03.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download 
+  </a>
+  <div class="embed-container">
+    <iframe src="Problem-Sets/Winter25/PS03/problem-set-03.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
+
 ### PS04 (Due Feb. 26 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760040){target="_blank"}
 
 ### PS05 (Due Mar. 05 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760045){target="_blank"}
