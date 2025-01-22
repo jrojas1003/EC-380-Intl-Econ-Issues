@@ -39,7 +39,27 @@ title: "Lectures"
 
 ### Issues & Empirics
 
+```{=html}
+<div>
+  <iframe class="slide deck" src="03-Issues-and-Empirics/030-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+</div>
+<a class="btn btn-primary btn-md" href="03-Issues-and-Empirics/030-compile.qmd" target="_blank">
+  <i class="fa-solid fa-window-restore"></i>&ensp;Expand
+</a>
+```
+
 ### Trade Policy
+
+<!--
+```{=html}
+<div>
+  <iframe class="slide deck" src="04-Trade-Policy/040-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+</div>
+<a class="btn btn-primary btn-md" href="04-Trade-Policy/040-compile.qmd" target="_blank">
+  <i class="fa-solid fa-window-restore"></i>&ensp;Expand
+</a>
+```
+-->
 
 ## Second Half
 
