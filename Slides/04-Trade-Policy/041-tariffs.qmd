@@ -288,7 +288,7 @@ a is transferred from consumers to producers
 :::
 
 ::: {.column width="35%"}
-[Government]{.h} collects revenue $t \times$ the quantity of imports
+[Government]{.h} collects revenue $t \; \times$ the quantity of imports
 
 $$
     c = t \times [Q_{2}^{*} - Q_{1}^{*}]
@@ -359,7 +359,7 @@ These equilibria we have seen do not take into account:
 
 ## Tariff Analysis: Large Country 
 
-It is possible to improve natinoal welfare with tariffs as long as there is no retaliation
+It is possible to improve national welfare with tariffs as long as there is no retaliation
 
 <br> 
 

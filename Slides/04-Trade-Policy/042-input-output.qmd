@@ -4,7 +4,7 @@ name: input-outputs
 
 ## Inputs & Outputs
 
-While tariffs protect one industry,they may also [inconvenience other domestic industries]{.h} that are reliant on inputs of intermediated goods
+While tariffs protect one industry, they may also [inconvenience other domestic industries]{.h} that are reliant on inputs of intermediated goods
 
 ::: {.fragment}
 - US tariffs on steel products protected the steel industry and hurt the automotive industry
