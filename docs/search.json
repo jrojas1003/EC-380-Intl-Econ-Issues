@@ -1369,7 +1369,7 @@
     "href": "Slides/04-Trade-Policy/041-tariffs.html#government-revenue-with-tariff",
     "title": "EC 380 - International Econ",
     "section": "Government Revenue With Tariff",
-    "text": "Government Revenue With Tariff\n\n\n\n\n\n\n\n\nGovernment collects revenue \\(t \\times\\) the quantity of imports\n\\[\n    c = t \\times [Q_{2}^{*} - Q_{1}^{*}]\n\\]\n\n\\(c\\) is transferred form consumers to the Government"
+    "text": "Government Revenue With Tariff\n\n\n\n\n\n\n\n\nGovernment collects revenue \\(t \\; \\times\\) the quantity of imports\n\\[\n    c = t \\times [Q_{2}^{*} - Q_{1}^{*}]\n\\]\n\n\\(c\\) is transferred form consumers to the Government"
   },
   {
     "objectID": "Slides/04-Trade-Policy/041-tariffs.html#tariff-analysis-2",
@@ -1404,7 +1404,7 @@
     "href": "Slides/04-Trade-Policy/041-tariffs.html#tariff-analysis-large-country",
     "title": "EC 380 - International Econ",
     "section": "Tariff Analysis: Large Country",
-    "text": "Tariff Analysis: Large Country\nIt is possible to improve natinoal welfare with tariffs as long as there is no retaliation\n\n\n\nTariff adjustment triggers price reduction by exporter country (Rest of World)\nFall in Home country demand lowers \\(P_{W}\\) to \\(P_{W}^{*}\\). Home price becomes \\(P^{*}_{t} = P_{W}^{*} + t\\)\nPrice reduction offsets some of the deadweight loss caused by tariff introduction"
+    "text": "Tariff Analysis: Large Country\nIt is possible to improve national welfare with tariffs as long as there is no retaliation\n\n\n\nTariff adjustment triggers price reduction by exporter country (Rest of World)\nFall in Home country demand lowers \\(P_{W}\\) to \\(P_{W}^{*}\\). Home price becomes \\(P^{*}_{t} = P_{W}^{*} + t\\)\nPrice reduction offsets some of the deadweight loss caused by tariff introduction"
   },
   {
     "objectID": "Slides/04-Trade-Policy/041-tariffs.html#tariff-analysis-large-country-1",
@@ -4043,7 +4043,7 @@
     "href": "Slides/04-Trade-Policy/040-compile.html#government-revenue-with-tariff",
     "title": "Trade Policy | Tariffs, Quotas, and Subsidies",
     "section": "Government Revenue With Tariff",
-    "text": "Government Revenue With Tariff\n\n\n\n\n\n\n\n\nGovernment collects revenue \\(t \\times\\) the quantity of imports\n\\[\n    c = t \\times [Q_{2}^{*} - Q_{1}^{*}]\n\\]\n\n\\(c\\) is transferred form consumers to the Government"
+    "text": "Government Revenue With Tariff\n\n\n\n\n\n\n\n\nGovernment collects revenue \\(t \\; \\times\\) the quantity of imports\n\\[\n    c = t \\times [Q_{2}^{*} - Q_{1}^{*}]\n\\]\n\n\\(c\\) is transferred form consumers to the Government"
   },
   {
     "objectID": "Slides/04-Trade-Policy/040-compile.html#tariff-analysis-2",
@@ -4078,7 +4078,7 @@
     "href": "Slides/04-Trade-Policy/040-compile.html#tariff-analysis-large-country",
     "title": "Trade Policy | Tariffs, Quotas, and Subsidies",
     "section": "Tariff Analysis: Large Country",
-    "text": "Tariff Analysis: Large Country\nIt is possible to improve natinoal welfare with tariffs as long as there is no retaliation\n\n\n\nTariff adjustment triggers price reduction by exporter country (Rest of World)\nFall in Home country demand lowers \\(P_{W}\\) to \\(P_{W}^{*}\\). Home price becomes \\(P^{*}_{t} = P_{W}^{*} + t\\)\nPrice reduction offsets some of the deadweight loss caused by tariff introduction"
+    "text": "Tariff Analysis: Large Country\nIt is possible to improve national welfare with tariffs as long as there is no retaliation\n\n\n\nTariff adjustment triggers price reduction by exporter country (Rest of World)\nFall in Home country demand lowers \\(P_{W}\\) to \\(P_{W}^{*}\\). Home price becomes \\(P^{*}_{t} = P_{W}^{*} + t\\)\nPrice reduction offsets some of the deadweight loss caused by tariff introduction"
   },
   {
     "objectID": "Slides/04-Trade-Policy/040-compile.html#tariff-analysis-large-country-1",
@@ -4092,7 +4092,7 @@
     "href": "Slides/04-Trade-Policy/040-compile.html#inputs-outputs",
     "title": "Trade Policy | Tariffs, Quotas, and Subsidies",
     "section": "Inputs & Outputs",
-    "text": "Inputs & Outputs\nWhile tariffs protect one industry,they may also inconvenience other domestic industries that are reliant on inputs of intermediated goods\n\n\nUS tariffs on steel products protected the steel industry and hurt the automotive industry\n\n\n\nLet’s introduce two concepts:\n\n\nNominal Rate of Protection: The amount of a tariff expressed as a percentage of a good’s price. This is the tariff we have discussed so far\n\n\nEffective Rate of Protection: The level of protection on intermediate inputs and nominal tariff levied on the protected good. Measured as percentage change in domestic value added after tariffs on intermediate and final goods are applied"
+    "text": "Inputs & Outputs\nWhile tariffs protect one industry, they may also inconvenience other domestic industries that are reliant on inputs of intermediated goods\n\n\nUS tariffs on steel products protected the steel industry and hurt the automotive industry\n\n\n\nLet’s introduce two concepts:\n\n\nNominal Rate of Protection: The amount of a tariff expressed as a percentage of a good’s price. This is the tariff we have discussed so far\n\n\nEffective Rate of Protection: The level of protection on intermediate inputs and nominal tariff levied on the protected good. Measured as percentage change in domestic value added after tariffs on intermediate and final goods are applied"
   },
   {
     "objectID": "Slides/04-Trade-Policy/040-compile.html#inputs-outputs-1",
@@ -4197,14 +4197,14 @@
     "href": "Slides/04-Trade-Policy/042-input-output.html",
     "title": "EC 380 - International Econ",
     "section": "",
-    "text": "While tariffs protect one industry,they may also inconvenience other domestic industries that are reliant on inputs of intermediated goods\n\n\nUS tariffs on steel products protected the steel industry and hurt the automotive industry\n\n\n\nLet’s introduce two concepts:\n\n\nNominal Rate of Protection: The amount of a tariff expressed as a percentage of a good’s price. This is the tariff we have discussed so far\n\n\nEffective Rate of Protection: The level of protection on intermediate inputs and nominal tariff levied on the protected good. Measured as percentage change in domestic value added after tariffs on intermediate and final goods are applied"
+    "text": "While tariffs protect one industry, they may also inconvenience other domestic industries that are reliant on inputs of intermediated goods\n\n\nUS tariffs on steel products protected the steel industry and hurt the automotive industry\n\n\n\nLet’s introduce two concepts:\n\n\nNominal Rate of Protection: The amount of a tariff expressed as a percentage of a good’s price. This is the tariff we have discussed so far\n\n\nEffective Rate of Protection: The level of protection on intermediate inputs and nominal tariff levied on the protected good. Measured as percentage change in domestic value added after tariffs on intermediate and final goods are applied"
   },
   {
     "objectID": "Slides/04-Trade-Policy/042-input-output.html#inputs-outputs",
     "href": "Slides/04-Trade-Policy/042-input-output.html#inputs-outputs",
     "title": "EC 380 - International Econ",
     "section": "",
-    "text": "While tariffs protect one industry,they may also inconvenience other domestic industries that are reliant on inputs of intermediated goods\n\n\nUS tariffs on steel products protected the steel industry and hurt the automotive industry\n\n\n\nLet’s introduce two concepts:\n\n\nNominal Rate of Protection: The amount of a tariff expressed as a percentage of a good’s price. This is the tariff we have discussed so far\n\n\nEffective Rate of Protection: The level of protection on intermediate inputs and nominal tariff levied on the protected good. Measured as percentage change in domestic value added after tariffs on intermediate and final goods are applied"
+    "text": "While tariffs protect one industry, they may also inconvenience other domestic industries that are reliant on inputs of intermediated goods\n\n\nUS tariffs on steel products protected the steel industry and hurt the automotive industry\n\n\n\nLet’s introduce two concepts:\n\n\nNominal Rate of Protection: The amount of a tariff expressed as a percentage of a good’s price. This is the tariff we have discussed so far\n\n\nEffective Rate of Protection: The level of protection on intermediate inputs and nominal tariff levied on the protected good. Measured as percentage change in domestic value added after tariffs on intermediate and final goods are applied"
   },
   {
     "objectID": "Slides/04-Trade-Policy/042-input-output.html#inputs-outputs-1",
