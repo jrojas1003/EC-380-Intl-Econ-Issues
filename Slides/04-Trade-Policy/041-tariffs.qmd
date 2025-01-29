@@ -20,7 +20,7 @@ Restrictions introduce [quality control]{.hp} over goods entering the country bu
 
 ::: {.fragment}
 Trade policy, like any other form of interverntion, introduces [costs for firms]{.hp}, which get passed on to consumers. 
-Some consumers will [switch to domestic goods]{.hp}
+Some consumers will [switch to domestic goods]{.hp} or [not consume at all]{.hp}
 :::
 
 ---
@@ -41,11 +41,11 @@ To understand how tariffs may affect outcomes, we have to understand the compone
 
 ## Consumer Demand Curve
 
-- Demand is mapped by the [marginal wilingness of individuals to pay]{.h} for a good at a given price
+- Demand is mapped by the [marginal willingness of individuals to pay]{.h} for a good at a given price
 
 ::: {.incremental}
 - At a particularly high price, only a small number of individuals would purchase
-- [As price falls]{.hp}, the good enters into a greater pool of individuals' marginal willingness to pay, leading to [quantity demanded rising]{.hp}
+- [As price falls]{.hp}, the good enters into a greater pool of individuals'    marginal willingness to pay, leading to [quantity demanded rising]{.hp}
 :::
 
 ::: {.fragment}
@@ -55,6 +55,8 @@ Therefore, we assume a [negative relationship]{.hi-red} between market price and
 --- 
 
 ## Producer Supply Curve
+
+- Supply is mapped by the [marginal willingness to receive by producers]{.h} for a good at a given price
 
 - When the market price is particularly low, only a small number of firms can afford to service the market
 
@@ -143,7 +145,7 @@ The question remains: [How do tariffs influence P and Q?]{.hp}
 ::: {.incremental}
 - Our demand and supply curves will reflect national production capacities
 
-- Equilibrium price is determiend by world price
+- Equilibrium price is determined by world price
 
 :::
 
@@ -355,7 +357,7 @@ These equilibria we have seen do not take into account:
 - Rent seeking behavior (lobbying)
 :::
 
----
+<!--
 
 ## Tariff Analysis: Large Country 
 
@@ -381,3 +383,5 @@ A lower price implies that areas $b$ and $d$ are smaller. Less domestic producti
 
 If $g > b + d$ then the tariff is [welfare enhancing]{.hp}
 :::
+
+-->

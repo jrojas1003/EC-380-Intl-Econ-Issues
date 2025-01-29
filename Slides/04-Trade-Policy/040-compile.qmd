@@ -23,7 +23,7 @@ title-slide-attributes:
 
 - Effects are likely negative for [low-income unskilled workers]{.hp}
 
-- Migration opennes yields little evicence of wage change
+- Migration openness yields little evidence of wage change
 
 - Trade openness is linked with political consequences, where people become more polarized
 
@@ -45,7 +45,6 @@ We will work through [five topics]{.hp}:
 - Use market theory to explain the [effects of tariffs]{.hp} on market outcomes
 - Compare tariff data on inputs and outputs to compare [effective and nominal protection]{.hp} levels
 - Comparing the [impact of quotas]{.hp} relative to tariff rate adjustments
-- Highlight forms of protection that are [difficult to observe]{.hp}
 - New [unconventional methods]{.hp} of protectionism
 :::
 
