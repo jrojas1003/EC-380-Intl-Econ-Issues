@@ -4,7 +4,7 @@ name: globalization perspectives
 
 ## Effects of Globalization
 
-We have covered a lot of this so far, having reveiwed the theory and some empirical literature. 
+We have covered a lot of this so far, having reviewed the theory and some empirical literature. 
 
 To summarize what we have seen and its relation to [globalization]{.hp}:
 
@@ -37,13 +37,13 @@ This represents [less than 1%]{.hp} of the workers laid off in a typical year
 ## Globalization & Jobs
 
 [Low-wage workers]{.hp} in certain regions are most affected. 
-Many of them also face lwoer earnings or have dropped out of the workforce
+Many of them also face lower earnings or have dropped out of the workforce
 
 ::: {.fragment}
 [Bigger factors]{.hp} than trade that drive job displacements are labor-saving technologies, like automated machines and artificial intelligence
 :::
 
-::: {.fragments}
+::: {.fragment}
 Better-paying positions have opened up in manufactured exports
 
 - Especially in [high-tech areas]{.hp}, such as computers, chemicals, and transportation equipment
@@ -83,12 +83,11 @@ One in five American manufacturing workers is now employed by a foreign-owned co
 They also pay better, do [more research and development, export more, and invest more]{.h} than the average US firm
 :::
 
-<br>
-
 ::: {.fragment}
 [The same is true of US firms that invest abroad]{.hp}
-:::
 
+[It is more of an international firm advantage story]{.hp}
+:::
 ---
 
 ## Public Views
