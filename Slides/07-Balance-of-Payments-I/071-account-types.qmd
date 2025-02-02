@@ -44,7 +44,7 @@ $\Rightarrow$ Outflow of goods, services, investment income, etc. of country are
 [Capital Account:]{.hp}
 
 ::: {.fragment}
-Records transactions of highly specialized financial assets and liabilities
+Records transactions of highly specialized financial assets and liabilities and one-time capital transfers (transfers that do not occur frequently)
 :::
 
 ::: {.fragment}
@@ -55,7 +55,7 @@ Records transactions of highly specialized financial assets and liabilities
 [Financial Account:]{.hp}
 
 ::: {.fragment}
-Tracks capital flows between economies, usually long-lasting items relative to goods or services
+Tracks investment flows between economies, usually long-lasting items relative to goods or services
 :::
 
 ::: {.fragment}
@@ -76,7 +76,7 @@ The [trade balance]{.hp} is total exports minus total imports
 :::
 
 ::: {.fragment}
-For the US, the 2023 USD trade balance was [$3,053.5 bn]{.h} minus [$3,8269 bn]{.h}, or [$951.2 bn]{.h}.
+For the US, the 2023 USD trade balance was [$3,053.5 bn]{.h} minus [$3,826.9 bn]{.h}, or [-$773.4 bn]{.h}.
 
 Because the [value is negative]{.hp}, the United States had a [trade deficit]{.hp}
 :::
@@ -85,7 +85,7 @@ Because the [value is negative]{.hp}, the United States had a [trade deficit]{.h
 
 ## CA: Breakdown
 
-[Current Account]{.hp} measures all current, non-financial transactions between a nation and the rest of the world
+[Current Account]{.hp} measures all current, non-capital transactions between a nation and the rest of the world
 
 ::: {.incremental}
 - Goods and Services trade [(Trade Balance)]{.hp}

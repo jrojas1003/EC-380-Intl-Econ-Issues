@@ -24,31 +24,31 @@ Since each element in the [Current Account]{.hp} must include a financial transa
 
 ---
 
-## Interdependence of Accounts
+## Interdependence of Accounts {.smaller}
 
-A negative Current plus Capital account $\Rightarrow$ [net borrowing]{.hp} by the home country
+A [negative Current Account plus Capital Account]{.hp} means the home country is spending more than it is earning from abroad, leading to a [need for external financing]{.hp}
+
+- This [net borrowing]{.hp} shows up in the [Financial Account]{.hi}, which tracks the flow of financial capital in and out of the country
 
 ::: {.fragment}
-It must show up in the [Financial Account]{.hi} as net borrowing as well
+[Example: US in 2019]{.h}
+:::
+
+::: {.incremental}
+- [Net Acquisition of Financial Assets (lent abroad)]{.hi}: $427 bn
+- [Net Incurrence of Liabilities (borrowed from foreigners)]{.hi}: $784 bn
+- [Net Change in Derivatives]{.hi}: -$38 bn
 :::
 
 ::: {.fragment}
-In 2019, the US lent abroad through the [net acquisition of financial assets]{.hi} worth $427 bn
 
-It also [incurred liabilities or borrowed]{.hi} $784 bn from foreigners
+[Balance on the Financial Account]{.hp .align-center}
+
+\begin{align*}
+    \text{Financial Account } &= \text{Net Acq. of Assets } - \text{Net Inc. of Liabilities} + \text{Net Change in Derivatives} \\
+    \text{Financial Account } &= 427 - 784 + (-38) = -395 \text{ billion}
+\end{align*}
 :::
-
-<br>
-
-::: {.fragment}
-Balance on financial account is the [amount lent]{.hp} minus the [amount borrowed]{.hp} plus the [net change in derivatives]{.hp}
-
-$$
-    \text{Financial Account} = 427 - 784 + (-38) = 395
-$$
-:::
-
----
 
 ## Statistical Discrepancy
 

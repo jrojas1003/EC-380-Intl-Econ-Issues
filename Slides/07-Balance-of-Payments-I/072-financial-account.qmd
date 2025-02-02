@@ -98,14 +98,16 @@ All flows are ["net" changes]{.hp} rather than "gross" changes
 
 ## Financial Account
 
-Payments abroad to buy financial assets are a [credit]{.h}
+::: {.incremental}
+- [Payments abroad]{.hp} to buy financial assets are a [debit]{.hp}, as this represents an [outflow of funds]{.hp} from the home country to purchase foreign assets.
 
-Payments received from abroad for selling home country assets [(net inccurrence of liabilities)]{.hp} are a [debit]{.h}
+    - [Debits]{.h} are viewed as outflows of funds when [home country residents purchase foreign assets]{.h}.
+:::
 
-::: {.fragment}
-[Debits]{.h} are viewed as the [inflow received when assets are sold to foreigners]{.hp}
+::: {.incremental}
+- [Payments received]{.hp} from abroad for selling home country assets (net incurrence of liabilities) are a [credit]{.hp}, as this represents an [inflow of funds]{.hp} from foreigners purchasing domestic assets.
 
-[Credits]{.h} are the [payment outflow when financial assets are purchased by home country residents]{.hp}
+    - [Credits]{.h} are viewed as inflows of funds when f[oreigners purchase home country assets]{.h}.
 :::
 
 ::: {.fragment}
