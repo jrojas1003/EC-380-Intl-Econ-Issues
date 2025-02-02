@@ -13,10 +13,6 @@ name: debt crises
 International exchange of funds result in these form of linkages
 :::
 
-::: {.fragment}
-> If debt is held in a specificy currency, that country presides over legal matters related to payment arrears and bankrupcty
-:::
-
 ---
 
 ## Debt Crises
@@ -79,6 +75,6 @@ The EU debt crisis saw repeated episodes of [Greece]{.hi} nearly defaulting on d
 
 ::: {.fragment}
 - Usually, [international lending agencies]{.h} such as the [IMF]{.hp} step in
-- Bailouts are heavily politicized, often the distressed country is at the mercy of its neighbors
-- Steep requirement can be placed on the burdened economy, extending the length of downturn to ensure bailout is provided
+- Bailouts are heavily politicized, often the distressed country is at the mercy of its neighbors/lenders
+- Steep requirements can be placed on the burdened economy, extending the length of downturn to ensure bailout is provided
 :::

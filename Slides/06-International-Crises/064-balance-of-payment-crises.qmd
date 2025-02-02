@@ -33,7 +33,7 @@ As [Forbes and Warnock (2012)]{.hii} show, patterns have emerged of these flows 
 - The ability to [convert local currency into foreign debt repayment transfers]{.h} also kicks in, causing further stress on the [deficit country]{.hp}
 :::
 
----
+<!---
 
 ![](images/forbes-&-warnock-capital-flow-waves-abstract.png){fig-align="center"}
 
@@ -45,3 +45,5 @@ As [Forbes and Warnock (2012)]{.hii} show, patterns have emerged of these flows 
 Help from allies and IMF act as stopgaps to slow decline. 
 Deficit must shrink until confidence in the country is restored
 :::
+
+-->

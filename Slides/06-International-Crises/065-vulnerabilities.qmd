@@ -26,7 +26,7 @@ Can be the result of either of these two scenarios
 
 ## Economic Imbalances
 
-Macroimablances can be attributed to: 
+Macro-imablances can be attributed to: 
 
 :::: {.columns}
 
@@ -48,7 +48,7 @@ Usually, these issues occur simulataneously, further complicating matters of unr
 :::
 
 ::: {.fragment}
-[Poor fiscal policy]{.hp} may lead to major public debt and high inflation deomestically
+[Poor fiscal policy]{.hp} may lead to major public debt and high domestic inflation
 :::
 
 ::: {.fragment}
@@ -63,7 +63,7 @@ Which limits the ability of the government to service the economy
 As [Warnock & Forbes (2012)]{.hii} highlight, there is an ebb-and-flow to capital investment
 
 ::: {.fragment}
-During good times, capital is situated in developed economies and accruing returns baed on strong economy performance and high interest rates
+During good times, capital is situated in developed economies and accruing returns based on strong economy performance and high interest rates
 
 When developed economies enter recession, central banks [lower interest rates]{.hp} and domestic economies see a [slump in consumption]{.hp}
 :::
@@ -140,7 +140,7 @@ $$
 
 ::: {.fragment .small}
 - Regular devaluation of currency to stablize [real exchange rate $(R_{r})$]{.hp} in country with higher inflation than foreign partner
-- Requires monetar authoraty to restrict money creation, makint it [anti-inflationary]{.hp}
+- Requires monetary authority to restrict money creation, making it [anti-inflationary]{.hp}
 - When a government under this regime announces a change in the system (away from [crawling peg]{.hp}), it runs the risk of losing its credibility
 :::
 
@@ -148,7 +148,7 @@ $$
 
 ## CC: Capital Controls
 
-Capital volatitily can be addressed by limiting how much capital enters and exits the country
+Capital volatility can be addressed by limiting how much capital enters and exits the country
 
 ::: {.fragment}
 - Many economist believe that free movement of capital is ideal as it allows financial capital to flow wherever the return is highest

@@ -29,7 +29,7 @@ title-slide-attributes:
 
 - [Exchange Rate]{.hi} Dynamics
 
-## Types
+## Types of Crises
 
 ::: {.fragment}
 - [Banking Crisis]{.h}
