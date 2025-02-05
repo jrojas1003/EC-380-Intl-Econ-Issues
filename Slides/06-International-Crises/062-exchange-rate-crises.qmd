@@ -6,15 +6,23 @@ name: exchange rate crises
 
 [Defined as]{.hp} a [sudden collapse of the value of a national currency]{.h}
 
-<br><br>
+<br>
 
 ::: {.fragment}
-If seeking to peg to another global currency, a lack of foreign reserves may break fixed exchange rate
+This can happen under any form of exchange rate system (fixed or flexible)
 
 Devaluation is similar to a [bank run]{.hp}, international currency holders sell their holdings [as soon as possible]{.h}
 :::
 
----
+<br>
+
+::: {.fragment}
+One possible action a nation can take is to devalue their currency which can stop the "bleeding" of foreign currency reserves
+
+With more reserves, a country can stablize their exchange rate to manageable levels
+:::
+
+<!---
 
 ## Exchange Rate Crises
 
@@ -27,3 +35,5 @@ Devaluation is similar to a [bank run]{.hp}, international currency holders sell
 - Imported goods become expensive for local economy
 - Industries reliant on foreign credit suddenly see loss of liquidity, resulting in market price falls (e.g. housing market collapse)
 :::
+
+--->

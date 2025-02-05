@@ -8,9 +8,15 @@ name: debt crises
 
 ::: {.incremental}
 - Can be [public or private debtors]{.h} that begin struggling to meet required debt repayments
-- In exceptional cases out of the borrower's control, debt forgiveness, interest rate and term length adjustments can be applied
+
+<br>
+
 - [External debt]{.hp} is [debt linked to a foreign lender/borrower]{.h}. 
 International exchange of funds result in these form of linkages
+
+<br>
+
+- In exceptional cases out of the borrower's control, debt forgiveness, interest rate and term length adjustments can be applied
 :::
 
 ---
@@ -24,13 +30,11 @@ If a party fails to honor their debt, these losses can [spread throughout]{.hp} 
 <br>
 
 ::: {.fragment}
-Widespread cases of failures to honor debt can lead to service providers declaring bankrupcty
-:::
+[Spread can end]{.hp} in insolvency, in which other individuals go into bankrupcty because an initial set of individuals do
 
 <br>
 
-::: {.fragment}
-[Spread can occur]{.hp} in insolvency, in which other individuals go into bankrupcty because an initial set of individuals do
+What usually happens is the debt gets [restructured]{.hi} which involves lowering the rate of interest, extending the payback period, partial forgiveness, or a combination of them
 :::
 
 ---

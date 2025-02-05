@@ -38,17 +38,17 @@ title-slide-attributes:
 
 ::: {.fragment}
 - [Exchange Rate Crisis]{.h}
-    - Unexpected collapse in value of developing country currency
+    - Unexpected collapse in value of country currency
 :::
 
 ::: {.fragment}
 - [(Sovereign) Debt Crisis]{.h}
-    - EU debt crisis following public bailouts
+    - Debtors cannot repay their debts
 :::
 
 ::: {.fragment}
 - [Balance of Payments Crisis]{.h}
-    - Foreign currency reserves drying up
+    - Current account deficit that it cannot finance through usual means
 :::
 
 # Banking Crises {.inverse .note}

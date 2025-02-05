@@ -23,8 +23,6 @@ Deficit is financed through selling financial assets, which includes currency re
 
 If the [deficit country]{.hp} capital investments/purchases appear too risky, capital inflows ease
 
-As [Forbes and Warnock (2012)]{.hii} show, patterns have emerged of these flows acting as sudden stops and surges
-
 ::: {.incremental}
 -  Can put great pressure on domestic reserve, causing them to dwindle
 

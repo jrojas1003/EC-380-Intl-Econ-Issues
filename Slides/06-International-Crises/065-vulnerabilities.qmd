@@ -60,18 +60,18 @@ Which limits the ability of the government to service the economy
 
 ## Volatile Capital Flows
 
-As [Warnock & Forbes (2012)]{.hii} highlight, there is an ebb-and-flow to capital investment
+There is an ebb-and-flow to capital investment
 
 ::: {.fragment}
-During good times, capital is situated in developed economies and accruing returns based on strong economy performance and high interest rates
+During good times, capital is situated in strong economies and accrue returns based on the economy's performance
 
-When developed economies enter recession, central banks [lower interest rates]{.hp} and domestic economies see a [slump in consumption]{.hp}
+When this economy enters a recession, central banks [lower interest rates]{.hp} and domestic economies see a [slump in consumption]{.hp}
 :::
 
 ::: {.fragment}
-Capital investors [migrate]{.hp} to low-income/emerging economies until resurgence in developed country economy
+Capital investors [migrate]{.hp} to other economies until resurgence happens
 
-These volatile movements of large sums of capital within these transition periods can be [highly costly for the emerging host countries]{.hp}
+These volatile movements of large sums of capital within these transition periods can carry [high costs for the emerging host countries]{.hp}
 :::
 
 ---
@@ -105,64 +105,11 @@ The financial sector has always been a concern for policymakers, due to the [too
 ::: {.fragment}
 This is known as the [Moral Hazard Problem]{.hp}. 
 Where bankers are able to transfer high risks to the government and taxpayer
-
-Lets consider three measures a country can take to reduce exposure to financial crises
-
-:::: {.columns}
-
-::: {.column width="35%"}
-- [Exchange Rate Policy]{.h}
-:::
-
-::: {.column width="30%"}
-- [Capital Controls]{.h}
-:::
-
-::: {.column width="35%"}
-- [General Policies]{.h}
-:::
-
-::::
-
 :::
 
 ---
 
-## CC: Exchange Rate Policy
-
-Avoidance of a [crawling peg exchange rate system]{.hp} is often recommended
-
-- [Crawling Peg]{.hp} involves fixing the exchange rate to a major world currency 
-
-$$
-    R_{r} = R_{n} (P^{*}/P)
-$$
-
-::: {.fragment .small}
-- Regular devaluation of currency to stablize [real exchange rate $(R_{r})$]{.hp} in country with higher inflation than foreign partner
-- Requires monetary authority to restrict money creation, making it [anti-inflationary]{.hp}
-- When a government under this regime announces a change in the system (away from [crawling peg]{.hp}), it runs the risk of losing its credibility
-:::
-
----
-
-## CC: Capital Controls
-
-Capital volatility can be addressed by limiting how much capital enters and exits the country
-
-::: {.fragment}
-- Many economist believe that free movement of capital is ideal as it allows financial capital to flow wherever the return is highest
-- Those against it claim that this is only a theoretical concept and has not been shown in the data
-:::
-
-::: {.fragment}
-- Capital flow restrictions are imposed by limiting transactions that are part of the financial account of the balance of payments
-- As a general rule, restrictions on inflows are seen as more workable than restrictions on outflows
-:::
-
----
-
-## CC: General Policies
+## Crisis Control: General Policies
 
 The solution to fiscal/monetary crises are quite simple:
 
