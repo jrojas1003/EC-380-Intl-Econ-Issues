@@ -56,12 +56,16 @@ For more details, read the [Syllabus](Documents/Syllabus/Syllabus.pdf) above
 
 | **Week** |  **Reading** |    **Topic**    | **Assignments** |
 |:--------:|:------------:|:---------------:|:---------------:|
-|    01    |  [Chapter 01](Readings/articles.qmd#chapter-01-(p.-24---37)) & [Chapter 03](Readings/articles.qmd#chapter-03-(p.-64---85)) | [Ricardian Model](Slides/lectures.qmd#ricardian-model) | - | 
-|    02    |  [Chapter 04](Readings/articles.qmd#chapter-04-(p.-87---114))  |    [OH Model](Slides/lectures.qmd#ho-model)     | [Problem Set 01](Assignments/list.qmd#ps01-(due-jan.-15-before-lecture-on-canvas)) & [Quiz 01 Due](Assignments/list.qmd#quiz-01-(due-jan.-15-before-lecture-on-canvas)) |
-|    03    |   [Articles](Readings/articles.qmd#course-literature)   | [Issues & Empirics](Slides/lectures.qmd#issues--empirics) |  [Problem Set 02](Assignments/list.qmd#ps02-(due-jan.-22-before-lecture-on-canvas) Due) |
-|    04    |  [Chapter 06](Readings/articles.qmd#chapter-06-(p.-139---158))  | [Trade Policy](Slides/lectures.qmd#trade-policy) | [Problem Set 03](Assignments/list.qmd#ps03-(due-jan.-29-before-lecture-on-canvas)) & [Quiz 02 Due](Assignments/list.qmd#quiz-02-(due-jan.-29-before-lecture-on-canvas)) |
-|    05    |   [Practice](Assignments/list.qmd#practice-midterm)   | Midterm Review | Midterm | 
-
+|    01    | [Chapter 01](Readings/articles.qmd#chapter-01-(p.-24---37)) & [Chapter 03](Readings/articles.qmd#chapter-03-(p.-64---85)) | [Ricardian Model](Slides/lectures.qmd#ricardian-model) | - | 
+|    02    | [Chapter 04](Readings/articles.qmd#chapter-04-(p.-87---114))  |    [OH Model](Slides/lectures.qmd#ho-model)     | [Problem Set 01](Assignments/list.qmd#ps01-(due-jan.-15-before-lecture-on-canvas)) & [Quiz 01 Due](Assignments/list.qmd#quiz-01-(due-jan.-15-before-lecture-on-canvas)) |
+|    03    | [Articles](Readings/articles.qmd#course-literature)   | [Issues & Empirics](Slides/lectures.qmd#issues--empirics) |  [Problem Set 02](Assignments/list.qmd#ps02-(due-jan.-22-before-lecture-on-canvas) Due) |
+|    04    | [Chapter 06](Readings/articles.qmd#chapter-06-(p.-139---158))  | [Trade Policy](Slides/lectures.qmd#trade-policy) | [Problem Set 03](Assignments/list.qmd#ps03-(due-jan.-29-before-lecture-on-canvas)) & [Quiz 02 Due](Assignments/list.qmd#quiz-02-(due-jan.-29-before-lecture-on-canvas)) |
+|    05    | [Practice](Assignments/list.qmd#practice-midterm)   | Midterm Review | Midterm | 
+|    06    | [Chapter 12](Readings/articles.qmd#chapter-12-(p.-298---310)) | [Globalization](Slides/lectures.qmd#globalization--international-crises) & [Intl. Crises](Slides/lectures.qmd#globalization--international-crises) | - |
+|    07    | [Chapter 09](Readings/articles.qmd#chapter-09-(p.-206---231)) | [Balance of Payments I](Slides/lectures.qmd#part-one) | - |
+|    08    | [Chapter 09](Readings/articles.qmd#chapter-09-(p.-206---231)) | [Balance of Payments II](Slides/lectures.qmd#part-two) | [Problem Set 04](Assignments/list.qmd#ps04-(due-feb.-26-before-lecture-on-canvas)) & [Quiz 03 Due](Assignments/list.qmd#quiz-03-(due-feb.-26-before-lecture-on-canvas)) |
+|    09    | [Chapter 10](Readings/articles.qmd#chapter-10) | [Exchange Rates I](Slides/lectures.qmd#exchange-rates) | - |
+|    10    | [Chapter 10](Readings/articles.qmd#chapter-10) | [Exchange Rates II](Slides/lectures.qmd#exchange-rates) | [Problem Set 05](Assignments/list.qmd#ps05-(due-mar.-05-before-lecture-on-canvas)) & [Quiz 04](Assignments/list.qmd#quiz-04-(due-mar.-12-before-lecture-on-canvas)) | 
 
 
 ## Acknowledgements
