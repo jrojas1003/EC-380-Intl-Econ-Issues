@@ -72,7 +72,7 @@ The [trade balance]{.hp} is total exports minus total imports
 
 ::: {.incremental}
 - A [trade balance deficit]{.hi} is a case in which total imports of goods and services outweighs total exports
-- It is possible to maintain a deficit in goods and surplus in srevices, but normally the net amount of both is considered 
+- It is possible to maintain a deficit in goods and surplus in services, but normally the net amount of both is considered 
 :::
 
 ::: {.fragment}
@@ -163,7 +163,7 @@ Transfers are sometimes [very important]{.hi} to developing countries receiving 
 
 <br>
 
-The US [current account deficit]{.hp} has been trending downards for the past 50 years
+The US [current account deficit]{.hp} has been trending downwards for the past 50 years
 
 <br>
 
@@ -172,7 +172,7 @@ We will explore the causes and consequences of large current account deficits la
 <br>
 
 ::: {.fragment}
-Rapid economic growth in US [raised income]{.hp}, increased spending power means greater imports
+Rapid economic growth in US [raised income]{.hp}, increased spending power which means greater imports
 :::
 
 ---

@@ -94,7 +94,7 @@ Suppose a London-based company buys stock in a Chilean firm, and lends money to 
 As a result, the [financial account]{.hp} is a complete picture of [net flows]{.h} of financial assets during the year
 :::
 
----
+<!---
 
 ## Financial Risks
 
@@ -110,7 +110,7 @@ As a result, the [financial account]{.hp} is a complete picture of [net flows]{.
 The degree of mobility of financial flows and the potential of some flows to introduce a large element of volatility into an economy have turned the type of flows that a country receives into a major issue
 :::
 
----
+--->
 
 ## Financial Subcomponents
 
