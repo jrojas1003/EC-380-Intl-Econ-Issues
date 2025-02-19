@@ -124,7 +124,6 @@ title: "Homework"
 
 ### PS04 (Due Feb. 26 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760040){target="_blank"}
 
-<!--
 ```{=html}
 <details>
   <summary>Problem Set 04 (TBD)</summary>
@@ -136,7 +135,7 @@ title: "Homework"
   </div>
 </details>
 ```
--->
+
 
 ### PS05 (Due Mar. 05 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760045){target="_blank"}
 
