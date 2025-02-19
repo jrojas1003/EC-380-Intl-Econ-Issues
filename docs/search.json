@@ -466,14 +466,14 @@
     "href": "Slides/08-Balance-of-Payments-II/080-compile.html#national-accounts-deficit-2",
     "title": "Global Finance | Balance of Payments II",
     "section": "National Accounts + Deficit",
-    "text": "National Accounts + Deficit\nGNP is also the value of income received\n\nIndividuals may consume income (C), save it (S), or use it to pay taxes (T)\nIn reality, we do a combination of all three\n\n\n\\[\n    \\text{National Income} = GNP = C + S + T\n\\]\n\n\nIf we set output equal to income:\n\\[\nC + I + G + CA = C + S + T \\;\\; \\Rightarrow \\;\\; I + G + CA = S + T\n\\]\n\n\n\\[\n    S + (T - G) = I + CA\n\\]\nSupposing we have a balanced government budget, savings are equal to total investment in the country plust current account net flows"
+    "text": "National Accounts + Deficit\nGNP is also the value of income received\n\nIndividuals may consume income (C), save it (S), or use it to pay taxes (T)\nIn reality, we do a combination of all three\n\n\n\\[\n    \\text{National Income} = GNP = C + S + T\n\\]\n\n\nIf we set output equal to income:\n\\[\nC + I + G + CA = C + S + T \\;\\; \\Rightarrow \\;\\; I + G + CA = S + T\n\\]\n\n\n\\[\n    S + (T - G) = I + CA\n\\]\nSupposing we have a balanced government budget, savings are equal to total investment in the country plus current account net flows"
   },
   {
     "objectID": "Slides/08-Balance-of-Payments-II/080-compile.html#national-savings",
     "href": "Slides/08-Balance-of-Payments-II/080-compile.html#national-savings",
     "title": "Global Finance | Balance of Payments II",
     "section": "National Savings",
-    "text": "National Savings\nA nation’s savings (private plus public) are divided into two uses\nSource of funds for domestic investment\n\n\nIf government budgets are in deficit, overall Left-hand side goes down, and all else being equal, investment falls\nGovernment budget surplus increases the funds available for investment\n\n\nSource of funds for foreign investment\n\n\nIf CA surplus, its national savings exceed domestic investment, and the surplus financedes the purchase of domestic goods by foreign buyers.\nIn return, the domestic economy acquires foreign financial assets, as it effectively lends to the rest of the world."
+    "text": "National Savings\nA nation’s savings (private plus public) are divided into two uses\nSource of funds for domestic investment\n\n\nIf government budgets are in deficit, overall Left-hand side goes down, and all else being equal, investment falls\nGovernment budget surplus increases the funds available for investment\n\n\nSource of funds for foreign investment\n\n\nIf CA surplus, its national savings exceed domestic investment, and the surplus finances the purchase of domestic goods by foreign buyers.\nIn return, the domestic economy acquires foreign financial assets, as it effectively lends to the rest of the world."
   },
   {
     "objectID": "Slides/08-Balance-of-Payments-II/080-compile.html#national-savings-1",
@@ -2090,7 +2090,7 @@
     "href": "Assignments/list.html#problem-sets",
     "title": "Homework",
     "section": "Problem Sets",
-    "text": "Problem Sets\n\nPS01 (Due Jan. 15 Before Lecture) on Canvas\n\n  View PDF \n  \n     Download \n  \n  \n    \n  \n\n\n  Solutions \n  \n     Download \n  \n  \n    \n  \n\n\n\nPS02 (Due Jan. 22 Before Lecture) on Canvas\n\n  View PDF \n  \n     Download \n  \n  \n    \n  \n\n\n  Solutions \n  \n     Download \n  \n  \n    \n  \n\n\n\nPS03 (Due Jan. 30 by 4:00pm) on Canvas\n\n  View PDF \n  \n     Download \n  \n  \n    \n  \n\n\n  Solutions \n  \n     Download \n  \n  \n    \n  \n\n\n\nPS04 (Due Feb. 26 Before Lecture) on Canvas\n\n\n\nPS05 (Due Mar. 05 Before Lecture) on Canvas"
+    "text": "Problem Sets\n\nPS01 (Due Jan. 15 Before Lecture) on Canvas\n\n  View PDF \n  \n     Download \n  \n  \n    \n  \n\n\n  Solutions \n  \n     Download \n  \n  \n    \n  \n\n\n\nPS02 (Due Jan. 22 Before Lecture) on Canvas\n\n  View PDF \n  \n     Download \n  \n  \n    \n  \n\n\n  Solutions \n  \n     Download \n  \n  \n    \n  \n\n\n\nPS03 (Due Jan. 30 by 4:00pm) on Canvas\n\n  View PDF \n  \n     Download \n  \n  \n    \n  \n\n\n  Solutions \n  \n     Download \n  \n  \n    \n  \n\n\n\nPS04 (Due Feb. 26 Before Lecture) on Canvas\n\n  Problem Set 04 (TBD)\n  \n     Download\n  \n  \n    \n  \n\n\n\nPS05 (Due Mar. 05 Before Lecture) on Canvas"
   },
   {
     "objectID": "Assignments/list.html#quizzes",
@@ -4771,14 +4771,14 @@
     "href": "Slides/08-Balance-of-Payments-II/081-national-accounts.html#national-accounts-deficit-2",
     "title": "EC 380 - International Econ",
     "section": "National Accounts + Deficit",
-    "text": "National Accounts + Deficit\nGNP is also the value of income received\n\nIndividuals may consume income (C), save it (S), or use it to pay taxes (T)\nIn reality, we do a combination of all three\n\n\n\\[\n    \\text{National Income} = GNP = C + S + T\n\\]\n\n\nIf we set output equal to income:\n\\[\nC + I + G + CA = C + S + T \\;\\; \\Rightarrow \\;\\; I + G + CA = S + T\n\\]\n\n\n\\[\n    S + (T - G) = I + CA\n\\]\nSupposing we have a balanced government budget, savings are equal to total investment in the country plust current account net flows"
+    "text": "National Accounts + Deficit\nGNP is also the value of income received\n\nIndividuals may consume income (C), save it (S), or use it to pay taxes (T)\nIn reality, we do a combination of all three\n\n\n\\[\n    \\text{National Income} = GNP = C + S + T\n\\]\n\n\nIf we set output equal to income:\n\\[\nC + I + G + CA = C + S + T \\;\\; \\Rightarrow \\;\\; I + G + CA = S + T\n\\]\n\n\n\\[\n    S + (T - G) = I + CA\n\\]\nSupposing we have a balanced government budget, savings are equal to total investment in the country plus current account net flows"
   },
   {
     "objectID": "Slides/08-Balance-of-Payments-II/081-national-accounts.html#national-savings",
     "href": "Slides/08-Balance-of-Payments-II/081-national-accounts.html#national-savings",
     "title": "EC 380 - International Econ",
     "section": "National Savings",
-    "text": "National Savings\nA nation’s savings (private plus public) are divided into two uses\nSource of funds for domestic investment\n\n\nIf government budgets are in deficit, overall Left-hand side goes down, and all else being equal, investment falls\nGovernment budget surplus increases the funds available for investment\n\n\nSource of funds for foreign investment\n\n\nIf CA surplus, its national savings exceed domestic investment, and the surplus financedes the purchase of domestic goods by foreign buyers.\nIn return, the domestic economy acquires foreign financial assets, as it effectively lends to the rest of the world."
+    "text": "National Savings\nA nation’s savings (private plus public) are divided into two uses\nSource of funds for domestic investment\n\n\nIf government budgets are in deficit, overall Left-hand side goes down, and all else being equal, investment falls\nGovernment budget surplus increases the funds available for investment\n\n\nSource of funds for foreign investment\n\n\nIf CA surplus, its national savings exceed domestic investment, and the surplus finances the purchase of domestic goods by foreign buyers.\nIn return, the domestic economy acquires foreign financial assets, as it effectively lends to the rest of the world."
   },
   {
     "objectID": "Slides/08-Balance-of-Payments-II/081-national-accounts.html#national-savings-1",
