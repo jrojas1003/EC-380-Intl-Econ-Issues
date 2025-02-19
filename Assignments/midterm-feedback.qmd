@@ -1,0 +1,166 @@
+---
+title: "Midterm Feedback"
+subtitle: "EC 380 - International Economic Issues"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "EC380, Lecture 03 | Issues & Empirics"
+        preview-links: auto
+        code-fold: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+## Statistics {.small}
+
+[Total possible points: 75 + 5]{.hp .align-center}
+
+::: {.fragment .align-center}
+- [Mean: 56.58 (75%)]{.hi}
+- [Median: 57 (76%)]{.hi}
+- [Max: 80 (107%)]{.hi}
+- [Min: 36 (48%)]{.hi}
+- [Standard Dev: 12.16 (16.2%)]{.hi}
+:::
+
+::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%" .align-center} 
+[Version A]{.h}
+
+- Mean: 59.14
+- Median: 57.5
+- Max: 80
+- Min: 38.5
+- Standard Dev: 9.67
+:::
+
+::: {.column width="50%" .align-center}
+[Version B]{.h}
+
+- Mean: 55.01
+- Median: 55.75
+- Max: 76.5
+- Min: 36
+- Standard Dev: 10.78
+:::
+
+::::
+
+:::
+
+---
+
+## Multiple Choice Breakdown
+
+<br><br>
+
+::: {.incremental}
+
+:::: {.columns}
+
+::: {.column width="50%" .align-center}
+- [Q1: 50%]{.hp}
+
+<br>
+
+- [Q2: 68%]{.hi}
+:::
+
+::: {.column width="50%" .align-center}
+- [Q3: 76%]{.hi}
+
+<br>
+
+- [Q4: 78%]{.hi}
+:::
+
+::::
+
+<br>
+
+::: {.align-center}
+- [Q5: 64%]{.hi}
+:::
+
+:::
+
+---
+
+## Short Answer Breakdown
+
+[Question 06]{.h}
+
+![](midterm-feedback-images/Short-Q6.png){fig-align="center"}
+
+<br>
+
+[Mean: 6.96]{.hi .align-center}
+
+---
+
+## Short Answer Breakdown
+
+[Question 07]{.h}
+
+![](midterm-feedback-images/Short-Q7.png){fig-align="center"}
+
+<br>
+
+[Mean: 5.99]{.hi .align-center}
+
+---
+
+## Multi-Part Analysis Breakdown
+
+<br>
+
+::: {.incremental}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- [Q8.a (4pts): Mean of 3.78]{.hi}
+
+<br>
+
+- [Q8.b (4pts): Mean of 3.49]{.hi}
+
+<br>
+
+- [Q8.c (6pts): Mean of 5.65]{.hi}
+:::
+
+::: {.column width="50%"}
+- [Q8.d (6pts): Mean of 3.53]{.hp}
+
+<br>
+
+- [Q8.e (4pts): Mean of 2.14]{.hp}
+
+<br>
+
+- [Q8.f (6pts): Mean of 4.22]{.hi}
+:::
+
+::::
+
+:::
+
+---
+
+## Multi-Part Analysis Breakdown
+
+![](midterm-feedback-images/Long-Q8d.png)
+
+---
+
+## Multi-Part Analysis Breakdown
+
+![](midterm-feedback-images/Long-Q8e.png)
