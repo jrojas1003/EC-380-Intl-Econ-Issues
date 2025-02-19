@@ -4,8 +4,6 @@ title: "Homework"
 
 ## Practice Midterm
 
-### Solutions Will be Posted on Friday
-
 ```{=html}
 <details>
   <summary>View PDF</summary> 
