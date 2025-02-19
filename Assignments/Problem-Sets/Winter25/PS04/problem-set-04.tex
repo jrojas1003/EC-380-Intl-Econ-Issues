@@ -1,0 +1,133 @@
+\documentclass[12pt]{exam}
+\usepackage{amsthm}
+\usepackage{libertine}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{multicol}
+\usepackage[shortlabels]{enumitem}
+\usepackage{siunitx}
+\usepackage{cancel}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{tikz}
+\usepackage[T1]{fontenc}  % Ensure proper encoding
+\usepackage{titlesec}
+\usepackage{booktabs}
+
+\CorrectChoiceEmphasis{\color{red}\bfseries\itshape}
+
+\newcommand{\class}{\fontfamily{lmss}\selectfont \textbf{EC 380}} % This is the name of the course 
+\newcommand{\examnum}{\fontfamily{lmss}\selectfont \textbf{}} % This is the name of the assignment
+\newcommand{\examdate}{\fontfamily{lmss}\selectfont \textbf{February 26 at 01:59pm}} % This is the due date
+\newcommand{\timelimit}{}
+\addpoints % Allows to add points up to include table at end of document
+
+\pagestyle{headandfoot} % Fancy equivalent for exam documentclass
+\firstpageheadrule % Horizontal bar in first page
+\runningheadrule % Horizontal bar in rest of pages
+\firstpageheader{\class}{\examnum}{\fontfamily{lmss}\selectfont Due \examdate} % 1st page header content
+\firstpagefooter{}{Page \thepage}{} % 1st page footer content
+\runningheader{\class}{\examnum}{\fontfamily{lmss}\selectfont Due \examdate} % Rest of pages header content
+%\runningfooter{Points earned: \makebox[1in]{\hrulefill} / \pointsonpage{\thepage} points}{}{\thepage\ of \numpages} % Rest of pages footer content
+\bracketedpoints % Puts points per question inside brackets instead of parenthesis 
+
+\titleformat{\section}
+  {\normalfont\large\bfseries\sffamily}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries\sffamily}{\thesection}{1em}{}
+
+\begin{document}
+\fontfamily{lmss}\selectfont
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PREAMBLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+    \textbf{{\LARGE Problem Set 04}} \\
+    \bigskip 
+\end{center}
+
+\noindent \textbf{Instructions:} 
+Answers must be submitted online through the designated Canvas assignment. 
+This Problem Set is due on \examdate.
+Please write as legible and clearly as possible. 
+You will not be given full credit if your answers cannot be easily understood. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% QUESTIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Questions}
+\begin{questions}
+
+
+\question[15]
+Answer the following short questions:
+
+\begin{parts}
+    \part[5] What type of activities does the \textbf{capital account} consist of?
+    \vspace*{\stretch{1}}
+    \part[5] Hoes do the \textbf{current, capital, and financial accounts} relate to one another when it comes to their numeric value?
+    \vspace*{\stretch{1}}
+    \part[5] Explain the reason why the balance of payments features a \textbf{statistical discrepancy value}.
+    \vspace*{\stretch{1}}
+\end{parts}
+
+\newpage 
+
+\question[25]
+Consider the following balance of payments for a given country 
+
+\input{tables/q2-table}
+
+\begin{parts}
+    \part[5] \textbf{In theory}, what should the \textbf{difference between items (5.a) and (5.b)} be?
+    \vspace*{\stretch{1}}
+    \part[5] What is the value of \textbf{item (5.a)} equal to? 
+    Show your work.
+    \vspace*{\stretch{1}}
+    \part[5] What is the value of \textbf{item (5.b)} equal to? 
+    Show your work.
+    \vspace*{\stretch{1}}
+    \part[5] What is the value of \textbf{item (4)} in this case?
+    \vspace*{\stretch{1}}
+    \part[5] Would this country be considered a case of CA surplus or CA deficit?
+    \vspace*{\stretch{1}}
+\end{parts}
+
+\newpage 
+
+\question[30] 
+Consider a case in which a given economy reports a \textbf{GNP} level of \$5.4bn.
+The \textbf{primary income net flows} are worth \$1.2bn, while \textbf{secondary income transfers} are worth \$0.2bn.
+
+\begin{parts}
+    \part[5] What is the implied level of \textbf{GDP} in this context?
+    Note that primary income is associated with income flows for compensating employees and secondary income is associated with transfers of income.
+    \vspace*{\stretch{1}}
+    \part[5] 
+    Take the following equation:
+    \begin{align*}
+        \text{GNP} = \text{GDP} + \text{Net Primary Income} + \text{Net Secondary Income}
+    \end{align*}
+    Show how the \textbf{Current Acount Suprlus} is present in the measure of \textbf{GNP}
+    \vspace*{\stretch{1}}
+    \part[5] Using the found value of GDP, consider the fact that \textbf{consumption} is equal to \$1.5bn, \textbf{Investment} is equal to \$1.8bn, and the government runs a balanced budget and collects \$0.4 in revenue.
+    \textbf{What is the value of Net Exports?} 
+    Show your work.
+    \vspace*{\stretch{1}}
+    \newpage 
+    \part[5] What is the value of \textbf{savings}? 
+    Show your work
+    \vspace*{\stretch{1}}
+    \part[5] Suppose there is a shock to the economy, and the government is forced to run a major budget deficit of \$1.2bn. 
+    What does this imply about the \textbf{tax rate for the country}?
+    \vspace*{\stretch{1}}
+    \part[5] Update your measure of \textbf{GNP} to reflect this change in the government budget balance.
+    What is the \textbf{percentage change in GNP}?
+    Show your work. 
+    \vspace*{\stretch{2}}
+\end{parts}
+
+\end{questions}
+
+\end{document}
