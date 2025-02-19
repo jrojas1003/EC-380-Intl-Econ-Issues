@@ -165,4 +165,13 @@ title: "Lectures"
 
 #### Part Two
 
+```{=html}
+<div>
+  <iframe class="slide deck" src="08-Balance-of-Payments-II/080-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+</div>
+<a class="btn btn-primary btn-md" href="08-Balance-of-Payments-II/080-compile.qmd" target="_blank">
+  <i class="fa-solid fa-window-restore"></i>&ensp;Expand
+</a>
+```
+
 ### Exchange Rates
