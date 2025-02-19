@@ -39,7 +39,7 @@ When debt service becomes an [unsustainable burden]{.hp}, it holds back economic
 Most countries, rich and poor, have external debt
 
 ::: {.fragment}
-In [high-income countries]{.hp}, debt service is rearely an issue
+In [high-income countries]{.hp}, debt service is rarely an issue
 
 - Usually relatively small compared to the size of the economy. 
 
@@ -50,6 +50,10 @@ In [high-income countries]{.hp}, debt service is rearely an issue
 [Low- and middle-income countries]{.hp} are another matter
 
 - Size of the external debt burden can easily be unsustainable, given the economy's ability to make interest payments and to repay the principle
+:::
+
+::: {.fragment}
+[Principle is the original amount borrowed to be repaid, excluding interest]{.hp .align-center}
 :::
 
 ---

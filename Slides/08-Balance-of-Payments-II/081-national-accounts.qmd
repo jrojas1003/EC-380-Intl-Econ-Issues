@@ -46,7 +46,9 @@ $$
 :::
 
 ::: {.fragment}
-![](images/gnp-breakdown.png){fig-align="center"}
+\begin{align*}
+    \text{GNP} = C + I + G + \underbrace{(X - M + \text{Net Primary} + \text{Net Secondary})}_{\text{Current Account}}
+\end{align*}
 :::
 
 ::: {.fragment}
@@ -96,7 +98,7 @@ A nation's savings (private plus public) are divided into [two uses]{.hp}
 [Source of funds for]{.h} [domestic investment]{.hp}
 
 ::: {.incremental}
-- If government budgets are in deficit, overall Left-hand side goes down, and all else being equal, investment falls
+- If government budgets are in deficit, overall Left-hand side goes down, and [all else being equal]{.h}, investment falls
 - Government budget surplus increases the funds available for investment
 :::
 
@@ -104,15 +106,15 @@ A nation's savings (private plus public) are divided into [two uses]{.hp}
 [Source of funds for]{.h} [foreign investment]{.hp}
 
 ::: {.incremental}
-- If CA surplus, national savings finances purchase of domestic goods by foreign users of those goods. 
-In return, domestic economy acquires foreign financial assets
+- If CA surplus, its national savings exceed domestic investment, and the surplus financedes the purchase of domestic goods by foreign buyers. 
+- In return, the domestic economy acquires foreign financial assets, as it effectively lends to the rest of the world.
 :::
 
 ---
 
 ## National Savings
 
-Recall [financial acocunt]{.hp} reflects the same amount of lending or borrowing as CA
+Recall [financial account]{.hp} reflects the same amount of lending or borrowing as [CA]{.h}
 
 ::: {.fragment}
 If [$CA < 0$]{.h}, financial account features net borrowing greater than net acquisition of financial assets (lending, or financial outflows)
@@ -131,7 +133,7 @@ If [$CA < 0$]{.h}, financial account features net borrowing greater than net acq
 Because of this, another name for the [current account balance]{.hp} is [net foreign investment]{.hp}
 
 ::: {.fragment}
-A negative balance implies that foreigners accumulate more home country assets than the home country accumulates abroad
+A negative current account balance means that foreigners are acquiring more assets in the home country than the home country’s residents are acquiring abroad.
 :::
 
 ::: {.fragment}

@@ -25,9 +25,9 @@ title-slide-attributes:
 
 [Today]{.h}
 
-- International Debt
+- National Savings
 
-- Investment Position
+- International Debt
 
 ---
 
@@ -35,7 +35,7 @@ title-slide-attributes:
 
 Last time we discussed financial account flows
 
-A [trade-off]{.hp} exists with respect to allowing greater financial flexibility and increase exposure to international financial crises/capital flight
+A [trade-off]{.hp} exists with respect to allowing greater financial flexibility and increased exposure to international financial crises/capital flight
 
 ::: {.fragment}
 - Countries risk becoming reliant on external sources of liquidity
