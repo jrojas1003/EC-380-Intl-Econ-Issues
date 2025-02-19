@@ -74,6 +74,20 @@ title: "Lectures"
 </details>
 ```
 
+### Midterm Feedback
+
+```{=html}
+<details>
+  <summary>Information</summary>
+  <div class="embed-container">
+    <iframe class="slide deck" src="../Assignments/midterm-feedback.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+  </div>
+  <a class="btn btn-primary btn-md" href="../Assignments/midterm-feedback.qmd" target="_blank">
+    <i class="fa-solid fa-window-restore"></i>&ensp;Expand
+  </a>
+</details>
+```
+
 ## Second Half
 
 ### Globalization & International Crises
