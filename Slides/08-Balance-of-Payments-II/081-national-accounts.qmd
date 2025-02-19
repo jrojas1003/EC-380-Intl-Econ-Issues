@@ -86,7 +86,7 @@ $$
     S + (T - G) = I + CA
 $$
 
-Supposing we have a [balanced government budget]{.hp}, savings are equal to total investment in the country plust current account net flows
+Supposing we have a [balanced government budget]{.hp}, savings are equal to total investment in the country plus current account net flows
 :::
 
 ---
@@ -106,7 +106,7 @@ A nation's savings (private plus public) are divided into [two uses]{.hp}
 [Source of funds for]{.h} [foreign investment]{.hp}
 
 ::: {.incremental}
-- If CA surplus, its national savings exceed domestic investment, and the surplus financedes the purchase of domestic goods by foreign buyers. 
+- If CA surplus, its national savings exceed domestic investment, and the surplus finances the purchase of domestic goods by foreign buyers. 
 - In return, the domestic economy acquires foreign financial assets, as it effectively lends to the rest of the world.
 :::
 
