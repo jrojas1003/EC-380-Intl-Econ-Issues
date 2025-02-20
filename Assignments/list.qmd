@@ -126,7 +126,7 @@ title: "Homework"
 
 ```{=html}
 <details>
-  <summary>Problem Set 04 (TBD)</summary>
+  <summary>View PDF</summary>
   <a class="btn btn-primary btn-lg cv-download" href="Problem-Sets/Winter25/PS04/problem-set-04.pdf" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
   </a>
