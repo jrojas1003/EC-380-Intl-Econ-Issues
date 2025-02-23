@@ -57,12 +57,14 @@ We will argue there are [three reasons]{.h}
 ::: {.fragment .small}
 > Speculators are businesses that buy or sell a currency because they expect its value to rise or fall
 
-> They have no need for foreign exchange to buy goods or servicesor financial assets; rather, they hope to realize profits or avoid losses through correctly anticipating changes in a currency's market value
+> They have no need for foreign exchange to buy goods/services or financial assets; rather, they hope to realize profits or avoid losses through correctly anticipating changes in a currency's market value
 :::
 
 ::: {.fragment .small}
 If speculators view currency as overvalued, they will sell it and drive down its value.
+:::
 
+::: {.fragment .small}
 If they guess wrong, however, they can lose a lot of money
 :::
 
@@ -106,7 +108,7 @@ There are [three main participants]{.h} in foreign currency markets:
     - Hold inventories of foreign currencies as part of services offered to customers.
     Usually have relationship with several foreign banks where they hold their balances of foreign currencies
 
-    - When a surplus accumulates or a shortage develops, the banks trade with each other to adjust their holdings
+    - When a surplus accumulates or a shortage of funds develops, the banks trade with each other to adjust their holdings
 
     - Not very common for US banks to trade currency with foreign banks, they tend to use [foreign exchange brokers]{.hp}
 :::

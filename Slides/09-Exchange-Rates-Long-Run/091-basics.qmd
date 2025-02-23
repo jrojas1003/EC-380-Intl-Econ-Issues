@@ -43,7 +43,7 @@ $$
 $$
 
 $$
-\dfrac{\text{Units of Money after Exchange}}{\text{Units of Money before Exchange}} = \dfrac{510.06}{1}
+\dfrac{\text{Units of Exchange Currency}}{\text{Units of Held Currency}} = \dfrac{\text{Colones}}{USD} = \dfrac{510.06}{1}
 $$
 :::
 

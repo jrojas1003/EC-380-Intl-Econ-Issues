@@ -20,15 +20,17 @@ Goods priced at [800 GBP]{.hi} in UK sell for [500 GBP]{.hi} if imported from th
 [This presents an Arbitrage Opportunity]{.hp}
 :::
 
-::: {.fragment}
-Brits begin exchanging [GBP]{.hi} for [USD]{.h}, demand increases for [USD]{.h} [(Appreciation)]{.hp} until purchasing power parity is achieved
+::: {.incremental}
+- Brits begin exchanging [GBP]{.hi} for [USD]{.h}
+- Demand increases for [USD]{.h} [(Appreciation)]{.h}
+- New equilibrium settles where [purchasing power parity]{.hp} is achieved
 :::
 
 ---
 
 ## PPP Example
 
-A few unrealistic assumptions that we will have: consider these caveats
+An unrealistic assumption that we will make [(consider this a caveat)]{.hi}
 
 ::: {.fragment}
 - Assume that goods flow [without cost]{.hp} across international borders and that all goods and services can be traded
@@ -36,7 +38,7 @@ A few unrealistic assumptions that we will have: consider these caveats
 
 ::: {.fragment}
 [In reality]{.h}, there are transportation costs involved with moving goods. 
-Some goods and services are not traded
+And some goods and services are not able to be traded
 :::
 
 ::: {.incremental}
@@ -62,4 +64,4 @@ Over time we have:
 
 - Lower transport costs
 - Minimized import rules 
-- Minimzed regulations
+- Minimized regulations

@@ -12,6 +12,10 @@ Multinational firms face risks in terms of market performance and value of reven
 Contracts defined in nominal foreign currency amounts face an [uncertainty]{.hp} regarding how much these costs will scale or deflate reaching a payment date
 :::
 
+::: {.fragment}
+The market is extraordinarily good at finding ways to mitigate risk, when possible
+:::
+
 ---
 
 ## Exchange Rate Risk
@@ -20,8 +24,13 @@ The markets's answer: [Forward Exchange Rates]{.hp}
 
 <br>
 
-> The forward exchange rate sets the price of currency that will be delivered in the future and these transactions take place on the forward market.
-[Spot market]{.hp} represents any [buying and selling taking place in the present]{.hp}
+::: {.fragment}
+> The forward exchange rate sets the price of currency that will be delivered in the future and these transactions take place on the [forward market]{.hi}
+:::
+
+::: {.fragment}
+> [Spot market]{.hp} represents any [buying and selling taking place in the present]{.hp}
+:::
 
 ---
 
@@ -60,7 +69,7 @@ The markets's answer: [Forward Exchange Rates]{.hp}
 
 - Supply and demand analysis is a useful tool for understanding the pressures on a currency regardless of the type of exchange rate system adopted
 
-- We will begin with the [assumption]{.h} that exchange rates are [copmletely flexible]{.hp}
+- We will begin with the [assumption]{.h} that [exchange rates are completely flexible]{.hp}
 :::
 
 ---
@@ -85,7 +94,7 @@ The markets's answer: [Forward Exchange Rates]{.hp}
 
 ## FX Market: Long Run
 
-In the extreme case, [long-run exchange rates]{.h} should see all [arbitrage]{.hp} eliminated
+In the extreme case, [long-run exchange rates]{.h} should see all [arbitrage opportunities]{.hp} eliminated
 
 ::: {.fragment}
 > This will lead to bids for currencies playing out until the [purchasing power]{.h} of a specific amount of a given [Home Currency]{.h} will be equal to the [purchasing power]{.h} of its foreign currency exchanged when spent abroad
