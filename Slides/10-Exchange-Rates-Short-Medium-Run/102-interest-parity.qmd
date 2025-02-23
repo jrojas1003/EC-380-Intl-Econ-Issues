@@ -45,13 +45,13 @@ Where $P$ is the principal amount invested, $i$ is the interest rate, and $n$ ar
 
 ## FX Market: Interest Parity Example
 
-Suppose we are dealing with a 1-year [US]{.h} bond has a price of 1000 USD
+Suppose an investor is weighing the choice between a 1-year [US]{.h} bond and a 1-year [German]{.hi} bond
 
-The respective rates of return are $i = 0.03$ and $i^{*} = 0.02$.
+They both are at the price of 1000 USD
 
-Each payoff is in a different currency
+The respective rates of return are $i = 0.03$ (US) and $i^{*} = 0.02$ (GER).
 
-Let's say we are considering a [US Bond]{.h} and a [German Bond]{.hi}
+Each payoff is in its respective currency
 
 <br>
 

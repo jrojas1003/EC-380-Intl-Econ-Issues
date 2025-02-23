@@ -7,11 +7,15 @@ name: medium & short-run
 Consider it to be typically a 4 to 5 year range, where countries experience ebbs and flows of [business cycle]{.hp} booms and busts
 
 ::: {.fragment}
-- During boom periods, incomes go up, [aggregate demand rises]{.hp} across consumers
+Consider the US economy going through a [business cycle boom]{.hi}
+:::
 
-- Some of that spills over into [increased demand for imports]{.hp}
+::: {.incremental}
+- During boom periods, incomes go up, [aggregate demand of goods/services rises]{.hp} across consumers
 
-- This implies a greater need for foreign currency
+- A part of that will lead to [increased demand for imports]{.hp}
+
+- This implies a greater need for foreign currency (to purchase imports)
 :::
 
 ---
@@ -24,21 +28,17 @@ Consider it to be typically a 4 to 5 year range, where countries experience ebbs
 
 ---
 
-## FX Market: Medium Run
-
-Now suppose the [UK sees an economic boom]{.hp}, they increased import of US goods, so the US will hold a higher amount of [GBP reserves]{.hi} 
-
-![](images/exchange-rate-increase-reserves.png){fig-align="center"}
-
----
-
 ## FX Market: Short Run
 
-We will consider the [short-run]{.h} to be a time period of one year or less
+The [Short-Run]{.h} will look relatively more chaotic
 
+We will consider the [Short-Run]{.h} to be a time period of one year or less
+
+::: {.fragment}
 We observe continuous day-to-day fluctuations in exchange rates
 
-![](images/exchange-rate-short-run-fluctuations.png){fig-align="center"}
+![](images/exchange-rate-short-run-fluctuations.png){fig-align="center" height="400"}
+:::
 
 ---
 
