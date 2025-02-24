@@ -81,14 +81,14 @@
     "href": "Slides/10-Exchange-Rates-Short-Medium-Run/101-medium-short-run.html",
     "title": "EC 380 - International Econ",
     "section": "",
-    "text": "Consider it to be typically a 4 to 5 year range, where countries experience ebbs and flows of business cycle booms and busts\n\n\nDuring boom periods, incomes go up, aggregate demand rises across consumers\nSome of that spills over into increased demand for imports\nThis implies a greater need for foreign currency"
+    "text": "Consider it to be typically a 4 to 5 year range, where countries experience ebbs and flows of business cycle booms and busts\n\nConsider the US economy going through a business cycle boom\n\n\n\nDuring boom periods, incomes go up, aggregate demand of goods/services rises across consumers\nA part of that will lead to increased demand for imports\nThis implies a greater need for foreign currency (to purchase imports)"
   },
   {
     "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/101-medium-short-run.html#fx-market-medium-run",
     "href": "Slides/10-Exchange-Rates-Short-Medium-Run/101-medium-short-run.html#fx-market-medium-run",
     "title": "EC 380 - International Econ",
     "section": "",
-    "text": "Consider it to be typically a 4 to 5 year range, where countries experience ebbs and flows of business cycle booms and busts\n\n\nDuring boom periods, incomes go up, aggregate demand rises across consumers\nSome of that spills over into increased demand for imports\nThis implies a greater need for foreign currency"
+    "text": "Consider it to be typically a 4 to 5 year range, where countries experience ebbs and flows of business cycle booms and busts\n\nConsider the US economy going through a business cycle boom\n\n\n\nDuring boom periods, incomes go up, aggregate demand of goods/services rises across consumers\nA part of that will lead to increased demand for imports\nThis implies a greater need for foreign currency (to purchase imports)"
   },
   {
     "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/101-medium-short-run.html#fx-market-medium-run-1",
@@ -98,18 +98,11 @@
     "text": "FX Market: Medium Run\nUS incomes increase, demand for UK imports increases, so demand for GBP increases"
   },
   {
-    "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/101-medium-short-run.html#fx-market-medium-run-2",
-    "href": "Slides/10-Exchange-Rates-Short-Medium-Run/101-medium-short-run.html#fx-market-medium-run-2",
-    "title": "EC 380 - International Econ",
-    "section": "FX Market: Medium Run",
-    "text": "FX Market: Medium Run\nNow suppose the UK sees an economic boom, they increased import of US goods, so the US will hold a higher amount of GBP reserves"
-  },
-  {
     "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/101-medium-short-run.html#fx-market-short-run",
     "href": "Slides/10-Exchange-Rates-Short-Medium-Run/101-medium-short-run.html#fx-market-short-run",
     "title": "EC 380 - International Econ",
     "section": "FX Market: Short Run",
-    "text": "FX Market: Short Run\nWe will consider the short-run to be a time period of one year or less\nWe observe continuous day-to-day fluctuations in exchange rates"
+    "text": "FX Market: Short Run\nThe Short-Run will look relatively more chaotic\nWe will consider the Short-Run to be a time period of one year or less\n\nWe observe continuous day-to-day fluctuations in exchange rates"
   },
   {
     "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/101-medium-short-run.html#fx-market-short-run-1",
@@ -130,28 +123,28 @@
     "href": "Slides/09-Exchange-Rates-Long-Run/094-purchasing-power-parity-ex.html",
     "title": "EC 380 - International Econ",
     "section": "",
-    "text": "Suppose a bag of goods costs 1000 USD and 800 GBP\n\nAccording to PPP, the exchange rate is $1.25 dollars to the pound\n\n\nImagine that GBP:USD is $2.\nGoods priced at 800 GBP in UK sell for 500 GBP if imported from the US and paid for in USD\n\n\nThis presents an Arbitrage Opportunity\n\n\nBrits begin exchanging GBP for USD, demand increases for USD (Appreciation) until purchasing power parity is achieved"
+    "text": "Suppose a bag of goods costs 1000 USD and 800 GBP\n\nAccording to PPP, the exchange rate is $1.25 dollars to the pound\n\n\nImagine that GBP:USD is $2.\nGoods priced at 800 GBP in UK sell for 500 GBP if imported from the US and paid for in USD\n\n\nThis presents an Arbitrage Opportunity\n\n\n\nBrits begin exchanging GBP for USD\nDemand increases for USD (Appreciation)\nNew equilibrium settles where purchasing power parity is achieved"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/094-purchasing-power-parity-ex.html#ppp-example",
     "href": "Slides/09-Exchange-Rates-Long-Run/094-purchasing-power-parity-ex.html#ppp-example",
     "title": "EC 380 - International Econ",
     "section": "",
-    "text": "Suppose a bag of goods costs 1000 USD and 800 GBP\n\nAccording to PPP, the exchange rate is $1.25 dollars to the pound\n\n\nImagine that GBP:USD is $2.\nGoods priced at 800 GBP in UK sell for 500 GBP if imported from the US and paid for in USD\n\n\nThis presents an Arbitrage Opportunity\n\n\nBrits begin exchanging GBP for USD, demand increases for USD (Appreciation) until purchasing power parity is achieved"
+    "text": "Suppose a bag of goods costs 1000 USD and 800 GBP\n\nAccording to PPP, the exchange rate is $1.25 dollars to the pound\n\n\nImagine that GBP:USD is $2.\nGoods priced at 800 GBP in UK sell for 500 GBP if imported from the US and paid for in USD\n\n\nThis presents an Arbitrage Opportunity\n\n\n\nBrits begin exchanging GBP for USD\nDemand increases for USD (Appreciation)\nNew equilibrium settles where purchasing power parity is achieved"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/094-purchasing-power-parity-ex.html#ppp-example-1",
     "href": "Slides/09-Exchange-Rates-Long-Run/094-purchasing-power-parity-ex.html#ppp-example-1",
     "title": "EC 380 - International Econ",
     "section": "PPP Example",
-    "text": "PPP Example\nA few unrealistic assumptions that we will have: consider these caveats\n\n\nAssume that goods flow without cost across international borders and that all goods and services can be traded\n\n\n\nIn reality, there are transportation costs involved with moving goods. Some goods and services are not traded\n\n\n\nBank fees for a currency broker when buying the needed pounds\nSome of the goods and services are non-tradable, arbitrage is not possible\n\n\n\nAlso, few nations have eliminated all their barriers to entry of foreign goods and services"
+    "text": "PPP Example\nAn unrealistic assumption that we will make (consider this a caveat)\n\n\nAssume that goods flow without cost across international borders and that all goods and services can be traded\n\n\n\nIn reality, there are transportation costs involved with moving goods. And some goods and services are not able to be traded\n\n\n\nBank fees for a currency broker when buying the needed pounds\nSome of the goods and services are non-tradable, arbitrage is not possible\n\n\n\nAlso, few nations have eliminated all their barriers to entry of foreign goods and services"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/094-purchasing-power-parity-ex.html#ppp-in-the-long-run",
     "href": "Slides/09-Exchange-Rates-Long-Run/094-purchasing-power-parity-ex.html#ppp-in-the-long-run",
     "title": "EC 380 - International Econ",
     "section": "PPP in the Long-Run",
-    "text": "PPP in the Long-Run\n\nEvidence shows that PPP exerts its influence over exchange rates only in the long-run\n\nOver time we have:\n\nLower transport costs\nMinimized import rules\nMinimzed regulations"
+    "text": "PPP in the Long-Run\n\nEvidence shows that PPP exerts its influence over exchange rates only in the long-run\n\nOver time we have:\n\nLower transport costs\nMinimized import rules\nMinimized regulations"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/092-currency-exchange.html",
@@ -179,7 +172,7 @@
     "href": "Slides/09-Exchange-Rates-Long-Run/092-currency-exchange.html#currency-exchanges-2",
     "title": "EC 380 - International Econ",
     "section": "Currency Exchanges",
-    "text": "Currency Exchanges\nAll of the work on globalization and interconnectedness begs the question:\nWhy hold other currencies? We will argue there are three reasons\n3) Speculative Action\n\n\nSpeculators are businesses that buy or sell a currency because they expect its value to rise or fall\n\n\nThey have no need for foreign exchange to buy goods or servicesor financial assets; rather, they hope to realize profits or avoid losses through correctly anticipating changes in a currency’s market value\n\n\n\nIf speculators view currency as overvalued, they will sell it and drive down its value.\nIf they guess wrong, however, they can lose a lot of money"
+    "text": "Currency Exchanges\nAll of the work on globalization and interconnectedness begs the question:\nWhy hold other currencies? We will argue there are three reasons\n3) Speculative Action\n\n\nSpeculators are businesses that buy or sell a currency because they expect its value to rise or fall\n\n\nThey have no need for foreign exchange to buy goods/services or financial assets; rather, they hope to realize profits or avoid losses through correctly anticipating changes in a currency’s market value\n\n\n\nIf speculators view currency as overvalued, they will sell it and drive down its value.\n\n\nIf they guess wrong, however, they can lose a lot of money"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/092-currency-exchange.html#currency-speculation",
@@ -200,7 +193,7 @@
     "href": "Slides/09-Exchange-Rates-Long-Run/092-currency-exchange.html#currency-exchanges-4",
     "title": "EC 380 - International Econ",
     "section": "Currency Exchanges",
-    "text": "Currency Exchanges\nThere are three main participants in foreign currency markets:\n\nRetail Customers\n\n\n\nCommercial Banks:\n\nHold inventories of foreign currencies as part of services offered to customers. Usually have relationship with several foreign banks where they hold their balances of foreign currencies\nWhen a surplus accumulates or a shortage develops, the banks trade with each other to adjust their holdings\nNot very common for US banks to trade currency with foreign banks, they tend to use foreign exchange brokers"
+    "text": "Currency Exchanges\nThere are three main participants in foreign currency markets:\n\nRetail Customers\n\n\n\nCommercial Banks:\n\nHold inventories of foreign currencies as part of services offered to customers. Usually have relationship with several foreign banks where they hold their balances of foreign currencies\nWhen a surplus accumulates or a shortage of funds develops, the banks trade with each other to adjust their holdings\nNot very common for US banks to trade currency with foreign banks, they tend to use foreign exchange brokers"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/092-currency-exchange.html#currency-exchanges-5",
@@ -235,7 +228,7 @@
     "href": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#basics-1",
     "title": "Global Finance | Exchange Rates LR",
     "section": "Basics",
-    "text": "Basics\nWe are usually told one unit of this currency is equal to x units of the other\n\nFor example, suppose one US dollar can be exchanged for 510.06 colones\n\n\n\n\\[\n\\text{USD to Colon, Nominal Exchange Rate}\n\\]\n\\[\n\\dfrac{\\text{Units of Money after Exchange}}{\\text{Units of Money before Exchange}} = \\dfrac{510.06}{1}\n\\]"
+    "text": "Basics\nWe are usually told one unit of this currency is equal to x units of the other\n\nFor example, suppose one US dollar can be exchanged for 510.06 colones\n\n\n\n\\[\n\\text{USD to Colon, Nominal Exchange Rate}\n\\]\n\\[\n\\dfrac{\\text{Units of Exchange Currency}}{\\text{Units of Held Currency}} = \\dfrac{\\text{Colones}}{USD} = \\dfrac{510.06}{1}\n\\]"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#basics-2",
@@ -277,7 +270,7 @@
     "href": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#currency-exchanges-3",
     "title": "Global Finance | Exchange Rates LR",
     "section": "Currency Exchanges",
-    "text": "Currency Exchanges\nAll of the work on globalization and interconnectedness begs the question:\nWhy hold other currencies? We will argue there are three reasons\n3) Speculative Action\n\n\nSpeculators are businesses that buy or sell a currency because they expect its value to rise or fall\n\n\nThey have no need for foreign exchange to buy goods or servicesor financial assets; rather, they hope to realize profits or avoid losses through correctly anticipating changes in a currency’s market value\n\n\n\nIf speculators view currency as overvalued, they will sell it and drive down its value.\nIf they guess wrong, however, they can lose a lot of money"
+    "text": "Currency Exchanges\nAll of the work on globalization and interconnectedness begs the question:\nWhy hold other currencies? We will argue there are three reasons\n3) Speculative Action\n\n\nSpeculators are businesses that buy or sell a currency because they expect its value to rise or fall\n\n\nThey have no need for foreign exchange to buy goods/services or financial assets; rather, they hope to realize profits or avoid losses through correctly anticipating changes in a currency’s market value\n\n\n\nIf speculators view currency as overvalued, they will sell it and drive down its value.\n\n\nIf they guess wrong, however, they can lose a lot of money"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#currency-speculation",
@@ -298,7 +291,7 @@
     "href": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#currency-exchanges-5",
     "title": "Global Finance | Exchange Rates LR",
     "section": "Currency Exchanges",
-    "text": "Currency Exchanges\nThere are three main participants in foreign currency markets:\n\nRetail Customers\n\n\n\nCommercial Banks:\n\nHold inventories of foreign currencies as part of services offered to customers. Usually have relationship with several foreign banks where they hold their balances of foreign currencies\nWhen a surplus accumulates or a shortage develops, the banks trade with each other to adjust their holdings\nNot very common for US banks to trade currency with foreign banks, they tend to use foreign exchange brokers"
+    "text": "Currency Exchanges\nThere are three main participants in foreign currency markets:\n\nRetail Customers\n\n\n\nCommercial Banks:\n\nHold inventories of foreign currencies as part of services offered to customers. Usually have relationship with several foreign banks where they hold their balances of foreign currencies\nWhen a surplus accumulates or a shortage of funds develops, the banks trade with each other to adjust their holdings\nNot very common for US banks to trade currency with foreign banks, they tend to use foreign exchange brokers"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#currency-exchanges-6",
@@ -319,21 +312,21 @@
     "href": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#exchange-rate-risk",
     "title": "Global Finance | Exchange Rates LR",
     "section": "Exchange Rate Risk",
-    "text": "Exchange Rate Risk\nMultinational firms face risks in terms of market performance and value of revenue, given any degree of exchange rate volatility\n\n\nContracts defined in nominal foreign currency amounts face an uncertainty regarding how much these costs will scale or deflate reaching a payment date"
+    "text": "Exchange Rate Risk\nMultinational firms face risks in terms of market performance and value of revenue, given any degree of exchange rate volatility\n\n\nContracts defined in nominal foreign currency amounts face an uncertainty regarding how much these costs will scale or deflate reaching a payment date\n\n\nThe market is extraordinarily good at finding ways to mitigate risk, when possible"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#exchange-rate-risk-1",
     "href": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#exchange-rate-risk-1",
     "title": "Global Finance | Exchange Rates LR",
     "section": "Exchange Rate Risk",
-    "text": "Exchange Rate Risk\nThe markets’s answer: Forward Exchange Rates\n\n\nThe forward exchange rate sets the price of currency that will be delivered in the future and these transactions take place on the forward market. Spot market represents any buying and selling taking place in the present"
+    "text": "Exchange Rate Risk\nThe markets’s answer: Forward Exchange Rates\n\n\n\nThe forward exchange rate sets the price of currency that will be delivered in the future and these transactions take place on the forward market\n\n\n\n\nSpot market represents any buying and selling taking place in the present"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#effects-of-delta-supply-and-delta-demand-of-foreign-currency",
     "href": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#effects-of-delta-supply-and-delta-demand-of-foreign-currency",
     "title": "Global Finance | Exchange Rates LR",
     "section": "Effects of \\(\\Delta\\) Supply and \\(\\Delta\\) Demand of Foreign Currency",
-    "text": "Effects of \\(\\Delta\\) Supply and \\(\\Delta\\) Demand of Foreign Currency\nLet’s take the market for GBP\n\n\nIncreased Demand for GBP\n\nRaises its price\n\nIt appreciates\n\n\n\nIncreased Supply for GBP\n\nLowers its price\n\nIt depreciates\n\n\n\n\n\nUnder a fixed exchange rate system, values of USD is held constant through actions of the Central Bank that counteract market forces\nSupply and demand analysis is a useful tool for understanding the pressures on a currency regardless of the type of exchange rate system adopted\nWe will begin with the assumption that exchange rates are copmletely flexible"
+    "text": "Effects of \\(\\Delta\\) Supply and \\(\\Delta\\) Demand of Foreign Currency\nLet’s take the market for GBP\n\n\nIncreased Demand for GBP\n\nRaises its price\n\nIt appreciates\n\n\n\nIncreased Supply for GBP\n\nLowers its price\n\nIt depreciates\n\n\n\n\n\nUnder a fixed exchange rate system, values of USD is held constant through actions of the Central Bank that counteract market forces\nSupply and demand analysis is a useful tool for understanding the pressures on a currency regardless of the type of exchange rate system adopted\nWe will begin with the assumption that exchange rates are completely flexible"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#fx-market-flexible",
@@ -361,28 +354,28 @@
     "href": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#fx-market-long-run",
     "title": "Global Finance | Exchange Rates LR",
     "section": "FX Market: Long Run",
-    "text": "FX Market: Long Run\nIn the extreme case, long-run exchange rates should see all arbitrage eliminated\n\n\nThis will lead to bids for currencies playing out until the purchasing power of a specific amount of a given Home Currency will be equal to the purchasing power of its foreign currency exchanged when spent abroad\n\n\n\nThis concept of equal purchasing power internationally for the same basket of goods is called purchasing power parity (PPP)\n\n\n\nIn the short-run, differences in purchasing power for the same bundle of goods exist"
+    "text": "FX Market: Long Run\nIn the extreme case, long-run exchange rates should see all arbitrage opportunities eliminated\n\n\nThis will lead to bids for currencies playing out until the purchasing power of a specific amount of a given Home Currency will be equal to the purchasing power of its foreign currency exchanged when spent abroad\n\n\n\nThis concept of equal purchasing power internationally for the same basket of goods is called purchasing power parity (PPP)\n\n\n\nIn the short-run, differences in purchasing power for the same bundle of goods exist"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#ppp-example",
     "href": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#ppp-example",
     "title": "Global Finance | Exchange Rates LR",
     "section": "PPP Example",
-    "text": "PPP Example\nSuppose a bag of goods costs 1000 USD and 800 GBP\n\nAccording to PPP, the exchange rate is $1.25 dollars to the pound\n\n\nImagine that GBP:USD is $2.\nGoods priced at 800 GBP in UK sell for 500 GBP if imported from the US and paid for in USD\n\n\nThis presents an Arbitrage Opportunity\n\n\nBrits begin exchanging GBP for USD, demand increases for USD (Appreciation) until purchasing power parity is achieved"
+    "text": "PPP Example\nSuppose a bag of goods costs 1000 USD and 800 GBP\n\nAccording to PPP, the exchange rate is $1.25 dollars to the pound\n\n\nImagine that GBP:USD is $2.\nGoods priced at 800 GBP in UK sell for 500 GBP if imported from the US and paid for in USD\n\n\nThis presents an Arbitrage Opportunity\n\n\n\nBrits begin exchanging GBP for USD\nDemand increases for USD (Appreciation)\nNew equilibrium settles where purchasing power parity is achieved"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#ppp-example-1",
     "href": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#ppp-example-1",
     "title": "Global Finance | Exchange Rates LR",
     "section": "PPP Example",
-    "text": "PPP Example\nA few unrealistic assumptions that we will have: consider these caveats\n\n\nAssume that goods flow without cost across international borders and that all goods and services can be traded\n\n\n\nIn reality, there are transportation costs involved with moving goods. Some goods and services are not traded\n\n\n\nBank fees for a currency broker when buying the needed pounds\nSome of the goods and services are non-tradable, arbitrage is not possible\n\n\n\nAlso, few nations have eliminated all their barriers to entry of foreign goods and services"
+    "text": "PPP Example\nAn unrealistic assumption that we will make (consider this a caveat)\n\n\nAssume that goods flow without cost across international borders and that all goods and services can be traded\n\n\n\nIn reality, there are transportation costs involved with moving goods. And some goods and services are not able to be traded\n\n\n\nBank fees for a currency broker when buying the needed pounds\nSome of the goods and services are non-tradable, arbitrage is not possible\n\n\n\nAlso, few nations have eliminated all their barriers to entry of foreign goods and services"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#ppp-in-the-long-run",
     "href": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#ppp-in-the-long-run",
     "title": "Global Finance | Exchange Rates LR",
     "section": "PPP in the Long-Run",
-    "text": "PPP in the Long-Run\n\nEvidence shows that PPP exerts its influence over exchange rates only in the long-run\n\nOver time we have:\n\nLower transport costs\nMinimized import rules\nMinimzed regulations"
+    "text": "PPP in the Long-Run\n\nEvidence shows that PPP exerts its influence over exchange rates only in the long-run\n\nOver time we have:\n\nLower transport costs\nMinimized import rules\nMinimized regulations"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/090-compile.html#summary",
@@ -4855,7 +4848,7 @@
     "href": "Slides/09-Exchange-Rates-Long-Run/091-basics.html#basics",
     "title": "EC 380 - International Econ",
     "section": "Basics",
-    "text": "Basics\nWe are usually told one unit of this currency is equal to x units of the other\n\nFor example, suppose one US dollar can be exchanged for 510.06 colones\n\n\n\n\\[\n\\text{USD to Colon, Nominal Exchange Rate}\n\\]\n\\[\n\\dfrac{\\text{Units of Money after Exchange}}{\\text{Units of Money before Exchange}} = \\dfrac{510.06}{1}\n\\]"
+    "text": "Basics\nWe are usually told one unit of this currency is equal to x units of the other\n\nFor example, suppose one US dollar can be exchanged for 510.06 colones\n\n\n\n\\[\n\\text{USD to Colon, Nominal Exchange Rate}\n\\]\n\\[\n\\dfrac{\\text{Units of Exchange Currency}}{\\text{Units of Held Currency}} = \\dfrac{\\text{Colones}}{USD} = \\dfrac{510.06}{1}\n\\]"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/091-basics.html#basics-1",
@@ -4883,28 +4876,28 @@
     "href": "Slides/09-Exchange-Rates-Long-Run/093-foreign-exchange-market.html",
     "title": "EC 380 - International Econ",
     "section": "",
-    "text": "Multinational firms face risks in terms of market performance and value of revenue, given any degree of exchange rate volatility\n\n\nContracts defined in nominal foreign currency amounts face an uncertainty regarding how much these costs will scale or deflate reaching a payment date"
+    "text": "Multinational firms face risks in terms of market performance and value of revenue, given any degree of exchange rate volatility\n\n\nContracts defined in nominal foreign currency amounts face an uncertainty regarding how much these costs will scale or deflate reaching a payment date\n\n\nThe market is extraordinarily good at finding ways to mitigate risk, when possible"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/093-foreign-exchange-market.html#exchange-rate-risk",
     "href": "Slides/09-Exchange-Rates-Long-Run/093-foreign-exchange-market.html#exchange-rate-risk",
     "title": "EC 380 - International Econ",
     "section": "",
-    "text": "Multinational firms face risks in terms of market performance and value of revenue, given any degree of exchange rate volatility\n\n\nContracts defined in nominal foreign currency amounts face an uncertainty regarding how much these costs will scale or deflate reaching a payment date"
+    "text": "Multinational firms face risks in terms of market performance and value of revenue, given any degree of exchange rate volatility\n\n\nContracts defined in nominal foreign currency amounts face an uncertainty regarding how much these costs will scale or deflate reaching a payment date\n\n\nThe market is extraordinarily good at finding ways to mitigate risk, when possible"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/093-foreign-exchange-market.html#exchange-rate-risk-1",
     "href": "Slides/09-Exchange-Rates-Long-Run/093-foreign-exchange-market.html#exchange-rate-risk-1",
     "title": "EC 380 - International Econ",
     "section": "Exchange Rate Risk",
-    "text": "Exchange Rate Risk\nThe markets’s answer: Forward Exchange Rates\n\n\nThe forward exchange rate sets the price of currency that will be delivered in the future and these transactions take place on the forward market. Spot market represents any buying and selling taking place in the present"
+    "text": "Exchange Rate Risk\nThe markets’s answer: Forward Exchange Rates\n\n\n\nThe forward exchange rate sets the price of currency that will be delivered in the future and these transactions take place on the forward market\n\n\n\n\nSpot market represents any buying and selling taking place in the present"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/093-foreign-exchange-market.html#effects-of-delta-supply-and-delta-demand-of-foreign-currency",
     "href": "Slides/09-Exchange-Rates-Long-Run/093-foreign-exchange-market.html#effects-of-delta-supply-and-delta-demand-of-foreign-currency",
     "title": "EC 380 - International Econ",
     "section": "Effects of \\(\\Delta\\) Supply and \\(\\Delta\\) Demand of Foreign Currency",
-    "text": "Effects of \\(\\Delta\\) Supply and \\(\\Delta\\) Demand of Foreign Currency\nLet’s take the market for GBP\n\n\nIncreased Demand for GBP\n\nRaises its price\n\nIt appreciates\n\n\n\nIncreased Supply for GBP\n\nLowers its price\n\nIt depreciates\n\n\n\n\n\n\nUnder a fixed exchange rate system, values of USD is held constant through actions of the Central Bank that counteract market forces\nSupply and demand analysis is a useful tool for understanding the pressures on a currency regardless of the type of exchange rate system adopted\nWe will begin with the assumption that exchange rates are copmletely flexible"
+    "text": "Effects of \\(\\Delta\\) Supply and \\(\\Delta\\) Demand of Foreign Currency\nLet’s take the market for GBP\n\n\nIncreased Demand for GBP\n\nRaises its price\n\nIt appreciates\n\n\n\nIncreased Supply for GBP\n\nLowers its price\n\nIt depreciates\n\n\n\n\n\n\nUnder a fixed exchange rate system, values of USD is held constant through actions of the Central Bank that counteract market forces\nSupply and demand analysis is a useful tool for understanding the pressures on a currency regardless of the type of exchange rate system adopted\nWe will begin with the assumption that exchange rates are completely flexible"
   },
   {
     "objectID": "Slides/09-Exchange-Rates-Long-Run/093-foreign-exchange-market.html#fx-market-flexible",
@@ -4932,14 +4925,14 @@
     "href": "Slides/09-Exchange-Rates-Long-Run/093-foreign-exchange-market.html#fx-market-long-run",
     "title": "EC 380 - International Econ",
     "section": "FX Market: Long Run",
-    "text": "FX Market: Long Run\nIn the extreme case, long-run exchange rates should see all arbitrage eliminated\n\n\nThis will lead to bids for currencies playing out until the purchasing power of a specific amount of a given Home Currency will be equal to the purchasing power of its foreign currency exchanged when spent abroad\n\n\n\nThis concept of equal purchasing power internationally for the same basket of goods is called purchasing power parity (PPP)\n\n\n\nIn the short-run, differences in purchasing power for the same bundle of goods exist"
+    "text": "FX Market: Long Run\nIn the extreme case, long-run exchange rates should see all arbitrage opportunities eliminated\n\n\nThis will lead to bids for currencies playing out until the purchasing power of a specific amount of a given Home Currency will be equal to the purchasing power of its foreign currency exchanged when spent abroad\n\n\n\nThis concept of equal purchasing power internationally for the same basket of goods is called purchasing power parity (PPP)\n\n\n\nIn the short-run, differences in purchasing power for the same bundle of goods exist"
   },
   {
     "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#fx-market-medium-run",
     "href": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#fx-market-medium-run",
     "title": "Global Finance | Exchange Rates Short & Medium Run",
     "section": "FX Market: Medium Run",
-    "text": "FX Market: Medium Run\nConsider it to be typically a 4 to 5 year range, where countries experience ebbs and flows of business cycle booms and busts\n\n\nDuring boom periods, incomes go up, aggregate demand rises across consumers\nSome of that spills over into increased demand for imports\nThis implies a greater need for foreign currency"
+    "text": "FX Market: Medium Run\nConsider it to be typically a 4 to 5 year range, where countries experience ebbs and flows of business cycle booms and busts\n\nConsider the US economy going through a business cycle boom\n\n\n\nDuring boom periods, incomes go up, aggregate demand of goods/services rises across consumers\nA part of that will lead to increased demand for imports\nThis implies a greater need for foreign currency (to purchase imports)"
   },
   {
     "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#fx-market-medium-run-1",
@@ -4949,18 +4942,11 @@
     "text": "FX Market: Medium Run\nUS incomes increase, demand for UK imports increases, so demand for GBP increases"
   },
   {
-    "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#fx-market-medium-run-2",
-    "href": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#fx-market-medium-run-2",
-    "title": "Global Finance | Exchange Rates Short & Medium Run",
-    "section": "FX Market: Medium Run",
-    "text": "FX Market: Medium Run\nNow suppose the UK sees an economic boom, they increased import of US goods, so the US will hold a higher amount of GBP reserves"
-  },
-  {
     "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#fx-market-short-run",
     "href": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#fx-market-short-run",
     "title": "Global Finance | Exchange Rates Short & Medium Run",
     "section": "FX Market: Short Run",
-    "text": "FX Market: Short Run\nWe will consider the short-run to be a time period of one year or less\nWe observe continuous day-to-day fluctuations in exchange rates"
+    "text": "FX Market: Short Run\nThe Short-Run will look relatively more chaotic\nWe will consider the Short-Run to be a time period of one year or less\n\nWe observe continuous day-to-day fluctuations in exchange rates"
   },
   {
     "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#fx-market-short-run-1",
@@ -4995,7 +4981,7 @@
     "href": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#fx-market-interest-parity-example-1",
     "title": "Global Finance | Exchange Rates Short & Medium Run",
     "section": "FX Market: Interest Parity Example",
-    "text": "FX Market: Interest Parity Example\nSuppose we are dealing with a 1-year US bond has a price of 1000 USD\nThe respective rates of return are \\(i = 0.03\\) and \\(i^{*} = 0.02\\).\nEach payoff is in a different currency\nLet’s say we are considering a US Bond and a German Bond\n\n\n\\[\n    \\text{US bond} = 1000 \\times (1.03)^{1} = 1030 \\text{ USD}\n\\]\n\n\nThe German Bond requires more careful thought"
+    "text": "FX Market: Interest Parity Example\nSuppose an investor is weighing the choice between a 1-year US bond and a 1-year German bond\nThey both are at the price of 1000 USD\nThe respective rates of return are \\(i = 0.03\\) (US) and \\(i^{*} = 0.02\\) (GER).\nEach payoff is in its respective currency\n\n\n\\[\n    \\text{US bond} = 1000 \\times (1.03)^{1} = 1030 \\text{ USD}\n\\]\n\n\nThe German Bond requires more careful thought"
   },
   {
     "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#fx-market-interest-parity-example-2",
@@ -5107,7 +5093,7 @@
     "href": "Slides/10-Exchange-Rates-Short-Medium-Run/102-interest-parity.html#fx-market-interest-parity-example-1",
     "title": "EC 380 - International Econ",
     "section": "FX Market: Interest Parity Example",
-    "text": "FX Market: Interest Parity Example\nSuppose we are dealing with a 1-year US bond has a price of 1000 USD\nThe respective rates of return are \\(i = 0.03\\) and \\(i^{*} = 0.02\\).\nEach payoff is in a different currency\nLet’s say we are considering a US Bond and a German Bond\n\n\n\\[\n    \\text{US bond} = 1000 \\times (1.03)^{1} = 1030 \\text{ USD}\n\\]\n\n\nThe German Bond requires more careful thought"
+    "text": "FX Market: Interest Parity Example\nSuppose an investor is weighing the choice between a 1-year US bond and a 1-year German bond\nThey both are at the price of 1000 USD\nThe respective rates of return are \\(i = 0.03\\) (US) and \\(i^{*} = 0.02\\) (GER).\nEach payoff is in its respective currency\n\n\n\\[\n    \\text{US bond} = 1000 \\times (1.03)^{1} = 1030 \\text{ USD}\n\\]\n\n\nThe German Bond requires more careful thought"
   },
   {
     "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/102-interest-parity.html#fx-market-interest-parity-example-2",
