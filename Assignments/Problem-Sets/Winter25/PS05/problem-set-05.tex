@@ -1,0 +1,104 @@
+\documentclass[12pt]{exam}
+\usepackage{amsthm}
+\usepackage{libertine}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{multicol}
+\usepackage[shortlabels]{enumitem}
+\usepackage{siunitx}
+\usepackage{cancel}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{tikz}
+\usepackage[T1]{fontenc}  % Ensure proper encoding
+\usepackage{titlesec}
+\usepackage{booktabs}
+
+\CorrectChoiceEmphasis{\color{red}\bfseries\itshape}
+
+\newcommand{\class}{\fontfamily{lmss}\selectfont \textbf{EC 380}} % This is the name of the course 
+\newcommand{\examnum}{\fontfamily{lmss}\selectfont \textbf{}} % This is the name of the assignment
+\newcommand{\examdate}{\fontfamily{lmss}\selectfont \textbf{March 05 at 01:59pm}} % This is the due date
+\newcommand{\timelimit}{}
+\addpoints % Allows to add points up to include table at end of document
+
+\pagestyle{headandfoot} % Fancy equivalent for exam documentclass
+\firstpageheadrule % Horizontal bar in first page
+\runningheadrule % Horizontal bar in rest of pages
+\firstpageheader{\class}{\examnum}{\fontfamily{lmss}\selectfont  \examdate} % 1st page header content
+\firstpagefooter{}{Page \thepage}{} % 1st page footer content
+\runningheader{\class}{\examnum}{\fontfamily{lmss}\selectfont  \examdate} % Rest of pages header content
+%\runningfooter{Points earned: \makebox[1in]{\hrulefill} / \pointsonpage{\thepage} points}{}{\thepage\ of \numpages} % Rest of pages footer content
+\bracketedpoints % Puts points per question inside brackets instead of parenthesis 
+
+\titleformat{\section}
+  {\normalfont\large\bfseries\sffamily}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries\sffamily}{\thesection}{1em}{}
+
+\begin{document}
+\fontfamily{lmss}\selectfont
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PREAMBLE %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+    \textbf{{\LARGE Problem Set 05}} \\
+    \bigskip 
+\end{center}
+
+\noindent \textbf{Instructions:} 
+Answers must be submitted online through the designated Canvas assignment. 
+This Problem Set is due on \examdate.
+Please write as legible and clearly as possible. 
+You will not be given full credit if your answers cannot be easily understood. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% QUESTIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Questions}
+\begin{questions}
+
+\question 
+Consider the following demand and supply curves for foreign currency, where \textbf{ExR} represents the exchange rate of local currency to foreign currency (e.g. USD: GBP).
+\textbf{FC} represents the units of foreign currency reserves held in the ``local" economy.
+
+\begin{align*}
+    \text{Demand}: \text{ExR} = 3 - 0.075FC \;\;\; ; \;\;\; \text{Supply}: \text{ExR} = 0.5 + 0.025FC      
+\end{align*}
+
+\begin{parts}
+    \part What is the \textbf{Exchange Rate} and \textbf{Foreign Currency Reserves} amount?
+    \vspace*{\stretch{2}}
+    \part Consider a case in which the foreign interest rate, $i^{*}$, rises such that demand sees a \textbf{0.8 level-shift increase} and the new demand curve can be represented by $D^{'} = D + 0.8$. 
+    What are the new exchange rate and currency reserve values?
+    \vspace*{\stretch{2}}
+    \part How would you describe the change in \textbf{both currencies}?
+    Which has depreciated and which has appreciated?
+    \vspace*{\stretch{1}}
+\end{parts}
+
+\newpage
+
+\question 
+Consider purchasing power parity (PPP) holding across long-run exchange rates. 
+Suppose an identical basket of goods is available in the US and Japan. 
+In the US, the goods are valued at 1,400 USD whereas in Japan they are valued at 194,775 Japanese Yen (JPY). 
+
+\begin{parts}
+    \part What is the implicit USD-JPY exchange rate, if the PPP relationship is satisfied?
+    \vspace*{\stretch{1}}
+    \part Suppose that the exchange rate, USD-JPY, is currently 112 JPY per USD. 
+    Is the UDS undervalued or overvalued?
+    Explain why. 
+    \vspace*{\stretch{1}}
+    \part How would a Japanese merchant go about exploiting price differences between the US and Japan for the same basket of identical goods?
+    \vspace*{\stretch{1}}
+    \part What effect would these actions have on the USD-JPY exchange rate?
+    When would price pressures on the exchange rate stop?
+    \vspace*{\stretch{1}}
+\end{parts}
+
+\end{questions}
+
+\end{document}
