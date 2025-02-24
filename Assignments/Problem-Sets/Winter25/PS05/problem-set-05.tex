@@ -15,6 +15,7 @@
 \usepackage{titlesec}
 \usepackage{booktabs}
 
+%\printanswers % Comment out to hide answers 
 \CorrectChoiceEmphasis{\color{red}\bfseries\itshape}
 
 \newcommand{\class}{\fontfamily{lmss}\selectfont \textbf{EC 380}} % This is the name of the course 
@@ -62,20 +63,58 @@ You will not be given full credit if your answers cannot be easily understood.
 \question 
 Consider the following demand and supply curves for foreign currency, where \textbf{ExR} represents the exchange rate of local currency to foreign currency (e.g. USD: GBP).
 \textbf{FC} represents the units of foreign currency reserves held in the ``local" economy.
-
+\vspace*{-0.2cm}
 \begin{align*}
     \text{Demand}: \text{ExR} = 3 - 0.075FC \;\;\; ; \;\;\; \text{Supply}: \text{ExR} = 0.5 + 0.025FC      
 \end{align*}
 
 \begin{parts}
     \part What is the \textbf{Exchange Rate} and \textbf{Foreign Currency Reserves} amount?
+    \begin{solution}
+      Set Demand equal to supply and solve for FC and ExR
+      \begin{multicols}{2}
+        \vspace*{-1cm}
+        \begin{align*}
+          \text{Demand} &= \text{Supply} \\
+          3 - 0.075FC &= 0.5 + 0.025FC \\
+          2.5 &= 0.1FC \\
+          \dfrac{2.5}{0.1} &= FC = 25
+        \end{align*}
+        
+        \vspace*{-1cm}
+        \begin{align*}
+          \text{ExR} &= 3 - 0.0075(25) \\
+          \text{ExR} &= 1.125
+        \end{align*}
+      \end{multicols}
+    \end{solution}
     \vspace*{\stretch{2}}
     \part Consider a case in which the foreign interest rate, $i^{*}$, rises such that demand sees a \textbf{0.8 level-shift increase} and the new demand curve can be represented by $D^{'} = D + 0.8$. 
     What are the new exchange rate and currency reserve values?
+    \begin{solution}
+      Set New Demand equal to Supply and solve like we the previous problem
+      \vspace*{-1cm}
+      \begin{multicols}{2}
+        \begin{align*}
+        D' &= S \\
+        3 - 0.075FC + 0.8 &= 0.5 + 0.025FC \\
+        3.8 - 0.5 &= 0.1FC \\
+        \dfrac{3.3}{0.1} &= FC = 33
+      \end{align*}
+
+      \begin{align*}
+        \text{ExR} &= 0.5 + 0.025(33) \\
+        \text{ExR} &\approx 1.325
+      \end{align*}
+    \end{multicols}
+    \end{solution}
     \vspace*{\stretch{2}}
     \part How would you describe the change in \textbf{both currencies}?
     Which has depreciated and which has appreciated?
-    \vspace*{\stretch{1}}
+    \begin{solution}
+      The local currency \textbf{depreciated} \& the foreign currency \textbf{appreciated}
+    \end{solution}  
+    \vspace*{\stretch{1}}  
 \end{parts}
 
 \newpage
@@ -87,15 +126,35 @@ In the US, the goods are valued at 1,400 USD whereas in Japan they are valued at
 
 \begin{parts}
     \part What is the implicit USD-JPY exchange rate, if the PPP relationship is satisfied?
+    \begin{solution}
+      \begin{align*}
+        \text{USD - JPY} = \dfrac{194,775}{1,400} = 139.12
+      \end{align*}
+    \end{solution}
     \vspace*{\stretch{1}}
     \part Suppose that the exchange rate, USD-JPY, is currently 112 JPY per USD. 
-    Is the UDS undervalued or overvalued?
+    Is the USD undervalued or overvalued?
     Explain why. 
+    \begin{solution}
+      \begin{itemize}
+        \item It is undervalued
+        \item The \textbf{PPP} says it should be exchanged at 130.12
+        \item The USD \underbar{\textbf{should}} fetch a higher amount of JPY
+      \end{itemize}
+    \end{solution}
     \vspace*{\stretch{1}}
     \part How would a Japanese merchant go about exploiting price differences between the US and Japan for the same basket of identical goods?
+    \begin{solution}
+      Japanese merchants could import American poroducts at a cheaper price that they see locally.
+      Then resell these goods in Japan for a profit.
+    \end{solution}
     \vspace*{\stretch{1}}
     \part What effect would these actions have on the USD-JPY exchange rate?
     When would price pressures on the exchange rate stop?
+    \begin{solution}
+      As Japanese merchants buy more USD goods, they increase demand for USD. 
+      This will cause USD to appreciate in value as demand for USD is shifting to the right.
+    \end{solution}
     \vspace*{\stretch{1}}
 \end{parts}
 
