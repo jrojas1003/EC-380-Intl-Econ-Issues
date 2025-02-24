@@ -1,0 +1,185 @@
+\documentclass[12pt]{exam}
+\usepackage{amsthm}
+\usepackage{libertine}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb}
+\usepackage{multicol}
+\usepackage[shortlabels]{enumitem}
+\usepackage{siunitx}
+\usepackage{cancel}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{tikz}
+\usepackage{soul}
+
+%\printanswers % Comment out to hide answers 
+\CorrectChoiceEmphasis{\color{red}\bfseries\itshape}
+
+\newcommand{\class}{\textbf{EC 380}} % This is the name of the course 
+\newcommand{\examnum}{\textbf{Winter 25 - Practice Midterm}} % This is the name of the assignment
+\newcommand{\examdate}{\textbf{}} % This is the due date
+\newcommand{\timelimit}{}
+\addpoints % Allows to add points up to include table at end of document
+
+\pagestyle{headandfoot} % Fancy equivalent for exam documentclass
+\firstpageheadrule % Horizontal bar in first page
+\runningheadrule % Horizontal bar in rest of pages
+\firstpageheader{\class}{\examnum}{\examdate} % 1st page header content
+\firstpagefooter{Points earned: \makebox[1in]{\hrulefill} / \pointsonpage{\thepage} points}{}{\thepage\ of \numpages} % 1st page footer content
+\runningheader{\class}{\examnum}{\examdate} % Rest of pages header content
+\runningfooter{Points earned: \makebox[1in]{\hrulefill} / \pointsonpage{\thepage} points}{}{\thepage\ of \numpages} % Rest of pages footer content
+\bracketedpoints % Puts points per question inside brackets instead of parenthesis 
+
+
+\title{Practice Midterm Exam}
+\author{EC 380 - International Economic Issues}
+\date{Winter 2025}
+
+\begin{document}
+
+%-------------------------------------------------------------------------------
+\begin{coverpages}
+
+\maketitle
+
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering
+Attempt all problems. \\
+At the very least, identify where you no longer know what to do. \\
+Be aware of timing. \\
+}}}\end{center}
+\vspace{2cm}
+\makebox[0.6\textwidth]{Name:\enspace\hrulefill}
+\makebox[0.35\textwidth]{95\#:\enspace\hrulefill}
+
+\vspace{1cm}
+\noindent
+The maximum amount of points on this exam is \hl{X points}. 
+You have a total of 1h 20min (80 minutes) to complete the exam, unless otherwise noted. 
+The only items allowed on your desk at any time are a pen and/or pencil, scratch paper, a 3x5 note card, and a calculator. 
+Everything else must be stored in your bag underneath your desk. 
+Any form of cheating will result on a zero on the exam.\\
+
+\noindent There are three sections to be completed:
+
+\begin{itemize}
+    \item \textbf{Multiple Choice:} 3 Questions
+    \item \textbf{Short Answer Questions:} 1 Questions
+    \item \textbf{Multi-Part Analysis Questions:} 1 Question
+\end{itemize}
+
+\noindent Point totals and question specific instructions are listed for each section.
+Please ask for clarification if a question is not clear to you.\\
+
+\noindent The exam is a total of \numpages $\,$ pages. 
+\textbf{Please verify you have all \numpages $\,$ in your exam. If you do not, let me know immediately.}
+
+\noindent 
+
+\end{coverpages}
+%-------------------------------------------------------------------------------
+
+%-------------------------------------------------------------------------------
+\section*{Multiple Choice - 20 Points}
+Circle or "X" the answer you think most correctly answers the following questions. 
+If you mark a choice and would like to change it, \textbf{clearly indicate which one is your correct answer}. 
+%-------------------------------------------------------------------------------
+\begin{questions}
+
+\question[4] % Question 1
+Under \textbf{autarky}, what must the relative price of a good be equal to?
+
+    \begin{choices}
+        \choice The cost of inputs
+        \choice The world price
+        \correctchoice Its opportunity cost of production
+        \choice The consumer's willingness to pay
+    \end{choices}
+\vspace*{\stretch{1}}
+
+\question[4] % Question 3
+The \textbf{Stolper-Samuelson theorem} states that a \textbf{decrease} in the price of a good \fillin[][0.5in] the income earned by factors are that are used \fillin[][0.5in] in its production
+    \begin{choices}
+        \correctchoice Lowers; intensively
+        \choice Raises; intensively
+        \choice Lowers; non-intensively
+        \choice Raises; non-intensively
+    \end{choices}
+\vspace*{\stretch{1}}
+
+\question[4] % Question 5
+When trade occurs, we expect the price of the \textbf{import good} to be \fillin[][0.5in] relative to pre-trade prices. 
+    \begin{choices}
+        \choice Equal
+        \correctchoice Lower
+        \choice Higher
+        \choice Cannot tell without knowing more
+    \end{choices}
+\vspace*{\stretch{1}}
+%-------------------------------------------------------------------------------
+\newpage
+\section*{Short Answer - 15 Points}
+Answer the following questions to the best of your ability.
+For full credit, show all of your work and clearly indicate your final solution for each party by circling the answer.
+%-------------------------------------------------------------------------------
+
+\question
+Suppose that Mexico and Costa Rica have the following capital and labor endowments:
+\input{tables/q4-table}
+
+\begin{parts}
+    \part[5] 
+    Which country has the comparative advantage in producing the \textbf{labor-intensive good}?
+    \vspace*{\stretch{1}}
+    \part[5] 
+    How would things change in terms of comparative advantages if suddenly migrants entered Mexico, causing labor to jump up by an additional 200 units?
+    \vspace*{\stretch{1}}
+\end{parts}
+
+%-------------------------------------------------------------------------------
+\newpage
+\section*{Multi-Part Analysis - 30 Points}
+Answer the following questions to the best of your ability.
+For full credit, show all of your work and clearly indicate your final solution for each party by circling the answer.
+%-------------------------------------------------------------------------------
+
+%-------------------------------------------------------------------------------
+\question
+Suppose we are in an \textbf{autarky scenario} and considering the market for an imported good at Home. 
+Use the following \textbf{demand and supply} functions for solving the various equilibrium scenarios.
+
+\begin{align*}
+    \text{Demand: }& P = 415 - \dfrac{1}{7}Q_{d} \\
+    \text{Supply: }& P = 10 + \dfrac{1}{4}Q_{s}
+\end{align*}
+
+\textbf{Be sure to show all your work}
+
+\begin{parts}
+    \part[5] 
+    Report the coordinates of the equilibrium point, which represent the \textbf{price and quantity the market operates at}
+    \vspace*{\stretch{1}}
+    \part[5] 
+    Calculate the consumer and producer surplus values under \textbf{autarky}. 
+    What is the total welfare for the economy?
+    \vspace*{\stretch{1}}
+    \newpage
+    \part[6]
+    Suppose the government imposes a tariff of $t$ value on every good. 
+    What would we \textbf{expect to happen to quantity supplied, quantity demanded, and price, relative to free-trade}?
+    Provide a clear answer for each part mentioned and briefly explain why you expect those movements.
+    \vspace*{2cm}
+        \begin{parts}
+            \part \textbf{Quantity Supplied}
+            \vspace*{\stretch{1}}
+            \part \textbf{Quantity Demanded}
+            \vspace*{\stretch{1}}
+            \part \textbf{Price}
+            \vspace*{\stretch{1}}
+        \end{parts}
+\end{parts}
+
+\end{questions}
+%-------------------------------------------------------------------------------
+\end{document}
