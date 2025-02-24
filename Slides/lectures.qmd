@@ -2,92 +2,6 @@
 title: "Lectures"
 ---
 
-## First Half 
-
-### Introduction and Syllabus
-
-```{=html}
-<details>
-  <summary>Lecture Slides</summary>
-  <div class="embed-container">
-    <iframe class="slide deck" src="00-Introduction/000-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
-  <a class="btn btn-primary btn-md" href="00-Introduction/000-compile.qmd" target="_blank">
-    <i class="fa-solid fa-window-restore"></i>&ensp;Expand
-  </a>
-</details>
-```
-
-### Ricardian Model 
-
-```{=html}
-<details>
-  <summary>Lecture Slides</summary>
-  <div class="embed-container">
-    <iframe class="slide deck" src="01-Ricardo-Model/010-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
-  <a class="btn btn-primary btn-md" href="01-Ricardo-Model/010-compile.qmd" target="_blank">
-    <i class="fa-solid fa-window-restore"></i>&ensp;Expand
-  </a>
-</details>
-```
-
-### HO Model
-
-```{=html}
-<details>
-  <summary>Lecture Slides</summary>
-  <div class="embed-container">
-    <iframe class="slide deck" src="02-HO-Model/020-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
-  <a class="btn btn-primary btn-md" href="02-HO-Model/020-compile.qmd" target="_blank">
-    <i class="fa-solid fa-window-restore"></i>&ensp;Expand
-  </a>
-</details>
-```
-
-### Issues & Empirics
-
-```{=html}
-<details>
-  <summary>Lecture Slides</summary>
-  <div class="embed-container">
-    <iframe class="slide deck" src="03-Issues-and-Empirics/030-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
-  <a class="btn btn-primary btn-md" href="03-Issues-and-Empirics/030-compile.qmd" target="_blank">
-    i class="fa-solid fa-window-restore"></i>&ensp;Expand
-  </a>
-</details>
-```
-
-### Trade Policy
-
-```{=html}
-<details>
-  <summary>Lecture Slides</summary>
-  <div class="embed-container">
-    <iframe class="slide deck" src="04-Trade-Policy/040-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
-  <a class="btn btn-primary btn-md" href="04-Trade-Policy/040-compile.qmd" target="_blank">
-    <i class="fa-solid fa-window-restore"></i>&ensp;Expand
-  </a>
-</details>
-```
-
-### Midterm Feedback
-
-```{=html}
-<details>
-  <summary>Information</summary>
-  <div class="embed-container">
-    <iframe class="slide deck" src="../Assignments/midterm-feedback.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
-  <a class="btn btn-primary btn-md" href="../Assignments/midterm-feedback.qmd" target="_blank">
-    <i class="fa-solid fa-window-restore"></i>&ensp;Expand
-  </a>
-</details>
-```
-
 ## Second Half
 
 ### Globalization & International Crises
@@ -175,3 +89,113 @@ title: "Lectures"
 ```
 
 ### Exchange Rates
+
+#### Long-Run
+
+```{=html}
+<div>
+  <iframe class="slide deck" src="09-Exchange-Rates-Long-Run/090-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+</div>
+<a class="btn btn-primary btn-md" href="09-Exchange-Rates-Long-Run/090-compile.qmd" target="_blank">
+  <i class="fa-solid fa-window-restore"></i>&ensp;Expand
+</a>
+```
+
+#### Short/Medium-Run
+
+<!---
+```{=html}
+<div>
+  <iframe class="slide deck" src="10-Exchange-Rates-Short-Medium-Run/100-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+</div>
+<a class="btn btn-primary btn-md" href="10-Exchange-Rates-Short-Medium-Run/100-compile.qmd" target="_blank">
+  <i class="fa-solid fa-window-restore"></i>&ensp;Expand
+</a>
+```
+--->
+
+## First Half 
+
+### Introduction and Syllabus
+
+```{=html}
+<details>
+  <summary>Lecture Slides</summary>
+  <div class="embed-container">
+    <iframe class="slide deck" src="00-Introduction/000-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+  </div>
+  <a class="btn btn-primary btn-md" href="00-Introduction/000-compile.qmd" target="_blank">
+    <i class="fa-solid fa-window-restore"></i>&ensp;Expand
+  </a>
+</details>
+```
+
+### Ricardian Model 
+
+```{=html}
+<details>
+  <summary>Lecture Slides</summary>
+  <div class="embed-container">
+    <iframe class="slide deck" src="01-Ricardo-Model/010-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+  </div>
+  <a class="btn btn-primary btn-md" href="01-Ricardo-Model/010-compile.qmd" target="_blank">
+    <i class="fa-solid fa-window-restore"></i>&ensp;Expand
+  </a>
+</details>
+```
+
+### HO Model
+
+```{=html}
+<details>
+  <summary>Lecture Slides</summary>
+  <div class="embed-container">
+    <iframe class="slide deck" src="02-HO-Model/020-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+  </div>
+  <a class="btn btn-primary btn-md" href="02-HO-Model/020-compile.qmd" target="_blank">
+    <i class="fa-solid fa-window-restore"></i>&ensp;Expand
+  </a>
+</details>
+```
+
+### Issues & Empirics
+
+```{=html}
+<details>
+  <summary>Lecture Slides</summary>
+  <div class="embed-container">
+    <iframe class="slide deck" src="03-Issues-and-Empirics/030-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+  </div>
+  <a class="btn btn-primary btn-md" href="03-Issues-and-Empirics/030-compile.qmd" target="_blank">
+    i class="fa-solid fa-window-restore"></i>&ensp;Expand
+  </a>
+</details>
+```
+
+### Trade Policy
+
+```{=html}
+<details>
+  <summary>Lecture Slides</summary>
+  <div class="embed-container">
+    <iframe class="slide deck" src="04-Trade-Policy/040-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+  </div>
+  <a class="btn btn-primary btn-md" href="04-Trade-Policy/040-compile.qmd" target="_blank">
+    <i class="fa-solid fa-window-restore"></i>&ensp;Expand
+  </a>
+</details>
+```
+
+### Midterm Feedback
+
+```{=html}
+<details>
+  <summary>Information</summary>
+  <div class="embed-container">
+    <iframe class="slide deck" src="../Assignments/midterm-feedback.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+  </div>
+  <a class="btn btn-primary btn-md" href="../Assignments/midterm-feedback.qmd" target="_blank">
+    <i class="fa-solid fa-window-restore"></i>&ensp;Expand
+  </a>
+</details>
+```
