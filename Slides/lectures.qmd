@@ -103,7 +103,6 @@ title: "Lectures"
 
 #### Short/Medium-Run
 
-<!---
 ```{=html}
 <div>
   <iframe class="slide deck" src="10-Exchange-Rates-Short-Medium-Run/100-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
@@ -112,7 +111,12 @@ title: "Lectures"
   <i class="fa-solid fa-window-restore"></i>&ensp;Expand
 </a>
 ```
---->
+
+### Regional Topics
+
+#### USA
+
+#### LATAM
 
 ## First Half 
 
