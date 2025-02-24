@@ -27,7 +27,7 @@ website:
   announcement: 
     icon: clipboard2-check-fill
     dismissable: true
-    content: "**Recorded Lectures are all available under the Slides Tab**"
+    #content:
     type: warning
     position: below-navbar
 
