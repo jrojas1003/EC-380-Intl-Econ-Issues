@@ -102,6 +102,34 @@ title: "Readings"
 </details>
 ```
 
+### Chapter 13 (p. 328 - 351)
+
+```{=html}
+<details>
+  <summary>Gerber Chapter 13 </summary>
+  <a class="btn btn-primary btn-lg cv-download" href="Gerber-Textbook/Gerber-Ch13.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+  </a>
+  <div class="embed-container">
+    <iframe src="Gerber-Textbook/Gerber-Ch13.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
+
+### Chapter 15 (p. 382 - 407)
+
+```{=html}
+<details>
+  <summary>Gerber Chapter 15 </summary>
+  <a class="btn btn-primary btn-lg cv-download" href="Gerber-Textbook/Gerber-Ch15.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+  </a>
+  <div class="embed-container">
+    <iframe src="Gerber-Textbook/Gerber-Ch15.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
+
 **Textbook:** 
 Gerber, J. (2022). International Economics (8th ed.). Pearson. 
 
