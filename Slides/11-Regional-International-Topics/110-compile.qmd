@@ -1,0 +1,25 @@
+---
+title: "Regional Topics | USA & LATAM"
+subtitle: "EC 380 - International Economic Issues"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "EC380, Lecture 11 | Regional Topics"
+        preview-links: auto
+        code-fold: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+# USA (NAFTA/USMCA) {.inverse .note}
+
+{{< include 111-USA-NAFTA-USMCA.qmd >}}
+
+# LATAM {.inverse .note}
+
+{{< include 112-LATAM.qmd >}}
+
