@@ -29,7 +29,7 @@ title-slide-attributes:
 
 # Exchange Rate Example {.inverse .note}
 
-## Exchange Rates   
+## Exchange Rates
 
 ::: {.small}
 Q. Consider the following demand and supply curves of foreign currency, where ExR represents the local currency to foreign currency (e.g. USD-GBP) exchange rate.
