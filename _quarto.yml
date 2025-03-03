@@ -27,7 +27,7 @@ website:
   announcement: 
     icon: clipboard2-check-fill
     dismissable: true
-    content: "Problem Set 04 & Quiz 03 are due WEDNESDAY BEFORE LECTURE"
+    content: "Practice Final Exam is Published Under the Assignments Tab"
     type: warning
     position: below-navbar
 
