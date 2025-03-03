@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>financial-integration – EC 380 - International Econ</title>
+<title>usa-nafta-usmca – EC 380 - International Econ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -68,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -130,12 +159,23 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#separate-from-trade-in-goods-services" id="toc-separate-from-trade-in-goods-services" class="nav-link active" data-scroll-target="#separate-from-trade-in-goods-services">Separate from Trade in Goods &amp; Services</a></li>
-  <li><a href="#globalization-financial-integration" id="toc-globalization-financial-integration" class="nav-link" data-scroll-target="#globalization-financial-integration">Globalization &amp; Financial Integration</a></li>
-  <li><a href="#globalization-financial-integration-1" id="toc-globalization-financial-integration-1" class="nav-link" data-scroll-target="#globalization-financial-integration-1">Globalization &amp; Financial Integration</a></li>
-  <li><a href="#globalization-financial-integration-2" id="toc-globalization-financial-integration-2" class="nav-link" data-scroll-target="#globalization-financial-integration-2">Globalization &amp; Financial Integration</a></li>
-  <li><a href="#goal-of-globalization" id="toc-goal-of-globalization" class="nav-link" data-scroll-target="#goal-of-globalization">Goal of Globalization</a></li>
-  <li><a href="#key-institutions" id="toc-key-institutions" class="nav-link" data-scroll-target="#key-institutions">Key Institutions</a></li>
+  <li><a href="#background-the-us-is-huge" id="toc-background-the-us-is-huge" class="nav-link active" data-scroll-target="#background-the-us-is-huge">Background: The US is Huge</a></li>
+  <li><a href="#background" id="toc-background" class="nav-link" data-scroll-target="#background">Background</a></li>
+  <li><a href="#us-and-trade" id="toc-us-and-trade" class="nav-link" data-scroll-target="#us-and-trade">US and Trade</a></li>
+  <li><a href="#the-us-trading-partners" id="toc-the-us-trading-partners" class="nav-link" data-scroll-target="#the-us-trading-partners">The US Trading Partners</a></li>
+  <li><a href="#trade-relations" id="toc-trade-relations" class="nav-link" data-scroll-target="#trade-relations">Trade Relations</a></li>
+  <li><a href="#shift-in-trade-strategy" id="toc-shift-in-trade-strategy" class="nav-link" data-scroll-target="#shift-in-trade-strategy">Shift in Trade Strategy</a></li>
+  <li><a href="#shift-in-trade-strategy-1" id="toc-shift-in-trade-strategy-1" class="nav-link" data-scroll-target="#shift-in-trade-strategy-1">Shift in Trade Strategy</a></li>
+  <li><a href="#bilateralplurilateral-agreements" id="toc-bilateralplurilateral-agreements" class="nav-link" data-scroll-target="#bilateralplurilateral-agreements">Bilateral/Plurilateral Agreements</a></li>
+  <li><a href="#us-free-trade-agreements" id="toc-us-free-trade-agreements" class="nav-link" data-scroll-target="#us-free-trade-agreements">US Free Trade Agreements</a></li>
+  <li><a href="#the-us-mexico-canada" id="toc-the-us-mexico-canada" class="nav-link" data-scroll-target="#the-us-mexico-canada">The US, Mexico &amp; Canada</a></li>
+  <li><a href="#the-north-american-free-trade-agreement" id="toc-the-north-american-free-trade-agreement" class="nav-link" data-scroll-target="#the-north-american-free-trade-agreement">The North American Free Trade Agreement</a></li>
+  <li><a href="#important-features-of-nafta" id="toc-important-features-of-nafta" class="nav-link" data-scroll-target="#important-features-of-nafta">Important Features of NAFTA</a></li>
+  <li><a href="#important-features-of-nafta---trade-barriers" id="toc-important-features-of-nafta---trade-barriers" class="nav-link" data-scroll-target="#important-features-of-nafta---trade-barriers">Important Features of NAFTA - Trade Barriers</a></li>
+  <li><a href="#important-features-of-nafta---content-reqs" id="toc-important-features-of-nafta---content-reqs" class="nav-link" data-scroll-target="#important-features-of-nafta---content-reqs">Important Features of NAFTA - Content Reqs</a></li>
+  <li><a href="#important-features-of-nafta---dispute-resolution" id="toc-important-features-of-nafta---dispute-resolution" class="nav-link" data-scroll-target="#important-features-of-nafta---dispute-resolution">Important Features of NAFTA - Dispute Resolution</a></li>
+  <li><a href="#important-features-of-nafta---migration" id="toc-important-features-of-nafta---migration" class="nav-link" data-scroll-target="#important-features-of-nafta---migration">Important Features of NAFTA - Migration</a></li>
+  <li><a href="#fta-trade-balance" id="toc-fta-trade-balance" class="nav-link" data-scroll-target="#fta-trade-balance">FTA Trade Balance</a></li>
   </ul>
 </nav>
 </nav>
@@ -149,58 +189,325 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="separate-from-trade-in-goods-services" class="level2">
-<h2 class="anchored" data-anchor-id="separate-from-trade-in-goods-services">Separate from Trade in Goods &amp; Services</h2>
-<p>Global <span class="hp">financial integration</span> is a much-debated but important topic. Here is a quick summary:</p>
+<section id="background-the-us-is-huge" class="level2">
+<h2 class="anchored" data-anchor-id="background-the-us-is-huge">Background: The US is Huge</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/usa-map.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="background" class="level2">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
+<p><span class="h">Post-World War II</span></p>
+<ul>
+<li>The US has used its size, wealth and military power to create their international economic relations which promote international trade, finance, and support for low- and middle-income countries</li>
+</ul>
 <div class="incremental">
 <ul class="incremental">
-<li>US flow of foreign investments has been <span class="hp">declining since 2008</span></li>
-<li>Many countries have <span class="hp">large international financial flows</span> or investments, consisting of assests and liabilities (FDI, securities, and debts)</li>
-<li>Countries have become susceptible to <span class="hp">sudden stops and surges</span> in these flows, leading to greater economic volatility for developing nations</li>
+<li>Over time, many <span class="hi">emerging markets</span> succeeded and the world economy rebalanced</li>
+<li>The US desire of an open, multilateral world order has <span class="hp">decreased</span></li>
+<li>Support for <span class="hp">unilateralism and nationalism</span> has gone up</li>
+<li>Support for international institutions which were set up to support the world economic order has also fallen</li>
 </ul>
 </div>
 <hr>
 </section>
-<section id="globalization-financial-integration" class="level2">
-<h2 class="anchored" data-anchor-id="globalization-financial-integration">Globalization &amp; Financial Integration</h2>
+<section id="us-and-trade" class="level2">
+<h2 class="anchored" data-anchor-id="us-and-trade">US and Trade</h2>
+<p>Although trade represents a small share of GDP, there has been an upward trend in this ratio</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/globalization-financial-investments.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="images/usa-trade-to-gdp.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <hr>
 </section>
-<section id="globalization-financial-integration-1" class="level2">
-<h2 class="anchored" data-anchor-id="globalization-financial-integration-1">Globalization &amp; Financial Integration</h2>
+<section id="the-us-trading-partners" class="level2">
+<h2 class="anchored" data-anchor-id="the-us-trading-partners">The US Trading Partners</h2>
+<div class="columns">
+<div class="column" style="width:60%;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/globalization-stable-volatile-investments.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="images/us-can-mex.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</div><div class="column" style="width:40%;">
+<p><span class="h align-center">US &amp; MEX</span></p>
+<div class="fragment">
+<ul>
+<li>US <span class="math inline">\(\Rightarrow\)</span> MEX: $243 BN</li>
+<li>MEX <span class="math inline">\(\Rightarrow\)</span> US: $456 BN</li>
+</ul>
+</div>
+<p><span class="h align-center">US &amp; CAN</span></p>
+<div class="fragment">
+<ul>
+<li>US <span class="math inline">\(\Rightarrow\)</span> CAN: $269 BN</li>
+<li>CAN <span class="math inline">\(\Rightarrow\)</span> US: $410 BN</li>
+</ul>
+</div>
+<p><span class="h align-center">CAN &amp; MEX</span></p>
+<div class="fragment">
+<ul>
+<li>MEX <span class="math inline">\(\Rightarrow\)</span> CAN: $33 BN</li>
+<li>CAN <span class="math inline">\(\Rightarrow\)</span> MEX: $8.76 BN</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="trade-relations" class="level2">
+<h2 class="anchored" data-anchor-id="trade-relations">Trade Relations</h2>
+<p>US trading partners have remained pretty consistent (and the Gravity Model can explain it well)</p>
+<div class="fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/usa-trade-partners.png" class="quarto-figure quarto-figure-center figure-img" height="350"></p>
+</figure>
+</div>
+</div>
+<div class="fragment">
+<p><span class="hp align-center">The biggest surprise is China’s surge as a trade partner</span></p>
+</div>
+</section>
+<section id="shift-in-trade-strategy" class="level2">
+<h2 class="anchored" data-anchor-id="shift-in-trade-strategy">Shift in Trade Strategy</h2>
+<p>Over the last two decades, the US has shifted their <span class="h">trade strategy</span> away from <span class="hi">multilateral negotiations</span> and began to favor <span class="hi">bilateral/plurilateral negotiations</span></p>
+<div class="fragment">
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><span class="hi align-center"><u>Multilateral Negotiations</u></span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>Involve many countries, usually on a global scale</li>
+<li>Conducted under <span class="h">international organization framework</span> like the WTO</li>
+<li>Aims to create broad and stardardized trade rules that apply to all members</li>
+</ul>
+</div>
+</div><div class="column" style="width:50%;">
+<p><span class="hi align-center"><u>Bilateral/Plurilateral Negotiations</u></span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>Involve two (bi) or more (pluri) but fewer than all WTO members</li>
+<li>Can be regional (NAFTA; CAFTA-DR)</li>
+<li>Focus on reducing tariffs, increasing market access, and other specific trade issues</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="shift-in-trade-strategy-1" class="level2">
+<h2 class="anchored" data-anchor-id="shift-in-trade-strategy-1">Shift in Trade Strategy</h2>
+<p>There are <span class="hi">several factors</span> that help explain this shift in strategy:</p>
+<div class="incremental">
+<ul class="incremental">
+<li><span class="h">Multilateral negotations</span> became more complex as more nations became members</li>
+<li>The focus of negotiations has shifted toward much more difficult issues (intellectual property, trade of services, emerging market assistance, etc.)</li>
+<li>The end of the Cold War meant that the US no longer has a need to compromise or offer asymmetric access to the US market</li>
+<li>Rise of nations that were previously relatively unimportant in world markets (China, South Korea, Taiwan, Brazil, India, etc.)</li>
+</ul>
+</div>
+</section>
+<section id="bilateralplurilateral-agreements" class="level2">
+<h2 class="anchored" data-anchor-id="bilateralplurilateral-agreements">Bilateral/Plurilateral Agreements</h2>
+<p><span class="hi">NAFTA</span> was the first earnest attempt to move toward bilateral trade solutions</p>
+<ul>
+<li><p>It was signed in 1993 and went into effect in 1994</p></li>
+<li><p>First to include labor and environmental standards</p></li>
+</ul>
+<div class="fragment">
+<ul>
+<li>Importantly, it gave the US additional leverage in multilateral negotiations as it helped signal that there are other negotiation options beyond the GATT/WTO setting</li>
+</ul>
+</div>
+</section>
+<section id="us-free-trade-agreements" class="level2">
+<h2 class="anchored" data-anchor-id="us-free-trade-agreements">US Free Trade Agreements</h2>
+<ul>
+<li><p>The US currently has <span class="h">Free Trade Agreements (FTA)</span> with twenty countries grouped into three strategic geographical regions</p>
+<ul>
+<li>Middle East &amp; North Africa | Pacific Basin | The Americas</li>
+</ul></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/US-FTAs.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <hr>
 </section>
-<section id="globalization-financial-integration-2" class="level2">
-<h2 class="anchored" data-anchor-id="globalization-financial-integration-2">Globalization &amp; Financial Integration</h2>
+<section id="the-us-mexico-canada" class="level2">
+<h2 class="anchored" data-anchor-id="the-us-mexico-canada">The US, Mexico &amp; Canada</h2>
+<p>Trade between the US, Mexico, and Canada is very large and significant to the world economy</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>493.4 M people combined</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<ul>
+<li>Over $24 Trillion in combined GDP</li>
+</ul>
+</div>
+</div>
+<div class="fragment">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/globalization-susceptible-crises.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="images/NAFTA-Demos.png" class="quarto-figure quarto-figure-center figure-img" height="350"></p>
 </figure>
+</div>
+</div>
+<div class="notes">
+<ul>
+<li>Roughly the same size as the 27 nations of the EU (446M)</li>
+<li>And their GDP (15.6)</li>
+<li>The region also is relatively wealthy (49,000 GDP per capita)</li>
+</ul>
+</div>
+</section>
+<section id="the-north-american-free-trade-agreement" class="level2">
+<h2 class="anchored" data-anchor-id="the-north-american-free-trade-agreement">The North American Free Trade Agreement</h2>
+<p>Ratified in 1993, implemented in 1994</p>
+<p>A modification called the United States-Mexico-Canada Agreement (USMCA) was negotiated in 2018, ratified and implemented in 2020</p>
+<div class="incremental">
+<ul class="incremental">
+<li><p>The US and Canada already had relatively open economies with few trade barriers through the <span class="hi">Auto Pact (1965) and CUSTA (1989)</span></p>
+<ul class="incremental">
+<li><p>This wasn’t without its opponents which primarily argued that:</p>
+<ol class="incremental" type="1">
+<li>Issues of Canadian firms competitiveness against US firms</li>
+<li>Concern about erosion of Canadian social programs</li>
+<li>The possibility of US cultural domination</li>
+</ol></li>
+</ul></li>
+</ul>
+</div>
+<div class="fragment">
+<p><span class="hp align-center">All of this together meant that most of the changes came from the Mexican side of things</span></p>
 </div>
 <hr>
 </section>
-<section id="goal-of-globalization" class="level2">
-<h2 class="anchored" data-anchor-id="goal-of-globalization">Goal of Globalization</h2>
-<p>The US established a global economic order governed by mutually accepted rules and overseen by multilateral institutions</p>
-<p>The idea has been to create a better world with countries seeking to cooperate with one another to promote <span class="hp">prosperity and peace</span></p>
-<p><span class="hp">Free trade</span> and the <span class="hp">rule of law</span> were mainstays of the system, helping to prevent most economic disputes from escalating into larger conflicts</p>
+<section id="important-features-of-nafta" class="level2">
+<h2 class="anchored" data-anchor-id="important-features-of-nafta">Important Features of NAFTA</h2>
+<div class="incremental">
+<ul class="incremental">
+<li><span class="hi">Trade Barriers Were Reduced</span></li>
+</ul>
+<p><br></p>
+<ul class="incremental">
+<li><span class="hi">Specified Content Requirements for Goods</span></li>
+</ul>
+<p><br></p>
+<ul class="incremental">
+<li><span class="hi">Dispute Resolution Mechanisms</span></li>
+</ul>
+<p><br></p>
+</div>
+<div class="fragment">
+<ul>
+<li><span class="hp">Not featured: Issue of Migration</span></li>
+</ul>
+</div>
 <hr>
 </section>
-<section id="key-institutions" class="level2">
-<h2 class="anchored" data-anchor-id="key-institutions">Key Institutions</h2>
+<section id="important-features-of-nafta---trade-barriers" class="level2">
+<h2 class="anchored" data-anchor-id="important-features-of-nafta---trade-barriers">Important Features of NAFTA - Trade Barriers</h2>
+<p><span class="hi">Tariff reductions were a key point to increase trade amongst the members</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li><p>The US already had relatively low tariffs on Mexico:</p>
+<ul class="incremental">
+<li>Between 1993 and 1996, the average US tariff on Mexican goods fell from 2.07 to 0.65 percent</li>
+</ul></li>
+<li><p>Mexican tariffs on US goods fell from 10 to 2.9 percent</p></li>
+<li><p>Tariffs were phases out in variable periods with the intent to give domestic industries sufficient time to adjust to new circumstances</p></li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li><p>These reductions were a continuation of efforts since the mid-1980s</p></li>
+<li><p>By 1994, Mexico was substantially open to the world</p></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="important-features-of-nafta---content-reqs" class="level2">
+<h2 class="anchored" data-anchor-id="important-features-of-nafta---content-reqs">Important Features of NAFTA - Content Reqs</h2>
+<p><span class="hi">A specified percentage of the value of the good must be made in North America</span></p>
+<div class="fragment">
+<ul>
+<li>One of the updates made by <span class="h">USMCA</span> increased the content requirements</li>
+</ul>
+</div>
+<div class="incremental">
+<ul class="incremental">
+<li>The purpose is to prevent nonmembers from using the lower tariffs in one country to gain access to all three markets
+<ul class="incremental">
+<li>Economists dislike this because it incresaes the possibility of <span class="h">trade diversion (inefficient allocation of resources)</span></li>
+<li></li>
+</ul></li>
+</ul>
+</div>
+<div class="notes">
+<p>Production of inputs in lower-cost, nonmember countries could be reduced if firms move their operations to one of the member countreis in order to meet the content requirements</p>
+<p>Move from the Caribbean to Mexico, even though Mexico is not the lowest-cost producer</p>
+</div>
+<hr>
+</section>
+<section id="important-features-of-nafta---dispute-resolution" class="level2">
+<h2 class="anchored" data-anchor-id="important-features-of-nafta---dispute-resolution">Important Features of NAFTA - Dispute Resolution</h2>
+<p><span class="hi">Set up dispute resolution depending on the source of the disagreement</span></p>
+<div class="fragment">
+<ul>
+<li>Dumping and anti-dumping duties</li>
+<li>Treatment of foreign investors by national policies <span class="h">(investor-state disputes)</span></li>
+<li>General disputes</li>
+<li><span class="hp">Labor and Environmental standards</span></li>
+</ul>
+</div>
+<div class="fragment">
+<p>The <span class="h">investor-state dispute article</span> was one of the most controversial parts of the entire agreement.</p>
+<ul>
+<li>Critics see it as an unreasonable empowerment of private firms and a weakening of governments</li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="important-features-of-nafta---migration" class="level2">
+<h2 class="anchored" data-anchor-id="important-features-of-nafta---migration">Important Features of NAFTA - Migration</h2>
+<p><span class="hp align-center">Because NAFTA is a free trade area and not a common market, there is no provision for the movement of labor</span></p>
+<div class="fragment">
+<p>This is usually the norm in FTAs but the US-MEX context makes it an important issue to consider</p>
+</div>
+<div class="incremental">
+<ul class="incremental">
+<li>Mexican migrants to the US totaled more than 11.1 million in 2018 and were 25% of all immigrants</li>
+<li>There’s an estimate that over one-half of this population is undocumented</li>
+<li>There has been a decline in the rate of migrants from Mexico since the early 2000s</li>
+<li>Even so, the vast number of migrants remains significant and makes it an important issue between both countries</li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="fta-trade-balance" class="level2">
+<h2 class="anchored" data-anchor-id="fta-trade-balance">FTA Trade Balance</h2>
+<p>The US has <span class="hi">much less unbalanced trade</span> with the countreis that have signed FTAs</p>
+<div class="fragment">
+<p>When countries enter an FTA, the elimination of trade barriers will usually be greater outside of the US</p>
+<p><span class="hi align-center">As foreign barriers decline, US exports grow</span></p>
+</div>
+<div class="fragment">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/globalization-organizations.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="images/FTA-Trade-Balance.png" class="quarto-figure quarto-figure-center figure-img" height="300"></p>
 </figure>
+</div>
+</div>
+<div class="notes">
+<p>Recall that with increased trade, consumers have more choices and businesses are more competitive when they have greater access to imports</p>
 </div>
 
 
