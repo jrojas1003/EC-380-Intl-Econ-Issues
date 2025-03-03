@@ -122,15 +122,80 @@ The data also suggests that poor countries either gave up, or were not able to t
 Rather than trading goods, which everyone was aware of the international market price, countries traded their resources (paper) and techonology (tools). 
 Something that actually happens in the real world is the trade of intermediate goods, which are input factors necessary in production. 
 
-<!--
 ## Activity 02
 
 ### Game Set-Up
 
+The class is divided into two countries, country X and country O.
+
+In this game we are observing how tariffs may impact trade volume and behave as obstacles.
+Each student is asked to rank all possible Dum-Dum flavors (16 total) from their most favorite to their least. 
+They are then randomly given 3 Dum-Dums. 
+Each student then counts the value of their initial bundle, based off their individual rankings. 
+
+Students are then allowed to trade with each other. 
+This can be either within country or across countries. 
+There are two rounds of trading, with the random draw being completed at the start of each round. 
+Each round is roughly of 5 to 7 minutes in length. 
+
+In the first round, there are tariffs that a citizen from country O must pay if they trade with someone from country X.
+The tariff takes form of a tic-tac-toe game. 
+It does not matter who wins or loses. 
+Once the game is complete, both students **must** go to the instructor to verify the game was completed, both students have written their names down on the game, and be signed by the instructor.
+Once it is signed, they can now trade with each other. 
+The objective of the tariff is to present a non-monetary obstacle to trading efficiency. 
+While they are playing and getting their tariff verified, they are foregoing any other possible trades in the time spent. 
+
+In the second round, there are **no tariffs** which allows for free trade within and across borders. 
+In theory, this should permit for more trade and a more efficient allocation of bundles. 
+
 ### Results
+
+The ranking of Dum-Dum flavors (on average) are as follows:
+
+| Flavor         | Ranking (Avg) |
+|:---------------:|:--------------:|
+| blue raspberry | 12.84        |
+| strawberry     | 10.25        |
+| cherry        | 9.69         |
+| peach-mango   | 9.16         |
+| root beer     | 9.09         |
+| sour apple    | 9.07         |
+| cotton candy  | 8.67         |
+| watermelon    | 8.47         |
+| lemon lime    | 8.22         |
+| pineapple     | 7.91         |
+| fruit punch   | 7.85         |
+| cream soda    | 7.55         |
+| orange        | 7.16         |
+| bubblegum     | 7.09         |
+| butterscotch  | 6.6          |
+| grape         | 6.33         |
+
+The results of each round are:
+
+|   Statistic  | Round 1 | Round 2 | R2 - R1 |
+|--------------|:-------:|:-------:|:-------:|
+| Initial (Avg) | 27.76  | 25.76   | -2      |
+| Initial (Std) | 9.37   | 8.09    | -1.28   |
+| Final (Avg)   | 40.73  | 41.09   | 0.36    |
+| Final (Std)   | 6.34   | 6.65    | 0.31    |
+| Trades (Avg)  | 2.73   | 3.38    | 0.65    |
+| Gain per Trade   | 4.75   | 12.15   | 7.4     |
 
 ### Observations
 
+The data suggests that there were no large differences in the value of the starting bundle and students were able to maximize their bundle value at similar levels.
+
+However, the number of trades does increase (on average) which is expected as there are less obstacles from Round 1 to Round 2. 
+
+Most surprising is the **efficiency** gains when tariffs are removed.
+Students were able to find ideal trading partners to maximize gains from each trade. 
+This is evidenced in gain per trade value increasing from 4.75 in Round 1 to 12.15 in Round 2.
+
+As anecdotal evidence, trading in Round 2 eased and finished nearly 2 minutes before the time limit. 
+
+<!--
 ## Activity 03
 
 ### Game Set-Up
