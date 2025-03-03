@@ -5194,6 +5194,34 @@
     "text": "FX Market: CIP & UIP\nTaking both our previous equations, and dividing one into the other on both sides:\n\\[\n    \\text{CIP: } (1 + i) = (1 + i^{*}) \\dfrac{F_{\\text{USD/EUR}}}{R_{\\text{USD/EUR}}}\n\\]\n\\[\n    \\text{UIP : } (1 + i) = (1 + i^{*}) \\dfrac{E(F)_{\\text{USD/EUR}}}{R_{\\text{USD/EUR}}}\n\\]\n\n\\[\n    \\Rightarrow 1 = \\dfrac{F_{\\text{USD/EUR}}}{E(F)_{\\text{USD/EUR}}}\n\\]\n\n\nUnder the assumption of both types of investors (risky and riskless) exhausting all arbitrage opportunities, expected exchange rates should be equal to forward exchange rates"
   },
   {
+    "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#exchange-rates",
+    "href": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#exchange-rates",
+    "title": "Global Finance | Exchange Rates Short & Medium Run",
+    "section": "Exchange Rates",
+    "text": "Exchange Rates\n\nQ. Consider the following demand and supply curves of foreign currency, where ExR represents the local currency to foreign currency (e.g. USD-GBP) exchange rate. FC represents the units of foreign currency reserves held in the “local” economy.\n\\[\\begin{align*}\n  D: ExR = 57 - 0.061FC \\;\\;\\; ; \\;\\;\\; S: ExR = 2 + 0.012FC\n\\end{align*}\\]\n\n\n\nWhat is the market clearing rate of exchange and the associated level of foreign currency reserves?\nConsider a case where the market anticipates a new technology being released abroad, which causes demand for foreing currency reserves to rise by 2 units, such that the new demand curve can be represented by \\(D' = D + 2\\). What are the new exchange rate and currency reserve values?\nHow would you describe the change in both currencies? Which has depreciated and which has appreciated?"
+  },
+  {
+    "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#question-01",
+    "href": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#question-01",
+    "title": "Global Finance | Exchange Rates Short & Medium Run",
+    "section": "Question 01",
+    "text": "Question 01\n\\[\\begin{align*}\n  D: ExR = 57 - 0.061FC \\;\\;\\; ; \\;\\;\\; S: ExR = 2 + 0.012FC\n\\end{align*}\\]\nFind the equilibrium values of ExR and FC\n\n\\[\\begin{align*}\n  \\text{Demand} &= \\text{Supply} \\\\\n  57 - 0.061FC &= 2 + 0.012FC \\\\\n  55 &= 0.073FC \\\\\n  FC &= 753.42\n\\end{align*}\\]\n\n\n\\[\\begin{align*}\n  ExR &= 2 + 0.012(753.32) \\\\\n  ExR &= 11.04\n\\end{align*}\\]"
+  },
+  {
+    "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#question-02",
+    "href": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#question-02",
+    "title": "Global Finance | Exchange Rates Short & Medium Run",
+    "section": "Question 02",
+    "text": "Question 02\nD’ = D + 2\n\n\\[\\begin{align*}\n  \\text{New Demand} &= \\text{Supply} \\\\\n  57 - 0.061FC + 2 &= 2 + 0.012FC \\\\\n  57 &= 0.073FC \\\\\n  FC &= 780.82\n\\end{align*}\\]\n\n\n\\[\\begin{align*}\n  ExR &= 2 + 0.012(780.82) \\\\\n  ExR &= 11.37\n\\end{align*}\\]"
+  },
+  {
+    "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#question-03",
+    "href": "Slides/10-Exchange-Rates-Short-Medium-Run/100-compile.html#question-03",
+    "title": "Global Finance | Exchange Rates Short & Medium Run",
+    "section": "Question 03",
+    "text": "Question 03\nHow would you describe the change in both currencies? Which has depreciated and which has appreciated?\n\n\n\nAt first\n\\[\\begin{align*}\n  FC = 753.42 \\; ; \\; ExR = 11.04\n\\end{align*}\\]\n\n\n\nAfter change\n\\[\\begin{align*}\n  FC = 780.82 \\; ; \\; ExR = 11.37\n\\end{align*}\\]\n\n\n\nForeign Currency has appreciated and Local Currency has depreciated"
+  },
+  {
     "objectID": "Slides/10-Exchange-Rates-Short-Medium-Run/102-interest-parity.html",
     "href": "Slides/10-Exchange-Rates-Short-Medium-Run/102-interest-parity.html",
     "title": "EC 380 - International Econ",
