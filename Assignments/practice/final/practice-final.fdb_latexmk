@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1740423809.20924 "/Users/joserojas/Documents/Teaching/EC380/Assignments/practice/final/practice-final.tex" "practice-final.pdf" "practice-final" 1740423809.93373 0
-  "/Users/joserojas/Documents/Teaching/EC380/Assignments/practice/final/practice-final.tex" 1740423809.02219 9963 a8767b08c470bcb6f6065af4842774ed ""
+["pdflatex"] 1740965904.19557 "/Users/joserojas/Documents/Teaching/EC380/Assignments/practice/final/practice-final.tex" "practice-final.pdf" "practice-final" 1740965904.92239 0
+  "/Users/joserojas/Documents/Teaching/EC380/Assignments/practice/final/practice-final.tex" 1740965902.57776 10276 edb4955157a8b91025edd6ab555028a9 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_lyu3x3.enc" 1490131464 2835 bfce207f80837ef8737b6a788d8bc760 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc" 1490131464 3357 5261ce65ba03aef9faf6135657b9abb6 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc" 1490131464 2807 3bc923a7d38598e901b235df221224cb ""
@@ -166,8 +166,8 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1734939011 8221433 bb52dd08fc4036ad0c5bff34b43066ca ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "images/empty-graph.png" 1740377224.19327 7087 3170fa1785a783f7e52ea995f3d235a7 ""
-  "practice-final.aux" 1740423809.85532 2320 eb963db26d579a0a242b5b517d9165a9 "pdflatex"
-  "practice-final.tex" 1740423809.02219 9963 a8767b08c470bcb6f6065af4842774ed ""
+  "practice-final.aux" 1740965904.82983 2462 c9acf0a8667c1d62818a7274d0d7c708 "pdflatex"
+  "practice-final.tex" 1740965902.57776 10276 edb4955157a8b91025edd6ab555028a9 ""
   (generated)
   "practice-final.aux"
   "practice-final.log"
