@@ -114,6 +114,15 @@ title: "Lectures"
 
 ### Regional Topics
 
+```{=html}
+<div>
+  <iframe class="slide deck" src="11-Regional-International-Topics/110-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+</div>
+<a class="btn btn-primary btn-md" href="11-Regional-International-Topics/110-compile.qmd" target="_blank">
+  <i class="fa-solid fa-window-restore"></i>&ensp;Expand
+</a>
+```
+
 ## First Half 
 
 ### Introduction and Syllabus
