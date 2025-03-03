@@ -15,11 +15,11 @@ title-slide-attributes:
   data-background-position: left
 ---
 
-# USA (NAFTA/USMCA) {.inverse .note}
+# The United States of America 🇺🇸 🦅  {.inverse .note}
 
 {{< include 111-USA-NAFTA-USMCA.qmd >}}
 
-# LATAM {.inverse .note}
+# Latin America 🇲🇽🇨🇺🇩🇴🇭🇳🇬🇹🇧🇿🇸🇻🇳🇮🇨🇷🇨🇴🇻🇪🇵🇦🇵🇪🇧🇷🇧🇴🇵🇾🇺🇾🇨🇱🇦🇷🇸🇷🇬🇾🇬🇫🇭🇹{.inverse .note}
 
 {{< include 112-LATAM.qmd >}}
 

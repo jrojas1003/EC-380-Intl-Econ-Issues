@@ -1,3 +1,314 @@
 ---
 name: NAFTA
 ---
+
+## Background: The US is Huge
+
+![](images/usa-map.jpg){fig-align="center"}
+
+---
+
+## Background
+
+[Post-World War II]{.h}
+
+- The US has used its size, wealth and military power to create their international economic relations which promote international trade, finance, and support for low- and middle-income countries
+
+::: {.incremental}
+- Over time, many [emerging markets]{.hi} succeeded and the world economy rebalanced
+- The US desire of an open, multilateral world order has [decreased]{.hp}
+- Support for [unilateralism and nationalism]{.hp} has gone up
+- Support for international institutions which were set up to support the world economic order has also fallen
+:::
+
+---
+
+## US and Trade
+
+Although trade represents a small share of GDP, there has been an upward trend in this ratio
+
+![](images/usa-trade-to-gdp.png){fig-align="center"}
+
+---
+
+## The US Trading Partners
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/us-can-mex.jpeg){fig-align="center"}
+:::
+
+::: {.column width="40%"}
+[US & MEX]{.h .align-center}
+
+::: {.fragment}
+- US $\Rightarrow$ MEX: $243 BN
+- MEX $\Rightarrow$ US: $456 BN
+:::
+
+[US & CAN]{.h .align-center}
+
+::: {.fragment}
+- US $\Rightarrow$ CAN: $269 BN
+- CAN $\Rightarrow$ US: $410 BN
+:::
+
+[CAN & MEX]{.h .align-center}
+
+::: {.fragment}
+- MEX $\Rightarrow$ CAN: $33 BN
+- CAN $\Rightarrow$ MEX: $8.76 BN
+:::
+
+:::
+
+::::
+
+## Trade Relations
+
+US trading partners have remained pretty consistent (and the Gravity Model can explain it well)
+
+::: {.fragment}
+![](images/usa-trade-partners.png){fig-align="center" height="350"}
+:::
+
+::: {.fragment}
+[The biggest surprise is China's surge as a trade partner]{.hp .align-center}
+:::
+
+## Shift in Trade Strategy
+
+Over the last two decades, the US has shifted their [trade strategy]{.h} away from [multilateral negotiations]{.hi} and began to favor [bilateral/plurilateral negotiations]{.hi}
+
+::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Multilateral Negotiations]{.hi .align-center .underline}
+
+::: {.incremental}
+- Involve many countries, usually on a global scale
+- Conducted under [international organization framework]{.h} like the WTO
+- Aims to create broad and stardardized trade rules that apply to all members
+:::
+
+:::
+
+::: {.column width="50%"}
+[Bilateral/Plurilateral Negotiations]{.hi .align-center .underline}
+
+::: {.incremental}
+- Involve two (bi) or more (pluri) but fewer than all WTO members
+- Can be regional (NAFTA; CAFTA-DR)
+- Focus on reducing tariffs, increasing market access, and other specific trade issues
+:::
+
+:::
+
+::::
+
+:::
+
+## Shift in Trade Strategy
+
+There are [several factors]{.hi} that help explain this shift in strategy:
+
+::: {.incremental}
+- [Multilateral negotations]{.h} became more complex as more nations became members
+- The focus of negotiations has shifted toward much more difficult issues (intellectual property, trade of services, emerging market assistance, etc.)
+- The end of the Cold War meant that the US no longer has a need to compromise or offer asymmetric access to the US market
+- Rise of nations that were previously relatively unimportant in world markets (China, South Korea, Taiwan, Brazil, India, etc.)
+:::
+
+## Bilateral/Plurilateral Agreements
+
+[NAFTA]{.hi} was the first earnest attempt to move toward bilateral trade solutions
+
+- It was signed in 1993 and went into effect in 1994
+
+- First to include labor and environmental standards
+
+::: {.fragment}
+- Importantly, it gave the US additional leverage in multilateral negotiations as it helped signal that there are other negotiation options beyond the GATT/WTO setting
+:::
+
+## US Free Trade Agreements
+
+- The US currently has [Free Trade Agreements (FTA)]{.h} with twenty countries grouped into three strategic geographical regions
+
+    - Middle East & North Africa | Pacific Basin | The Americas
+
+![](images/US-FTAs.png){fig-align="center"}
+
+---
+
+## The US, Mexico & Canada
+
+Trade between the US, Mexico, and Canada is very large and significant to the world economy
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- 493.4 M people combined 
+:::
+
+::: {.column width="50%"}
+- Over $24 Trillion in combined GDP
+:::
+
+::::
+
+::: {.fragment}
+![](images/NAFTA-Demos.png){height="350" fig-align="center"}
+:::
+
+::: {.notes}
+- Roughly the same size as the 27 nations of the EU (446M)
+- And their GDP (15.6)
+- The region also is relatively wealthy (49,000 GDP per capita)
+:::
+
+## The North American Free Trade Agreement
+
+Ratified in 1993, implemented in 1994
+
+A modification called the United States-Mexico-Canada Agreement (USMCA) was negotiated in 2018, ratified and implemented in 2020
+
+::: {.incremental}
+- The US and Canada already had relatively open economies with few trade barriers through the [Auto Pact (1965) and CUSTA (1989)]{.hi}
+
+    - This wasn't without its opponents which primarily argued that:
+
+        1. Issues of Canadian firms competitiveness against US firms
+        2. Concern about erosion of Canadian social programs
+        3. The possibility of US cultural domination
+:::
+
+::: {.fragment}
+[All of this together meant that most of the changes came from the Mexican side of things]{.hp .align-center}
+:::
+
+---
+
+## Important Features of NAFTA
+
+::: {.incremental}
+- [Trade Barriers Were Reduced]{.hi}
+
+<br>
+
+- [Specified Content Requirements for Goods]{.hi}
+
+<br>
+
+- [Dispute Resolution Mechanisms]{.hi}
+
+<br>
+
+:::
+
+::: {.fragment}
+- [Not featured: Issue of Migration]{.hp}
+:::
+
+---
+
+## Important Features of NAFTA - Trade Barriers
+
+[Tariff reductions were a key point to increase trade amongst the members]{.hi}
+
+::: {.incremental}
+- The US already had relatively low tariffs on Mexico: 
+    - Between 1993 and 1996, the average US tariff on Mexican goods fell from 2.07 to 0.65 percent
+
+- Mexican tariffs on US goods fell from 10 to 2.9 percent
+
+- Tariffs were phases out in variable periods with the intent to give domestic industries sufficient time to adjust to new circumstances
+
+:::
+
+::: {.fragment}
+- These reductions were a continuation of efforts since the mid-1980s
+
+- By 1994, Mexico was substantially open to the world
+:::
+
+---
+
+## Important Features of NAFTA - Content Reqs
+
+[A specified percentage of the value of the good must be made in North America]{.hi}
+
+::: {.fragment}
+- One of the updates made by [USMCA]{.h} increased the content requirements
+:::
+
+::: {.incremental}
+- The purpose is to prevent nonmembers from using the lower tariffs in one country to gain access to all three markets
+    - Economists dislike this because it incresaes the possibility of [trade diversion (inefficient allocation of resources)]{.h}
+    - 
+:::
+
+::: {.notes}
+Production of inputs in lower-cost, nonmember countries could be reduced if firms move their operations to one of the member countreis in order to meet the content requirements
+
+Move from the Caribbean to Mexico, even though Mexico is not the lowest-cost producer
+:::
+
+---
+
+## Important Features of NAFTA - Dispute Resolution
+
+[Set up dispute resolution depending on the source of the disagreement]{.hi}
+
+::: {.fragment}
+- Dumping and anti-dumping duties
+- Treatment of foreign investors by national policies [(investor-state disputes)]{.h}
+- General disputes
+- [Labor and Environmental standards]{.hp} 
+:::
+
+::: {.fragment}
+The [investor-state dispute article]{.h} was one of the most controversial parts of the entire agreement.
+
+- Critics see it as an unreasonable empowerment of private firms and a weakening of governments
+:::
+
+---
+
+## Important Features of NAFTA - Migration
+
+[Because NAFTA is a free trade area and not a common market, there is no provision for the movement of labor]{.hp .align-center}
+
+::: {.fragment}
+This is usually the norm in FTAs but the US-MEX context makes it an important issue to consider
+:::
+
+::: {.incremental}
+- Mexican migrants to the US totaled more than 11.1 million in 2018 and were 25% of all immigrants
+- There's an estimate that over one-half of this population is undocumented
+- There has been a decline in the rate of migrants from Mexico since the early 2000s
+- Even so, the vast number of migrants remains significant and makes it an important issue between both countries
+:::
+
+---
+
+## FTA Trade Balance
+
+The US has [much less unbalanced trade]{.hi} with the countreis that have signed FTAs
+
+::: {.fragment}
+When countries enter an FTA, the elimination of trade barriers will usually be greater outside of the US
+
+[As foreign barriers decline, US exports grow]{.hi .align-center}
+:::
+
+::: {.fragment}
+![](images/FTA-Trade-Balance.png){fig-align="center" height="300"}
+:::
+
+::: {.notes}
+Recall that with increased trade, consumers have more choices and businesses are more competitive when they have greater access to imports
+:::
