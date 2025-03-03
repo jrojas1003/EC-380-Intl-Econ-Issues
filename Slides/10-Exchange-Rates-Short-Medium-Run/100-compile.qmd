@@ -26,3 +26,111 @@ title-slide-attributes:
 # CIP & UIP {.inverse .note}
 
 {{< include 103-cip-&-uip.qmd >}}
+
+# Exchange Rate Example {.inverse .note}
+
+## Exchange Rates   
+
+::: {.small}
+Q. Consider the following demand and supply curves of foreign currency, where ExR represents the local currency to foreign currency (e.g. USD-GBP) exchange rate.
+FC represents the units of foreign currency reserves held in the "local" economy.
+
+\begin{align*}
+  D: ExR = 57 - 0.061FC \;\;\; ; \;\;\; S: ExR = 2 + 0.012FC
+\end{align*}
+:::
+
+::: {.fragment .small}
+1. What is the market clearing rate of exchange and the associated level of foreign currency reserves?
+
+2. Consider a case where the market anticipates a new technology being released abroad, which causes demand for foreing currency reserves to rise by 2 units, such that the new demand curve can be represented by $D' = D + 2$. What are the new exchange rate and currency reserve values?
+
+3. How would you describe the change in both currencies? Which has depreciated and which has appreciated?
+:::
+
+---
+
+## Question 01
+
+\begin{align*}
+  D: ExR = 57 - 0.061FC \;\;\; ; \;\;\; S: ExR = 2 + 0.012FC
+\end{align*}
+
+[Find the equilibrium values of ExR and FC]{.hi .align-center}
+
+::: {.fragment}
+\begin{align*}
+  \text{Demand} &= \text{Supply} \\ 
+  57 - 0.061FC &= 2 + 0.012FC \\ 
+  55 &= 0.073FC \\
+  FC &= 753.42
+\end{align*}
+:::
+
+::: {.fragment}
+\begin{align*}
+  ExR &= 2 + 0.012(753.32) \\
+  ExR &= 11.04
+\end{align*}
+:::
+
+---
+
+## Question 02
+
+[D' = D + 2]{.hi .align-center}
+
+::: {.fragment}
+\begin{align*}
+  \text{New Demand} &= \text{Supply} \\
+  57 - 0.061FC + 2 &= 2 + 0.012FC \\
+  57 &= 0.073FC \\
+  FC &= 780.82
+\end{align*} 
+:::
+
+::: {.fragment}
+\begin{align*}
+  ExR &= 2 + 0.012(780.82) \\
+  ExR &= 11.37
+\end{align*}
+:::
+
+---
+
+## Question 03
+
+[How would you describe the change in both currencies? Which has depreciated and which has appreciated?]{.hi .align-center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.fragment}
+
+[At first]{.h .align-center}
+
+\begin{align*}
+  FC = 753.42 \; ; \; ExR = 11.04
+\end{align*}
+:::
+:::
+
+::: {.column width="50%"}
+
+::: {.fragment}
+
+[After change]{.h .align-center}
+
+\begin{align*}
+  FC = 780.82 \; ; \; ExR = 11.37
+\end{align*}
+:::
+
+:::
+
+::::
+
+::: {.fragment}
+[Foreign Currency]{.hi-green} has [appreciated]{.hi-green} and [Local Currency]{.hp} has [depreciated]{.hp}
+:::
