@@ -10,26 +10,194 @@ name: LATAM
 
 ## Context
 
+The region is extraordinarily diverse and shouldn't be thought of as a "one size fits all"
 
+But there are common themes shared by ***nearly*** all nations:
+
+::: {.incremental}
+- Common history: 
+    - Spanish/Portuguese colonization and common language
+    - Gained national independence from Spain and Portugal during the same period
+- During the first wave of globalization many countries participated in the world economy as exporters of agricultural and mineral commodities
+- After the Great Depression, many nations shifted to interior planning and a targeted industrial strategy
+:::
 
 ---
 
 ## Context
 
+::: {.align-center}
+This strategy of [state-led industrialization]{.hp} to encourage more domestic manufacturing came to be known as [import substitution industrialization]{.hp}
+:::
 
+::: {.incremental}
+- In the 70s, most nations became [borrowers]{.hi} and suffered through a prolonged debt crisis in the 80s
+- That triggered plenty of economic policy reforms which mirrored the transformation seen in Europe after the collapse of communism
+- At the turn of the century, some nations have become impatient and have turned back toward more state interventionist policies
+:::
+
+---
+
+## Context
+
+For the first part of the [twentieth century]{.hi} Latin America was one of the fastest-growing regions of the wrold. 
+
+The region's real GDP per capita grew as fast or faster than Euroupe, the US or Asia
+
+::: {.fragment}
+After World Ward II, most countries in the region experienced good growth rates, and the two largest countries, Brazil and Mexico, had incredible increases in their per capita income levels
+:::
+
+::: {.fragment}
+As the 1970s came, the world economic growth slowed and the LATAM experience became more varied.
+
+Some countries grew faster, and some grew slower. 
+:::
+
+::: {.fragment .align-center}
+[But nearly all relied more heavily on government expenditures to stimulate growth]{.hp}
+:::
+
+---
+
+## Context
+
+This period became undone by the [Latin American Debt Crisis (1982-1989)]{.hp}
+
+The [Debt Crisis]{.hp} turned the 80s into a [Lost Decade]{.hi} where sovereign debt issues grew worse by negative growth, banking crises, currency crises, and hyperinflation.
+
+As a response, nations shifted away from state-led economic development toward more market-oriented policies
+
+::: {.fragment .align-center}
+[One of the most important part of this occured in the realm of trade, where countries adopted a strategy known as Import Substitution Industrialization (ISI)]{.hp}
+:::
 
 ---
 
 ## Import Substitution Industrialization
 
+[A little more context]{.h}
 
+::: {.incremental}
+- For some significant time (half of 19th to middle of 20th century) LATAM relied heavily on [exports of agricultural products and minerals]{.hi} to earn foreign revenue
+
+- These sectors were either developed or owned by foreign capital or if domestically owned, it usually was concentrated in the power of a few relatively small number of people which added to growing inequality of power and wealth
+
+- The loss of markets due to the [Great Depression]{.hp} temporarily forced the region [away from depending on raw material exports toward domestic industrial development through production of manufactured goods that substitue for imports]{.hp}
+:::
 
 ---
 
-## 1980s Debt Crisis
+## Import Substitution Industrialization
 
+:::: {.columns}
 
+::: {.column width="50%"}
+
+[Goals of ISI]{.hi .align-center}
+
+::: {.incremental}
+- Reduce Dependency on Imports
+- Promote Industrializtion
+- Achieve Economic Self-Sufficiency
+- Create Jobs and Economic Growth
+:::
+
+:::
+
+::: {.column width="50%"}
+
+[Methods of ISI]{.hi .align-center}
+
+::: {.incremental}
+- Tariffs and Import Restrictions
+- Subsisdies and Government Support
+- State-Owned Enterprises 
+- Exchange Rate Controls
+- Local Content Requirements
+:::
+
+:::
+
+::::
+
+::: {.notes}
+- By producing domestically what was previously imported, countries seek to lessen reliance on foreing goods
+- ISI aims to accelerate the development of domestic manufacturing industries
+- Reduce reliance on foreign markets helps protect against external economic shocks
+- Encouraging local production generates employment and stimulates economic activity
+
+- High tariffs, quotas, and import bans are used
+- Governments provide financial incentives, tax breaks, and direct subsidies
+- Governments may establish or nationalize indutries deemed essential for development
+- Overvalued exchange rates make imports more expensive and domestic capital goods relatively cheaper
+- Policies that require foreign firms to wource inputs from domestic producers
+:::
 
 ---
 
-## Neoliberal Policy Reform
+## ISI Pros & Cons
+
+[In theory]{.hi}
+
+::: {.incremental .small}
+- ISI begins by producing inexpensive and relatively simple consumer goods
+    - Toys, clothing, food products, etc.
+- Gradually, the focus shifts toward more complex consumer goods and intermediate industrial goods
+    - Generators, appliances, autos, basic metals, etc.
+- Eventually, complex industrial goods are produced
+    - Chemicals, electronics, machine tools, etc.
+:::
+
+::: {.fragment}
+[Pros]{.hi}
+:::
+
+::: {.columns}
+
+::: {.column}
+
+::: {.incremental .small}
+- Promotes domestic industrial growth
+- Job Creation 
+- Reduced Foreign Dependence 
+:::
+
+:::
+
+::: {.column}
+
+::: {.incremental .small}
+- Infant industry protection
+- Improved Terms of Trade 
+:::
+
+:::
+
+::::
+
+---
+
+## ISI Pros & Cons {.smaller}
+
+[Criticisms]{.hi}
+
+In hindsight, ISI generated a lot of [unintended consequences that caused inefficiencies and wasted resources]{.hp}
+
+::: {.fragment}
+- Overall, ISI can be interpreted as a set of policies in which government uses its economic and political power to improve the market
+- But many economists think that ISI overestimates the technical ability of government officials to identify market failures and their solutions
+- It largely ignores problems related to the implementation of economic policies
+:::
+
+::: {.fragment}
+[Cons]{.hi}
+:::
+
+::: {.incremental}
+- Governments misallocated resources when they became too involved in production decisions
+- Exchange rates were often overvalued
+- Policy was overly biased in favor of urban areas
+- Income inequality worsened
+- It fostered widespread rent seeking
+:::

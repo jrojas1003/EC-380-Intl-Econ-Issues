@@ -297,7 +297,7 @@ This is usually the norm in FTAs but the US-MEX context makes it an important is
 
 ## FTA Trade Balance
 
-The US has [much less unbalanced trade]{.hi} with the countreis that have signed FTAs
+The US has [much less unbalanced trade]{.hi} with the countries that have signed FTAs
 
 ::: {.fragment}
 When countries enter an FTA, the elimination of trade barriers will usually be greater outside of the US
