@@ -52,6 +52,14 @@ For more details, read the [Syllabus](Documents/Syllabus/Syllabus.pdf) above
 | Final Exam | **30%** |
 | International Market Game | **5%** |
 
+### Course Grade Projection
+
+Results shown by this spreadsheet do not necessarily represent your exact final grade.
+It is meant to give you a **rough idea** of what your **projected course grade** can be.
+
+[Course Grade Projection Spreadsheet](Grade-Projection.xlsx)
+
+
 ### Tentative Schedule
 
 | **Week** |  **Reading** |    **Topic**    | **Assignments** |
