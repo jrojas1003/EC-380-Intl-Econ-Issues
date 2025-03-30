@@ -6,6 +6,7 @@ title: "Readings"
 
 ### Chapter 01 (p. 24 - 37)
 
+<!--
 ```{=html}
 <details>
   <summary>Gerber Chapter 01 </summary>
@@ -17,9 +18,11 @@ title: "Readings"
   </div>
 </details>
 ```
+-->
 
 ### Chapter 03 (p. 64 - 85)
 
+<!--
 ```{=html}
 <details>
   <summary>Gerber Chapter 03 </summary>
@@ -31,9 +34,11 @@ title: "Readings"
   </div>
 </details>
 ```
+-->
 
 ### Chapter 04 (p. 87 - 114)
 
+<!--
 ```{=html}
 <details>
   <summary>Gerber Chapter 04 </summary>
@@ -45,9 +50,11 @@ title: "Readings"
   </div>
 </details>
 ```
+-->
 
 ### Chapter 06 (p. 139 - 158)
 
+<!--
 ```{=html}
 <details>
   <summary>Gerber Chapter 06 </summary>
@@ -59,9 +66,11 @@ title: "Readings"
   </div>
 </details>
 ```
+-->
 
 ### Chapter 12 (p. 298 - 310)
 
+<!--
 ```{=html}
 <details>
   <summary>Gerber Chapter 12 </summary>
@@ -73,9 +82,11 @@ title: "Readings"
   </div>
 </details>
 ```
+-->
 
 ### Chapter 09 (p. 206 - 231)
-
+ 
+<!--
 ```{=html}
 <details>
   <summary>Gerber Chapter 09 </summary>
@@ -87,9 +98,11 @@ title: "Readings"
   </div>
 </details>
 ```
+-->
 
 ### Chapter 10 (p. 236 - 267)
 
+<!--
 ```{=html}
 <details>
   <summary>Gerber Chapter 10 </summary>
@@ -101,9 +114,11 @@ title: "Readings"
   </div>
 </details>
 ```
+-->
 
 ### Chapter 13 (p. 328 - 351)
 
+<!--
 ```{=html}
 <details>
   <summary>Gerber Chapter 13 </summary>
@@ -115,9 +130,11 @@ title: "Readings"
   </div>
 </details>
 ```
+-->
 
 ### Chapter 15 (p. 382 - 407)
 
+<!--
 ```{=html}
 <details>
   <summary>Gerber Chapter 15 </summary>
@@ -129,6 +146,7 @@ title: "Readings"
   </div>
 </details>
 ```
+-->
 
 **Textbook:** 
 Gerber, J. (2022). International Economics (8th ed.). Pearson. 
