@@ -2,32 +2,6 @@
 title: "Homework"
 ---
 
-## Practice Final
-
-```{=html}
-<details>
-  <summary>View PDF</summary> 
-  <a class="btn btn-primary btn-lg cv-download" href="practice/final/practice-final.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download 
-  </a>
-  <div class="embed-container">
-    <iframe src="practice/final/practice-final.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
-  </div>
-</details>
-```
-
-```{=html}
-<details>
-  <summary>Solutions</summary> 
-  <a class="btn btn-primary btn-lg cv-download" href="practice/final/solutions.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download 
-  </a>
-  <div class="embed-container">
-    <iframe src="practice/final/solutions.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
-  </div>
-</details>
-```
-
 ## Problem Sets
 
 ### PS01 (Due Jan. 15 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760037){target="_blank"} 
@@ -170,7 +144,9 @@ title: "Homework"
 
 ### Quiz 04 (Due Mar. 12 Before Lecture) on [**Canvas**](https://canvas.uoregon.edu/courses/254916/assignments/1760032){target="_blank"}
 
-## Practice Midterm
+## Exams
+
+### Practice Midterm
 
 ```{=html}
 <details>
@@ -196,7 +172,8 @@ title: "Homework"
 </details>
 ```
 
-## Midterm Solutions
+<!--
+### Midterm Solutions
 
 ```{=html}
 <details>
@@ -206,6 +183,33 @@ title: "Homework"
   </a>
   <div class="embed-container">
     <iframe src="solutions-midterm-winter-25.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
+-->
+
+### Practice Final
+
+```{=html}
+<details>
+  <summary>View PDF</summary> 
+  <a class="btn btn-primary btn-lg cv-download" href="practice/final/practice-final.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download 
+  </a>
+  <div class="embed-container">
+    <iframe src="practice/final/practice-final.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
+
+```{=html}
+<details>
+  <summary>Solutions</summary> 
+  <a class="btn btn-primary btn-lg cv-download" href="practice/final/solutions.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download 
+  </a>
+  <div class="embed-container">
+    <iframe src="practice/final/solutions.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
   </div>
 </details>
 ```

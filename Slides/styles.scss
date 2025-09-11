@@ -14,14 +14,26 @@ $presentation-font-size-root: 32px;
 $presentation-font-weight-root: 400;
 
 // colors
-$body-bg: #fff !default;
-$body-color: #2E3440 !default;
-$link-color: #81A1C1 !default;
-$link-color-hover: #b48ead !default;
-$selection-bg: #5E81AC !default;
-$body-bg: #4c566a !default;
-$code-bg: #F5F5F5 !default;
-$code-color: #5E81AC !default;
+
+// colors
+
+$uo-green: #007030; // UO-Green 
+$uo-yellow: #FEE11A; // UO-Yellow
+$light-green: #D1D9CE;
+$cream: #FDFBF7;
+$gray: #64605f;
+$purple: #9158A2;
+$orange: #ad7237;
+
+$body-bg: $cream ; // page background
+$body-color: #2E3440 ; // text color
+$link-color: $uo-green ; // hyperlinks
+$link-color-hover: #b48ead ; // hypelink hover color
+$selection-bg: #5E81AC ;
+$code-bg: #F5F5F5 ;
+$code-color: #5E81AC ;
+$navbar-bg: $uo-green ; // navigation bar
+$navbar-hl: $uo-yellow; // highlight color when hovering over navbar links
 
 /*-- scss:rules --*/
 
@@ -269,3 +281,22 @@ section.has-light-background h1 {
   color: #ffffff !important;
 }
 
+// button stuff
+
+.cv-download {
+  background-color: $uo-green !important; /* Green color */
+  border-color: $cream !important;
+  color: $uo-yellow !important;
+  font-weight: bold !important; /* Make text bold */
+  display: inline-flex; /* Allows better alignment for text and icons */
+  align-items: center; /* Vertical centering */
+  justify-content: center; /* Horizontal centering */
+  text-align: center; /* Ensure text is centered */
+  padding: 10px 20px; /* Add padding for better spacing */
+  border-radius: 10px !important; /* Rounded corners */
+}
+
+.cv-download:hover {
+  background-color: #45a049 !important; /* Slightly darker green on hover */
+  border-color: #45a049 !important;
+}

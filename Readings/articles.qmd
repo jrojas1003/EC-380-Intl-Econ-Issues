@@ -11,7 +11,7 @@ title: "Readings"
 <details>
   <summary>Gerber Chapter 01 </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Gerber-Textbook/Gerber-Ch01.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Gerber-Textbook/Gerber-Ch01.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -27,7 +27,7 @@ title: "Readings"
 <details>
   <summary>Gerber Chapter 03 </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Gerber-Textbook/Gerber-Ch03.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Gerber-Textbook/Gerber-Ch03.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -43,7 +43,7 @@ title: "Readings"
 <details>
   <summary>Gerber Chapter 04 </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Gerber-Textbook/Gerber-Ch04.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Gerber-Textbook/Gerber-Ch04.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -59,7 +59,7 @@ title: "Readings"
 <details>
   <summary>Gerber Chapter 06 </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Gerber-Textbook/Gerber-Ch06.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Gerber-Textbook/Gerber-Ch06.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -75,7 +75,7 @@ title: "Readings"
 <details>
   <summary>Gerber Chapter 12 </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Gerber-Textbook/Gerber-Ch12.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Gerber-Textbook/Gerber-Ch12.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -91,7 +91,7 @@ title: "Readings"
 <details>
   <summary>Gerber Chapter 09 </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Gerber-Textbook/Gerber-Ch09.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Gerber-Textbook/Gerber-Ch09.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -107,7 +107,7 @@ title: "Readings"
 <details>
   <summary>Gerber Chapter 10 </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Gerber-Textbook/Gerber-Ch10.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Gerber-Textbook/Gerber-Ch10.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -123,7 +123,7 @@ title: "Readings"
 <details>
   <summary>Gerber Chapter 13 </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Gerber-Textbook/Gerber-Ch13.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Gerber-Textbook/Gerber-Ch13.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -139,7 +139,7 @@ title: "Readings"
 <details>
   <summary>Gerber Chapter 15 </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Gerber-Textbook/Gerber-Ch15.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Gerber-Textbook/Gerber-Ch15.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -157,7 +157,7 @@ Gerber, J. (2022). International Economics (8th ed.). Pearson.
 <details>
   <summary>Krugman (1993) - What Do Undergrads Need to Know About Trade </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Articles/1993-Krugman-WhatDoUndergradsNeedToKnowAboutTrade-AEA.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Articles/1993-Krugman-WhatDoUndergradsNeedToKnowAboutTrade-AEA.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -171,7 +171,7 @@ Gerber, J. (2022). International Economics (8th ed.). Pearson.
 <details>
   <summary>Autor et al. (2013) - China Shock Syndrome </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Articles/2013-Autor-et-al-China-Syndrome-AER.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Articles/2013-Autor-et-al-China-Syndrome-AER.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -183,7 +183,7 @@ Gerber, J. (2022). International Economics (8th ed.). Pearson.
 <details>
   <summary>Autor et al. (2020) - Importing Political Polarization </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Articles/2020-Autor-et-al-Importing-Political-Polarization-AER.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Articles/2020-Autor-et-al-Importing-Political-Polarization-AER.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -195,7 +195,7 @@ Gerber, J. (2022). International Economics (8th ed.). Pearson.
 <details>
   <summary>Card (1990) - Mariel Boatlift </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Articles/1990-Card-Impact-of-the-Mariel-Boatlift-on-Miami-Labor-Market-ILRR.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Articles/1990-Card-Impact-of-the-Mariel-Boatlift-on-Miami-Labor-Market-ILRR.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -207,7 +207,7 @@ Gerber, J. (2022). International Economics (8th ed.). Pearson.
 <details>
   <summary>Colas & Sachs (2024) - Indirect Fiscal Benefits of Low-Skilled Immigration </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Articles/2024-Colas-&-Sachs-Indirect-Fiscal-Benefits-of-Low-Skilled-Immigration-AEJ.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Articles/2024-Colas-&-Sachs-Indirect-Fiscal-Benefits-of-Low-Skilled-Immigration-AEJ.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -219,7 +219,7 @@ Gerber, J. (2022). International Economics (8th ed.). Pearson.
 <details>
   <summary>Gandal, Hanson and Slaughter (2004) - Technology, Trade, and Adjustment to Immigration </summary>
   <a class="btn btn-primary btn-lg cv-download" href="Articles/2004-Gandal-et-al-Technology-Trade-&-Adjustment-to-Immigration-EER.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Articles/2004-Gandal-et-al-Technology-Trade-&-Adjustment-to-Immigration-EER.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
@@ -231,7 +231,7 @@ Gerber, J. (2022). International Economics (8th ed.). Pearson.
 <details>
   <summary>Krugman (2023) - Modeling Trade & Electoral Competition</summary>
   <a class="btn btn-primary btn-lg cv-download" href="Krugman-Textbook/Political-Theory.pdf" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download
+    <i class="fa-solid fa-file-arrow-down"></i>Download
   </a>
   <div class="embed-container">
     <iframe src="Krugman-Textbook/Political-Theory.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
