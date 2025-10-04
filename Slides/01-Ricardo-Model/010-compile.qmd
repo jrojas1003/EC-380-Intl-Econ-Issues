@@ -1,6 +1,6 @@
 ---
 title: "Random Variables"
-subtitle: "EC 320 - Introduction to Econometrics"
+subtitle: "EC 380 - Ricardian Model"
 author: Jose Rojas-Fallas
 date: last-modified
 date-format: "YYYY"
@@ -8,7 +8,7 @@ format:
     revealjs:
         theme: [default, styles.scss]
         slide-number: true
-        footer: "EC320, Lecture 01 | Random Variables"
+        footer: "EC380, Lecture 01 | Ricardian Model"
         preview-links: auto
         code-fold: FALSE
 title-slide-attributes: 
